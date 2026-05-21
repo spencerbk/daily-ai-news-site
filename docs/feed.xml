@@ -5,8 +5,64 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Twice-daily AI news briefing produced by the daily-ai-news Copilot skill.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 07:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 19:15:52 +0000</lastBuildDate>
     <generator>ballard-daily-ai-news</generator>
+    <item>
+      <title>Google I/O 2026: Gemini 3.5 Flash, Spark, and Omni unveiled</title>
+      <link>https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html</link>
+      <description>Google used its I/O keynote to roll out a new lightweight flagship model, a personal agent, and a "world model" for physical-world simulation.</description>
+      <category>CNBC</category>
+      <guid isPermaLink="false">5ecfa573d9d76583</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI reasoning model autonomously solves a 1946 Erdős geometry problem</title>
+      <link>https://llm-stats.com/ai-news</link>
+      <description>OpenAI announced a new reasoning system that independently disproved the planar unit-distance problem posed by Paul Erdős in 1946 — reportedly the first time an AI has autonomously resolved a major open mathematical conjecture.</description>
+      <category>LLM-Stats AI News / TLDL.io</category>
+      <guid isPermaLink="false">9d0ea901574f5f48</guid>
+      <pubDate>Thu, 21 May 2026 19:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic ships Claude Design, hires Karpathy, signs mega cloud deals</title>
+      <link>https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/</link>
+      <description>Anthropic had one of the most consequential weeks of its history, pairing product launches with massive infrastructure deals and a marquee hire.</description>
+      <category>The AI Track</category>
+      <guid isPermaLink="false">ab7d7bf3fb0cca77</guid>
+      <pubDate>Thu, 21 May 2026 19:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Penn researchers demonstrate hybrid light-matter particle for optical AI compute</title>
+      <link>https://www.sciencedaily.com/news/computers_math/artificial_intelligence/</link>
+      <description>A University of Pennsylvania team reported a hybrid light-matter quasiparticle that could enable dramatically faster and more energy-efficient AI computation, suggesting a path for optical processors to replace electronic ones on key AI workloads.</description>
+      <category>ScienceDaily</category>
+      <guid isPermaLink="false">5771b27d20cd9dac</guid>
+      <pubDate>Thu, 21 May 2026 19:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic acquires Stainless, cutting off a key dev-tools vendor used by OpenAI and Google</title>
+      <link>https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/</link>
+      <description>Anthropic acquired developer-tools startup **Stainless**, reportedly for over $300M. Stainless's SDK and API-automation tech was widely used by OpenAI, Google, and Cloudflare; going forward its core products will be Anthropic-only.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">8fbea5f2bbba999c</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anduril closes record $5B Series H at $61B valuation</title>
+      <link>https://aifundingtracker.com/ai-startup-funding-news-today/</link>
+      <description>AI-defense company **Anduril** closed a $5B Series H at a $61B valuation — the largest venture round ever in defense tech — to scale manufacturing of autonomous drones, weapons, and naval systems.</description>
+      <category>AI Funding Tracker</category>
+      <guid isPermaLink="false">f2e17c719db7232e</guid>
+      <pubDate>Thu, 21 May 2026 19:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-release model testing becomes a global norm as enforcement era begins</title>
+      <link>https://imfounder.com/science-tech/ai/ai-updates-may-2026/</link>
+      <description>Multiple major governments are now requiring pre-release testing and transparency disclosures for frontier AI models, marking a clear shift from voluntary guidelines to active enforcement.</description>
+      <category>IM Founder / TechShark</category>
+      <guid isPermaLink="false">d0f972ea94febfaf</guid>
+      <pubDate>Thu, 21 May 2026 19:15:52 +0000</pubDate>
+    </item>
     <item>
       <title>Google I/O 2026: Gemini Omni, Gemini 3.5 Flash, and Agentic-First Stack Unveiled</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/</link>
@@ -61,7 +117,7 @@
       <description>With roughly ten weeks to go, analysts warn that the bulk of EU AI Act obligations for high-risk systems will become enforceable on August 2, 2026, while most enterprises lack basic AI inventories.</description>
       <category>AI2.work</category>
       <guid isPermaLink="false">cc85b134cda740a4</guid>
-      <pubDate>Thu, 21 May 2026 07:01:54 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 19:15:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
