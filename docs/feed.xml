@@ -5,15 +5,79 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Twice-daily AI news briefing produced by the daily-ai-news Copilot skill.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 20:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:50:48 +0000</lastBuildDate>
     <generator>ballard-daily-ai-news</generator>
+    <item>
+      <title>Google I/O 2026: "The Agentic Gemini Era" Begins</title>
+      <link>https://www.explainx.ai/blog/google-io-2026-complete-recap-all-announcements</link>
+      <description>Google CEO Sundar Pichai declared we are "firmly in the agentic Gemini era," unveiling 50+ announcements including new frontier models, a 24/7 personal AI agent, and a major hardware pivot.</description>
+      <category>Google I/O 2026 Keynote / ExplainX, TechCrunch</category>
+      <guid isPermaLink="false">a86b6bbacf719721</guid>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tencent Launches Marvis: OS-Level AI Assistant</title>
+      <link>https://www.aibase.com/daily</link>
+      <description>Tencent released Marvis, a cross-platform AI assistant operating at the OS level with multi-device support and a local privacy mode.</description>
+      <category>AIbase Daily</category>
+      <guid isPermaLink="false">234b9e78436ce091</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Startup Funding Reaches $25B in May Alone</title>
+      <link>https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/</link>
+      <description>May 2026 has already seen 37 disclosed AI funding deals totaling $25B, continuing a record-breaking year for AI venture capital.</description>
+      <category>Crunchbase / Infor Capital</category>
+      <guid isPermaLink="false">847a446754b90124</guid>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3 Nano Omni: Open-Source Multimodal Powerhouse</title>
+      <link>https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-may-2026</link>
+      <description>NVIDIA released a fully open-source multimodal model supporting video, audio, image, and text in a single system.</description>
+      <category>Oracle AI Blog</category>
+      <guid isPermaLink="false">c91c7a010a549bdc</guid>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4 Series Resets Price-Performance Expectations</title>
+      <link>https://futureagi.com/blog/best-llms-may-2026/</link>
+      <description>DeepSeek V4-Flash and V4-Pro released as open-weight frontier-class models with dramatically lower API pricing than Western equivalents.</description>
+      <category>futureagi.com / llm-stats.com</category>
+      <guid isPermaLink="false">0c3463980621baff</guid>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe Photoshop 27.7: Local AI Gets Double Credits</title>
+      <link>https://www.aibase.com/daily</link>
+      <description>Adobe shipped a major AI update to Photoshop, doubling generative AI credits for locally-processed operations and emphasizing hybrid cloud/local processing.</description>
+      <category>AIbase Daily</category>
+      <guid isPermaLink="false">234b9e78436ce091</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU AI Act High-Risk Compliance Deadline Approaching: August 2026</title>
+      <link>https://techresearchonline.com/blog/global-ai-regulations-enforcement-guide/</link>
+      <description>The EU AI Act's full compliance requirements for high-risk AI systems — used in hiring, credit, healthcare, and law enforcement — take effect in August 2026.</description>
+      <category>TechResearchOnline / Hungyichen.com</category>
+      <guid isPermaLink="false">d12f66da6d962a3c</guid>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic AI Triggers Liability Gap Debate in US Congress</title>
+      <link>https://aicomparison.ai/us-ai-regulation-2026-framework/</link>
+      <description>The rise of autonomous AI agents is prompting urgent legal debate in the US about who bears liability when an AI agent causes harm — the user, developer, or deployer.</description>
+      <category>GlobalPolicyWatch / aicomparison.ai</category>
+      <guid isPermaLink="false">bd15103ca139462d</guid>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI's reasoning model disproves a 1946 Erdős conjecture in discrete geometry</title>
       <link>https://www.tldl.io/blog/ai-news-updates-2026</link>
       <description>OpenAI's new reasoning model autonomously disproved the planar unit distance problem first posed by Paul Erdős in 1946 — being called a milestone in AI mathematics.</description>
       <category>tldl.io</category>
       <guid isPermaLink="false">dff5f5a59c5be594</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic posts "biggest week ever": Claude Code Auto Mode, Claude Design, Karpathy hire</title>
@@ -21,7 +85,7 @@
       <description>Anthropic ran a barrage of releases this week — Claude Code Auto Mode, a new visual collaboration product called Claude Design, and confirmation that Andrej Karpathy is joining to work on Claude pretraining research.</description>
       <category>ToolsCompare AI News Digest</category>
       <guid isPermaLink="false">c99575f9811b82d9</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>DeepWeb-Bench and PALS headline this week's arXiv drops</title>
@@ -37,7 +101,7 @@
       <description>New work shows Evolution Strategies can efficiently fine-tune billion-parameter language models, with measurable gains on math reasoning benchmarks.</description>
       <category>Cognizant AI Lab</category>
       <guid isPermaLink="false">8da7a245213a6bee</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Q1 2026: 80% of global venture funding went to AI</title>
@@ -45,7 +109,7 @@
       <description>Crunchbase-style data show AI captured $242B of the $300B in global venture funding in Q1 2026 — up from 55% a year earlier — with four companies absorbing roughly 65% of that total.</description>
       <category>Blockchain Council</category>
       <guid isPermaLink="false">8a05e8abc04210df</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic and OpenAI both launch Wall Street joint ventures for enterprise AI</title>
@@ -61,7 +125,7 @@
       <description>Alibaba released Qwen3.7-Max with a deliberate focus on agentic capabilities — autonomous reasoning, tool use, and multi-step task solving.</description>
       <category>tldl.io</category>
       <guid isPermaLink="false">dff5f5a59c5be594</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI adopts Google's SynthID watermark for AI-generated images</title>
@@ -69,7 +133,7 @@
       <description>OpenAI is adopting Google's SynthID watermarking for AI-generated images and shipping a verification tool to detect AI-created content.</description>
       <category>tldl.io</category>
       <guid isPermaLink="false">dff5f5a59c5be594</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>EU AI Act hits hard-enforcement phase; US considers pre-release model vetting</title>
@@ -77,7 +141,7 @@
       <description>The EU AI Act is now in active enforcement for high-risk systems, while the White House is reportedly weighing pre-release vetting for advanced AI models.</description>
       <category>Eversheds Sutherland</category>
       <guid isPermaLink="false">0e1949814dc0cea8</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Google I/O 2026: Gemini 3.5 Flash, Spark, and Omni unveiled</title>
@@ -93,7 +157,7 @@
       <description>OpenAI announced a new reasoning system that independently disproved the planar unit-distance problem posed by Paul Erdős in 1946 — reportedly the first time an AI has autonomously resolved a major open mathematical conjecture.</description>
       <category>LLM-Stats AI News / TLDL.io</category>
       <guid isPermaLink="false">9d0ea901574f5f48</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic ships Claude Design, hires Karpathy, signs mega cloud deals</title>
@@ -101,7 +165,7 @@
       <description>Anthropic had one of the most consequential weeks of its history, pairing product launches with massive infrastructure deals and a marquee hire.</description>
       <category>The AI Track</category>
       <guid isPermaLink="false">ab7d7bf3fb0cca77</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Penn researchers demonstrate hybrid light-matter particle for optical AI compute</title>
@@ -109,7 +173,7 @@
       <description>A University of Pennsylvania team reported a hybrid light-matter quasiparticle that could enable dramatically faster and more energy-efficient AI computation, suggesting a path for optical processors to replace electronic ones on key AI workloads.</description>
       <category>ScienceDaily</category>
       <guid isPermaLink="false">5771b27d20cd9dac</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic acquires Stainless, cutting off a key dev-tools vendor used by OpenAI and Google</title>
@@ -125,7 +189,7 @@
       <description>AI-defense company **Anduril** closed a $5B Series H at a $61B valuation — the largest venture round ever in defense tech — to scale manufacturing of autonomous drones, weapons, and naval systems.</description>
       <category>AI Funding Tracker</category>
       <guid isPermaLink="false">f2e17c719db7232e</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Pre-release model testing becomes a global norm as enforcement era begins</title>
@@ -133,7 +197,7 @@
       <description>Multiple major governments are now requiring pre-release testing and transparency disclosures for frontier AI models, marking a clear shift from voluntary guidelines to active enforcement.</description>
       <category>IM Founder / TechShark</category>
       <guid isPermaLink="false">d0f972ea94febfaf</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
     <item>
       <title>Google I/O 2026: Gemini Omni, Gemini 3.5 Flash, and Agentic-First Stack Unveiled</title>
@@ -189,7 +253,7 @@
       <description>With roughly ten weeks to go, analysts warn that the bulk of EU AI Act obligations for high-risk systems will become enforceable on August 2, 2026, while most enterprises lack basic AI inventories.</description>
       <category>AI2.work</category>
       <guid isPermaLink="false">cc85b134cda740a4</guid>
-      <pubDate>Thu, 21 May 2026 20:12:09 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 20:50:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
