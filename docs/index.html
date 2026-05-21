@@ -11,8 +11,8 @@
     --fg: #1f1f1f;
     --muted: #555555;
     --accent: #0a5fbf;
-    --card-bg: #f7f7f8;
-    --card-border: #e2e2e6;
+    --rule: #d8d8de;
+    --code-bg: rgba(127, 127, 127, .15);
 }
 @media (prefers-color-scheme: dark) {
     :root {
@@ -20,8 +20,7 @@
         --fg: #ececec;
         --muted: #a9a9b3;
         --accent: #4ea3ff;
-        --card-bg: #1c1c1f;
-        --card-border: #2a2a2e;
+        --rule: #303035;
     }
 }
 * { box-sizing: border-box; }
@@ -36,71 +35,135 @@ body {
     font-size: 17px;
 }
 main { max-width: 720px; margin: 0 auto; }
-h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
-h2 { font-size: 1.15rem; margin: 2rem 0 .75rem; color: var(--accent); }
-h3 { font-size: 1.05rem; margin: 0 0 .25rem; }
-a { color: var(--accent); text-decoration: none; }
+h1 { font-size: 1.7rem; margin: 0 0 1rem; line-height: 1.25; }
+h2 { font-size: 1.2rem; margin: 2rem 0 .75rem; color: var(--accent); line-height: 1.3; }
+h3 { font-size: 1.05rem; margin: 1.25rem 0 .5rem; line-height: 1.3; }
+a { color: var(--accent); text-decoration: none; word-break: break-word; }
 a:hover, a:focus { text-decoration: underline; }
-.meta { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; }
-.item {
-    background: var(--card-bg);
-    border: 1px solid var(--card-border);
-    border-radius: 10px;
-    padding: 1rem 1.1rem;
-    margin: 0 0 1rem;
+hr { border: 0; border-top: 1px solid var(--rule); margin: 1.75rem 0; }
+ul, ol { padding-left: 1.5rem; }
+li { margin: .25rem 0; }
+p { margin: .5rem 0; }
+strong { font-weight: 600; }
+code {
+    background: var(--code-bg);
+    padding: .05rem .35rem;
+    border-radius: 4px;
+    font-size: .9em;
 }
-.item .source { color: var(--muted); font-size: .85rem; margin: .15rem 0 .55rem; }
-.empty { color: var(--muted); font-style: italic; }
-footer { color: var(--muted); font-size: .8rem; margin-top: 3rem; }
+blockquote {
+    margin: .5rem 0;
+    padding: .25rem 0 .25rem 1rem;
+    border-left: 3px solid var(--rule);
+    color: var(--muted);
+}
 </style>
 </head>
 <body>
 <main>
-<h1>Daily AI News</h1>
-<p class="meta">Generated 2026-05-21 07:01</p>
-<h2>Major Announcements</h2>
-<article class="item">
-<h3><a href="https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/" target="_blank" rel="noreferrer noopener">Google I/O 2026: Gemini Omni, Gemini 3.5 Flash, and Agentic-First Stack Unveiled</a></h3>
-<p class="source">Google (The Keyword) — 2026-05-20</p>
-<p>Google used I/O 2026 to roll out two new flagship Gemini models and reorganize its product line around autonomous agents.</p>
-</article>
-<article class="item">
-<h3><a href="https://www.edgen.tech/news/post/kpmg-taps-anthropics-claude-ai-to-remake-global-advisory-for-30000-staff" target="_blank" rel="noreferrer noopener">KPMG to Deploy Anthropic's Claude Across Global Tax and Advisory, Training 30,000 Staff</a></h3>
-<p class="source">Edgen — 2026-05-19</p>
-<p>KPMG will embed Claude into its global tax and advisory platform and stand up a joint Center of Excellence with Anthropic.</p>
-</article>
-<h2>Research &amp; Papers</h2>
-<article class="item">
-<h3><a href="https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/" target="_blank" rel="noreferrer noopener">arXiv Imposes One-Year Ban on Authors Who Let LLMs Write Entire Papers</a></h3>
-<p class="source">TechCrunch — 2026-05-16</p>
-<p>arXiv's computer science section will ban authors for a year if a submission contains "incontrovertible evidence" the authors did not check LLM-generated content.</p>
-</article>
-<h2>Industry &amp; Business</h2>
-<article class="item">
-<h3><a href="https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/" target="_blank" rel="noreferrer noopener">Mercury Hits $5.2B Valuation on $200M Series D as "Bank for AI Startups"</a></h3>
-<p class="source">TechStartups — 2026-05-20</p>
-<p>AI-startup-focused digital bank Mercury raised a $200M Series D led by TCV, lifting its valuation 49% to $5.2B.</p>
-</article>
-<article class="item">
-<h3><a href="https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/" target="_blank" rel="noreferrer noopener">Exa Raises $250M Series C at $2.2B Valuation to Build "Search Engine for AI Agents"</a></h3>
-<p class="source">TechStartups — 2026-05-20</p>
-<p>AI-native search infrastructure company Exa closed a $250M Series C to scale models and infrastructure designed for autonomous agent queries.</p>
-</article>
-<h2>Tools &amp; Applications</h2>
-<article class="item">
-<h3><a href="https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/" target="_blank" rel="noreferrer noopener">Google Ships Antigravity 2.0 with Desktop App, CLI, SDK, and Voice Control</a></h3>
-<p class="source">TechCrunch — 2026-05-19</p>
-<p>Google launched Antigravity 2.0 at I/O 2026, expanding its agentic coding platform with a redesigned desktop app, a new CLI, and an SDK for custom agents.</p>
-</article>
-<h2>Policy &amp; Ethics</h2>
-<article class="item">
-<h3><a href="https://ai2.work/blog/eu-ai-act-august-2026-deadline-what-enterprise-leaders-must-do-now" target="_blank" rel="noreferrer noopener">EU AI Act's August 2, 2026 Enforcement Deadline Looms, Most Enterprises Unprepared</a></h3>
-<p class="source">AI2.work</p>
-<p>With roughly ten weeks to go, analysts warn that the bulk of EU AI Act obligations for high-risk systems will become enforceable on August 2, 2026, while most enterprises lack basic AI inventories.</p>
-</article>
-<footer>
-<p>Generated by <code>ballard-daily-ai-news</code> from the <code>daily-ai-news</code> Copilot skill.</p>
-</footer>
+<h1>📰 Daily AI News Briefing</h1>
+<p><strong>Date</strong>: May 21, 2026
+<strong>Sources</strong>: 6 articles from 5 publishers
+<strong>Coverage</strong>: Last 12–24 hours</p>
+<hr />
+<h2>🔥 Major Announcements</h2>
+<h3>Google I/O 2026: Gemini Omni, Gemini 3.5 Flash, and Agentic-First Stack Unveiled</h3>
+<p><strong>Summary</strong>: Google used I/O 2026 to roll out two new flagship Gemini models and reorganize its product line around autonomous agents.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>Gemini Omni positioned as a leap forward in multimodality and video understanding, accepting text, image, audio, or video input and generating video output.</li>
+<li>Gemini 3.5 Flash launches as the first model in a new family pairing &quot;frontier intelligence with action,&quot; now the default in the Gemini app and Search AI Mode.</li>
+<li>Google Antigravity gets a major upgrade as Google's agent-first development platform; Gemini Spark, Daily Brief, Information agents in Search, and a Universal Cart shopping agent ship across consumer products.</li>
+</ul>
+<p><strong>Impact</strong>: Confirms Google's pivot from assistive AI features to agentic experiences embedded across Search, Workspace, Android, and shopping, intensifying competition with OpenAI and Anthropic at the application layer.</p>
+<p>📅 <strong>Source</strong>: Google (The Keyword) • May 20, 2026
+🔗 <strong>Link</strong>: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/" target="_blank" rel="noreferrer noopener">https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/</a></p>
+<hr />
+<h3>KPMG to Deploy Anthropic's Claude Across Global Tax and Advisory, Training 30,000 Staff</h3>
+<p><strong>Summary</strong>: KPMG will embed Claude into its global tax and advisory platform and stand up a joint Center of Excellence with Anthropic.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>Big Four firm will train 30,000 professionals on Claude and reshape client-facing workflows around generative AI.</li>
+<li>Deal follows Anthropic's expanded PwC alliance and Accenture's OpenAI partnership for US federal agencies, marking an escalating consulting-AI arms race.</li>
+<li>Anthropic's annualized revenue run rate reportedly hit $30B in April 2026 against an estimated $5.2B loss last year, putting pressure on enterprise monetization.</li>
+</ul>
+<p><strong>Impact</strong>: A marquee enterprise reference that strengthens Anthropic's positioning against OpenAI in regulated, advisory-heavy verticals where reliability and brand trust drive procurement.</p>
+<p>📅 <strong>Source</strong>: Edgen • May 19, 2026
+🔗 <strong>Link</strong>: <a href="https://www.edgen.tech/news/post/kpmg-taps-anthropics-claude-ai-to-remake-global-advisory-for-30000-staff" target="_blank" rel="noreferrer noopener">https://www.edgen.tech/news/post/kpmg-taps-anthropics-claude-ai-to-remake-global-advisory-for-30000-staff</a></p>
+<hr />
+<h2>🔬 Research &amp; Papers</h2>
+<h3>arXiv Imposes One-Year Ban on Authors Who Let LLMs Write Entire Papers</h3>
+<p><strong>Summary</strong>: arXiv's computer science section will ban authors for a year if a submission contains &quot;incontrovertible evidence&quot; the authors did not check LLM-generated content.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>Triggers include hallucinated references and stray comments to or from an LLM left in the manuscript; authors retain &quot;full responsibility&quot; for any LLM-produced text.</li>
+<li>After the ban, future arXiv submissions must first be accepted at a reputable peer-reviewed venue; one-strike rule, but section chairs must confirm the evidence and authors may appeal.</li>
+<li>Move follows arXiv's earlier endorsement requirement for first-time posters and its newly announced independence from Cornell to better resource anti-&quot;AI slop&quot; work.</li>
+</ul>
+<p><strong>Impact</strong>: Sets the strongest enforcement stance yet from a major preprint server, raising the bar for AI-assisted scholarship and signaling that scientific gatekeepers are moving from norms to consequences.</p>
+<p>📅 <strong>Source</strong>: TechCrunch • May 16, 2026
+🔗 <strong>Link</strong>: <a href="https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/" target="_blank" rel="noreferrer noopener">https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</a></p>
+<hr />
+<h2>💰 Industry &amp; Business</h2>
+<h3>Mercury Hits $5.2B Valuation on $200M Series D as &quot;Bank for AI Startups&quot;</h3>
+<p><strong>Summary</strong>: AI-startup-focused digital bank Mercury raised a $200M Series D led by TCV, lifting its valuation 49% to $5.2B.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>Round includes Andreessen Horowitz, Coatue, CRV, Sapphire Ventures, Sequoia Capital, and Spark Capital; Mercury now serves 300,000+ customers including roughly one in three US startups.</li>
+<li>Customer base skews heavily to AI builders: clients named include Lovable, ElevenLabs, and Supabase.</li>
+<li>Mercury recently received conditional approval to establish its own bank, deepening its move from neobank front-end to chartered infrastructure.</li>
+</ul>
+<p><strong>Impact</strong>: A clear signal that capital is flowing not just to model labs but to the financial plumbing serving the AI startup ecosystem, with Mercury positioning itself as a default operating account for AI-native companies.</p>
+<p>📅 <strong>Source</strong>: TechStartups • May 20, 2026
+🔗 <strong>Link</strong>: <a href="https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/" target="_blank" rel="noreferrer noopener">https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/</a></p>
+<hr />
+<h3>Exa Raises $250M Series C at $2.2B Valuation to Build &quot;Search Engine for AI Agents&quot;</h3>
+<p><strong>Summary</strong>: AI-native search infrastructure company Exa closed a $250M Series C to scale models and infrastructure designed for autonomous agent queries.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>Round values Exa at $2.2B and funds training of its next generation of search models plus massive scale-up for automated query volume.</li>
+<li>Exa positions itself as an independent search engine optimized for AI agents rather than human users, targeting precision, freshness, and high-throughput retrieval.</li>
+<li>Bet aligns with the broader May 2026 shift toward &quot;verticalized autonomy&quot; and agent infrastructure rather than general-purpose generative AI plays.</li>
+</ul>
+<p><strong>Impact</strong>: Validates a category — agent-grade search — that has emerged as a bottleneck for reliable autonomous workflows, and gives Exa firepower against incumbents like Google and Bing in an agent-mediated web.</p>
+<p>📅 <strong>Source</strong>: TechStartups • May 20, 2026
+🔗 <strong>Link</strong>: <a href="https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/" target="_blank" rel="noreferrer noopener">https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/</a></p>
+<hr />
+<h2>🛠️ Tools &amp; Applications</h2>
+<h3>Google Ships Antigravity 2.0 with Desktop App, CLI, SDK, and Voice Control</h3>
+<p><strong>Summary</strong>: Google launched Antigravity 2.0 at I/O 2026, expanding its agentic coding platform with a redesigned desktop app, a new CLI, and an SDK for custom agents.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>New desktop app lets developers orchestrate multiple agents in parallel, design custom subagent workflows, and schedule background tasks, with native integrations for AI Studio, Android, and Firebase.</li>
+<li>New Antigravity CLI replaces the Gemini CLI for terminal-based agent workflows; the SDK lets Google Cloud customers build and deploy custom agents, with enterprise templates shipping in AI Studio.</li>
+<li>Powered largely by the new Gemini 3.5 Flash model (itself co-developed using Antigravity); Google cuts its top AI Ultra plan from $250 to $200/month and introduces a new $100 mid-tier.</li>
+</ul>
+<p><strong>Impact</strong>: Pushes Google directly into the territory occupied by Cursor, Claude Code, and OpenAI Codex, signaling that &quot;agentic IDE&quot; is becoming a first-class product surface — not a plug-in — for the major model providers.</p>
+<p>📅 <strong>Source</strong>: TechCrunch • May 19, 2026
+🔗 <strong>Link</strong>: <a href="https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/" target="_blank" rel="noreferrer noopener">https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/</a></p>
+<hr />
+<h2>🌍 Policy &amp; Ethics</h2>
+<h3>EU AI Act's August 2, 2026 Enforcement Deadline Looms, Most Enterprises Unprepared</h3>
+<p><strong>Summary</strong>: With roughly ten weeks to go, analysts warn that the bulk of EU AI Act obligations for high-risk systems will become enforceable on August 2, 2026, while most enterprises lack basic AI inventories.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>Penalties reach €35M or 7% of global annual revenue (whichever is greater) for prohibited practices; general violations up to €15M or 3%.</li>
+<li>Activation date covers Annex III high-risk uses (hiring, credit, biometrics, education, law enforcement), Article 50 transparency rules requiring disclosure and labeling of AI-generated content and deepfakes, and full deployer obligations including human oversight and fundamental-rights impact assessments.</li>
+<li>The EU's Digital Omnibus proposal could slip some high-risk deadlines to December 2027, but it remains in trilogue; experts caution against betting compliance on a not-yet-law extension.</li>
+</ul>
+<p><strong>Impact</strong>: Sets the global benchmark for enforceable AI governance and creates a near-term compliance crunch for any company offering AI services into the EU, with downstream effects on product design, vendor selection, and documentation practices worldwide.</p>
+<p>📅 <strong>Source</strong>: AI2.work • May 2026
+🔗 <strong>Link</strong>: <a href="https://ai2.work/blog/eu-ai-act-august-2026-deadline-what-enterprise-leaders-must-do-now" target="_blank" rel="noreferrer noopener">https://ai2.work/blog/eu-ai-act-august-2026-deadline-what-enterprise-leaders-must-do-now</a></p>
+<hr />
+<h2>🎯 Key Takeaways</h2>
+<ol>
+<li>Google I/O 2026 reframed Google's entire AI stack around agents, with Gemini Omni, Gemini 3.5 Flash, and Antigravity 2.0 going head-to-head with OpenAI and Anthropic at both the model and IDE layers.</li>
+<li>Enterprise AI is consolidating fast — KPMG's 30,000-seat Claude deployment and Mercury's $5.2B valuation show capital and customers concentrating on the firms making AI usable, billable, and bankable.</li>
+<li>Governance is catching up to capability: arXiv's one-year ban for unchecked LLM-generated papers and the looming August 2 EU AI Act deadline mark a clear shift from voluntary norms to enforceable consequences.</li>
+</ol>
+<hr />
+<p><strong>Generated on</strong>: 2026-05-21T00:02:09-07:00
+<strong>Next update</strong>: Check back tomorrow for the latest AI news</p>
 </main>
 </body>
 </html>
