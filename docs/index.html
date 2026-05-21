@@ -2,13 +2,105 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Daily AI News</title>
+<style>
+:root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1f1f1f;
+    --muted: #555555;
+    --accent: #0a5fbf;
+    --card-bg: #f7f7f8;
+    --card-border: #e2e2e6;
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #121212;
+        --fg: #ececec;
+        --muted: #a9a9b3;
+        --accent: #4ea3ff;
+        --card-bg: #1c1c1f;
+        --card-border: #2a2a2e;
+    }
+}
+* { box-sizing: border-box; }
+body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                 "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.55;
+    background: var(--bg);
+    color: var(--fg);
+    font-size: 17px;
+}
+main { max-width: 720px; margin: 0 auto; }
+h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+h2 { font-size: 1.15rem; margin: 2rem 0 .75rem; color: var(--accent); }
+h3 { font-size: 1.05rem; margin: 0 0 .25rem; }
+a { color: var(--accent); text-decoration: none; }
+a:hover, a:focus { text-decoration: underline; }
+.meta { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; }
+.item {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 1rem 1.1rem;
+    margin: 0 0 1rem;
+}
+.item .source { color: var(--muted); font-size: .85rem; margin: .15rem 0 .55rem; }
+.empty { color: var(--muted); font-style: italic; }
+footer { color: var(--muted); font-size: .8rem; margin-top: 3rem; }
+</style>
 </head>
 <body>
+<main>
 <h1>Daily AI News</h1>
-<p>This site hosts the auto-published RSS feed and HTML rendering of the
-<a href="https://github.com/spencerbk/ballard-automation">ballard-automation</a>
-daily-ai-news briefing.</p>
-<p>Subscribe to the feed: <a href="feed.xml">feed.xml</a></p>
+<p class="meta">Generated 2026-05-21 07:01</p>
+<h2>Major Announcements</h2>
+<article class="item">
+<h3><a href="https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/" target="_blank" rel="noreferrer noopener">Google I/O 2026: Gemini Omni, Gemini 3.5 Flash, and Agentic-First Stack Unveiled</a></h3>
+<p class="source">Google (The Keyword) — 2026-05-20</p>
+<p>Google used I/O 2026 to roll out two new flagship Gemini models and reorganize its product line around autonomous agents.</p>
+</article>
+<article class="item">
+<h3><a href="https://www.edgen.tech/news/post/kpmg-taps-anthropics-claude-ai-to-remake-global-advisory-for-30000-staff" target="_blank" rel="noreferrer noopener">KPMG to Deploy Anthropic's Claude Across Global Tax and Advisory, Training 30,000 Staff</a></h3>
+<p class="source">Edgen — 2026-05-19</p>
+<p>KPMG will embed Claude into its global tax and advisory platform and stand up a joint Center of Excellence with Anthropic.</p>
+</article>
+<h2>Research &amp; Papers</h2>
+<article class="item">
+<h3><a href="https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/" target="_blank" rel="noreferrer noopener">arXiv Imposes One-Year Ban on Authors Who Let LLMs Write Entire Papers</a></h3>
+<p class="source">TechCrunch — 2026-05-16</p>
+<p>arXiv's computer science section will ban authors for a year if a submission contains "incontrovertible evidence" the authors did not check LLM-generated content.</p>
+</article>
+<h2>Industry &amp; Business</h2>
+<article class="item">
+<h3><a href="https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/" target="_blank" rel="noreferrer noopener">Mercury Hits $5.2B Valuation on $200M Series D as "Bank for AI Startups"</a></h3>
+<p class="source">TechStartups — 2026-05-20</p>
+<p>AI-startup-focused digital bank Mercury raised a $200M Series D led by TCV, lifting its valuation 49% to $5.2B.</p>
+</article>
+<article class="item">
+<h3><a href="https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/" target="_blank" rel="noreferrer noopener">Exa Raises $250M Series C at $2.2B Valuation to Build "Search Engine for AI Agents"</a></h3>
+<p class="source">TechStartups — 2026-05-20</p>
+<p>AI-native search infrastructure company Exa closed a $250M Series C to scale models and infrastructure designed for autonomous agent queries.</p>
+</article>
+<h2>Tools &amp; Applications</h2>
+<article class="item">
+<h3><a href="https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/" target="_blank" rel="noreferrer noopener">Google Ships Antigravity 2.0 with Desktop App, CLI, SDK, and Voice Control</a></h3>
+<p class="source">TechCrunch — 2026-05-19</p>
+<p>Google launched Antigravity 2.0 at I/O 2026, expanding its agentic coding platform with a redesigned desktop app, a new CLI, and an SDK for custom agents.</p>
+</article>
+<h2>Policy &amp; Ethics</h2>
+<article class="item">
+<h3><a href="https://ai2.work/blog/eu-ai-act-august-2026-deadline-what-enterprise-leaders-must-do-now" target="_blank" rel="noreferrer noopener">EU AI Act's August 2, 2026 Enforcement Deadline Looms, Most Enterprises Unprepared</a></h3>
+<p class="source">AI2.work</p>
+<p>With roughly ten weeks to go, analysts warn that the bulk of EU AI Act obligations for high-risk systems will become enforceable on August 2, 2026, while most enterprises lack basic AI inventories.</p>
+</article>
+<footer>
+<p>Generated by <code>ballard-daily-ai-news</code> from the <code>daily-ai-news</code> Copilot skill.</p>
+</footer>
+</main>
 </body>
 </html>

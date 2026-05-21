@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Daily AI News</title>
+    <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
+    <description>Twice-daily AI news briefing produced by the daily-ai-news Copilot skill.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 May 2026 07:01:54 +0000</lastBuildDate>
+    <generator>ballard-daily-ai-news</generator>
+    <item>
+      <title>Google I/O 2026: Gemini Omni, Gemini 3.5 Flash, and Agentic-First Stack Unveiled</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/</link>
+      <description>Google used I/O 2026 to roll out two new flagship Gemini models and reorganize its product line around autonomous agents.</description>
+      <category>Google (The Keyword)</category>
+      <guid isPermaLink="false">7d08c741602ca7ae</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KPMG to Deploy Anthropic's Claude Across Global Tax and Advisory, Training 30,000 Staff</title>
+      <link>https://www.edgen.tech/news/post/kpmg-taps-anthropics-claude-ai-to-remake-global-advisory-for-30000-staff</link>
+      <description>KPMG will embed Claude into its global tax and advisory platform and stand up a joint Center of Excellence with Anthropic.</description>
+      <category>Edgen</category>
+      <guid isPermaLink="false">b48d86564c4b464a</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>arXiv Imposes One-Year Ban on Authors Who Let LLMs Write Entire Papers</title>
+      <link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link>
+      <description>arXiv's computer science section will ban authors for a year if a submission contains "incontrovertible evidence" the authors did not check LLM-generated content.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">6ec3df8be66ef779</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercury Hits $5.2B Valuation on $200M Series D as "Bank for AI Startups"</title>
+      <link>https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/</link>
+      <description>AI-startup-focused digital bank Mercury raised a $200M Series D led by TCV, lifting its valuation 49% to $5.2B.</description>
+      <category>TechStartups</category>
+      <guid isPermaLink="false">ce2d79a657d21436</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exa Raises $250M Series C at $2.2B Valuation to Build "Search Engine for AI Agents"</title>
+      <link>https://techstartups.com/2026/05/20/venture-capital-startup-funding-roundup-may-20-2026/</link>
+      <description>AI-native search infrastructure company Exa closed a $250M Series C to scale models and infrastructure designed for autonomous agent queries.</description>
+      <category>TechStartups</category>
+      <guid isPermaLink="false">ce2d79a657d21436</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Ships Antigravity 2.0 with Desktop App, CLI, SDK, and Voice Control</title>
+      <link>https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/</link>
+      <description>Google launched Antigravity 2.0 at I/O 2026, expanding its agentic coding platform with a redesigned desktop app, a new CLI, and an SDK for custom agents.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">b4547a12e20361a3</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU AI Act's August 2, 2026 Enforcement Deadline Looms, Most Enterprises Unprepared</title>
+      <link>https://ai2.work/blog/eu-ai-act-august-2026-deadline-what-enterprise-leaders-must-do-now</link>
+      <description>With roughly ten weeks to go, analysts warn that the bulk of EU AI Act obligations for high-risk systems will become enforceable on August 2, 2026, while most enterprises lack basic AI inventories.</description>
+      <category>AI2.work</category>
+      <guid isPermaLink="false">cc85b134cda740a4</guid>
+      <pubDate>Thu, 21 May 2026 07:01:54 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
