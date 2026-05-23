@@ -3,10 +3,154 @@
   <channel>
     <title>Daily AI News</title>
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
-    <description>Twice-daily AI news briefing produced by the daily-ai-news Copilot skill.</description>
+    <description>Twice-daily AI news briefing.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 21:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:19:47 +0000</lastBuildDate>
     <generator>ballard-daily-ai-news</generator>
+    <item>
+      <title>Google’s Gemini Omni shows off “anything-to-anything” generation</title>
+      <link>https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video</link>
+      <description>Google’s new Gemini Omni model is drawing attention for multimodal generation that can turn prompts, images, and personal media into highly realistic AI-created scenes.</description>
+      <category>The Verge</category>
+      <guid isPermaLink="false">213bb1648878f6b9</guid>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zhipu launches GLM-5.1-highspeed API</title>
+      <link>https://www.aibase.com/zh/news/28254</link>
+      <description>Zhipu released GLM-5.1-highspeed, claiming production output speeds up to 400 tokens per second while retaining flagship-model capabilities.</description>
+      <category>AIbase</category>
+      <guid isPermaLink="false">6ef0547538927898</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EvoVid enables self-evolving video-language models from raw video</title>
+      <link>https://arxiv.org/abs/2605.21931</link>
+      <description>EvoVid proposes a self-evolving framework that lets video-LLMs improve from unannotated videos through temporal Questioner-Solver self-play.</description>
+      <category>arXiv</category>
+      <guid isPermaLink="false">e261f46ab7f72b8b</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TAPE speeds up diffusion-based video generation without training</title>
+      <link>https://arxiv.org/abs/2605.17837</link>
+      <description>TAPE introduces training-free temporal-aware token pruning for video diffusion models.</description>
+      <category>arXiv</category>
+      <guid isPermaLink="false">9d3a6c1de7e93e75</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pivot raises $40M to build an AI operating system for procurement</title>
+      <link>https://www.pivotapp.ai/blog/pivot-raises-40-million-series-b-to-replace-legacy-procurement-software-with-an-enterprise-ai-operating-system</link>
+      <description>Pivot raised a $40 million Series B to expand its agentic AI procurement platform.</description>
+      <category>Pivot</category>
+      <guid isPermaLink="false">3dee099b4ae445f1</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KPMG rolls out Claude to 276,000 employees</title>
+      <link>https://www.anthropic.com/news/anthropic-kpmg</link>
+      <description>KPMG and Anthropic announced a global alliance that will bring Claude to KPMG’s full workforce and embed it into KPMG’s Digital Gateway platform.</description>
+      <category>Anthropic</category>
+      <guid isPermaLink="false">5df700a9f389ee77</guid>
+      <pubDate>Sat, 23 May 2026 13:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>BMW integrates agentic AI into global business workflows</title>
+      <link>https://www.aibase.com/zh/news/28264</link>
+      <description>BMW Group has reportedly integrated agentic AI into operations including fleet-order processing and procurement tooling.</description>
+      <category>AIbase</category>
+      <guid isPermaLink="false">8534e45a12fa4a4a</guid>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hidden Door launches Atlas for AI-assisted worldbuilding</title>
+      <link>https://www.hiddendoor.co/blog/atlas-worldbuilding-interactive-world-builder-storytelling-rpg</link>
+      <description>Hidden Door launched Atlas, a creator tool for building interactive AI story worlds.</description>
+      <category>Hidden Door</category>
+      <guid isPermaLink="false">6c1d809edd29be0c</guid>
+      <pubDate>Sat, 23 May 2026 13:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>California signs AI workforce-disruption executive order</title>
+      <link>https://www.gov.ca.gov/2026/05/21/governor-newsom-signs-first-of-its-kind-executive-order-to-prepare-workers-and-businesses-for-potential-ai-disruption/</link>
+      <description>Governor Gavin Newsom signed an executive order directing California to prepare workers, small businesses, and communities for AI-driven economic disruption.</description>
+      <category>Office of Governor Gavin Newsom</category>
+      <guid isPermaLink="false">d3718b91974b51f1</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google AI Overviews stumble on “disregard” query</title>
+      <link>https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard</link>
+      <description>Google’s AI Overviews reportedly produced chatbot-like non-answers for the search term “disregard,” then stopped showing an AI Overview for that query.</description>
+      <category>The Verge</category>
+      <guid isPermaLink="false">c99a512455e52549</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-generated fiction renews literary-world concerns</title>
+      <link>https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize</link>
+      <description>The Verge reported that a Commonwealth Short Story Prize selection published by Granta appears to show hallmarks of LLM-generated prose.</description>
+      <category>The Verge</category>
+      <guid isPermaLink="false">1976a5e5f77de5f9</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic says Claude Mythos Preview found 10,000+ high- or critical-severity vulnerabilities</title>
+      <link>https://www.anthropic.com/research/glasswing-initial-update</link>
+      <description>Anthropic published an initial Project Glasswing update saying Claude Mythos Preview and roughly 50 partners have surfaced more than 10,000 high- or critical-severity vulnerabilities across critical software.</description>
+      <category>Anthropic</category>
+      <guid isPermaLink="false">9d44573c198f670a</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s AI-heavy Search rollout runs into a visible failure case</title>
+      <link>https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/</link>
+      <description>TechCrunch reported that Google Search’s new AI-forward interface produced a broken-looking result for the simple query “disregard,” burying useful links below a large empty AI response area.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">f9730cd6020b4d84</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New exploit benchmarks show frontier AI agents can turn vulnerabilities into working attacks</title>
+      <link>https://red.anthropic.com/2026/exploit-evals/</link>
+      <description>Anthropic’s Frontier Red Team published results on ExploitBench and ExploitGym, two benchmarks measuring whether AI agents can progress from vulnerability triggers to real exploit capabilities.</description>
+      <category>Anthropic Frontier Red Team / arXiv</category>
+      <guid isPermaLink="false">f1bc051385303c55</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TechCrunch reports AI startups are stretching ARR claims</title>
+      <link>https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/</link>
+      <description>TechCrunch investigated how some AI startups and investors are using inflated or ambiguous “ARR” metrics to project faster growth than traditional revenue measures support.</description>
+      <category>Sources told TechCrunch that some investors know the numbers are being stretched but accept the narrative benefits.</category>
+      <guid isPermaLink="false">78d2e983135fb8c1</guid>
+      <pubDate>Sat, 23 May 2026 13:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI’s compute strategy intensifies the AI energy debate</title>
+      <link>https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/</link>
+      <description>TechCrunch reported that xAI’s natural-gas-heavy data center strategy contrasts with Elon Musk’s earlier solar-electric vision, while SpaceX’s filing frames orbital data centers and space-based solar as part of the long-term compute story.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">d910c2b587e7dbaf</guid>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s AI glasses prototype shows Gemini-powered translation, navigation, and visual assistance</title>
+      <link>https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/</link>
+      <description>TechCrunch tested Google’s Android XR glasses prototype, finding promising Gemini-powered features but noting the display version is still not ready for shipment.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">60b37b1a529ab3ed</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI reconstruction of dead pilots’ voices forces NTSB docket review</title>
+      <link>https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/</link>
+      <description>TechCrunch reported that the National Transportation Safety Board temporarily restricted access to its docket system after people used AI to reconstruct cockpit audio from a spectrogram and transcript.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">4287b9dc53b39ba4</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI ships major Codex update with Appshots and long-running goal mode</title>
       <link>https://developers.openai.com/codex/changelog</link>
@@ -37,7 +181,7 @@
       <description>Microsoft added a Plan agent to Visual Studio so Copilot can explore, clarify, draft, and refine implementation plans before changing code.</description>
       <category>Microsoft Visual Studio Blog</category>
       <guid isPermaLink="false">924dde3fb6f1c0c7</guid>
-      <pubDate>Fri, 22 May 2026 21:22:15 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 13:19:47 +0000</pubDate>
     </item>
     <item>
       <title>RoPeSLR speeds up long video generation with sparse-low-rank attention</title>
@@ -109,7 +253,7 @@
       <description>Google DeepMind launched a three-month accelerator in Asia-Pacific for startups, research teams, and nonprofits using frontier AI on environmental risks.</description>
       <category>Google DeepMind</category>
       <guid isPermaLink="false">03e0e0ace490669f</guid>
-      <pubDate>Fri, 22 May 2026 21:22:15 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 13:19:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
