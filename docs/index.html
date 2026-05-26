@@ -62,203 +62,180 @@ blockquote {
 <body>
 <main>
 <h1>📰 Daily AI News Briefing</h1>
-<p><strong>Date</strong>: May 23, 2026<br />
-<strong>Sources</strong>: 13 articles from 9 sources<br />
-<strong>Coverage</strong>: Last 24–72 hours</p>
+<p><strong>Date</strong>: May 26, 2026<br />
+<strong>Sources</strong>: 15 articles from 8 sources<br />
+<strong>Coverage</strong>: Last 24–48 hours, plus notable recent research papers</p>
 <hr />
 <h2>🔥 Major Announcements</h2>
-<h3>Google’s Gemini Omni shows off “anything-to-anything” generation</h3>
-<p><strong>Summary</strong>: Google’s new Gemini Omni model is drawing attention for multimodal generation that can turn prompts, images, and personal media into highly realistic AI-created scenes.</p>
+<h3>Google frames Search as an agentic AI product</h3>
+<p><strong>Summary</strong>: Google’s post-I/O push centers on turning Search from a query-and-links product into an AI interface that can converse, build mini apps, monitor the web, and trigger tasks.</p>
 <p><strong>Key Points</strong>:</p>
 <ul>
-<li>The Verge’s hands-on described Omni generating convincing videos, including a stuffed animal rafting scene and a deepfake-style Eiffel Tower clip.</li>
-<li>The tool lowers the effort required to create realistic synthetic media.</li>
-<li>The demo underscores both creative potential and renewed concerns about AI slop and deepfakes.</li>
+<li>Google says AI Mode has surpassed 1 billion monthly users, while AI Overviews reaches more than 2.5 billion monthly users.</li>
+<li>Gemini 3.5 Flash is now the default model for AI Mode globally, with Google emphasizing speed, coding, multimodal reasoning, and agent workflows.</li>
+<li>New Search agents will monitor topics in the background, while generative UI features will build interactive visuals and custom mini apps from prompts.</li>
 </ul>
-<p><strong>Impact</strong>: Multimodal models are moving from novelty demos toward consumer-ready creative tools, raising the stakes for provenance and labeling.</p>
+<p><strong>Impact</strong>: Google is making AI agents the front door to Search, raising major questions for publishers, SEO, ads, and the open web.</p>
+<p>📅 <strong>Source</strong>: The Verge / Google Blog • May 26 / May 19, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web" target="_blank" rel="noreferrer noopener">https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web</a><br />
+🔗 <strong>Link</strong>: <a href="https://blog.google/products-and-platforms/products/search/search-io-2026" target="_blank" rel="noreferrer noopener">https://blog.google/products-and-platforms/products/search/search-io-2026</a></p>
+<hr />
+<h3>OpenAI expands journalism partnerships in Brazil</h3>
+<p><strong>Summary</strong>: OpenAI announced a strategic content partnership with Grupo Folha and Grupo UOL to bring Brazilian journalism into ChatGPT with attribution and transparency.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>The partnership adds more local news coverage to ChatGPT for Brazilian users.</li>
+<li>OpenAI framed the deal around trusted journalism, attribution, and transparent sourcing.</li>
+<li>It continues OpenAI’s broader strategy of striking publisher deals as AI search and answer engines reshape referral traffic.</li>
+</ul>
+<p><strong>Impact</strong>: Publisher partnerships are becoming a central battleground as AI assistants compete to become news discovery channels.</p>
+<p>📅 <strong>Source</strong>: OpenAI News • May 25, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://openai.com/index/grupo-folha-grupo-uol-partnership" target="_blank" rel="noreferrer noopener">https://openai.com/index/grupo-folha-grupo-uol-partnership</a></p>
+<hr />
+<h2>🔬 Research &amp; Papers</h2>
+<h3>Shannon Scaling Law proposes a new theory for LLM degradation</h3>
+<p><strong>Summary</strong>: A new ICML 2026 paper models LLM training as information transmission over a noisy channel to explain why more compute or data can sometimes degrade performance.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>The paper argues model parameters act like bandwidth and training tokens like signal power.</li>
+<li>It predicts U-shaped performance degradation when scaling amplifies noise without enough signal-to-noise ratio.</li>
+<li>Experiments on Pythia and OLMo2 showed stronger fits than classical monotonic scaling laws.</li>
+</ul>
+<p><strong>Impact</strong>: If validated broadly, the theory could change how labs plan model size, data volume, fine-tuning, and quantization.</p>
+<p>📅 <strong>Source</strong>: arXiv • May 22, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://arxiv.org/abs/2605.23901" target="_blank" rel="noreferrer noopener">https://arxiv.org/abs/2605.23901</a></p>
+<hr />
+<h3>XWind routes AI inference to wind-powered compute</h3>
+<p><strong>Summary</strong>: Researchers proposed “AI Greenferencing,” placing modular AI compute near renewable energy sources and routing inference workloads based on real-time wind availability.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>The paper identifies 890+ GW of wind capacity within 50 ms round-trip time of Azure data centers.</li>
+<li>XWind uses latency, KV-cache utilization, and queue depth to dynamically route inference requests.</li>
+<li>In a 64-GPU A100 testbed, it reduced P99 latency by up to 52% versus the strongest contender and up to 98% versus baselines.</li>
+</ul>
+<p><strong>Impact</strong>: Energy-aware inference routing could become important as AI demand strains grids and pushes data centers toward renewable siting.</p>
+<p>📅 <strong>Source</strong>: arXiv • May 22, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://arxiv.org/abs/2605.23348" target="_blank" rel="noreferrer noopener">https://arxiv.org/abs/2605.23348</a></p>
+<hr />
+<h3>Vision-language benchmarks may overstate visual grounding</h3>
+<p><strong>Summary</strong>: A CVPR 2026 workshop paper found that some VLM benchmark scores remain surprisingly stable even when large fractions of image tokens are removed.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>The study tested global degradation, localized occlusion, question reformulation, answer-space expansion, and decision-level behavior.</li>
+<li>Models often preserved final answers despite weakened internal support for the correct response.</li>
+<li>The authors argue current benchmarks are insufficient for measuring fine-grained visual evidence use.</li>
+</ul>
+<p><strong>Impact</strong>: The result challenges assumptions that high VLM accuracy necessarily reflects robust visual understanding.</p>
+<p>📅 <strong>Source</strong>: arXiv • May 21, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://arxiv.org/abs/2605.22903" target="_blank" rel="noreferrer noopener">https://arxiv.org/abs/2605.22903</a></p>
+<hr />
+<h2>💰 Industry &amp; Business</h2>
+<h3>OpenRouter raises $113M at reported $1.3B valuation</h3>
+<p><strong>Summary</strong>: OpenRouter raised a $113 million Series B led by CapitalG as demand grows for routing workloads across multiple AI models.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>TechCrunch reports the round more than doubled OpenRouter’s valuation in roughly a year.</li>
+<li>OpenRouter says it now supports 400+ models, 8 million users, and 100 trillion tokens processed per month.</li>
+<li>Usage reportedly grew 5x over six months.</li>
+</ul>
+<p><strong>Impact</strong>: The funding signals that enterprises increasingly want model choice, cost control, and routing infrastructure instead of single-vendor lock-in.</p>
+<p>📅 <strong>Source</strong>: TechCrunch • May 26, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/" target="_blank" rel="noreferrer noopener">https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/</a></p>
+<hr />
+<h3>Human Archive raises $8.2M to collect physical-world AI training data</h3>
+<p><strong>Summary</strong>: Human Archive is paying gig workers, primarily in India, to collect first-person video and sensor data for robotics and physical AI training.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>The startup raised $8.2 million from Wing VC, NVP Capital, Y Combinator, and angel investors.</li>
+<li>It says it has more than 1,000 active headsets and is developing tactile gloves, motion-capture suits, and wrist cameras.</li>
+<li>The approach is drawing scrutiny over worker consent, privacy, and compensation.</li>
+</ul>
+<p><strong>Impact</strong>: Physical AI labs need real-world training data, and the market for that data is quickly becoming both valuable and controversial.</p>
+<p>📅 <strong>Source</strong>: TechCrunch • May 26, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/" target="_blank" rel="noreferrer noopener">https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/</a></p>
+<hr />
+<h3>Uber says AI spending is getting harder to justify</h3>
+<p><strong>Summary</strong>: Uber president and COO Andrew Macdonald said the company is struggling to connect rising AI token costs to clear consumer-facing product gains.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>Uber reportedly exhausted its annual Claude Code budget just four months into 2026.</li>
+<li>Macdonald said the link between token consumption and “25 percent more useful consumer features” is not yet clear.</li>
+<li>Uber disclosed 95% monthly AI coding tool adoption among engineers and $3.4 billion in 2025 R&amp;D spend.</li>
+</ul>
+<p><strong>Impact</strong>: The AI ROI debate is moving from hype to operating discipline as companies compare token budgets against headcount and shipped value.</p>
+<p>📅 <strong>Source</strong>: The Verge • May 26, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify" target="_blank" rel="noreferrer noopener">https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify</a></p>
+<hr />
+<h2>🛠️ Tools &amp; Applications</h2>
+<h3>Gemini Omni Flash shows both progress and deepfake risk</h3>
+<p><strong>Summary</strong>: Google’s Gemini Omni Flash can generate video from multiple input types, with The Verge finding it more capable than Veo in some edits but still glitchy and unsettlingly convincing for deepfakes.</p>
+<p><strong>Key Points</strong>:</p>
+<ul>
+<li>Omni Flash is available in Google Flow and is designed as the first model in an “anything-to-anything” family.</li>
+<li>The Verge found it could make convincing videos from a selfie with little effort.</li>
+<li>The tool still produced continuity errors, inconsistent objects, and costly iteration loops.</li>
+</ul>
+<p><strong>Impact</strong>: AI video is becoming easier and more realistic, increasing pressure for provenance, watermarking, and media literacy.</p>
 <p>📅 <strong>Source</strong>: The Verge • May 23, 2026<br />
 🔗 <strong>Link</strong>: <a href="https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video" target="_blank" rel="noreferrer noopener">https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video</a></p>
 <hr />
-<h3>Anthropic says Claude Mythos found more than 10,000 severe vulnerabilities</h3>
-<p><strong>Summary</strong>: Anthropic published an update on Project Glasswing, reporting that Claude Mythos Preview and partners have found more than 10,000 high- or critical-severity vulnerabilities.</p>
+<h3>GitHub Copilot remote control is generally available</h3>
+<p><strong>Summary</strong>: GitHub made remote control for Copilot CLI sessions generally available on <a href="http://github.com" target="_blank" rel="noreferrer noopener">github.com</a> and GitHub Mobile.</p>
 <p><strong>Key Points</strong>:</p>
 <ul>
-<li>Anthropic says roughly 50 partners used Mythos Preview across critical software.</li>
-<li>Its open-source scans estimated 6,202 high- or critical-severity vulnerabilities across more than 1,000 projects.</li>
-<li>Anthropic is making security skills, a Claude harness, and a threat-model builder available to qualifying customers.</li>
+<li>Developers can start work locally, enable <code>/remote on</code>, then monitor and steer sessions from web or mobile.</li>
+<li>The feature supports real-time progress visibility, follow-up instructions, and permission approvals.</li>
+<li>GitHub is also bringing remote control to VS Code and JetBrains IDEs.</li>
 </ul>
-<p><strong>Impact</strong>: AI-assisted vulnerability discovery is scaling faster than human triage and patching capacity, shifting cybersecurity’s bottleneck from finding bugs to fixing them responsibly.</p>
-<p>📅 <strong>Source</strong>: Anthropic • May 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.anthropic.com/research/glasswing-initial-update" target="_blank" rel="noreferrer noopener">https://www.anthropic.com/research/glasswing-initial-update</a></p>
-<hr />
-<h3>Zhipu launches GLM-5.1-highspeed API</h3>
-<p><strong>Summary</strong>: Zhipu released GLM-5.1-highspeed, claiming production output speeds up to 400 tokens per second while retaining flagship-model capabilities.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>The model supports a 200K context window and up to 128K output tokens.</li>
-<li>Zhipu says the speed comes from TileRT inference optimizations, dynamic batching, KV-cache scheduling, and cluster-level tuning.</li>
-<li>The API is being opened first to selected enterprise customers.</li>
-</ul>
-<p><strong>Impact</strong>: Faster high-capability models could make real-time coding agents, voice agents, and multi-agent enterprise workflows more practical.</p>
-<p>📅 <strong>Source</strong>: AIbase • May 22, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.aibase.com/zh/news/28254" target="_blank" rel="noreferrer noopener">https://www.aibase.com/zh/news/28254</a></p>
-<hr />
-<h2>🔬 Research &amp; Papers</h2>
-<h3>EvoVid enables self-evolving video-language models from raw video</h3>
-<p><strong>Summary</strong>: EvoVid proposes a self-evolving framework that lets video-LLMs improve from unannotated videos through temporal Questioner-Solver self-play.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>The method targets the lack of temporal reasoning in earlier self-evolving frameworks.</li>
-<li>It introduces temporal-centric rewards for question generation and solver grounding.</li>
-<li>Experiments across four base models and six benchmarks showed consistent gains over baselines.</li>
-</ul>
-<p><strong>Impact</strong>: Self-supervised video reasoning could reduce dependence on expensive human-labeled video datasets.</p>
-<p>📅 <strong>Source</strong>: arXiv • May 21, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://arxiv.org/abs/2605.21931" target="_blank" rel="noreferrer noopener">https://arxiv.org/abs/2605.21931</a></p>
-<hr />
-<h3>TAPE speeds up diffusion-based video generation without training</h3>
-<p><strong>Summary</strong>: TAPE introduces training-free temporal-aware token pruning for video diffusion models.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>The method smooths token importance across adjacent frames to reduce flicker.</li>
-<li>It schedules pruning by timestep, pruning more aggressively during noisy early stages.</li>
-<li>The paper reports significant speedups while preserving visual fidelity.</li>
-</ul>
-<p><strong>Impact</strong>: Efficient video generation remains a key bottleneck, and training-free pruning could help bring high-quality generation to lower-cost deployments.</p>
-<p>📅 <strong>Source</strong>: arXiv • May 20, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://arxiv.org/abs/2605.17837" target="_blank" rel="noreferrer noopener">https://arxiv.org/abs/2605.17837</a></p>
-<hr />
-<h3>MONET releases a 104.9M-pair open dataset for text-to-image research</h3>
-<p><strong>Summary</strong>: MONET is an Apache 2.0 dataset of about 104.9 million curated image-text pairs for reproducible text-to-image model training.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>The dataset was filtered from 2.9 billion raw pairs and includes safety filtering, deduplication, recaptioning, embeddings, and annotations.</li>
-<li>Researchers trained a 4B-parameter latent diffusion model exclusively on MONET.</li>
-<li>The authors report competitive GenEval and DPG scores.</li>
-</ul>
-<p><strong>Impact</strong>: Open, large-scale curated datasets can lower barriers for reproducible generative AI research outside major labs.</p>
-<p>📅 <strong>Source</strong>: arXiv • May 20, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://arxiv.org/abs/2605.21272" target="_blank" rel="noreferrer noopener">https://arxiv.org/abs/2605.21272</a></p>
-<hr />
-<h2>💰 Industry &amp; Business</h2>
-<h3>Pivot raises $40M to build an AI operating system for procurement</h3>
-<p><strong>Summary</strong>: Pivot raised a $40 million Series B to expand its agentic AI procurement platform.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>The round was led by Forestay Capital and Notion Capital.</li>
-<li>Pivot says it now processes $3 billion in invoices annually across more than 25 countries.</li>
-<li>The company plans to deepen ERP integrations and automate sourcing, approvals, purchasing, invoicing, payments, and reporting.</li>
-</ul>
-<p><strong>Impact</strong>: Procurement is becoming a focus area for vertical AI agents that combine workflow automation with system-of-record data.</p>
-<p>📅 <strong>Source</strong>: Pivot • May 21, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.pivotapp.ai/blog/pivot-raises-40-million-series-b-to-replace-legacy-procurement-software-with-an-enterprise-ai-operating-system" target="_blank" rel="noreferrer noopener">https://www.pivotapp.ai/blog/pivot-raises-40-million-series-b-to-replace-legacy-procurement-software-with-an-enterprise-ai-operating-system</a></p>
-<hr />
-<h3>KPMG rolls out Claude to 276,000 employees</h3>
-<p><strong>Summary</strong>: KPMG and Anthropic announced a global alliance that will bring Claude to KPMG’s full workforce and embed it into KPMG’s Digital Gateway platform.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Claude will be available to more than 276,000 KPMG employees globally.</li>
-<li>KPMG is embedding Claude into tax, legal, cybersecurity, and private-equity workflows.</li>
-<li>Anthropic named KPMG a preferred partner for private equity.</li>
-</ul>
-<p><strong>Impact</strong>: Large professional-services firms are moving AI from pilots into firm-wide operating systems for client work.</p>
-<p>📅 <strong>Source</strong>: Anthropic • May 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.anthropic.com/news/anthropic-kpmg" target="_blank" rel="noreferrer noopener">https://www.anthropic.com/news/anthropic-kpmg</a></p>
-<hr />
-<h3>BMW integrates agentic AI into global business workflows</h3>
-<p><strong>Summary</strong>: BMW Group has reportedly integrated agentic AI into operations including fleet-order processing and procurement tooling.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>BMW’s Alphabet fleet business is using agent systems to automate complex custom order processing.</li>
-<li>The company reports up to 90% automation in selected workflows.</li>
-<li>A separate system helps manage roughly 250,000 specialized production tools and molds.</li>
-</ul>
-<p><strong>Impact</strong>: Agentic AI adoption is spreading beyond software teams into manufacturing, procurement, and operations.</p>
-<p>📅 <strong>Source</strong>: AIbase • May 23, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.aibase.com/zh/news/28264" target="_blank" rel="noreferrer noopener">https://www.aibase.com/zh/news/28264</a></p>
-<hr />
-<h2>🛠️ Tools &amp; Applications</h2>
-<h3>Microsoft introduces the Plan agent in Visual Studio</h3>
-<p><strong>Summary</strong>: Microsoft added a dedicated Plan agent to Visual Studio Copilot Chat so developers can review and edit an implementation plan before code changes begin.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>The agent scans code with read-only tools, asks clarifying questions, and drafts implementation plans.</li>
-<li>Plans are saved as markdown files under <code>.copilot/plans/</code>.</li>
-<li>Users can refine the plan before handing it off to Agent mode for implementation.</li>
-</ul>
-<p><strong>Impact</strong>: AI coding tools are shifting toward explicit planning and review steps to reduce misaligned autonomous edits.</p>
-<p>📅 <strong>Source</strong>: Microsoft Visual Studio Blog • May 2026<br />
-🔗 <strong>Link</strong>: <a href="https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/" target="_blank" rel="noreferrer noopener">https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/</a></p>
-<hr />
-<h3>ChatGPT for PowerPoint arrives in beta</h3>
-<p><strong>Summary</strong>: OpenAI’s ChatGPT integration for Microsoft PowerPoint lets users create and edit presentations from a sidebar using prompts and source material.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>The beta supports generating and editing decks from text, documents, images, and other inputs.</li>
-<li>The Verge reports it is available across ChatGPT Business, Enterprise, Edu, Teacher, K-12, Free, Go, Pro, and Plus plans.</li>
-<li>It follows earlier ChatGPT integrations for spreadsheets.</li>
-</ul>
-<p><strong>Impact</strong>: Slide creation is becoming another mainstream office workflow where AI is embedded directly inside productivity software.</p>
-<p>📅 <strong>Source</strong>: The Verge / OpenAI • May 21–22, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://chatgpt.com/apps/powerpoint/" target="_blank" rel="noreferrer noopener">https://chatgpt.com/apps/powerpoint/</a></p>
-<hr />
-<h3>Hidden Door launches Atlas for AI-assisted worldbuilding</h3>
-<p><strong>Summary</strong>: Hidden Door launched Atlas, a creator tool for building interactive AI story worlds.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Atlas lets users build worlds from prompts, outlines, character sheets, or story bibles.</li>
-<li>Creators can define settings, characters, lore, physics, magic systems, maturity levels, and story hooks.</li>
-<li>Hidden Door says 30% of subscription revenue will go back to creators whose worlds users play.</li>
-</ul>
-<p><strong>Impact</strong>: AI storytelling platforms are experimenting with creator marketplaces rather than purely platform-owned content.</p>
-<p>📅 <strong>Source</strong>: Hidden Door • May 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.hiddendoor.co/blog/atlas-worldbuilding-interactive-world-builder-storytelling-rpg" target="_blank" rel="noreferrer noopener">https://www.hiddendoor.co/blog/atlas-worldbuilding-interactive-world-builder-storytelling-rpg</a></p>
+<p><strong>Impact</strong>: Agentic coding workflows are becoming multi-device and continuous rather than tied to a single local IDE session.</p>
+<p>📅 <strong>Source</strong>: GitHub Blog • May 18, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/" target="_blank" rel="noreferrer noopener">https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/</a></p>
 <hr />
 <h2>🌍 Policy &amp; Ethics</h2>
-<h3>California signs AI workforce-disruption executive order</h3>
-<p><strong>Summary</strong>: Governor Gavin Newsom signed an executive order directing California to prepare workers, small businesses, and communities for AI-driven economic disruption.</p>
+<h3>Universal Music Group and TikTok renew deal with AI music protections</h3>
+<p><strong>Summary</strong>: UMG and TikTok renewed their licensing agreement with commitments to remove unauthorized AI-generated music and improve artist and songwriter attribution.</p>
 <p><strong>Key Points</strong>:</p>
 <ul>
-<li>The order calls for analysis of severance standards, employment insurance, worker ownership, universal basic capital concepts, and workforce training.</li>
-<li>California will develop early-warning signals, a public dashboard, and recommendations for WARN Act updates.</li>
-<li>The state plans to consult labor, industry, economists, universities, and AI experts.</li>
+<li>The deal extends AI protections intended to promote human artistry and direct economics to artists and songwriters.</li>
+<li>It follows years of tension over AI-generated music, copyright, and platform moderation.</li>
+<li>The agreement may become a template for AI-era licensing between rights holders and social platforms.</li>
 </ul>
-<p><strong>Impact</strong>: California is treating AI job displacement as a policy problem requiring labor data, transition planning, and economic safeguards.</p>
-<p>📅 <strong>Source</strong>: Office of Governor Gavin Newsom • May 21, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.gov.ca.gov/2026/05/21/governor-newsom-signs-first-of-its-kind-executive-order-to-prepare-workers-and-businesses-for-potential-ai-disruption/" target="_blank" rel="noreferrer noopener">https://www.gov.ca.gov/2026/05/21/governor-newsom-signs-first-of-its-kind-executive-order-to-prepare-workers-and-businesses-for-potential-ai-disruption/</a></p>
+<p><strong>Impact</strong>: Music platforms are moving toward formal AI content governance as synthetic tracks and voice clones pressure copyright systems.</p>
+<p>📅 <strong>Source</strong>: TechCrunch • May 26, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/" target="_blank" rel="noreferrer noopener">https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/</a></p>
 <hr />
-<h3>Google AI Overviews stumble on “disregard” query</h3>
-<p><strong>Summary</strong>: Google’s AI Overviews reportedly produced chatbot-like non-answers for the search term “disregard,” then stopped showing an AI Overview for that query.</p>
+<h3>Pope Leo XIV calls for AI oversight rooted in human dignity</h3>
+<p><strong>Summary</strong>: Pope Leo XIV’s first encyclical, <em>Magnifica Humanitas</em>, uses AI to warn about concentrated power, inequality, war, misinformation, and democratic erosion.</p>
 <p><strong>Key Points</strong>:</p>
 <ul>
-<li>The Verge observed AI Overviews responding with generic assistant language instead of a useful search summary.</li>
-<li>Google later appeared to suppress the AI Overview for the affected term.</li>
-<li>The incident follows broader scrutiny of AI-generated search answers.</li>
+<li>The document argues that AI controlled by a small elite cannot reliably serve the common good.</li>
+<li>It calls for effective oversight and participation from communities affected by AI.</li>
+<li>The pope also criticizes the AI arms race and the assumption that technical power grants governing authority.</li>
 </ul>
-<p><strong>Impact</strong>: Search AI reliability remains fragile, especially when systems blur the line between retrieval, summarization, and chatbot behavior.</p>
-<p>📅 <strong>Source</strong>: The Verge • May 22, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard" target="_blank" rel="noreferrer noopener">https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard</a></p>
+<p><strong>Impact</strong>: AI governance is now firmly part of global ethical, religious, and political discourse.</p>
+<p>📅 <strong>Source</strong>: TechCrunch • May 25, 2026<br />
+🔗 <strong>Link</strong>: <a href="https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/" target="_blank" rel="noreferrer noopener">https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/</a></p>
 <hr />
-<h3>AI-generated fiction renews literary-world concerns</h3>
-<p><strong>Summary</strong>: The Verge reported that a Commonwealth Short Story Prize selection published by Granta appears to show hallmarks of LLM-generated prose.</p>
+<h3>Microsoft 365 Copilot vulnerability analysis highlights enterprise AI risk</h3>
+<p><strong>Summary</strong>: Cloud Security Alliance analyzed CVE-2026-24299, a Microsoft 365 Copilot command-injection vulnerability that could disclose sensitive organizational information under specific conditions.</p>
 <p><strong>Key Points</strong>:</p>
 <ul>
-<li>The story prompted debate over whether literary publishers and awards are prepared for AI-written submissions.</li>
-<li>The controversy centers on disclosure, judging standards, and trust in creative institutions.</li>
-<li>It reflects a broader tension between AI-assisted writing and human-authored cultural work.</li>
+<li>The issue required user interaction and high attack complexity, but Copilot’s access to emails, documents, SharePoint, Teams, and Microsoft Graph broadens the blast radius.</li>
+<li>CSA says it follows other Copilot-family disclosures such as EchoLeak and Reprompt.</li>
+<li>Recommendations include verifying patch status, auditing Copilot scopes, enforcing sensitivity labels, and reviewing interaction logs.</li>
 </ul>
-<p><strong>Impact</strong>: Creative industries still lack stable norms for identifying, disclosing, and evaluating AI-generated work.</p>
-<p>📅 <strong>Source</strong>: The Verge • May 22, 2026<br />
-🔗 <strong>Link</strong>: <a href="https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize" target="_blank" rel="noreferrer noopener">https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize</a></p>
+<p><strong>Impact</strong>: Enterprise AI assistants create new aggregation risks because one injected context can touch large volumes of sensitive business data.</p>
+<p>📅 <strong>Source</strong>: Cloud Security Alliance • May 2026<br />
+🔗 <strong>Link</strong>: <a href="https://labs.cloudsecurityalliance.org/research/csa-research-note-m365-copilot-cve-2026-24299-20260505-csa-s/" target="_blank" rel="noreferrer noopener">https://labs.cloudsecurityalliance.org/research/csa-research-note-m365-copilot-cve-2026-24299-20260505-csa-s/</a></p>
 <hr />
 <h2>🎯 Key Takeaways</h2>
 <ol>
-<li>Enterprise AI agents are moving into production: KPMG, BMW, Pivot, Microsoft, and Anthropic all point toward governed, workflow-native AI systems.</li>
-<li>AI security is accelerating quickly, with Anthropic’s Mythos update showing vulnerability discovery may now outpace human patching capacity.</li>
-<li>Multimodal generation and AI-created media are becoming more accessible, intensifying policy and ethics questions around provenance, labor, and creative trust.</li>
+<li>Google’s biggest AI push is no longer just better models; it is embedding agents directly into Search, YouTube, developer tools, and personal workflows.</li>
+<li>AI infrastructure companies are gaining momentum, from OpenRouter’s model-routing layer to Human Archive’s physical-world robotics data collection.</li>
+<li>Governance pressure is rising across the stack: copyright, religious ethics, enterprise security, and AI spending discipline are all becoming board-level issues.</li>
 </ol>
 <hr />
-<p><strong>Generated on</strong>: 2026-05-23T09:19:50.822-04:00<br />
+<p><strong>Generated on</strong>: 2026-05-26T13:11:52.768-07:00
 <strong>Next update</strong>: Check back tomorrow for the latest AI news</p>
 </main>
 </body>
