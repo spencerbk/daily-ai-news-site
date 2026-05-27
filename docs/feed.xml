@@ -5,15 +5,71 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Twice-daily AI news briefing produced by the daily-ai-news Copilot skill.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 03:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 13:00:02 +0000</lastBuildDate>
     <generator>ballard-daily-ai-news</generator>
+    <item>
+      <title>Robinhood now lets AI agents trade stocks</title>
+      <link>https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/</link>
+      <description>Robinhood launched beta support for AI agents that can analyze portfolios and place stock trades from a dedicated, pre-funded wallet.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">1b8bb6a6cf767eac</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google introduces Gemini for Science</title>
+      <link>https://www.digitaltrends.com/computing/google-wants-gemini-to-help-build-the-next-big-scientific-breakthrough/</link>
+      <description>Google announced Gemini for Science, an experimental agentic AI suite for hypothesis generation, computational testing, and literature review.</description>
+      <category>Digital Trends</category>
+      <guid isPermaLink="false">09b6cc53e5d8aeac</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>YouTube will automatically label significant photorealistic AI videos</title>
+      <link>https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/</link>
+      <description>YouTube is making AI-content disclosures more visible and will automatically apply labels when its systems detect significant photorealistic AI use.</description>
+      <category>Variety</category>
+      <guid isPermaLink="false">6f112f1a7286b236</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MobileMoE pushes mixture-of-experts models onto smartphones</title>
+      <link>https://arxiv.org/abs/2605.27358</link>
+      <description>A new arXiv paper introduces MobileMoE, a family of sub-billion-active-parameter MoE language models optimized for on-device deployment.</description>
+      <category>arXiv</category>
+      <guid isPermaLink="false">b8ce2eca5751d54c</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New paper warns RLHF can amplify “alignment tampering”</title>
+      <link>https://arxiv.org/abs/2605.27355</link>
+      <description>An ICML 2026 paper argues that RLHF can amplify undesired behavior when model-generated preference data mixes quality signals with hidden biases.</description>
+      <category>arXiv</category>
+      <guid isPermaLink="false">1bd1f44b68996665</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DuckDuckGo installs spike after Google’s AI Search overhaul</title>
+      <link>https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/</link>
+      <description>DuckDuckGo says U.S. app installs rose after Google’s I/O Search redesign pushed AI agents and AI-generated answers more deeply into search.</description>
+      <category>TechCrunch</category>
+      <guid isPermaLink="false">d33737cdb87d7f21</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fabricated AI citations are appearing in biomedical papers</title>
+      <link>https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/</link>
+      <description>A large audit of biomedical literature found fabricated references in peer-reviewed papers rising sharply since 2023.</description>
+      <category>The Decoder</category>
+      <guid isPermaLink="false">007cdcbfa3f2859a</guid>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic expands Claude capacity with SpaceX compute deal</title>
       <link>https://www.anthropic.com/news/higher-limits-spacex</link>
       <description>Anthropic says a new SpaceX compute partnership lets it raise Claude Code and API usage limits.</description>
       <category>Anthropic</category>
       <guid isPermaLink="false">f53c308cf32bbf51</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>MixT compression cuts LLM peak inference memory by 60.4%</title>
@@ -213,7 +269,7 @@
       <description>Cloud Security Alliance analyzed CVE-2026-24299, a Microsoft 365 Copilot command-injection vulnerability that could disclose sensitive organizational information under specific conditions.</description>
       <category>Cloud Security Alliance</category>
       <guid isPermaLink="false">e324c76ec9c9c441</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Google pushes deeper into agentic search, Gemini, and AI-first products</title>
@@ -269,7 +325,7 @@
       <description>Google is rolling out Gemini Spark as an always-on agent and expanding Antigravity as an agent-first developer platform.</description>
       <category>The Verge</category>
       <guid isPermaLink="false">6bddad8e2189c37c</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Universal Cart shows Google’s bet on AI-mediated shopping</title>
@@ -277,7 +333,7 @@
       <description>Google’s Universal Cart aims to let users collect, track, and eventually buy products across Gemini, Search, and other Google surfaces.</description>
       <category>The Verge</category>
       <guid isPermaLink="false">081ce7c919657d37</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic’s Pentagon fight highlights how close AI warfare already is</title>
@@ -309,7 +365,7 @@
       <description>AI startups commanded nearly half of all venture capital activity in May 2026, with 37 of 82 tracked deals totaling $25 billion in disclosed funding.</description>
       <category>Infor Capital / Blockchain Council</category>
       <guid isPermaLink="false">c6ed5dc79aa85eb8</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>EU AI Act High-Risk Enforcement Deadline Approaches — August 2026</title>
@@ -317,7 +373,7 @@
       <description>With the EU AI Act's August 2026 enforcement date for high-risk AI systems approaching, global compliance pressure is intensifying for AI companies operating in Europe.</description>
       <category>GDPR Local / Gunder / AIComparison.ai</category>
       <guid isPermaLink="false">cec61782ef1c88b7</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Governments Demand Pre-Release Model Testing — Major Labs Comply</title>
@@ -325,7 +381,7 @@
       <description>The US and other governments are now requiring pre-release regulatory testing for new frontier AI models, with OpenAI, Google, and Anthropic agreeing to provide early regulatory access.</description>
       <category>kersai.com / que.com</category>
       <guid isPermaLink="false">5c779be3c1f542c7</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Google I/O 2026: "The Agentic Gemini Era" Begins</title>
@@ -333,7 +389,7 @@
       <description>Google CEO Sundar Pichai declared we are "firmly in the agentic Gemini era," unveiling 50+ announcements including new frontier models, a 24/7 personal AI agent, and a major hardware pivot.</description>
       <category>Google I/O 2026 Keynote / ExplainX, TechCrunch</category>
       <guid isPermaLink="false">a86b6bbacf719721</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Tencent Launches Marvis: OS-Level AI Assistant</title>
@@ -349,7 +405,7 @@
       <description>May 2026 has already seen 37 disclosed AI funding deals totaling $25B, continuing a record-breaking year for AI venture capital.</description>
       <category>Crunchbase / Infor Capital</category>
       <guid isPermaLink="false">847a446754b90124</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>NVIDIA Nemotron 3 Nano Omni: Open-Source Multimodal Powerhouse</title>
@@ -357,7 +413,7 @@
       <description>NVIDIA released a fully open-source multimodal model supporting video, audio, image, and text in a single system.</description>
       <category>Oracle AI Blog</category>
       <guid isPermaLink="false">c91c7a010a549bdc</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>DeepSeek V4 Series Resets Price-Performance Expectations</title>
@@ -365,7 +421,7 @@
       <description>DeepSeek V4-Flash and V4-Pro released as open-weight frontier-class models with dramatically lower API pricing than Western equivalents.</description>
       <category>futureagi.com / llm-stats.com</category>
       <guid isPermaLink="false">0c3463980621baff</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Adobe Photoshop 27.7: Local AI Gets Double Credits</title>
@@ -381,7 +437,7 @@
       <description>The EU AI Act's full compliance requirements for high-risk AI systems — used in hiring, credit, healthcare, and law enforcement — take effect in August 2026.</description>
       <category>TechResearchOnline / Hungyichen.com</category>
       <guid isPermaLink="false">d12f66da6d962a3c</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Agentic AI Triggers Liability Gap Debate in US Congress</title>
@@ -389,7 +445,7 @@
       <description>The rise of autonomous AI agents is prompting urgent legal debate in the US about who bears liability when an AI agent causes harm — the user, developer, or deployer.</description>
       <category>GlobalPolicyWatch / aicomparison.ai</category>
       <guid isPermaLink="false">bd15103ca139462d</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI's reasoning model disproves a 1946 Erdős conjecture in discrete geometry</title>
@@ -397,7 +453,7 @@
       <description>OpenAI's new reasoning model autonomously disproved the planar unit distance problem first posed by Paul Erdős in 1946 — being called a milestone in AI mathematics.</description>
       <category>tldl.io</category>
       <guid isPermaLink="false">dff5f5a59c5be594</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic posts "biggest week ever": Claude Code Auto Mode, Claude Design, Karpathy hire</title>
@@ -405,7 +461,7 @@
       <description>Anthropic ran a barrage of releases this week — Claude Code Auto Mode, a new visual collaboration product called Claude Design, and confirmation that Andrej Karpathy is joining to work on Claude pretraining research.</description>
       <category>ToolsCompare AI News Digest</category>
       <guid isPermaLink="false">c99575f9811b82d9</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>DeepWeb-Bench and PALS headline this week's arXiv drops</title>
@@ -421,7 +477,7 @@
       <description>New work shows Evolution Strategies can efficiently fine-tune billion-parameter language models, with measurable gains on math reasoning benchmarks.</description>
       <category>Cognizant AI Lab</category>
       <guid isPermaLink="false">8da7a245213a6bee</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Q1 2026: 80% of global venture funding went to AI</title>
@@ -429,7 +485,7 @@
       <description>Crunchbase-style data show AI captured $242B of the $300B in global venture funding in Q1 2026 — up from 55% a year earlier — with four companies absorbing roughly 65% of that total.</description>
       <category>Blockchain Council</category>
       <guid isPermaLink="false">8a05e8abc04210df</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic and OpenAI both launch Wall Street joint ventures for enterprise AI</title>
@@ -445,7 +501,7 @@
       <description>Alibaba released Qwen3.7-Max with a deliberate focus on agentic capabilities — autonomous reasoning, tool use, and multi-step task solving.</description>
       <category>tldl.io</category>
       <guid isPermaLink="false">dff5f5a59c5be594</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI adopts Google's SynthID watermark for AI-generated images</title>
@@ -453,7 +509,7 @@
       <description>OpenAI is adopting Google's SynthID watermarking for AI-generated images and shipping a verification tool to detect AI-created content.</description>
       <category>tldl.io</category>
       <guid isPermaLink="false">dff5f5a59c5be594</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>EU AI Act hits hard-enforcement phase; US considers pre-release model vetting</title>
@@ -461,7 +517,7 @@
       <description>The EU AI Act is now in active enforcement for high-risk systems, while the White House is reportedly weighing pre-release vetting for advanced AI models.</description>
       <category>Eversheds Sutherland</category>
       <guid isPermaLink="false">0e1949814dc0cea8</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Google I/O 2026: Gemini 3.5 Flash, Spark, and Omni unveiled</title>
@@ -477,7 +533,7 @@
       <description>OpenAI announced a new reasoning system that independently disproved the planar unit-distance problem posed by Paul Erdős in 1946 — reportedly the first time an AI has autonomously resolved a major open mathematical conjecture.</description>
       <category>LLM-Stats AI News / TLDL.io</category>
       <guid isPermaLink="false">9d0ea901574f5f48</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic ships Claude Design, hires Karpathy, signs mega cloud deals</title>
@@ -485,7 +541,7 @@
       <description>Anthropic had one of the most consequential weeks of its history, pairing product launches with massive infrastructure deals and a marquee hire.</description>
       <category>The AI Track</category>
       <guid isPermaLink="false">ab7d7bf3fb0cca77</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Penn researchers demonstrate hybrid light-matter particle for optical AI compute</title>
@@ -493,7 +549,7 @@
       <description>A University of Pennsylvania team reported a hybrid light-matter quasiparticle that could enable dramatically faster and more energy-efficient AI computation, suggesting a path for optical processors to replace electronic ones on key AI workloads.</description>
       <category>ScienceDaily</category>
       <guid isPermaLink="false">5771b27d20cd9dac</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic acquires Stainless, cutting off a key dev-tools vendor used by OpenAI and Google</title>
@@ -509,7 +565,7 @@
       <description>AI-defense company **Anduril** closed a $5B Series H at a $61B valuation — the largest venture round ever in defense tech — to scale manufacturing of autonomous drones, weapons, and naval systems.</description>
       <category>AI Funding Tracker</category>
       <guid isPermaLink="false">f2e17c719db7232e</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Pre-release model testing becomes a global norm as enforcement era begins</title>
@@ -517,7 +573,7 @@
       <description>Multiple major governments are now requiring pre-release testing and transparency disclosures for frontier AI models, marking a clear shift from voluntary guidelines to active enforcement.</description>
       <category>IM Founder / TechShark</category>
       <guid isPermaLink="false">d0f972ea94febfaf</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
     <item>
       <title>Google I/O 2026: Gemini Omni, Gemini 3.5 Flash, and Agentic-First Stack Unveiled</title>
@@ -573,7 +629,7 @@
       <description>With roughly ten weeks to go, analysts warn that the bulk of EU AI Act obligations for high-risk systems will become enforceable on August 2, 2026, while most enterprises lack basic AI inventories.</description>
       <category>AI2.work</category>
       <guid isPermaLink="false">cc85b134cda740a4</guid>
-      <pubDate>Wed, 27 May 2026 03:39:18 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
