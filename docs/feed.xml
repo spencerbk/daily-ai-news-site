@@ -5,15 +5,39 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Twice-daily AI news briefing produced by the daily-ai-news Copilot skill.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 01:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 13:00:01 +0000</lastBuildDate>
     <generator>ballard-daily-ai-news</generator>
+    <item>
+      <title>AI Funding Tracker: Cognition, Groq, and XCENA Headline a $1B+ Week</title>
+      <link>https://www.vcbacked.co/daily/2026-05-30</link>
+      <description>A flurry of AI funding deals closed in the last 48 hours across coding agents, inference chips, and AI memory hardware.</description>
+      <category>VCBacked / AI Funding Deal Tracker</category>
+      <guid isPermaLink="false">390186e024224572</guid>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Chat Sharing Comes to Google Drive</title>
+      <link>https://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html</link>
+      <description>Google will let Workspace users share Gemini conversation snapshots through Google Drive's standard sharing interface starting June 3.</description>
+      <category>The Verge</category>
+      <guid isPermaLink="false">89f857108bcba4ed</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Pulls Internal Leaderboard Tracking AI Usage</title>
+      <link>https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6</link>
+      <description>Amazon shut down an internal scoreboard ranking employees by AI tool usage after staff began assigning agents to busywork just to climb the rankings.</description>
+      <category>The Verge (citing Financial Times)</category>
+      <guid isPermaLink="false">72f7b2076a0177fa</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic Hits $965B Valuation, Overtakes OpenAI as Most Valuable AI Startup</title>
       <link>https://en.sedaily.com/international/2026/05/30/anthropic-hits-965-billion-valuation-overtakes-openai</link>
       <description>Anthropic closed a $65B funding round led by Altimeter Capital at a $965 billion valuation, surpassing OpenAI's $852B mark from March and nearing the $1T threshold.</description>
       <category>Seoul Economic Daily / CNBC</category>
       <guid isPermaLink="false">71a52442bbdca59e</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI and Anthropic Ventures in Advanced Talks to Acquire AI Services Firms</title>
@@ -21,7 +45,7 @@
       <description>Both labs are reportedly in advanced negotiations to buy AI deployment and consulting companies, marking a strategic pivot toward services-plus-platform business models.</description>
       <category>Reuters via U.S. News</category>
       <guid isPermaLink="false">debbc0ea82f70baa</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Google Launches Gemini Enterprise Agent Platform, Retires Vertex AI</title>
@@ -45,7 +69,7 @@
       <description>On May 7, the EU formally adopted the Digital Omnibus amendment, pushing high-risk AI system compliance deadlines from August 2026 to December 2027 (standalone) and August 2028 (embedded in regulated products), while adding new explicit prohibitions.</description>
       <category>Covington Global Policy Watch / Quantamix</category>
       <guid isPermaLink="false">410f1810714b90c7</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic releases Claude Opus 4.8</title>
@@ -53,7 +77,7 @@
       <description>Anthropic shipped Claude Opus 4.8 on May 28, the latest step in the Opus 4.x line targeting reasoning and multi-step workflow orchestration.</description>
       <category>Codersera Monthly Roundup</category>
       <guid isPermaLink="false">02e27fe042ccd026</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Google rebuilds Gemini as the agent layer for its entire stack at I/O 2026</title>
@@ -61,7 +85,7 @@
       <description>At Google I/O 2026, Google unveiled a rebuilt Gemini app with a "Neural Expressive" design language and pushed Gemini deeper into Search, Workspace, Chrome, YouTube, and smart glasses.</description>
       <category>newzai.ai Weekly Recap</category>
       <guid isPermaLink="false">3ca449d00e300114</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI reasoning model cracks Erdős's 80-year-old unit distance problem</title>
@@ -77,7 +101,7 @@
       <description>Anthropic is reportedly closing a funding round that would value the company near $900 billion, while simultaneously reporting its first profitable quarter — ahead of internal projections.</description>
       <category>kersai.com</category>
       <guid isPermaLink="false">03f9f685b7991254</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Meta cuts ~8,000 jobs in aggressive AI-first restructuring</title>
@@ -85,7 +109,7 @@
       <description>Meta executed large-scale layoffs of roughly 8,000 employees this month as it consolidates its AI business and reorients around agentic products and AI-first infrastructure.</description>
       <category>THE DECODER</category>
       <guid isPermaLink="false">c494dbaa87d16d59</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Zyphra's ZAYA1-8B is the first competitive open model trained entirely on AMD hardware</title>
@@ -93,7 +117,7 @@
       <description>Zyphra released ZAYA1-8B on May 6 under Apache 2.0 — a Mixture-of-Experts model activating only ~760M parameters per inference, trained end-to-end on AMD GPUs.</description>
       <category>devFlokers Open-Source Roundup</category>
       <guid isPermaLink="false">2dd2b350666de6f5</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Cursor 3.0 makes parallel agent orchestration a first-class IDE primitive</title>
@@ -101,7 +125,7 @@
       <description>Cursor 3.0 shipped a new "Agents Window" that lets developers run multiple coding agents in parallel across local and remote branches from inside the IDE.</description>
       <category>DataCamp</category>
       <guid isPermaLink="false">adeaaa6f6497a5f3</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Researchers warn shared ChatGPT and Claude chat links are being weaponized to deliver malware</title>
@@ -109,7 +133,7 @@
       <description>Security researchers disclosed new exploit techniques abusing shared ChatGPT and Claude conversation links to distribute malware and trigger unsafe tool calls in downstream agents.</description>
       <category>THE DECODER</category>
       <guid isPermaLink="false">c494dbaa87d16d59</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic Closes $65B Series H, Surpasses OpenAI as World's Most Valuable AI Startup</title>
@@ -125,7 +149,7 @@
       <description>In a five-day stretch, Anthropic, Mistral, Google DeepMind, and Meta each absorbed an AI startup, signaling an intensifying consolidation phase.</description>
       <category>Startuphub.ai</category>
       <guid isPermaLink="false">ebc041a2e3e658f0</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Trump Postpones Frontier-AI Executive Order; EU AI Act Now in Active Enforcement</title>
@@ -133,7 +157,7 @@
       <description>The White House pulled back a planned executive order mandating federal pre-release vetting of frontier AI models, even as the EU's AI Act moves from planning to active enforcement.</description>
       <category>CNBC</category>
       <guid isPermaLink="false">3c4db1f2fe97f09c</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI's Codex Computer-Use Agent Lands on Windows</title>
@@ -181,7 +205,7 @@
       <description>Moonshot AI launched Kimi K2.6, an open-source coding model claiming state-of-the-art results on long-horizon code generation and autonomous debugging.</description>
       <category>Moonshot Kimi Blog</category>
       <guid isPermaLink="false">dc51f13ee3f9e8eb</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Previews Copilot Health AI for Medical Records</title>
@@ -237,7 +261,7 @@
       <description>New 2026 evaluations on the "Humanity's Last Exam" benchmark report top models scoring 87% on expert-level tasks — up from 34% in 2025 — alongside ~94% on multi-modal reasoning and large drops in inference cost and training time.</description>
       <category>Trendscoped</category>
       <guid isPermaLink="false">a8a51534db2cd546</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic Closes $65B Series H at a $965B Valuation, Passing OpenAI</title>
@@ -245,7 +269,7 @@
       <description>Anthropic announced a $65 billion Series H at a $965 billion post-money valuation, making it — at least on paper — the most valuable AI startup in the world and overtaking OpenAI in private-market value.</description>
       <category>The Straits Times</category>
       <guid isPermaLink="false">163b1c12e49ecb0c</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>AWS Rebuilds Resilience Hub and OpenSearch Serverless Around Agentic AI</title>
@@ -261,7 +285,7 @@
       <description>Hugging Face Transformers 5.0 landed with faster model loading and better memory management, while LangChain 1.0 reached production-ready status with stronger multi-model orchestration — capped by Cline SDK passing 8M installs.</description>
       <category>AF.net Realtime</category>
       <guid isPermaLink="false">4f9c479289e3fc4d</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>White House Distances Itself From Tougher AI Regulation, Leans on Industry Partnership</title>
@@ -341,7 +365,7 @@
       <description>Google is adding Preferred Sources labels, new article carousels, and expanded “Highly Cited” badges to make original and user-selected sources more visible in AI search.</description>
       <category>Summary: Google is adding Preferred Sources labels, new article carousels, and expanded “Highly Cited” badges to make original and user-selected sources more visible in AI search.</category>
       <guid isPermaLink="false">e8a631299cb6916d</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>ElevenLabs launches Music v2 for more controllable AI song generation</title>
@@ -501,7 +525,7 @@
       <description>A large audit of biomedical literature found fabricated references in peer-reviewed papers rising sharply since 2023.</description>
       <category>The Decoder</category>
       <guid isPermaLink="false">007cdcbfa3f2859a</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic expands Claude capacity with SpaceX compute deal</title>
@@ -509,7 +533,7 @@
       <description>Anthropic says a new SpaceX compute partnership lets it raise Claude Code and API usage limits.</description>
       <category>Anthropic</category>
       <guid isPermaLink="false">f53c308cf32bbf51</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>MixT compression cuts LLM peak inference memory by 60.4%</title>
@@ -709,7 +733,7 @@
       <description>Cloud Security Alliance analyzed CVE-2026-24299, a Microsoft 365 Copilot command-injection vulnerability that could disclose sensitive organizational information under specific conditions.</description>
       <category>Cloud Security Alliance</category>
       <guid isPermaLink="false">e324c76ec9c9c441</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Google pushes deeper into agentic search, Gemini, and AI-first products</title>
@@ -765,7 +789,7 @@
       <description>Google is rolling out Gemini Spark as an always-on agent and expanding Antigravity as an agent-first developer platform.</description>
       <category>The Verge</category>
       <guid isPermaLink="false">6bddad8e2189c37c</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Universal Cart shows Google’s bet on AI-mediated shopping</title>
@@ -773,7 +797,7 @@
       <description>Google’s Universal Cart aims to let users collect, track, and eventually buy products across Gemini, Search, and other Google surfaces.</description>
       <category>The Verge</category>
       <guid isPermaLink="false">081ce7c919657d37</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 13:00:01 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic’s Pentagon fight highlights how close AI warfare already is</title>
@@ -782,30 +806,6 @@
       <category>The Verge</category>
       <guid isPermaLink="false">7d86e3caf758e1d0</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pope Leo XIV calls for AI governance centered on human dignity</title>
-      <link>https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare</link>
-      <description>Pope Leo XIV’s first encyclical, *Magnifica Humanitas*, calls for stronger ethical and legal frameworks around AI, labor, warfare, education, and algorithmic power.</description>
-      <category>The Verge / Vatican</category>
-      <guid isPermaLink="false">04ae3b22f0510f5a</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google I/O 2026: Gemini Omni Debuts — 100 AI Announcements Drop</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/</link>
-      <description>Google's most AI-saturated developer conference ever kicked off today, unveiling Gemini Omni and a sweeping overhaul of nearly every Google product with AI.</description>
-      <category>Google Blog / Cybernews / eWeek</category>
-      <guid isPermaLink="false">492f3d281a57d964</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Captures 45% of All VC Deals in May — $25B Disclosed</title>
-      <link>https://inforcapital.com/blog/2026-05-09-ai-startup-funding-surges-in-may-37-deals-and-25-billion-as-investors-double-down-on-machine-learning/</link>
-      <description>AI startups commanded nearly half of all venture capital activity in May 2026, with 37 of 82 tracked deals totaling $25 billion in disclosed funding.</description>
-      <category>Infor Capital / Blockchain Council</category>
-      <guid isPermaLink="false">c6ed5dc79aa85eb8</guid>
-      <pubDate>Sun, 31 May 2026 01:39:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
