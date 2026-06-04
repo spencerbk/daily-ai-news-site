@@ -1,811 +1,806 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>Daily AI News</title>
+    <title>News Digest</title>
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
-    <description>Twice-daily AI news briefing produced by the daily-ai-news Copilot skill.</description>
+    <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 13:00:02 +0000</lastBuildDate>
-    <generator>ballard-daily-ai-news</generator>
-    <item>
-      <title>Microsoft launches "Scout" agentic autopilot across Microsoft 365</title>
-      <link>https://www.artificialintelligence-news.com/</link>
-      <description>Microsoft rolled out Scout, a new agentic AI system that operates autonomously across the M365 productivity suite.</description>
-      <category>artificialintelligence-news.com</category>
-      <guid isPermaLink="false">fe8d61ae851eb7be</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon partners with Kate Spade on AI shopping assistant for retailers</title>
-      <link>https://www.artificialintelligence-news.com/</link>
-      <description>Amazon unveiled a retailer-facing AI shopping assistant, debuting in partnership with Kate Spade.</description>
-      <category>artificialintelligence-news.com</category>
-      <guid isPermaLink="false">fe8d61ae851eb7be</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA debuts "physical AI agent skills" at CVPR</title>
-      <link>https://nvidianews.nvidia.com/news</link>
-      <description>At CVPR 2026, NVIDIA introduced a new set of physical AI agent skills for autonomous vehicles, robotics, and computer vision pipelines.</description>
-      <category>NVIDIA Newsroom</category>
-      <guid isPermaLink="false">c6f644f3dbcd53b4</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic raises $65B at $965B valuation, overtakes OpenAI as most valuable private AI lab</title>
-      <link>https://aifundingtracker.com/top-50-ai-startups/</link>
-      <description>Anthropic closed a Series H combining equity and a $36B private credit facility arranged by Apollo and Blackstone, taking its post-money valuation to $965B.</description>
-      <category>AI Funding Tracker / Build Fast With AI</category>
-      <guid isPermaLink="false">cf261bf9422c7729</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google commits $40B to Anthropic, expands Gemini enterprise stack</title>
-      <link>https://chatfin.ai/blog/2026-ai-breakthroughs-gpt-5-5-40b-google-anthropic-investment-and-new-audit-standards/</link>
-      <description>Google pledged $40B to Anthropic alongside major upgrades to its own enterprise AI platform.</description>
-      <category>ChatFin / ToolsCompare.AI</category>
-      <guid isPermaLink="false">0c2d9f2b52b9fbb2</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw crosses 280K GitHub stars for local-first autonomous agents</title>
-      <link>https://www.aimagicx.com/blog/best-open-source-ai-agent-frameworks-2026</link>
-      <description>OpenClaw has become one of the most starred open-source AI repos in history, focused on local-first agents that plug into messaging apps.</description>
-      <category>aimagicx.com</category>
-      <guid isPermaLink="false">25444782376e2e01</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>VoxCPM2 raises the bar for open-source multilingual TTS</title>
-      <link>https://aitoolly.com/ai-news/2026-06-01</link>
-      <description>OpenBMB released VoxCPM2, a tokenizer-free text-to-speech framework producing realistic multilingual voice cloning.</description>
-      <category>AIToolly</category>
-      <guid isPermaLink="false">3e38ec42077499fe</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump signs executive order asking AI companies for voluntary early access to frontier models</title>
-      <link>https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/</link>
-      <description>On June 2, President Trump signed an executive order on "Promoting Advanced Artificial Intelligence Innovation and Security."</description>
-      <category>CBS News / CNBC / White House</category>
-      <guid isPermaLink="false">ba817a1151c490a6</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI publicly diverges from the White House on AI safety oversight</title>
-      <link>https://www.politico.com/news/2026/06/03/openai-white-house-ai-safety-rules-00948478</link>
-      <description>OpenAI published a policy paper pushing back on the voluntary, intelligence-community-led model in Trump's executive order.</description>
-      <category>Politico</category>
-      <guid isPermaLink="false">f93fa1d7efeed67a</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Build 2026 Unveils MAI Model Family and Agentic Copilot Stack</title>
-      <link>https://www.notebookcheck.net/Microsoft-Build-2026-What-to-expect-from-the-June-2-keynote.1311546.0.html</link>
-      <description>At Build 2026 in San Francisco (June 2–3), Microsoft introduced its in-house "MAI" model family — including a coding-focused MAI variant now powering GitHub Copilot — signaling a clear move to reduce dependence on OpenAI for foundation models.</description>
-      <category>Notebookcheck</category>
-      <guid isPermaLink="false">cd51bfc4417f28bc</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Preparing GPT-5.6 Launch This Month</title>
-      <link>https://www.geeky-gadgets.com/gpt-5-6-june-2026-release/</link>
-      <description>OpenAI is staging the release of GPT-5.6, positioned as a step-change in agentic workflows, advanced reasoning, and token efficiency designed to widen the gap against Claude Opus 4.8 and Gemini 3.5 Pro.</description>
-      <category>Geeky Gadgets</category>
-      <guid isPermaLink="false">31083a33f8dffea3</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chipmakers Drive S&amp;P 500 to Record Close on AI Demand</title>
-      <link>https://www.fool.com/coverage/stock-market-today/2026/06/02/stock-market-today-june-2-chipmakers-drive-s-and-p-500-to-another-record-close/</link>
-      <description>AI semiconductor names led the S&amp;P 500 to another record close on June 2, with Marvell Technology rallying on AI-related product news and Nvidia and HPE commentary buoying the cohort.</description>
-      <category>The Motley Fool</category>
-      <guid isPermaLink="false">43ee7cc040d51015</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google's June 2026 Android Feature Drop Adds AI Scam-Call Detection and "Digital Wardrobe"</title>
-      <link>https://www.androidauthority.com/june-2026-android-drop-3673129/</link>
-      <description>Google's June 2026 Android Feature Drop (rolling out June 2) introduces a slate of AI-powered consumer features, headlined by fake-call detection in the Phone app and a Google Photos "Digital Wardrobe."</description>
-      <category>Android Authority</category>
-      <guid isPermaLink="false">da3210adc646eb11</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU AI Act High-Risk Obligations Enforceable in 60 Days</title>
-      <link>https://www.glacis.io/guide-eu-ai-act</link>
-      <description>With the EU AI Act's high-risk system obligations set to become enforceable on August 2, 2026, June has become the de facto sprint month for compliance programs, audits, and member-state enforcement structures.</description>
-      <category>GLACIS</category>
-      <guid isPermaLink="false">7178d045295f3b47</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic overtakes OpenAI as most valuable private AI company at $965B valuation</title>
-      <link>https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/</link>
-      <description>Anthropic closed a ~$65B round at a $965B post-money valuation and confidentially filed for IPO, dethroning OpenAI on private-market value.</description>
-      <category>Kersai</category>
-      <guid isPermaLink="false">73916aed40a22677</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI releases GPT-5.5 and repositions Codex as a general knowledge-work platform</title>
-      <link>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-june-2-2026/</link>
-      <description>OpenAI shipped GPT-5.5 Instant for reasoning/coding and rebuilt Codex into a multi-role platform with plugins, Sites collaboration, and spreadsheet/data-analysis support.</description>
-      <category>The Neuron</category>
-      <guid isPermaLink="false">45d8f206b909206f</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google launches Gemini 3.5 Flash, Gemma 4, and new Gemini Enterprise Agent Platform</title>
-      <link>https://hipther.com/latest-news/2026/06/02/112626/ai-dispatch-daily-trends-and-innovations-june-2-2026-nvidia-microsoft-starbucks-alphabet-berkshire-hathaway-openai-and-aws/0/</link>
-      <description>Google rolled out Gemini 3.5 Flash inside Search AI Mode, opened Gemma 4 to developers, and unveiled an enterprise agent stack alongside new AI chips.</description>
-      <category>AI Dispatch / Hipther</category>
-      <guid isPermaLink="false">e06a96d9ea6e7c2c</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA unveils Cosmos 3 — first fully open "omnimodel" for physical AI</title>
-      <link>https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Cosmos-3-the-Open-Frontier-Foundation-Model-for-Physical-AI/default.aspx</link>
-      <description>NVIDIA released Cosmos 3, an open foundation model that natively combines vision, reasoning, simulation, and action generation for robotics and autonomous systems.</description>
-      <category>NVIDIA Investor Relations</category>
-      <guid isPermaLink="false">1e8382ff4e84d4c0</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MiniMax M3 debuts Sparse Attention with 9×/15× speedups at 1M-token context</title>
-      <link>https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/</link>
-      <description>MiniMax released M3, a multimodal model whose new Sparse Attention architecture uses roughly 1/20th the compute per token versus prior generations while supporting 1M-token inputs.</description>
-      <category>AIApps.com</category>
-      <guid isPermaLink="false">481370be4de53c20</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nous Research ships Hermes Desktop — open-source, MIT-licensed agentic AI app</title>
-      <link>https://toolscompare.ai/news/june-2026</link>
-      <description>Nous Research released Hermes Desktop, a cross-platform open-source agent application under the MIT license, giving developers a free local foundation for agentic workflows.</description>
-      <category>ToolsCompare.AI June Digest</category>
-      <guid isPermaLink="false">174c88ab9e7b4f08</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump signs scaled-back AI executive order requesting voluntary 30-day model reviews</title>
-      <link>https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389</link>
-      <description>President Trump signed a narrower-than-expected AI oversight EO after industry pushback, replacing a proposed 90-day mandatory review with a voluntary 30-day pre-release security review.</description>
-      <category>Politico / CNBC / TechCrunch</category>
-      <guid isPermaLink="false">75e6135cf36437ce</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic expands Claude Mythos Preview (Project Glasswing) to 150 more organizations</title>
-      <link>https://www.anthropic.com/news/expanding-project-glasswing</link>
-      <description>Anthropic is extending its security-focused Claude Mythos Preview to ~150 additional organizations across 15+ countries, with critical-infrastructure sectors (power, water, healthcare, telecom) heavily represented.</description>
-      <category>Anthropic / CyberScoop / CNBC</category>
-      <guid isPermaLink="false">fd9b87df1fe1b911</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Codex passes 5 million weekly active users; 20% are now non-developers</title>
-      <link>https://openai.com/index/codex-for-knowledge-work/</link>
-      <description>OpenAI says Codex has crossed 5M weekly users — a 6× jump since the February 2026 desktop launch — driven heavily by knowledge workers using it for reports, spreadsheets, contracts, and analysis.</description>
-      <category>OpenAI / TechCrunch</category>
-      <guid isPermaLink="false">6032564f0e0e22d3</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google rolls out Gemini Spark — a 24/7 cloud-based personal AI agent</title>
-      <link>https://gemini.google/overview/agent/spark/</link>
-      <description>Following Google I/O, Gemini Spark is now reaching AI Ultra subscribers as a persistent cloud agent that runs tasks autonomously while devices are off.</description>
-      <category>The Verge / Mashable</category>
-      <guid isPermaLink="false">837344434e938634</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA RTX Spark (N1/N1X) — first NVIDIA-designed PC CPU — debuts at Computex</title>
-      <link>https://www.nvidia.com/en-us/geforce/news/computex-2026-nvidia-geforce-rtx-announcements/</link>
-      <description>NVIDIA's ARM-based RTX Spark SoC, co-designed with MediaTek, lands in Windows laptops and mini desktops from Dell, HP, Lenovo, ASUS, MSI, and Microsoft.</description>
-      <category>NVIDIA / CNBC / Digital Foundry</category>
-      <guid isPermaLink="false">16ba521427edc725</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Industry reaction: AI EO's voluntary framing hailed by builders, criticized by safety advocates</title>
-      <link>https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/</link>
-      <description>Coverage of Trump's EO splits along familiar lines — AI labs welcome the "no licensing" guardrail, while safety researchers say a 30-day voluntary window is too weak for frontier models with proven offensive capability (e.g., Anthropic's Mythos disclosures).</description>
-      <category>TechCrunch / OPB</category>
-      <guid isPermaLink="false">341982e0fef39e15</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Files Confidential S-1, Setting Up Potentially Record-Breaking IPO</title>
-      <link>https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/</link>
-      <description>Anthropic officially confirmed it has confidentially submitted a draft S-1 to the SEC for an IPO, on the heels of a $65B Series H at a $965B valuation.</description>
-      <category>TechCrunch</category>
-      <guid isPermaLink="false">2a5d03e1e09c4333</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI's Codex Lands on Windows With Full Computer-Use Powers</title>
-      <link>https://developers.openai.com/codex/app/computer-use</link>
-      <description>After launching on Mac, OpenAI's Codex coding agent now ships on Windows with the "computer use" capability that lets it see the screen and perform tasks on the device.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">17e1bd2e5fb6baeb</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Brings DLSS 4.5 Ray Reconstruction to All RTX GPUs</title>
-      <link>https://www.nvidia.com/en-us/geforce/news/dlss-4-5-ray-reconstruction-1000-rtx-games-apps-out-now/</link>
-      <description>Alongside its Computex push for the RTX Spark ARM-based Windows platform, Nvidia announced a new DLSS 4.5 Ray Reconstruction feature that will work on every GeForce RTX GPU starting in August.</description>
-      <category>The Verge / Nvidia</category>
-      <guid isPermaLink="false">28220122f6a55b3d</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attackers Hijack High-Value Instagram Accounts by Tricking Meta's Own AI Support Bot</title>
-      <link>https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/</link>
-      <description>Researchers and journalists documented an account-takeover technique that used prompt manipulation of Meta's AI-powered Instagram support chatbot to hand over rare and high-profile handles — sometimes bypassing 2FA.</description>
-      <category>TechCrunch / Krebs on Security</category>
-      <guid isPermaLink="false">b3d6b1b4ececf6fc</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU AI Act Transparency Rules Go Live on August 2</title>
-      <link>https://www.skadden.com/insights/publications/2026/05/ai-act-state-of-play</link>
-      <description>Reminder reporting this week emphasized that on August 2, 2026 the EU AI Act's transparency obligations become enforceable, even as high-risk rules slip to December 2027.</description>
-      <category>Skadden / WorldReporter analysis</category>
-      <guid isPermaLink="false">4486551d48e4536a</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Closes Record $65B Round at $965B Valuation, Files Confidential IPO</title>
-      <link>https://www.buildfastwithai.com/blogs/ai-news-today-june-1-2026</link>
-      <description>Anthropic raised $65B at a $965B post-money valuation — the largest private funding round in AI history — overtaking OpenAI as the most valuable private AI company, and has confidentially filed for an IPO.</description>
-      <category>BuildFastWithAI / AI Weekly</category>
-      <guid isPermaLink="false">4a21b5bbd6396950</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Gemini 3.5 Flash Becomes Default Gemini Model</title>
-      <link>https://llm-stats.com/llm-updates</link>
-      <description>Google promoted Gemini 3.5 Flash to the default Gemini tier, citing wins on coding, tool-use, and low-latency agentic workloads versus the prior Gemini 3.1 Pro.</description>
-      <category>LLM-Stats / AI Updates</category>
-      <guid isPermaLink="false">78e4674f2cf6d07c</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 4.8 Ships With 4× Code-Reliability Gains</title>
-      <link>https://aiweekly.co/</link>
-      <description>Anthropic released Claude Opus 4.8 on May 27–28, claiming a roughly fourfold improvement in code reliability and stronger agentic tool use.</description>
-      <category>AI Weekly / LLM-Stats</category>
-      <guid isPermaLink="false">1dd91e7e2feaf9d8</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SoftBank Commits €75B to Build 5GW of AI Infrastructure in France</title>
-      <link>https://aiweekly.co/</link>
-      <description>SoftBank announced a €75B commitment to develop 5 gigawatts of AI compute capacity in France, one of the largest single AI infrastructure pledges to date in Europe.</description>
-      <category>BuildFastWithAI / AI Weekly</category>
-      <guid isPermaLink="false">1dd91e7e2feaf9d8</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>May 2026 AI Funding: Sierra, Lambda, Parallel Web, Anduril, ElevenLabs Headline</title>
-      <link>https://techstartups.com/2026/05/27/venture-capital-startup-funding-roundup-may-27-2026/</link>
-      <description>May 2026 saw a fresh wave of AI mega-rounds beyond Anthropic, with disclosed AI startup funding estimated between $25B and $364B depending on source.</description>
-      <category>TechStartups / AI Funding Tracker / Marvin-42 Insights</category>
-      <guid isPermaLink="false">ee55e332f27cbc26</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot Switches to Token-Based Billing</title>
-      <link>https://www.buildfastwithai.com/blogs/ai-news-today-june-1-2026</link>
-      <description>GitHub Copilot moved to token-based billing for its paid tiers, triggering significant debate among developers over pricing predictability and value-for-money.</description>
-      <category>BuildFastWithAI</category>
-      <guid isPermaLink="false">4a21b5bbd6396950</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>First Live LLM-Agent Cyberattack: Autonomous Cloud Exfiltration in Under an Hour</title>
-      <link>https://www.buildfastwithai.com/blogs/ai-news-today-june-1-2026</link>
-      <description>Security researchers documented what is being described as the first live LLM-agent-driven cyberattack in the wild, in which an autonomous agent exfiltrated cloud data within roughly one hour of initial compromise.</description>
-      <category>BuildFastWithAI</category>
-      <guid isPermaLink="false">4a21b5bbd6396950</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU "Omnibus VII" Simplifies AI Act and Adjusts Deadlines</title>
-      <link>https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/</link>
-      <description>On May 7, 2026, the EU Council and Parliament reached a provisional agreement on the "Omnibus VII" amendments, simplifying and staggering AI Act compliance deadlines while adding targeted new prohibitions.</description>
-      <category>Council of the EU / Global Policy Watch</category>
-      <guid isPermaLink="false">f350d4d48d857e52</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI publishes Frontier Governance Framework and third-party evals playbook</title>
-      <link>https://openai.com/news/</link>
-      <description>On May 29, OpenAI released a new Frontier Governance Framework and a shared playbook for trustworthy third-party model evaluations, formalizing how external auditors should probe frontier systems.</description>
-      <category>OpenAI News</category>
-      <guid isPermaLink="false">36b87804a01a2d45</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google launches Gemini 3.5 Flash and Gemini Omni Flash as default Gemini tier</title>
-      <link>https://deepmind.google/blog/</link>
-      <description>Google made Gemini 3.5 Flash and the multi-modal Gemini Omni Flash the default Gemini models across Search, Workspace, and Cloud, with a Gemini 3.5 Pro release teased for later in June.</description>
-      <category>Google DeepMind Blog</category>
-      <guid isPermaLink="false">dd5d9b8662f33e9f</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anduril raises $5B Series H at $61B valuation — largest defense-AI round on record</title>
-      <link>https://af.net/realtime/ai-startups-raised-364-billion-in-may-2026-vc-funding-breakdown/</link>
-      <description>Autonomous-systems and defense-AI company Anduril closed a $5 billion Series H at a $61 billion valuation, the largest defense-tech AI financing in history.</description>
-      <category>Today's Startup News / af.net tracker</category>
-      <guid isPermaLink="false">bf43aa9784e2b6e8</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot moves to AI-credit billing starting June 1, 2026</title>
-      <link>https://app.aibradaa.com/blog/open-source-ai-tools-may-2026</link>
-      <description>GitHub Copilot transitions its pricing model to AI-credit billing as of today, June 1, 2026, replacing flat per-seat metering for higher-tier agentic and long-context features.</description>
-      <category>Latest AI dev-tools roundup, May–June 2026</category>
-      <guid isPermaLink="false">12a59e54ee0061d2</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU AI Act becomes fully enforceable; general-purpose AI obligations now live</title>
-      <link>https://aipilotdaily.com/2026/05/ai-regulations-update-may-2026-policy-changes-and-compliance-guide-3/</link>
-      <description>As of May 2026, the EU AI Act is fully enforceable, with the last phase — covering general-purpose AI models and value-chain operators — now active and policed by the European AI Office alongside national regulators.</description>
-      <category>AI Pilot Daily / VFutureMedia regulatory summary</category>
-      <guid isPermaLink="false">b46e2bbece6defd6</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>US federal AI EO collides with active California and Colorado state laws</title>
-      <link>https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance</link>
-      <description>The December 2025 federal executive order "Ensuring a National Policy Framework for Artificial Intelligence" is now in active tension with comprehensive California and Colorado AI laws that began enforcement in late 2025.</description>
-      <category>Gunder 2026 AI Laws Update</category>
-      <guid isPermaLink="false">0c0f474c58926114</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI's Codex expands to Windows, gains computer use, memory, and image generation</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos</link>
-      <description>OpenAI rolled out a sweeping Codex update — computer-control of desktop apps, native browsing, image generation via gpt-image-1.5, persistent memory, and parallel background agents — and on May 29 extended the computer-use feature from macOS to Windows.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">bcd279e5b551b00e</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZAYA1-8B drops as an open-weight MoE trained on AMD hardware</title>
-      <link>https://whatllm.org/blog/new-ai-models-may-2026</link>
-      <description>A new 8B-parameter Mixture-of-Experts model, ZAYA1-8B, was released as open weights and is notable for being trained efficiently on AMD accelerators rather than NVIDIA — paired with a novel attention mechanism aimed at hardware-cost optimization.</description>
-      <category>WhatLLM analysis / arXiv listings</category>
-      <guid isPermaLink="false">59fcf00e0c10696e</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Funding Tracker: Cognition, Groq, and XCENA Headline a $1B+ Week</title>
-      <link>https://www.vcbacked.co/daily/2026-05-30</link>
-      <description>A flurry of AI funding deals closed in the last 48 hours across coding agents, inference chips, and AI memory hardware.</description>
-      <category>VCBacked / AI Funding Deal Tracker</category>
-      <guid isPermaLink="false">390186e024224572</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini Chat Sharing Comes to Google Drive</title>
-      <link>https://workspaceupdates.googleblog.com/2026/04/share-chats-canvases-and-generated-media-from-the-Gemini-app-securely-via-Google-Drive.html</link>
-      <description>Google will let Workspace users share Gemini conversation snapshots through Google Drive's standard sharing interface starting June 3.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">89f857108bcba4ed</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon Pulls Internal Leaderboard Tracking AI Usage</title>
-      <link>https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6</link>
-      <description>Amazon shut down an internal scoreboard ranking employees by AI tool usage after staff began assigning agents to busywork just to climb the rankings.</description>
-      <category>The Verge (citing Financial Times)</category>
-      <guid isPermaLink="false">72f7b2076a0177fa</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Hits $965B Valuation, Overtakes OpenAI as Most Valuable AI Startup</title>
-      <link>https://en.sedaily.com/international/2026/05/30/anthropic-hits-965-billion-valuation-overtakes-openai</link>
-      <description>Anthropic closed a $65B funding round led by Altimeter Capital at a $965 billion valuation, surpassing OpenAI's $852B mark from March and nearing the $1T threshold.</description>
-      <category>Seoul Economic Daily / CNBC</category>
-      <guid isPermaLink="false">71a52442bbdca59e</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI and Anthropic Ventures in Advanced Talks to Acquire AI Services Firms</title>
-      <link>https://money.usnews.com/investing/news/articles/2026-05-05/openai-anthropic-ventures-in-talks-to-buy-ai-services-firms</link>
-      <description>Both labs are reportedly in advanced negotiations to buy AI deployment and consulting companies, marking a strategic pivot toward services-plus-platform business models.</description>
-      <category>Reuters via U.S. News</category>
-      <guid isPermaLink="false">debbc0ea82f70baa</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Launches Gemini Enterprise Agent Platform, Retires Vertex AI</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform/</link>
-      <description>At Google I/O 2026, Google retired Vertex AI and replaced it with the Gemini Enterprise Agent Platform, anchored by the new "Gemini Spark" 24/7 autonomous agent for enterprise workflows.</description>
-      <category>Google Blog / Epinium</category>
-      <guid isPermaLink="false">14c34138c3928013</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kore.ai Launches Artemis Platform with YAML-Based Agent Blueprint Language</title>
-      <link>https://novalogiq.com/2026/05/21/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce/</link>
-      <description>Kore.ai unveiled Artemis on May 21, introducing Agent Blueprint Language (ABL) — a YAML-based standard for defining, governing, and deploying enterprise AI agents.</description>
-      <category>NovaLogiq</category>
-      <guid isPermaLink="false">6aa03636149ff0da</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU AI Act Digital Omnibus Amendment Postpones High-Risk Rules to 2027–2028</title>
-      <link>https://www.globalpolicywatch.com/2026/05/eu-ai-act-update-timeline-relief-targeted-simplification-and-new-prohibitions/</link>
-      <description>On May 7, the EU formally adopted the Digital Omnibus amendment, pushing high-risk AI system compliance deadlines from August 2026 to December 2027 (standalone) and August 2028 (embedded in regulated products), while adding new explicit prohibitions.</description>
-      <category>Covington Global Policy Watch / Quantamix</category>
-      <guid isPermaLink="false">410f1810714b90c7</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic releases Claude Opus 4.8</title>
-      <link>https://codersera.com/blog/ai-models-released-may-2026-monthly-roundup/</link>
-      <description>Anthropic shipped Claude Opus 4.8 on May 28, the latest step in the Opus 4.x line targeting reasoning and multi-step workflow orchestration.</description>
-      <category>Codersera Monthly Roundup</category>
-      <guid isPermaLink="false">02e27fe042ccd026</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google rebuilds Gemini as the agent layer for its entire stack at I/O 2026</title>
-      <link>https://newzai.ai/resources/articles/ai-world-week-recap-may-2026</link>
-      <description>At Google I/O 2026, Google unveiled a rebuilt Gemini app with a "Neural Expressive" design language and pushed Gemini deeper into Search, Workspace, Chrome, YouTube, and smart glasses.</description>
-      <category>newzai.ai Weekly Recap</category>
-      <guid isPermaLink="false">3ca449d00e300114</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI reasoning model cracks Erdős's 80-year-old unit distance problem</title>
-      <link>https://www.newscientist.com/article/2527564-mathematicians-stunned-by-ais-biggest-breakthrough-in-mathematics-yet/</link>
-      <description>An OpenAI general-purpose reasoning model produced a counterexample to Paul Erdős's 1946 planar unit distance conjecture, overturning a near-linear growth assumption that had stood for nearly 80 years.</description>
-      <category>New Scientist</category>
-      <guid isPermaLink="false">287c95db94563f08</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic nears $900B valuation as it posts its first profitable quarter</title>
-      <link>https://kersai.com/may-2026-biggest-month-in-ai-history-anthropic-openai-gemini-business-guide/</link>
-      <description>Anthropic is reportedly closing a funding round that would value the company near $900 billion, while simultaneously reporting its first profitable quarter — ahead of internal projections.</description>
-      <category>kersai.com</category>
-      <guid isPermaLink="false">03f9f685b7991254</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta cuts ~8,000 jobs in aggressive AI-first restructuring</title>
-      <link>https://the-decoder.com/</link>
-      <description>Meta executed large-scale layoffs of roughly 8,000 employees this month as it consolidates its AI business and reorients around agentic products and AI-first infrastructure.</description>
-      <category>THE DECODER</category>
-      <guid isPermaLink="false">c494dbaa87d16d59</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zyphra's ZAYA1-8B is the first competitive open model trained entirely on AMD hardware</title>
-      <link>https://www.devflokers.com/blog/open-source-ai-projects-may-2026-roundup</link>
-      <description>Zyphra released ZAYA1-8B on May 6 under Apache 2.0 — a Mixture-of-Experts model activating only ~760M parameters per inference, trained end-to-end on AMD GPUs.</description>
-      <category>devFlokers Open-Source Roundup</category>
-      <guid isPermaLink="false">2dd2b350666de6f5</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cursor 3.0 makes parallel agent orchestration a first-class IDE primitive</title>
-      <link>https://www.datacamp.com/blog/best-agentic-ide</link>
-      <description>Cursor 3.0 shipped a new "Agents Window" that lets developers run multiple coding agents in parallel across local and remote branches from inside the IDE.</description>
-      <category>DataCamp</category>
-      <guid isPermaLink="false">adeaaa6f6497a5f3</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Researchers warn shared ChatGPT and Claude chat links are being weaponized to deliver malware</title>
-      <link>https://the-decoder.com/</link>
-      <description>Security researchers disclosed new exploit techniques abusing shared ChatGPT and Claude conversation links to distribute malware and trigger unsafe tool calls in downstream agents.</description>
-      <category>THE DECODER</category>
-      <guid isPermaLink="false">c494dbaa87d16d59</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Closes $65B Series H, Surpasses OpenAI as World's Most Valuable AI Startup</title>
-      <link>https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html</link>
-      <description>Anthropic raised a $65 billion Series H at a $965 billion valuation, leapfrogging OpenAI to become the most valuable private AI company.</description>
-      <category>CNBC</category>
-      <guid isPermaLink="false">368d9b9d067c9362</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four Frontier Labs, Four Acquisitions in Five Days — Consolidation Accelerates</title>
-      <link>https://www.startuphub.ai/ai-news/ai-news/2026/four-labs-four-acquisitions-ai-consolidation-may-2026</link>
-      <description>In a five-day stretch, Anthropic, Mistral, Google DeepMind, and Meta each absorbed an AI startup, signaling an intensifying consolidation phase.</description>
-      <category>Startuphub.ai</category>
-      <guid isPermaLink="false">ebc041a2e3e658f0</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Postpones Frontier-AI Executive Order; EU AI Act Now in Active Enforcement</title>
-      <link>https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html</link>
-      <description>The White House pulled back a planned executive order mandating federal pre-release vetting of frontier AI models, even as the EU's AI Act moves from planning to active enforcement.</description>
-      <category>CNBC</category>
-      <guid isPermaLink="false">3c4db1f2fe97f09c</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI's Codex Computer-Use Agent Lands on Windows</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence</link>
-      <description>OpenAI extended Codex's "computer use" capability — which lets the agent see your screen and operate your machine on your behalf — from macOS to Windows.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">e8c6a21621346a4e</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Reportedly Building a Copilot "Super App"</title>
-      <link>https://fortune.com/2026/05/29/microsoft-working-on-super-app/</link>
-      <description>Microsoft is internally developing a unified app that merges GitHub Copilot, the Copilot chatbot, Copilot Cowork, and a new agentic workflow engine codenamed "Autopilot."</description>
-      <category>Fortune (via The Verge)</category>
-      <guid isPermaLink="false">c567fce64b5006d7</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Sunsets ChatGPT's Canvas Interface</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence</link>
-      <description>OpenAI is retiring the Canvas side-by-side editing UI for new GPT-5.5 Instant and GPT-5.5 Thinking models, keeping it only on legacy models for a limited time.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">e8c6a21621346a4e</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cognition Raises $1B at $26B Valuation for AI Coding Agents</title>
-      <link>https://techfundingnews.com/the-ai-startup-replacing-software-engineers-just-raised-1b-at-26b-valuation-and-it-is-already-writing-89-of-cognitions-own-code/</link>
-      <description>Cognition Labs, maker of the Devin AI software engineer, closed a $1 billion+ Series D at a $26 billion valuation on May 28.</description>
-      <category>TechFunding News</category>
-      <guid isPermaLink="false">d11699afcf71f580</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cohere Acquires Aleph Alpha to Form a $20B Transatlantic AI Challenger</title>
-      <link>https://aitoolsrecap.com/Blog/ai-news-may-29-2026</link>
-      <description>Cohere is acquiring German sovereign-AI lab Aleph Alpha, creating a roughly $20 billion combined entity positioned as Europe's answer to OpenAI and Anthropic.</description>
-      <category>AI Tools Recap</category>
-      <guid isPermaLink="false">b29ec79eb7ba59f4</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moonshot Releases Kimi K2.6, Pushing the Open-Source Coding Frontier</title>
-      <link>https://www.kimi.com/blog/kimi-k2-6</link>
-      <description>Moonshot AI launched Kimi K2.6, an open-source coding model claiming state-of-the-art results on long-horizon code generation and autonomous debugging.</description>
-      <category>Moonshot Kimi Blog</category>
-      <guid isPermaLink="false">dc51f13ee3f9e8eb</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Previews Copilot Health AI for Medical Records</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence</link>
-      <description>Microsoft launched a preview of Copilot Health, an AI assistant that can ingest and analyze users' personal medical records.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">e8c6a21621346a4e</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Illinois Set to Enact One of the Strongest U.S. AI Safety Laws</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence</link>
-      <description>Governor JB Pritzker says he will sign an Illinois bill, just passed by the state legislature, that mandates independent audits and whistleblower protections at AI companies.</description>
-      <category>The Verge / NBC News</category>
-      <guid isPermaLink="false">e8c6a21621346a4e</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon's AI Animation Push Hits a Wall</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence</link>
-      <description>Director Jorge Gutierrez (*The Book of Life*) pulled out of Amazon's AI-driven animated series *Punky Duck* after intense online backlash and reported death threats.</description>
-      <category>The Verge / IGN</category>
-      <guid isPermaLink="false">e8c6a21621346a4e</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Ships Claude Opus 4.8 and Lands KPMG Across 138 Countries</title>
-      <link>https://beincrypto.com/claude-opus-4-8-anthropic/</link>
-      <description>Anthropic released Claude Opus 4.8 — its strongest model yet for agentic coding and long-horizon autonomous work — and simultaneously announced the largest Big Four AI deployment to date, rolling Claude out to 276,000 KPMG employees worldwide.</description>
-      <category>BeInCrypto</category>
-      <guid isPermaLink="false">36b8faeec5bc10fe</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Spins Up $4B Enterprise Consulting Arm "DeployCo" and Files for $1T IPO</title>
-      <link>https://www.buildfastwithai.com/blogs/ai-news-today-may-28-2026</link>
-      <description>OpenAI launched DeployCo, a $4 billion consulting subsidiary focused on enterprise-scale AI deployments, and filed paperwork pointing toward an IPO at a roughly $1 trillion valuation.</description>
-      <category>BuildFastWithAI</category>
-      <guid isPermaLink="false">2c0c7c0b8d11612b</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UPenn Demonstrates Light-Matter "Polariton" Hardware for AI Computing</title>
-      <link>https://www.sciencedaily.com/releases/2026/05/260518041341.htm</link>
-      <description>University of Pennsylvania researchers reported a hybrid light-matter particle (exciton-polariton) that performs AI computations using light instead of electrons, targeting the energy and heat ceilings limiting modern accelerators.</description>
-      <category>ScienceDaily</category>
-      <guid isPermaLink="false">e13fad55718d0682</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Humanity's Last Exam" Benchmark Shows 2026 Models Hitting 87% on Expert Tasks</title>
-      <link>https://trendscoped.com/best-ai-research-papers-2026-breakthrough-models-discoveries/</link>
-      <description>New 2026 evaluations on the "Humanity's Last Exam" benchmark report top models scoring 87% on expert-level tasks — up from 34% in 2025 — alongside ~94% on multi-modal reasoning and large drops in inference cost and training time.</description>
-      <category>Trendscoped</category>
-      <guid isPermaLink="false">a8a51534db2cd546</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Closes $65B Series H at a $965B Valuation, Passing OpenAI</title>
-      <link>https://www.straitstimes.com/business/companies-markets/anthropic-tops-openai-as-worlds-most-valuable-ai-start-up</link>
-      <description>Anthropic announced a $65 billion Series H at a $965 billion post-money valuation, making it — at least on paper — the most valuable AI startup in the world and overtaking OpenAI in private-market value.</description>
-      <category>The Straits Times</category>
-      <guid isPermaLink="false">163b1c12e49ecb0c</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Rebuilds Resilience Hub and OpenSearch Serverless Around Agentic AI</title>
-      <link>https://aws.amazon.com/blogs/aws/</link>
-      <description>AWS rolled out a generative-AI-powered Resilience Hub for automated failure-mode analysis and shipped a rebuilt Amazon OpenSearch Serverless tuned for agentic workloads, with the changes timed to May 28.</description>
-      <category>AWS News Blog</category>
-      <guid isPermaLink="false">a8c2bcafd6a057e6</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open-Source Stack Levels Up: Hugging Face Transformers 5.0 and LangChain 1.0</title>
-      <link>https://af.net/realtime/open-source-ai-tools-advance-in-may-2026-hugging-face-langchain-and-developer-innovations/</link>
-      <description>Hugging Face Transformers 5.0 landed with faster model loading and better memory management, while LangChain 1.0 reached production-ready status with stronger multi-model orchestration — capped by Cline SDK passing 8M installs.</description>
-      <category>AF.net Realtime</category>
-      <guid isPermaLink="false">4f9c479289e3fc4d</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>White House Distances Itself From Tougher AI Regulation, Leans on Industry Partnership</title>
-      <link>https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837</link>
-      <description>The White House signaled it will not pursue heavy-handed federal AI rules, preferring industry partnerships and targeted executive actions over a strict regulatory regime, even as it weighs an FDA-style vetting concept for frontier models.</description>
-      <category>Politico</category>
-      <guid isPermaLink="false">568a362d14c60ebb</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic launches Claude Opus 4.8 with stronger agentic coding and “honesty” improvements</title>
-      <link>https://www.anthropic.com/news/claude-opus-4-8</link>
-      <description>Anthropic released Claude Opus 4.8, upgrading its top model for coding, agentic workflows, professional work, and uncertainty signaling.</description>
-      <category>Anthropic</category>
-      <guid isPermaLink="false">5348a7d239028e9b</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft redesigns Microsoft 365 Copilot for faster, more structured workplace AI</title>
-      <link>https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/</link>
-      <description>Microsoft introduced a redesigned Microsoft 365 Copilot experience focused on speed, clearer outputs, and task-aware controls.</description>
-      <category>Microsoft 365 Blog</category>
-      <guid isPermaLink="false">3ab61e4b3cf2ba71</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CORE proposes faster reasoning improvement through contrastive reflection</title>
-      <link>https://arxiv.org/abs/2605.28742</link>
-      <description>A new arXiv paper introduces Contrastive Reflection, a non-parametric method for improving language-model reasoning by comparing successful and unsuccessful reasoning traces.</description>
-      <category>arXiv</category>
-      <guid isPermaLink="false">57c4b159fa731eeb</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic raises $65B at a $965B post-money valuation</title>
-      <link>https://www.anthropic.com/news/series-h</link>
-      <description>Anthropic announced a $65 billion Series H round led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.</description>
-      <category>Anthropic</category>
-      <guid isPermaLink="false">b5e22ae086a6b353</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Figma Make can now work directly in production codebases</title>
-      <link>https://www.figma.com/blog/figma-make-now-on-your-local-code/</link>
-      <description>Figma announced beta capabilities that let Figma Make visually edit local production codebases from the Figma desktop app.</description>
-      <category>Figma Blog</category>
-      <guid isPermaLink="false">e3ae63677731f836</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Illinois passes landmark frontier AI safety bill</title>
-      <link>https://www.nbcnews.com/tech/tech-news/illinois-legislature-passes-historic-ai-bill-rcna347191</link>
-      <description>Illinois lawmakers passed SB 315, a bill that would require frontier AI companies to publish safety plans and undergo annual independent third-party audits if signed.</description>
-      <category>NBC News</category>
-      <guid isPermaLink="false">4ea41e18e3040917</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CNN sues Perplexity over alleged unauthorized copying</title>
-      <link>https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright</link>
-      <description>CNN filed its first AI copyright lawsuit, accusing Perplexity of unlawfully copying and distributing CNN content.</description>
-      <category>CNN</category>
-      <guid isPermaLink="false">5bd65127bfee0c68</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube is rolling out prompt-built custom AI video feeds</title>
-      <link>https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability</link>
-      <description>YouTube is launching an AI feature that lets users describe the kind of videos they want and pin a generated custom feed to the top of the homepage.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">62bde20e81d4a7d3</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google brings Preferred Sources into AI Overviews and AI Mode</title>
-      <link>https://blog.google/products-and-platforms/products/search/original-high-quality-content-search/</link>
-      <description>Google is adding Preferred Sources labels, new article carousels, and expanded “Highly Cited” badges to make original and user-selected sources more visible in AI search.</description>
-      <category>Summary: Google is adding Preferred Sources labels, new article carousels, and expanded “Highly Cited” badges to make original and user-selected sources more visible in AI search.</category>
-      <guid isPermaLink="false">e8a631299cb6916d</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>ElevenLabs launches Music v2 for more controllable AI song generation</title>
-      <link>https://elevenlabs.io/blog/introducing-music-v2</link>
-      <description>ElevenLabs released Music v2, an AI music model that can switch genres mid-track, regenerate sections, and build longer songs by structure.</description>
-      <category>ElevenLabs / TechCrunch</category>
-      <guid isPermaLink="false">c6496f29a5049573</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vertu launches a $6,880 AI-agent foldable phone for executives</title>
-      <link>https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/</link>
-      <description>Vertu unveiled Alphafold, a luxury foldable phone with a Hermes Agent designed to connect with enterprise tools and coordinate workflows.</description>
-      <category>TechCrunch</category>
-      <guid isPermaLink="false">27c18ebc52a02ad0</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube moves AI labels into more visible places and expands auto-detection</title>
-      <link>https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates</link>
-      <description>YouTube is relocating AI disclosure labels below videos and on Shorts while expanding automatic identification of photorealistic AI-generated content.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">f0da43bc7ecae5b9</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI and Anthropic-linked groups escalate AI regulation politics</title>
-      <link>https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12</link>
-      <description>The Verge reports that AI industry-backed political groups have spent millions around a New York congressional race tied to AI safety regulation.</description>
-      <category>The Verge</category>
-      <guid isPermaLink="false">2d8872359eb40cb1</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robinhood opens trading and payments to AI agents</title>
-      <link>https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/</link>
-      <description>Robinhood launched beta support for AI agents that can trade equities and use a dedicated virtual credit card with user-controlled limits.</description>
-      <category>Robinhood Newsroom / TechCrunch</category>
-      <guid isPermaLink="false">216bbc589a6a85b8</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI publishes Codex case study on self-improving tax agents</title>
-      <link>https://openai.com/index/building-self-improving-tax-agents-with-codex</link>
-      <description>OpenAI highlighted work with Thrive and Crete on a Codex-powered tax agent designed to automate filings, improve accuracy, and accelerate tax workflows.</description>
-      <category>OpenAI</category>
-      <guid isPermaLink="false">c7affab7451ec44b</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MUSE-Autoskill proposes lifecycle-managed skills for self-evolving agents</title>
-      <link>https://arxiv.org/abs/2605.27366</link>
-      <description>A new arXiv paper introduces MUSE-Autoskill, a framework for agents to create, remember, manage, evaluate, and refine reusable skills.</description>
-      <category>arXiv</category>
-      <guid isPermaLink="false">bb89454b61b35b44</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snowflake signs $6B AWS deal for AI compute</title>
-      <link>https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/</link>
-      <description>Snowflake signed a five-year, $6 billion agreement with AWS to secure compute capacity, including access to Amazon’s Graviton CPUs for AI workloads.</description>
-      <category>TechCrunch</category>
-      <guid isPermaLink="false">6c8689e3261715b6</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:42:38 +0000</lastBuildDate>
+    <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs</title>
+      <link>https://www.latent.space/p/andon</link>
+      <description>We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-8ec3bd7b96f13cda</guid>
+      <pubDate>Thu, 04 Jun 2026 20:39:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</title>
+      <link>https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-87198121b0998f47</guid>
+      <pubDate>Thu, 04 Jun 2026 20:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Broadcom’s stock is falling so hard after earnings</title>
+      <link>https://www.marketwatch.com/story/why-broadcoms-stock-is-falling-so-hard-after-earnings-88c6db5e?mod=mw_rss_topstories</link>
+      <description>The chip company declined to increase its AI revenue outlook for next year “in a market environment clamoring for material beats and raises.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-018aa16ac1bbae76</guid>
+      <pubDate>Thu, 04 Jun 2026 20:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wary of Americans, Canada Bets on Its Own A.I.</title>
+      <link>https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html</link>
+      <description>The country on Thursday released a national artificial intelligence strategy that focuses on building its sovereign capability and protecting consumers.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-eb90a0d510dbcd18</guid>
+      <pubDate>Thu, 04 Jun 2026 20:32:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw</title>
+      <link>https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html</link>
+      <description>The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-0458f9bf7e4f6893</guid>
+      <pubDate>Thu, 04 Jun 2026 20:32:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are you financially fulfilled? If not, your retirement plans are in danger.</title>
+      <link>https://www.marketwatch.com/story/are-you-financially-fulfilled-if-not-your-retirement-plans-are-in-danger-81e3531c?mod=mw_rss_topstories</link>
+      <description>Only 16% of Americans say they’re financially comfortable, a new poll found.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-12f444ec720e3907</guid>
+      <pubDate>Thu, 04 Jun 2026 20:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How One Company Plans to Mine the Bottom of the Sea</title>
+      <link>https://www.nytimes.com/2026/06/04/climate/deep-sea-mining-metals-company.html</link>
+      <description>A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-94321b5b9b02a1d1</guid>
+      <pubDate>Thu, 04 Jun 2026 20:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The IPO of this power generator for data centers quietly outshines Quantinuum</title>
+      <link>https://www.marketwatch.com/story/the-ipo-of-this-power-generator-for-data-centers-quietly-outshines-quantinuum-d5d3124c?mod=mw_rss_topstories</link>
+      <description>Innio’s stock soared in its debut, to outshine the shares of the more high-profile quantum-computing company, and Trump administration investment, Quantinuum.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-5871707983b54bdd</guid>
+      <pubDate>Thu, 04 Jun 2026 20:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?</title>
+      <link>https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories</link>
+      <description>A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare at a time when the programs are under pressure.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-a7dcc922ead9bf52</guid>
+      <pubDate>Thu, 04 Jun 2026 20:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk tries again to escape FTC audits of X data handling</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/</link>
+      <description>Musk can't be trusted to protect X user privacy, public commenters warn FTC.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-d20b4346cd19ed43</guid>
+      <pubDate>Thu, 04 Jun 2026 19:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta steals a tactic from Tesla and builds data centers in tents</title>
+      <link>https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/</link>
+      <description>Meta may have one found one way to slash its massive data center bill: tents.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-de6475a399e0caf2</guid>
+      <pubDate>Thu, 04 Jun 2026 19:33:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>John Bolton expected to plead guilty in classified documents case, sources confirm</title>
+      <link>https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Trump's former advisor turned critic had reached a deal with prosecutors, two people said.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-2bb300af5dc40119</guid>
+      <pubDate>Thu, 04 Jun 2026 19:28:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple approves Poke as the first AI agent on its Messages for Business platform</title>
+      <link>https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/</link>
+      <description>Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-74b95bcee00a23ca</guid>
+      <pubDate>Thu, 04 Jun 2026 19:20:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-3c2e7a73efc4745c</guid>
+      <pubDate>Thu, 04 Jun 2026 18:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why is this teen fashion brand closing its fitting rooms?</title>
+      <link>https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Brandy Melville's move has caused uproar among some young women who frequent its stores, with one calling it a "devastating news".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-99a99edf8b31d843</guid>
+      <pubDate>Thu, 04 Jun 2026 18:48:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Larger context windows and configurable reasoning levels for GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot</link>
+      <description>GitHub Copilot now supports larger context windows and configurable reasoning levels to help you tackle deeper, more complex work. Leverage one-million-token context windows A one-million-token context window means users can… The post Larger context windows and configurable reasoning levels for GitHub Copilot appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-f9ad6a7bc72a4a36</guid>
+      <pubDate>Thu, 04 Jun 2026 18:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kevin O’Leary agrees to downsize massive Utah data center</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center</link>
+      <description>Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-9b2993a562b7da8c</guid>
+      <pubDate>Thu, 04 Jun 2026 18:38:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Emanuel Maiberg, 404 Media</title>
+      <link>https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything</link>
+      <description>After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that "it's critical that we maintain humans in the loop." — Emanuel Maiberg, 404 Media, Google Employees Internally Share Memes About How Its AI Sucks Tags: ai-ethics, journalism, ai, google</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-c499c073f095544e</guid>
+      <pubDate>Thu, 04 Jun 2026 16:38:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Universe is back: All together now, in the agentic era</title>
+      <link>https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/</link>
+      <description>GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-9181afe03b45ce19</guid>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot in Visual Studio — May update</title>
+      <link>https://github.blog/changelog/2026-06-04-github-copilot-in-visual-studio-may-update</link>
+      <description>May 2026 brought sharper tooling for planning, reviewing, and managing your work with GitHub Copilot in Visual Studio 2026. Highlights Here’s what’s new for all GitHub Copilot users in Visual… The post GitHub Copilot in Visual Studio — May update appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-58ee141cf0408796</guid>
+      <pubDate>Thu, 04 Jun 2026 15:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</title>
+      <link>https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles</link>
+      <description>Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. "Customer demand is so high, and we can only support so much," TSMC CEO C.C. Wei said after a shareholder meeting on […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-d83e31aa344765ca</guid>
+      <pubDate>Thu, 04 Jun 2026 14:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerate Edge AI Development with Foundry Local</title>
+      <link>https://devblogs.microsoft.com/foundry/accelerate-edge-ai-development-with-foundry-local/</link>
+      <description>Why edge AI development is still hard AI is no longer confined to cloud experiments. Developers are increasingly expected to deliver AI inside apps, devices, and edge systems where responsiveness, privacy, resilience, and local control are essential. But building those experiences for production is still difficult. Teams often have to solve model packaging, runtime fragmentation, hardware differences, […] The post Accelerate Edge AI Development with Foundry Local appeared first on Microsoft Foundry Blog.</description>
+      <category>devblogs-msft-foundry</category>
+      <guid isPermaLink="false">news-817bef69cbd2fbe9</guid>
+      <pubDate>Thu, 04 Jun 2026 13:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kalshi is building a prediction markets 'Bloomberg Terminal' for high-end traders, source says</title>
+      <link>https://www.cnbc.com/2026/06/04/kalshi-is-building-a-bloomberg-terminal-for-prediction-markets.html</link>
+      <description>The prediction market platform is developing the platform to create a singular platform for its highly engaged traders.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-2340b47b7d97bd4c</guid>
+      <pubDate>Thu, 04 Jun 2026 12:47:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/eva-bench-data</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-d9c42ca0bc6490ff</guid>
+      <pubDate>Thu, 04 Jun 2026 12:24:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Endava is redesigning software delivery around AI agents</title>
+      <link>https://openai.com/index/endava-frontiers</link>
+      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-d0841d29a3627d47</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dreaming: Better memory for a more helpful ChatGPT</title>
+      <link>https://openai.com/index/chatgpt-memory-dreaming</link>
+      <description>ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-58a72a3a66c9437c</guid>
+      <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal</title>
+      <link>https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/</link>
+      <description>If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-b1148769570a8037</guid>
+      <pubDate>Wed, 03 Jun 2026 19:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitLab cuts 14% of staff as it scales its platform to serve AI workloads</title>
+      <link>https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/</link>
+      <description>The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-9d4487152735c028</guid>
+      <pubDate>Wed, 03 Jun 2026 14:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>My late husband had a higher Social Security benefit. We both claimed at 62. Can I get more on his record?</title>
+      <link>https://www.marketwatch.com/story/my-late-husband-had-a-higher-social-security-benefit-we-both-claimed-at-62-can-i-get-more-on-his-record-3a68aaca?mod=mw_rss_topstories</link>
+      <description>Early benefit claiming can affect your ultimate payment amount, though not always for survivors.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-5ca222355bcc73a6</guid>
+      <pubDate>Wed, 03 Jun 2026 13:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents</title>
+      <link>https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html</link>
+      <description>Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-d560c9310c1b9553</guid>
+      <pubDate>Wed, 03 Jun 2026 13:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coralogix raises $200M on bet that someone needs to watch the AI agents</title>
+      <link>https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/</link>
+      <description>The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c0e85e43aee4dbe7</guid>
+      <pubDate>Wed, 03 Jun 2026 13:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Direct Preference Optimization Beyond Chatbots</title>
+      <link>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-bc0be78cdc6b163d</guid>
+      <pubDate>Wed, 03 Jun 2026 12:55:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investors would be crazy to turn bearish on stocks now, says veteran strategist. In six months, maybe not.</title>
+      <link>https://www.marketwatch.com/story/investors-would-be-crazy-to-turn-bearish-on-stocks-now-says-veteran-strategist-maybe-not-in-six-months-5c62a9d2?mod=mw_rss_topstories</link>
+      <description>Marco Papic is worried about where stocks are headed in six to 12 months from now, with massive tech IPOs a big part of that concern.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-08db1e1844bdad4f</guid>
+      <pubDate>Wed, 03 Jun 2026 12:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attacks on Kuwait and Bahrain Add Further Strain to U.S.-Iran Cease-Fire</title>
+      <link>https://www.nytimes.com/2026/06/03/world/middleeast/iran-attacks-kuwait-bahrain-ceasefire.html</link>
+      <description>One person was killed in an attack on the international airport in Kuwait, local authorities said, as Iran continues to target U.S. allies in the Persian Gulf.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a9e496d9ef45a1d4</guid>
+      <pubDate>Wed, 03 Jun 2026 12:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine Strikes St. Petersburg on First Day of a Marquee Putin Event</title>
+      <link>https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html</link>
+      <description>As an annual economic conference was set to begin, President Volodymyr Zelensky said Ukraine had targeted a navy base and an oil terminal in the region that includes Russia’s second-largest city.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-91bd24cf5061c488</guid>
+      <pubDate>Wed, 03 Jun 2026 12:30:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fire at a New Delhi Hotel Kills at Least 21</title>
+      <link>https://www.nytimes.com/2026/06/03/world/asia/fire-hotel-new-delhi-india.html</link>
+      <description>Dozens more were injured, the authorities said. The blaze appears to be the deadliest in the Indian capital in at least four years.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-9e0e89e9a7aa84f6</guid>
+      <pubDate>Wed, 03 Jun 2026 12:29:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ADP says businesses create the most new jobs in 16 months.  Hiring rebounds after a lull.</title>
+      <link>https://www.marketwatch.com/story/adp-says-businesses-create-the-most-new-jobs-in-16-months-as-hiring-rebounds-from-long-lull-043127b1?mod=mw_rss_topstories</link>
+      <description>ADP said U.S. businesses created 122,000 new jobs in May to mark the biggest increase in 16 months, another sign that points to an increase in hiring and a rebound in what’s been a very sluggish labor market.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-49e02069f4e962dc</guid>
+      <pubDate>Wed, 03 Jun 2026 12:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eight killed after drone hits bus in Russia-controlled part of Ukraine</title>
+      <link>https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The bus was travelling between Moscow and Simferopol, in Russian-controlled Crimea, an official says.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-06ed761887dcac99</guid>
+      <pubDate>Wed, 03 Jun 2026 12:08:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uber Caps Usage of AI Tools Like Claude Code to Manage Costs</title>
+      <link>https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</link>
+      <description>Uber Caps Usage of AI Tools Like Claude Code to Manage Costs I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become. Natalie Lung for Bloomberg: The rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a Bloomberg News inquiry. That means spending on one tool doesn’t have a bearing on the budget for another. The limits, which have been instituted in recent months, only apply to agentic coding software such as Cursor or Anthropic PBC’s Claude Code. A $1,500 monthly limit per tool strikes me as much more sensible than those tokenmaxxing leaderboards encouraging employees to compete for as much AI usage as possible, and as a rational policy response to over-spending. It's also interesting in that it hints at a real dollar value for what Uber is getting out of these tools. If we assume two actively used tools per engineer that's $3,000 * 12 = $36,000 cap per engineer per year. Levels.fyi lists the median yearly compensation package for Uber software engineers in the USA at $330,000. That means each employee's AI spending cap is ~11% of that median compensation package. I noted that my own token usage comes to about $1,000/month against each of Anthropic and OpenAI - which currently costs me just $100 per provider thanks to their generous subsidized plans for individual subscribers - plans that are no longer available to larger companies like Uber. That means if I were working at Uber I'd still have ~$500/month of tokens to spare for each of those tools, given my current usage patterns. Tags: ai, generative-ai, llms, llm-pricing, coding-agents, uber</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-29c7b211e523b246</guid>
+      <pubDate>Wed, 03 Jun 2026 12:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Foreign nationals among at least 21 killed in Delhi fire</title>
+      <link>https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Many victims were South Asians who had travelled to India for treatment or to accompany relatives.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-718f9312efe29062</guid>
+      <pubDate>Wed, 03 Jun 2026 11:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones</title>
+      <link>https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Kuwait says one person is dead after drones hit civilian buildings including its international airport.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-636c83a8db003af4</guid>
+      <pubDate>Wed, 03 Jun 2026 11:17:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI has a water problem. Google thinks it has a fix</title>
+      <link>https://www.theverge.com/policy/942296/google-water-commitments-data-centers</link>
+      <description>In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-ea6a278e2000d715</guid>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google must let publishers opt out of AI Search features, rules UK</title>
+      <link>https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out</link>
+      <description>Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-a6eee194a2758332</guid>
+      <pubDate>Wed, 03 Jun 2026 08:45:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models</title>
+      <link>https://www.latent.space/p/ainews-microsoft-build-mai-thinking</link>
+      <description>Microsoft Build recap, and new MAI model technical details</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-54af4e8bb7d03df7</guid>
+      <pubDate>Wed, 03 Jun 2026 05:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-4.1 deprecated</title>
+      <link>https://github.blog/changelog/2026-06-02-gpt-4-1-deprecated</link>
+      <description>We have deprecated GPT-4.1 across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), June 1, 2026. Model Deprecation date Suggested alternative GPT-4.1… The post GPT-4.1 deprecated appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-4fd353ad15a67baa</guid>
+      <pubDate>Tue, 02 Jun 2026 23:58:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyera eyes $12B valuation at 80x ARR multiple despite operating losses</title>
+      <link>https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/</link>
+      <description>The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-be3fb0c6207fb841</guid>
+      <pubDate>Tue, 02 Jun 2026 22:50:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's new MAI models</title>
+      <link>https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything</link>
+      <description>Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 1T parameters, 35B active, available to "select early partners") and MAI-Code-1-Flash (137B Parameters, 5B active, "purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code"). I've not been able to try either of them just yet. It's very interesting to see Microsoft releasing models with such low parameter counts, especially given how expensive larger models are to access right now. They claim MAI-Thinking-1 "is preferred to Sonnet 4.6 in our blind human side-by-side evaluations", which is impressive for a 35B model seeing as I frequently run models larger than that on my own laptop. (UPDATE: I got this entirely wrong, see note below.) Also of note: We trained [MAI-Thinking-1] from the ground up on enterprise grade, clean and commercially licensed data, without distillation from third-party models. And for MAI-Code-1-Flash as well: It is built end-to-end by Microsoft using clean and appropriately licensed data. I would very much like to learn more about this "appropriately licensed" data! Could these be the first generally useful code-specialist models that didn't train on an unlicensed dump of the web? (Update: the answer is no, see note below.) Update: My initial published notes got the size of the models wrong. I misread Microsoft's announcements and interpreted the MoE active parameter count as the total parameter count, but the model card for MAI-Code-1-Flash lists it as 137B with 5B active and the MAI-Thinking-1 technical paper reveals it to be a 1T model with 35B active. I deeply regret this error. Update 2: That technical paper describes the training data in some detail from page 80 onwards. It has the same licensing problems as all of the other major LLMs: it's trained on a crawl of the public web: The majority of our web HTML corpus comes from a proprietary crawl. After initial page discovery and selection, approximately 1.2 trillion pages are crawled and parsed. [...] In addition to Microsoft standard policy Sec. 2.4, we apply UT1 block list (Prigent, 2026) to remove adult content and piracy-related domains. In all, this filtering reduces the corpus from 1.2 trillion pages to 794 billion pages. Given the prevalence of AI-generated content on the web, we also score pages with a proprietary AI-content detection model and use manual inspection to identify domains with extensive AI-generated content; those domains are filtered out of the training corpus. [...] We process Common Crawl with the same pipeline. [...] After filtering, deduplication, merging with the proprietary web corpus, and a final round of exact-URL and content-level fuzzy deduplication, the Common Crawl portion contains 24.2 billion pages. I did not cover this one at all well, which is somewhat ironic since I was at the Microsoft Build conference when I wrote this up! I'm sorry for not digging deeper before publishing my initial notes. Tags: llm-release, generative-ai, ai, microsoft, llms, training-data</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-c816d7a197b50c6e</guid>
+      <pubDate>Tue, 02 Jun 2026 22:21:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's Project Solara is an Android OS designed for agents instead of apps</title>
+      <link>https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/</link>
+      <description>Microsoft missed the boat on apps, so get ready for agents.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-d14e8f009bf8fb49</guid>
+      <pubDate>Tue, 02 Jun 2026 20:47:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions</title>
+      <link>https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html</link>
+      <description>Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-4320cd22e688f529</guid>
+      <pubDate>Tue, 02 Jun 2026 19:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanded technical preview availability for the GitHub Copilot app</title>
+      <link>https://github.blog/changelog/2026-06-02-expanded-technical-preview-availability-for-the-github-copilot-app</link>
+      <description>The GitHub Copilot app technical preview is now available to all existing Copilot Pro, Pro+, Business, and Enterprise customers. Download the Copilot app for Windows, macOS, or Linux to get… The post Expanded technical preview availability for the GitHub Copilot app appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-36c6ec25c234a31e</guid>
+      <pubDate>Tue, 02 Jun 2026 17:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot app: The agent-native desktop experience</title>
+      <link>https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/</link>
+      <description>At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-85f2e70cddb8898d</guid>
+      <pubDate>Tue, 02 Jun 2026 17:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry</title>
+      <link>https://devblogs.microsoft.com/foundry/build-2026-foundry-models/</link>
+      <description>Learn a practical model lifecycle for Microsoft Foundry: select the right model, evaluate quality, optimize cost, operate safely, and improve as production needs change. The post A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry appeared first on Microsoft Foundry Blog.</description>
+      <category>devblogs-msft-foundry</category>
+      <guid isPermaLink="false">news-22b055e4f09503ab</guid>
+      <pubDate>Tue, 02 Jun 2026 17:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ideas: slow down to speed up when working with AI agents</title>
+      <link>https://newsletter.pragmaticengineer.com/p/ideas-slow-down-to-speed-up-when</link>
+      <description>Devs are generating twice as much code (or more) than just 6 months ago, which is a problem for quality, reliability, and tech debt. A rational fix is available for these, but who’s acting rationally?</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-806a7d29b3136fb6</guid>
+      <pubDate>Tue, 02 Jun 2026 16:42:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI launches new Codex tools for white-collar work</title>
+      <link>https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/</link>
+      <description>OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-31f39eabff831a5c</guid>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Targets Brazil With 25% Tariff, Citing Unfair Trade Practices</title>
+      <link>https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html</link>
+      <description>The proposal marks the latest effort by the administration to rebuild its tariff agenda through Section 301 investigations.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-1888fa1cd51ae904</guid>
+      <pubDate>Tue, 02 Jun 2026 13:24:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran War Live Updates: Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut</title>
+      <link>https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon</link>
+      <description>Under pressure from President Trump, Prime Minister Benjamin Netanyahu of Israel held off from attacking Beirut. But he vowed to continue Israel’s campaign against Hezbollah, which could threaten peace talks with Iran.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-34507ccbe8682a4d</guid>
+      <pubDate>Tue, 02 Jun 2026 13:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Many big oil tankers remain stuck in the Strait of Hormuz — and may not return once they escape</title>
+      <link>https://www.marketwatch.com/story/many-big-oil-tankers-remain-stuck-in-strait-of-hormuz-and-may-not-return-once-they-escape-5b344e49?mod=mw_rss_topstories</link>
+      <description>There’s doubt massive tankers, once the backbone of global crude flows, will be returning in quite the same numbers to the Middle East.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-a6914e1ee9d6b841</guid>
+      <pubDate>Tue, 02 Jun 2026 13:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carney Says Canada Is Failing Jewish Canadians, Describing ‘Crisis of Antisemitism’</title>
+      <link>https://www.nytimes.com/2026/06/02/world/canada/carney-antisemitism-toronto-canada.html</link>
+      <description>Prime Minister Mark Carney’s comments followed calls from Jewish organizations to address what they described as a crisis of antisemitism.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-8fcd88bee8662fce</guid>
+      <pubDate>Tue, 02 Jun 2026 13:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s official: More money is now spent building data centers than the government spends on transportation</title>
+      <link>https://www.marketwatch.com/story/its-official-more-money-is-now-spent-building-data-centers-than-the-government-spends-on-transportation-95fcd513?mod=mw_rss_topstories</link>
+      <description>A notable milestone was quietly reached in the April construction-spending report released by the Census Bureau on Monday: Construction spending on data centers overtook public spending on transportation.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-48dc51deed7f4943</guid>
+      <pubDate>Tue, 02 Jun 2026 13:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Battling a Deadly Ebola Outbreak in Eastern Congo</title>
+      <link>https://www.nytimes.com/video/world/africa/100000010936755/ebola-virus-outbreak-congo-treatment.html</link>
+      <description>At the heart of the Ebola outbreak in the Democratic Republic of Congo, health care workers are racing to open new treatment centers and ramp up testing. But after years of war, the deadly virus is just one of many challenges they’re facing.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-375c54f9963a1c36</guid>
+      <pubDate>Tue, 02 Jun 2026 12:59:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people</title>
+      <link>https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-90de04e19c09b66b</guid>
+      <pubDate>Tue, 02 Jun 2026 12:46:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Spark is the most impressive and terrifying AI experience I’ve had yet</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning</link>
+      <description>According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-a983a21ac4cf0ef2</guid>
+      <pubDate>Tue, 02 Jun 2026 12:38:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZeroDrift raises $10 million to protect AI models from themselves</title>
+      <link>https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/</link>
+      <description>A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-ce28044b9514faaa</guid>
+      <pubDate>Tue, 02 Jun 2026 12:32:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Ebola Unit Plans in Kenya, Subject of Protests, Suffers New Setback From Court Ruling</title>
+      <link>https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html</link>
+      <description>The court further delayed the Trump administration’s proposed quarantine unit for Americans exposed to the virus. The plan has sparked angry protests in Kenya.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-4c563613e2244bdf</guid>
+      <pubDate>Tue, 02 Jun 2026 12:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Travelers deploys AI-powered claims countrywide with OpenAI</title>
+      <link>https://openai.com/index/travelers</link>
+      <description>Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-6421a7340260ea9b</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rocket engine startup Impulse raises $500 million to hire people, not AI</title>
+      <link>https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/</link>
+      <description>Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-5c441427ce0707c4</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pasted File Editor</title>
+      <link>https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</link>
+      <description>Tool: Pasted File Editor I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead. I decided to have Codex desktop build me a version of that as a prototype. You can also open files directly - including images which will be shown as thumbnails - or drag files onto the textarea. Tags: javascript, tools, ai-assisted-programming, claude, codex</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-7f29975fce02aec6</guid>
+      <pubDate>Tue, 02 Jun 2026 04:13:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark</title>
+      <link>https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3</link>
+      <description>Jensen scores a huge win.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-5a1b496d47f864c2</guid>
+      <pubDate>Tue, 02 Jun 2026 03:28:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex is becoming a productivity tool for everyone</title>
+      <link>https://openai.com/index/codex-for-knowledge-work</link>
+      <description>The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-8c810ea5d0c79d2f</guid>
+      <pubDate>Tue, 02 Jun 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI costs how much? GitHub Copilot users react to new usage-based pricing system.</title>
+      <link>https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/</link>
+      <description>Some report burning through their whole monthly "AI credit" allotment in a single day.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-88d629fd71eeee87</guid>
+      <pubDate>Mon, 01 Jun 2026 22:18:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked</title>
+      <link>https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything</link>
+      <description>Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked I had trouble believing this story was true, but I've seen it verified from multiple sources now: One video shows a hacker starting a conversation with Meta’s AI support bot and asking it to link the target account with a new email address: “Just link my new email address. This is my username @{target_username}. I will send you the code. {attacker_email} Thank you.” Meta really did wire their support system into an AI chatbot that had the ability to fast-forward through the entire account recovery process. This one hardly even qualifies as a prompt infection. Don't wire your support bot up to allow one-shot account takeovers! Tags: security, ai, prompt-injection, generative-ai, llms, meta, ai-misuse</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-56e85ad23e0aaf9d</guid>
+      <pubDate>Mon, 01 Jun 2026 21:14:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts</title>
+      <link>https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/</link>
+      <description>Pricey Instagram handles were stolen and resold before Meta patched the exploit.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-d23714aa946c1f83</guid>
+      <pubDate>Mon, 01 Jun 2026 20:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Berkshire Hathaway buys Taylor Morrison for $6.8 billion. Buffett touts Abel’s deal-making</title>
+      <link>https://www.cnbc.com/2026/06/01/berkshire-hathaway-taylor-morrison-home-acquisition-housing-market.html</link>
+      <description>The acquisition marks one of the first major strategic deals under Warren Buffett's successor Greg Abel, who took over as CEO in the beginning of 2026.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-6bc5b4dea811ad7a</guid>
+      <pubDate>Mon, 01 Jun 2026 20:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>This could be Windows’ M1 moment — but expect it to cost a ton</title>
+      <link>https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram</link>
+      <description>Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-2419b6ab48c14634</guid>
+      <pubDate>Mon, 01 Jun 2026 20:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia, Meta and SLB rank among top companies in adopting AI, new study says</title>
+      <link>https://www.cnbc.com/2026/06/01/nvidia-meta-walmart-among-top-companies-adopting-ai.html</link>
+      <description>The AI-Driven Enterprise Institute released new research that breaks down the degree to which S&amp;P 500 companies are adopting AI compared with their peers.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-c4a84164a6c1ce3d</guid>
+      <pubDate>Mon, 01 Jun 2026 17:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Greg Abel just made his first big deal as Berkshire CEO. Why Warren Buffett is happy</title>
+      <link>https://www.cnbc.com/2026/06/01/greg-abel-just-made-his-first-big-deal-as-berkshire-ceo-why-warren-buffett-is-happy.html</link>
+      <description>Berkshire's purchase of homebuilder Taylor Morrison gives the conglomerate a larger foothold in housing and appears to have been struck at a bargain valuation.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-a1319d6840611c96</guid>
+      <pubDate>Mon, 01 Jun 2026 17:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our views on AI policy and political advocacy</title>
+      <link>https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</link>
+      <description>Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-c8b9a6b007c10efd</guid>
+      <pubDate>Mon, 01 Jun 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluation models in auto for individual plans</title>
+      <link>https://github.blog/changelog/2026-06-01-evaluation-models-in-auto-for-individual-plans</link>
+      <description>GitHub Copilot offers access to evaluation models for individual non-enterprise users, and these models may be served in Copilot auto model selection. To disable use of evaluation models through Copilot… The post Evaluation models in auto for individual plans appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-e210c09e97c758e1</guid>
+      <pubDate>Mon, 01 Jun 2026 16:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains</title>
+      <link>https://huggingface.co/blog/JetBrains/mellum2-launch</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-2995ca1c3636d92f</guid>
+      <pubDate>Mon, 01 Jun 2026 15:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems</title>
+      <link>https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult</link>
+      <description>Do you feel as though you are living in a revolution?</description>
+      <category>import-ai</category>
+      <guid isPermaLink="false">news-a3da2b6378028ded</guid>
+      <pubDate>Mon, 01 Jun 2026 13:31:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ServiceNow, Adobe stocks jump as Nvidia’s new AI chip sparks software rally</title>
+      <link>https://www.marketwatch.com/story/servicenow-adobe-stocks-jump-as-nvidias-new-ai-chip-sparks-software-rally-5b404831?mod=mw_rss_topstories</link>
+      <description>As AI agents spur demand for more software — not less — major enterprise cloud platforms are staging a comeback.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-db415c100b7445b7</guid>
+      <pubDate>Mon, 01 Jun 2026 13:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US says it struck Iranian radar sites as Iran targets American forces in Kuwait</title>
+      <link>https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning "repeated" Iranian attacks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-800ef70bc6e4b7fb</guid>
+      <pubDate>Mon, 01 Jun 2026 13:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran War Live Updates: U.S. Military Says Iran Targeted American Forces in Kuwait</title>
+      <link>https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon</link>
+      <description>The U.S. military intercepted two Iranian missiles early Monday and no American personnel were harmed, Central Command said. The attacks threatened to further complicate talks to end the war.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-cda998e27f664801</guid>
+      <pubDate>Mon, 01 Jun 2026 13:09:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria</title>
+      <link>https://www.nytimes.com/2026/06/01/world/middleeast/syria-war-crimes-trial-austria.html</link>
+      <description>The trial, Austria’s first against Assad regime officials, will be a rare chance for Syrian witnesses to confront two men they have accused of torture.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-b303d9a0c9a10d40</guid>
+      <pubDate>Mon, 01 Jun 2026 12:56:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. oil prices rise above $90 a barrel after fresh wave of attacks between U.S. and Iran</title>
+      <link>https://www.marketwatch.com/story/oil-prices-rise-after-fresh-wave-of-attacks-between-u-s-and-iran-fbcdd5ed?mod=mw_rss_topstories</link>
+      <description>Both the U.S. and global oil prices were climbing on Monday as hopes for a peace deal between Washington and Tehran were again clouded.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-1d511576a8944b21</guid>
+      <pubDate>Mon, 01 Jun 2026 12:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colombia Presidential Election Heads to a Runoff</title>
+      <link>https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html</link>
+      <description>The candidate, Abelardo de la Espriella, will face a senator from the left-wing party of the outgoing president, Gustavo Petro, in a June runoff.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-7e9baf3359d2d4f9</guid>
+      <pubDate>Mon, 01 Jun 2026 12:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>A ‘volatility spasm’ is set to provide the toughest test yet to the 9-week-old stock-market rally</title>
+      <link>https://www.marketwatch.com/story/a-volatility-spasm-is-set-to-give-the-toughest-test-yet-to-the-nine-week-old-stock-market-rally-1ab1af2e?mod=mw_rss_topstories</link>
+      <description>A bunch of catalysts this month may cause tremors in the market, says SpotGamma</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-8df9afa906cd9341</guid>
+      <pubDate>Mon, 01 Jun 2026 12:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates</title>
+      <link>https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-2e158da82a300400</guid>
+      <pubDate>Mon, 01 Jun 2026 12:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>France seized sanctioned Russian oil tanker with UK help, Macron says</title>
+      <link>https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A British helicopter provided support during the operation on Sunday, the UK ministry of defence says.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-1eb1bc6e40d99adf</guid>
+      <pubDate>Mon, 01 Jun 2026 11:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>An OpenAI model solved a famous math problem that stumped humans for 80 years</title>
+      <link>https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/</link>
+      <description>I tried to explain OpenAI’s solution more clearly than OpenAI did.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-b5bf7fc1ab3f8eef</guid>
+      <pubDate>Mon, 01 Jun 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2026 newsletter</title>
+      <link>https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything</link>
+      <description>I just sent out the May edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Al got expensive, and Anthropic had a really good month The model releases were a little disappointing Conferences and podcasts I launched Datasette Agent and made a lot of progress on Datasette What I'm using, May 2026 edition Miscellaneous extras Here's a copy of the April newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-79e8b3b3d720a9fc</guid>
+      <pubDate>Mon, 01 Jun 2026 04:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-7c8c63c46b4bc3d6</guid>
+      <pubDate>Mon, 01 Jun 2026 04:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette 1.0a32</title>
+      <link>https://simonwillison.net/2026/May/31/datasette/#atom-everything</link>
+      <description>Release: datasette 1.0a32 A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I was experimenting with Service Workers yesterday. Tags: datasette, annotated-release-notes</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-a28c8744e6147fa6</guid>
+      <pubDate>Sun, 31 May 2026 23:23:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erin Brockovich takes aim at data center secrecy</title>
+      <link>https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/</link>
+      <description>Environmental activist Erin Brockovich has a new mission.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-3a5b6804157e3727</guid>
+      <pubDate>Sun, 31 May 2026 21:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The solution might be cancelling my AI subscription</title>
+      <link>https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything</link>
+      <description>The solution might be cancelling my AI subscription I find this post by David Wilson very relatable. David lists 16+ projects he's spun up with AI tooling, and concludes: I didn't mean to build most of these things. Usually the Claude session started with something like "write a quick script for X", and one hour later the result is not a quick script for X, nor in the usual case is my problem solved, whatever the original itch happened to be. On that last point, this technology is horrific for attention. It's a thermonuclear ADHD amplifier and I have seen the same effect in every single one of my adult friends. Folk running 3 screens simultaneously working on totally unrelated "projects" they have little hope of maintaining, and such little commitment to the outcome that the time is obviously wasted. This is a very real problem. I'm finding that coding agents can take me from a vague idea to a working solution, one with tests and documentation and that looks like a carefully considered project evolved over the course of many weeks... in less than an hour. Even if the code is rock solid, there's a limit to how many projects like that I can sensibly care for - and if they're instantly abandoned, what value was there from creating them in the first place? David doesn't think this is sustainable at all: I have no idea how to manage AI at present except by curtailing use, because a tool producing a cheap reward with minimal input and no friction can only be a liability, and achieving that realisation is probably the only real contribution of AI to date. I'm hopeful that the critical skill to develop here is discipline. That’s not great news for me: I’ve been trying to figure that one out for decades! Interestingly, the Hacker News thread has gathered a number of comments from people with ADHD who are finding agents help them achieve the focus they've been missing: "... for me (also ADHD) it's kind of the opposite. I'm finishing side projects for the first time ever because I can actually get them working before I get bored of them" "As someone with ADHD I feel like AI is a salve for my mind. I used to listen to intense EDM while working. Now I sit in silence and talk to my agents. I maintain inbox zero. I absorb and comment across all relevant projects, even outside my team. I literally feel like I have a support team for the first time." "For those of us prone to hyperfocus, working with AI can provide the kinds of stimulation we crave. I can hardly remember a time when I've felt more engaged with my work, more productive, and more badass." Via Hacker News Tags: productivity, ai, generative-ai, llms, coding-agents, ai-misuse</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-d66cbd6490f7bc62</guid>
+      <pubDate>Sun, 31 May 2026 16:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making sense of the debate over AI psychosis</title>
+      <link>https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/</link>
+      <description>On the latest episode of Equity, we debate whether tech CEOs are "uniquely prone to AI psychosis."</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-2effc53c7f1e1b22</guid>
+      <pubDate>Sun, 31 May 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colombia votes in presidential election that could redefine relations with US</title>
+      <link>https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-090b248a60d65d16</guid>
+      <pubDate>Sun, 31 May 2026 13:09:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost</title>
+      <link>https://www.nytimes.com/2026/05/31/world/americas/us-boat-strikes-colombia-ecuador.html</link>
+      <description>Residents of coastal communities in Colombia and Ecuador said the airstrike campaign was making many reconsider anything involving the ocean as a livelihood.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-6320f1700c9cd95f</guid>
+      <pubDate>Sun, 31 May 2026 13:06:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>I went looking for the AI weed vape that gives you Bitcoin for smoking</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape</link>
+      <description>The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words "every hit delivers Bitcoin" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-2fb8fa2bf4321072</guid>
+      <pubDate>Sun, 31 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel seizes castle in Lebanon as it expands ground offensive</title>
+      <link>https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-74e6bf8e08e37c40</guid>
+      <pubDate>Sun, 31 May 2026 12:18:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

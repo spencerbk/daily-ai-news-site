@@ -3,238 +3,233 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Daily AI News</title>
-<style>
-:root {
-    color-scheme: light dark;
-    --bg: #ffffff;
-    --fg: #1f1f1f;
-    --muted: #555555;
-    --accent: #0a5fbf;
-    --rule: #d8d8de;
-    --code-bg: rgba(127, 127, 127, .15);
+<title>News Digest — 2026-06-04</title>
+<style>:root {
+  color-scheme: light dark;
+  --fg: #1b1f24;
+  --muted: #57606a;
+  --accent: #0969da;
+  --bg: #ffffff;
+  --card: #f6f8fa;
+  --border: #d0d7de;
 }
 @media (prefers-color-scheme: dark) {
-    :root {
-        --bg: #121212;
-        --fg: #ececec;
-        --muted: #a9a9b3;
-        --accent: #4ea3ff;
-        --rule: #303035;
-    }
+  :root {
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+  }
 }
 * { box-sizing: border-box; }
 body {
-    margin: 0;
-    padding: 2rem 1rem 4rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-                 "Helvetica Neue", Arial, sans-serif;
-    line-height: 1.55;
-    background: var(--bg);
-    color: var(--fg);
-    font-size: 17px;
+  font-family: -apple-system, "Segoe UI", system-ui, sans-serif;
+  color: var(--fg);
+  background: var(--bg);
+  margin: 0;
+  line-height: 1.5;
 }
-main { max-width: 720px; margin: 0 auto; }
-h1 { font-size: 1.7rem; margin: 0 0 1rem; line-height: 1.25; }
-h2 { font-size: 1.2rem; margin: 2rem 0 .75rem; color: var(--accent); line-height: 1.3; }
-h3 { font-size: 1.05rem; margin: 1.25rem 0 .5rem; line-height: 1.3; }
-a { color: var(--accent); text-decoration: none; word-break: break-word; }
+main { max-width: 760px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+h1 { font-size: 1.75rem; margin: 0 0 0.25rem; }
+h2 { font-size: 1.25rem; margin: 2rem 0 0.5rem; padding-bottom: 0.25rem;
+     border-bottom: 1px solid var(--border); }
+h3 { font-size: 1rem; margin: 2rem 0 0.5rem; }
+.meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
+.topic-summary {
+  background: var(--card);
+  border-left: 3px solid var(--accent);
+  padding: 0.6rem 0.9rem;
+  margin: 0.5rem 0 1rem;
+  font-style: italic;
+}
+ul.articles { list-style: none; padding: 0; margin: 0 0 1rem; }
+ul.articles > li { padding: 0.5rem 0; border-bottom: 1px solid var(--border); }
+ul.articles > li:last-child { border-bottom: none; }
+.article-meta { color: var(--muted); font-size: 0.85rem; }
+.article-blurb { margin: 0.25rem 0 0; color: var(--fg); font-size: 0.95rem; }
+.article-sources { margin: 0.25rem 0 0; color: var(--muted); font-size: 0.85rem; }
+.audio-panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+.audio-panel h2 { margin-top: 0; }
+.audio-panel audio { width: 100%; }
+a { color: var(--accent); text-decoration: none; }
 a:hover, a:focus { text-decoration: underline; }
-hr { border: 0; border-top: 1px solid var(--rule); margin: 1.75rem 0; }
-ul, ol { padding-left: 1.5rem; }
-li { margin: .25rem 0; }
-p { margin: .5rem 0; }
-strong { font-weight: 600; }
-code {
-    background: var(--code-bg);
-    padding: .05rem .35rem;
-    border-radius: 4px;
-    font-size: .9em;
-}
-blockquote {
-    margin: .5rem 0;
-    padding: .25rem 0 .25rem 1rem;
-    border-left: 3px solid var(--rule);
-    color: var(--muted);
-}
-</style>
+a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }</style>
 </head>
 <body>
 <main>
-<h1>📰 Daily AI News Briefing</h1>
-<p><strong>Date</strong>: June 4, 2026
-<strong>Sources</strong>: 15+ articles aggregated from 12 publications
-<strong>Coverage</strong>: Last 24–48 hours</p>
-<hr />
-<h2>🔥 Major Announcements</h2>
-<h3>Microsoft launches &quot;Scout&quot; agentic autopilot across Microsoft 365</h3>
-<p><strong>Summary</strong>: Microsoft rolled out Scout, a new agentic AI system that operates autonomously across the M365 productivity suite.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Works cross-functionally between Word, Excel, Outlook, Teams, and SharePoint</li>
-<li>Marketed as an &quot;autopilot&quot; rather than a copilot — initiates and completes multi-step workflows on its own</li>
-<li>Targets enterprise customers as the next step beyond Copilot</li>
-<li>Part of Microsoft's broader push into goal-driven agentic AI</li>
+<h1>News Digest — 2026-06-04</h1>
+<p class="meta">Generated 20:42 UTC · 5 topics · 30 articles · $0.00 LLM spend</p>
+<h2>AI</h2>
+<ul class="articles">
+<li>
+<a href="https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/" target="_blank" rel="noopener noreferrer">Elon Musk tries again to escape FTC audits of X data handling</a>
+<div class="article-meta">arstechnica-ai · 2026-06-04 19:49 UTC</div>
+<p class="article-blurb">Musk can&#x27;t be trusted to protect X user privacy, public commenters warn FTC.</p>
+</li>
+<li>
+<a href="https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/" target="_blank" rel="noopener noreferrer">Meta steals a tactic from Tesla and builds data centers in tents</a>
+<div class="article-meta">techcrunch-ai · 2026-06-04 19:33 UTC</div>
+<p class="article-blurb">Meta may have one found one way to slash its massive data center bill: tents.</p>
+</li>
+<li>
+<a href="https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center" target="_blank" rel="noopener noreferrer">Kevin O’Leary agrees to downsize massive Utah data center</a>
+<div class="article-meta">theverge-ai · 2026-06-04 18:38 UTC</div>
+<p class="article-blurb">Kevin O&#x27;Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, […]</p>
+</li>
+<li>
+<a href="https://devblogs.microsoft.com/foundry/accelerate-edge-ai-development-with-foundry-local/" target="_blank" rel="noopener noreferrer">Accelerate Edge AI Development with Foundry Local</a>
+<div class="article-meta">devblogs-msft-foundry · 2026-06-04 13:00 UTC</div>
+<p class="article-blurb">Why edge AI development is still hard AI is no longer confined to cloud experiments. Developers are increasingly expected to deliver AI inside apps, devices, and edge systems where responsiveness, privacy, resilience, and local control are essential. But building those experiences for production is still difficult. Teams often have to solve model packaging, runtime fragmentation, hardware differences, […] The post Accelerate Edge AI Development with Foundry Local appeared first on Microsoft Foundry Blog.</p>
+</li>
+<li>
+<a href="https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/" target="_blank" rel="noopener noreferrer">Apple approves Poke as the first AI agent on its Messages for Business platform</a>
+<div class="article-meta">techcrunch-ai · 2026-06-04 19:20 UTC</div>
+<p class="article-blurb">Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.</p>
+</li>
+<li>
+<a href="https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles" target="_blank" rel="noopener noreferrer">TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</a>
+<div class="article-meta">theverge-ai · 2026-06-04 14:15 UTC</div>
+<p class="article-blurb">Taiwan Semiconductor Manufacturing Co. - the world&#x27;s biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. &quot;Customer demand is so high, and we can only support so much,&quot; TSMC CEO C.C. Wei said after a shareholder meeting on […]</p>
+</li>
 </ul>
-<p><strong>Impact</strong>: Signals the industry transition from chat-style copilots to autonomous workplace agents that take action without prompting.</p>
-<p>📅 <strong>Source</strong>: <a href="http://artificialintelligence-news.com" target="_blank" rel="noreferrer noopener">artificialintelligence-news.com</a> • June 4, 2026
-🔗 <strong>Link</strong>: <a href="https://www.artificialintelligence-news.com/" target="_blank" rel="noreferrer noopener">https://www.artificialintelligence-news.com/</a></p>
-<hr />
-<h3>Amazon partners with Kate Spade on AI shopping assistant for retailers</h3>
-<p><strong>Summary</strong>: Amazon unveiled a retailer-facing AI shopping assistant, debuting in partnership with Kate Spade.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Provides conversational, personalized product discovery on retailer storefronts</li>
-<li>White-labeled service that retailers can embed in their own properties</li>
-<li>Builds on Amazon's Rufus assistant infrastructure</li>
-<li>Direct play against Shopify's AI commerce stack</li>
+<h2>Markets</h2>
+<ul class="articles">
+<li>
+<a href="https://www.marketwatch.com/story/why-broadcoms-stock-is-falling-so-hard-after-earnings-88c6db5e?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer">Why Broadcom’s stock is falling so hard after earnings</a>
+<div class="article-meta">marketwatch · 2026-06-04 20:34 UTC</div>
+<p class="article-blurb">The chip company declined to increase its AI revenue outlook for next year “in a market environment clamoring for material beats and raises.”</p>
+</li>
+<li>
+<a href="https://www.cnbc.com/2026/06/04/kalshi-is-building-a-bloomberg-terminal-for-prediction-markets.html" target="_blank" rel="noopener noreferrer">Kalshi is building a prediction markets &#x27;Bloomberg Terminal&#x27; for high-end traders, source says</a>
+<div class="article-meta">cnbc-finance · 2026-06-04 12:47 UTC</div>
+<p class="article-blurb">The prediction market platform is developing the platform to create a singular platform for its highly engaged traders.</p>
+</li>
+<li>
+<a href="https://www.marketwatch.com/story/are-you-financially-fulfilled-if-not-your-retirement-plans-are-in-danger-81e3531c?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer">Are you financially fulfilled? If not, your retirement plans are in danger.</a>
+<div class="article-meta">marketwatch · 2026-06-04 20:31 UTC</div>
+<p class="article-blurb">Only 16% of Americans say they’re financially comfortable, a new poll found.</p>
+</li>
+<li>
+<a href="https://www.marketwatch.com/story/the-ipo-of-this-power-generator-for-data-centers-quietly-outshines-quantinuum-d5d3124c?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer">The IPO of this power generator for data centers quietly outshines Quantinuum</a>
+<div class="article-meta">marketwatch · 2026-06-04 20:30 UTC</div>
+<p class="article-blurb">Innio’s stock soared in its debut, to outshine the shares of the more high-profile quantum-computing company, and Trump administration investment, Quantinuum.</p>
+</li>
+<li>
+<a href="https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer">Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?</a>
+<div class="article-meta">marketwatch · 2026-06-04 20:13 UTC</div>
+<p class="article-blurb">A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare at a time when the programs are under pressure.</p>
+</li>
 </ul>
-<p><strong>Impact</strong>: Extends Amazon's AI footprint beyond its own marketplace and into the broader retail technology supply chain.</p>
-<p>📅 <strong>Source</strong>: <a href="http://artificialintelligence-news.com" target="_blank" rel="noreferrer noopener">artificialintelligence-news.com</a> • June 4, 2026
-🔗 <strong>Link</strong>: <a href="https://www.artificialintelligence-news.com/" target="_blank" rel="noreferrer noopener">https://www.artificialintelligence-news.com/</a></p>
-<hr />
-<h3>OpenAI expands GPT-Rosalind agentic capabilities</h3>
-<p><strong>Summary</strong>: OpenAI added new agentic features to GPT-Rosalind, the model line associated with its biodefense and scientific reasoning initiative.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>New tool-use and long-horizon planning capabilities</li>
-<li>Tied to the Rosalind Biodefense program for pandemic preparedness</li>
-<li>Continues OpenAI's consolidation around agentic workflows</li>
-<li>Follows the recent GPT-5.5 release and the 1B-MAU ChatGPT milestone</li>
+<h2>Cloud Infrastructure</h2>
+<ul class="articles">
+<li>
+<a href="https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/" target="_blank" rel="noopener noreferrer">GitHub Universe is back: All together now, in the agentic era</a>
+<div class="article-meta">github-blog · 2026-06-04 16:00 UTC</div>
+<p class="article-blurb">GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog.</p>
+</li>
+<li>
+<a href="https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/" target="_blank" rel="noopener noreferrer">Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal</a>
+<div class="article-meta">techcrunch-enterprise · 2026-06-03 19:38 UTC</div>
+<p class="article-blurb">If Alphabet&#x27;s record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.</p>
+</li>
+<li>
+<a href="https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/" target="_blank" rel="noopener noreferrer">GitLab cuts 14% of staff as it scales its platform to serve AI workloads</a>
+<div class="article-meta">techcrunch-enterprise · 2026-06-03 14:59 UTC</div>
+<p class="article-blurb">The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.</p>
+</li>
+<li>
+<a href="https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/" target="_blank" rel="noopener noreferrer">GitHub Copilot app: The agent-native desktop experience</a>
+<div class="article-meta">github-blog · 2026-06-02 17:30 UTC</div>
+<p class="article-blurb">At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog.</p>
+</li>
+<li>
+<a href="https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/" target="_blank" rel="noopener noreferrer">OpenAI launches new Codex tools for white-collar work</a>
+<div class="article-meta">techcrunch-enterprise · 2026-06-02 16:00 UTC</div>
+<p class="article-blurb">OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.</p>
+</li>
 </ul>
-<p><strong>Impact</strong>: Reinforces OpenAI's bet that frontier value will come from specialized agentic systems, not just general chat.</p>
-<p>📅 <strong>Source</strong>: OpenAI News • June 3, 2026
-🔗 <strong>Link</strong>: <a href="https://openai.com/news/" target="_blank" rel="noreferrer noopener">https://openai.com/news/</a></p>
-<hr />
-<h2>🔬 Research &amp; Papers</h2>
-<h3>NVIDIA debuts &quot;physical AI agent skills&quot; at CVPR</h3>
-<p><strong>Summary</strong>: At CVPR 2026, NVIDIA introduced a new set of physical AI agent skills for autonomous vehicles, robotics, and computer vision pipelines.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Built atop the Cosmos 3 &quot;omnimodel&quot; architecture — unified visual reasoning, world simulation, and action</li>
-<li>New agent training capabilities targeted at researchers and robotics developers</li>
-<li>Bridges perception, planning, and embodied control in a single stack</li>
-<li>Open developer access for benchmark replication</li>
+<h2>World &amp; Current Events</h2>
+<ul class="articles">
+<li>
+<a href="https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</a>
+<div class="article-meta">bbc-world · 2026-06-04 20:37 UTC</div>
+<p class="article-blurb">The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.</p>
+</li>
+<li>
+<a href="https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html" target="_blank" rel="noopener noreferrer">Wary of Americans, Canada Bets on Its Own A.I.</a>
+<div class="article-meta">nyt-world · 2026-06-04 20:32 UTC</div>
+<p class="article-blurb">The country on Thursday released a national artificial intelligence strategy that focuses on building its sovereign capability and protecting consumers.</p>
+</li>
+<li>
+<a href="https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html" target="_blank" rel="noopener noreferrer">As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw</a>
+<div class="article-meta">nyt-world · 2026-06-04 20:32 UTC</div>
+<p class="article-blurb">The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.</p>
+</li>
+<li>
+<a href="https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">John Bolton expected to plead guilty in classified documents case, sources confirm</a>
+<div class="article-meta">bbc-world · 2026-06-04 19:28 UTC</div>
+<p class="article-blurb">Trump&#x27;s former advisor turned critic had reached a deal with prosecutors, two people said.</p>
+</li>
+<li>
+<a href="https://www.nytimes.com/2026/06/04/climate/deep-sea-mining-metals-company.html" target="_blank" rel="noopener noreferrer">How One Company Plans to Mine the Bottom of the Sea</a>
+<div class="article-meta">nyt-world · 2026-06-04 20:30 UTC</div>
+<p class="article-blurb">A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news.</p>
+</li>
+<li>
+<a href="https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Why is this teen fashion brand closing its fitting rooms?</a>
+<div class="article-meta">bbc-world · 2026-06-04 18:48 UTC</div>
+<p class="article-blurb">Brandy Melville&#x27;s move has caused uproar among some young women who frequent its stores, with one calling it a &quot;devastating news&quot;.</p>
+</li>
 </ul>
-<p><strong>Impact</strong>: Pushes the field closer to general-purpose embodied agents and consolidates NVIDIA's lead in the physical-AI tooling layer.</p>
-<p>📅 <strong>Source</strong>: NVIDIA Newsroom • June 3, 2026
-🔗 <strong>Link</strong>: <a href="https://nvidianews.nvidia.com/news" target="_blank" rel="noreferrer noopener">https://nvidianews.nvidia.com/news</a></p>
-<hr />
-<h3>MiniMax M3 introduces sparse attention, slashing per-token compute by 95%</h3>
-<p><strong>Summary</strong>: MiniMax released M3, a long-context model whose &quot;Sparse Attention&quot; mechanism dramatically reduces inference cost.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Handles context windows up to ~1 million tokens</li>
-<li>~95% reduction in per-token compute vs dense attention baselines</li>
-<li>Optimized for codebase- and document-scale tasks</li>
-<li>Strengthens the open / non-US frontier model field</li>
+<h2>AI Coding &amp; Agents</h2>
+<ul class="articles">
+<li>
+<a href="https://www.latent.space/p/andon" target="_blank" rel="noopener noreferrer">Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs</a>
+<div class="article-meta">latent-space · 2026-06-04 20:39 UTC</div>
+<p class="article-blurb">We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.</p>
+</li>
+<li>
+<a href="https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot" target="_blank" rel="noopener noreferrer">Larger context windows and configurable reasoning levels for GitHub Copilot</a>
+<div class="article-meta">github-copilot-changelog · 2026-06-04 18:45 UTC</div>
+<p class="article-blurb">GitHub Copilot now supports larger context windows and configurable reasoning levels to help you tackle deeper, more complex work. Leverage one-million-token context windows A one-million-token context window means users can… The post Larger context windows and configurable reasoning levels for GitHub Copilot appeared first on The GitHub Blog.</p>
+</li>
+<li>
+<a href="https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety" target="_blank" rel="noopener noreferrer">Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI</a>
+<div class="article-meta">huggingface-blog · 2026-06-04 18:57 UTC</div>
+</li>
+<li>
+<a href="https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything" target="_blank" rel="noopener noreferrer">Quoting Emanuel Maiberg, 404 Media</a>
+<div class="article-meta">simonwillison · 2026-06-04 16:38 UTC</div>
+<p class="article-blurb">After this story was published Google&#x27;s spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that &quot;it&#x27;s critical that we maintain humans in the loop.&quot; — Emanuel Maiberg, 404 Media, Google Employees Internally Share Memes About How Its AI Sucks Tags: ai-ethics, journalism, ai, google</p>
+</li>
+<li>
+<a href="https://openai.com/index/endava-frontiers" target="_blank" rel="noopener noreferrer">How Endava is redesigning software delivery around AI agents</a>
+<div class="article-meta">openai-news · 2026-06-04 12:00 UTC</div>
+<p class="article-blurb">Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</p>
+</li>
+<li>
+<a href="https://github.blog/changelog/2026-06-04-github-copilot-in-visual-studio-may-update" target="_blank" rel="noopener noreferrer">GitHub Copilot in Visual Studio — May update</a>
+<div class="article-meta">github-copilot-changelog · 2026-06-04 15:35 UTC</div>
+<p class="article-blurb">May 2026 brought sharper tooling for planning, reviewing, and managing your work with GitHub Copilot in Visual Studio 2026. Highlights Here’s what’s new for all GitHub Copilot users in Visual… The post GitHub Copilot in Visual Studio — May update appeared first on The GitHub Blog.</p>
+</li>
+<li>
+<a href="https://huggingface.co/blog/ServiceNow-AI/eva-bench-data" target="_blank" rel="noopener noreferrer">EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios</a>
+<div class="article-meta">huggingface-blog · 2026-06-04 12:24 UTC</div>
+</li>
+<li>
+<a href="https://openai.com/index/chatgpt-memory-dreaming" target="_blank" rel="noopener noreferrer">Dreaming: Better memory for a more helpful ChatGPT</a>
+<div class="article-meta">openai-news · 2026-06-04 09:00 UTC</div>
+<p class="article-blurb">ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.</p>
+</li>
 </ul>
-<p><strong>Impact</strong>: A meaningful efficiency breakthrough that could reset the economics of long-context inference.</p>
-<p>📅 <strong>Source</strong>: <a href="http://aiapps.com" target="_blank" rel="noreferrer noopener">aiapps.com</a> — June 2026 breakthroughs roundup
-🔗 <strong>Link</strong>: <a href="https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/" target="_blank" rel="noreferrer noopener">https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/</a></p>
-<hr />
-<h2>💰 Industry &amp; Business</h2>
-<h3>Anthropic raises $65B at $965B valuation, overtakes OpenAI as most valuable private AI lab</h3>
-<p><strong>Summary</strong>: Anthropic closed a Series H combining equity and a $36B private credit facility arranged by Apollo and Blackstone, taking its post-money valuation to $965B.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Largest single funding round ever for a private AI company</li>
-<li>Reported $10.9B in quarterly revenue and first operating profits</li>
-<li>IPO conversations reportedly active, possibly targeting late 2026</li>
-<li>Capital earmarked for compute infrastructure and Claude model development (Opus 4.8, upcoming Mythos class)</li>
-</ul>
-<p><strong>Impact</strong>: A structural shift in the AI hierarchy — Anthropic now sits ahead of OpenAI on private market valuation and is closer to a public listing than any frontier lab.</p>
-<p>📅 <strong>Source</strong>: AI Funding Tracker / Build Fast With AI • June 1–3, 2026
-🔗 <strong>Link</strong>: <a href="https://aifundingtracker.com/top-50-ai-startups/" target="_blank" rel="noreferrer noopener">https://aifundingtracker.com/top-50-ai-startups/</a></p>
-<hr />
-<h3>Google commits $40B to Anthropic, expands Gemini enterprise stack</h3>
-<p><strong>Summary</strong>: Google pledged $40B to Anthropic alongside major upgrades to its own enterprise AI platform.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>One of the largest single-investor commitments in AI history</li>
-<li>Pairs with the launch of Gemini 3.5 Flash and the new Gemini Enterprise Agent Platform (replacing Vertex AI)</li>
-<li>New custom silicon to support agentic workloads</li>
-<li>Deepens the Google–Anthropic alliance even as both compete on frontier models</li>
-</ul>
-<p><strong>Impact</strong>: Cements the &quot;two-stack&quot; reality — Gemini for Google-native enterprise, Claude for everywhere else — both underwritten by Google capital.</p>
-<p>📅 <strong>Source</strong>: ChatFin / <a href="http://ToolsCompare.AI" target="_blank" rel="noreferrer noopener">ToolsCompare.AI</a> • June 2026
-🔗 <strong>Link</strong>: <a href="https://chatfin.ai/blog/2026-ai-breakthroughs-gpt-5-5-40b-google-anthropic-investment-and-new-audit-standards/" target="_blank" rel="noreferrer noopener">https://chatfin.ai/blog/2026-ai-breakthroughs-gpt-5-5-40b-google-anthropic-investment-and-new-audit-standards/</a></p>
-<hr />
-<h3>Anduril doubles valuation to $61B in $5B defense-AI round</h3>
-<p><strong>Summary</strong>: AI-powered defense contractor Anduril raised $5B, doubling its valuation to $61B.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Continues the surge of capital into defense-tech AI</li>
-<li>Round closes alongside xAI's $20B Series E and tightening SpaceX/xAI compute ties</li>
-<li>Mega-rounds ($100M+) now account for ~73% of AI startup funding value</li>
-</ul>
-<p><strong>Impact</strong>: Defense and infrastructure-adjacent AI are now where the largest non-frontier-lab capital is concentrating.</p>
-<p>📅 <strong>Source</strong>: Blockchain Council / Intellizence • June 2026
-🔗 <strong>Link</strong>: <a href="https://www.blockchain-council.org/ai/ai-funding-news-2026-records-mega-rounds-trends/" target="_blank" rel="noreferrer noopener">https://www.blockchain-council.org/ai/ai-funding-news-2026-records-mega-rounds-trends/</a></p>
-<hr />
-<h2>🛠️ Tools &amp; Applications</h2>
-<h3>OpenClaw crosses 280K GitHub stars for local-first autonomous agents</h3>
-<p><strong>Summary</strong>: OpenClaw has become one of the most starred open-source AI repos in history, focused on local-first agents that plug into messaging apps.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Python, MIT-licensed</li>
-<li>Integrates with WhatsApp, Telegram, and Discord for personal automation</li>
-<li>Strong emphasis on observability (logging/tracing) and stateful execution</li>
-<li>Active discussion around security of community-built &quot;skills&quot;</li>
-</ul>
-<p><strong>Impact</strong>: Reflects the year's biggest open-source trend — privacy-preserving, locally hosted agents over hosted SaaS copilots.</p>
-<p>📅 <strong>Source</strong>: <a href="http://aimagicx.com" target="_blank" rel="noreferrer noopener">aimagicx.com</a> — Best Open-Source AI Agent Frameworks 2026
-🔗 <strong>Link</strong>: <a href="https://www.aimagicx.com/blog/best-open-source-ai-agent-frameworks-2026" target="_blank" rel="noreferrer noopener">https://www.aimagicx.com/blog/best-open-source-ai-agent-frameworks-2026</a></p>
-<hr />
-<h3>VoxCPM2 raises the bar for open-source multilingual TTS</h3>
-<p><strong>Summary</strong>: OpenBMB released VoxCPM2, a tokenizer-free text-to-speech framework producing realistic multilingual voice cloning.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Open-source, hosted on GitHub</li>
-<li>Tokenizer-free architecture for higher-fidelity prosody</li>
-<li>Targets researchers and indie developers needing production-grade TTS without API costs</li>
-<li>Competes directly with closed-source ElevenLabs-class systems</li>
-</ul>
-<p><strong>Impact</strong>: Continues the steady erosion of proprietary moats around high-end speech synthesis.</p>
-<p>📅 <strong>Source</strong>: AIToolly — June 1, 2026 roundup
-🔗 <strong>Link</strong>: <a href="https://aitoolly.com/ai-news/2026-06-01" target="_blank" rel="noreferrer noopener">https://aitoolly.com/ai-news/2026-06-01</a></p>
-<hr />
-<h2>🌍 Policy &amp; Ethics</h2>
-<h3>Trump signs executive order asking AI companies for voluntary early access to frontier models</h3>
-<p><strong>Summary</strong>: On June 2, President Trump signed an executive order on &quot;Promoting Advanced Artificial Intelligence Innovation and Security.&quot;</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Asks frontier-model developers to voluntarily share new models with the federal government before public release</li>
-<li>Explicitly <em>not</em> a licensing or preclearance regime</li>
-<li>Prioritizes federal and national-security uses of AI plus cyber defense</li>
-<li>Framed as a counterweight to &quot;overly burdensome&quot; regulation</li>
-</ul>
-<p><strong>Impact</strong>: Sets the U.S. approach to frontier models around voluntary disclosure and security benchmarking rather than statutory oversight.</p>
-<p>📅 <strong>Source</strong>: CBS News / CNBC / White House • June 2, 2026
-🔗 <strong>Link</strong>: <a href="https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/" target="_blank" rel="noreferrer noopener">https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/</a></p>
-<hr />
-<h3>OpenAI publicly diverges from the White House on AI safety oversight</h3>
-<p><strong>Summary</strong>: OpenAI published a policy paper pushing back on the voluntary, intelligence-community-led model in Trump's executive order.</p>
-<p><strong>Key Points</strong>:</p>
-<ul>
-<li>Advocates for <em>mandatory</em> model risk evaluations led by NIST (Department of Commerce)</li>
-<li>Argues a civilian agency offers clearer compliance criteria</li>
-<li>A notable break from industry's usual public alignment with the administration on AI</li>
-<li>Lands one day after the executive order</li>
-</ul>
-<p><strong>Impact</strong>: Opens a visible split between the leading frontier lab and the U.S. government on the architecture of AI oversight — a debate that will shape the next legislative cycle.</p>
-<p>📅 <strong>Source</strong>: Politico • June 3, 2026
-🔗 <strong>Link</strong>: <a href="https://www.politico.com/news/2026/06/03/openai-white-house-ai-safety-rules-00948478" target="_blank" rel="noreferrer noopener">https://www.politico.com/news/2026/06/03/openai-white-house-ai-safety-rules-00948478</a></p>
-<hr />
-<h2>🎯 Key Takeaways</h2>
-<ol>
-<li><strong>The capital balance of power has flipped</strong>: Anthropic at $965B with an IPO in sight now sits above OpenAI on private valuation, backed by a $40B Google commitment.</li>
-<li><strong>Agentic systems are the product story of the week</strong>: Microsoft Scout, GPT-Rosalind, and NVIDIA's physical-AI skills all push the frontier from &quot;assistants&quot; to autonomous, action-taking agents.</li>
-<li><strong>U.S. AI policy is fracturing in public</strong>: One day after Trump's voluntary-disclosure executive order, OpenAI broke ranks to argue for mandatory NIST-led evaluations — a fight worth tracking as the EU AI Act becomes fully enforceable in August.</li>
-</ol>
-<hr />
-<p><strong>Generated on</strong>: 2026-06-04T06:00:16-07:00
-<strong>Next update</strong>: Check back tomorrow for the latest AI news</p>
 </main>
 </body>
 </html>
