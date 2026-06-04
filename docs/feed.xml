@@ -5,8 +5,88 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 20:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 21:24:01 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel</title>
+      <link>https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon</link>
+      <description>Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a46d9e2e7a61e5c4</guid>
+      <pubDate>Thu, 04 Jun 2026 21:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantinuum’s buzzy IPO ends with a whimper as stock gives back early gains</title>
+      <link>https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories</link>
+      <description>The quantum company’s stock opened 13% above its IPO price but ended just cents above the IPO price.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-af1459dbf618f0ec</guid>
+      <pubDate>Thu, 04 Jun 2026 21:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Broadcom’s stock is falling so hard after earnings</title>
+      <link>https://www.marketwatch.com/story/why-broadcoms-stock-is-falling-so-hard-after-earnings-88c6db5e?mod=mw_rss_topstories</link>
+      <description>The chip company declined to increase its AI revenue outlook for next year “in a market environment clamoring for material beats and raises.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-018aa16ac1bbae76</guid>
+      <pubDate>Thu, 04 Jun 2026 21:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A war-weary Treasury market faces a fresh test with Friday’s jobs report</title>
+      <link>https://www.marketwatch.com/story/a-war-weary-treasury-market-faces-a-fresh-test-with-fridays-jobs-report-73789d8a?mod=mw_rss_topstories</link>
+      <description>The new worry on Wall Street is that investors are simply losing patience and demanding higher compensation to lend money to the U.S. government.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7a51c78b74bd873f</guid>
+      <pubDate>Thu, 04 Jun 2026 21:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lululemon admits far more work is needed for a turnaround, and its stock sinks</title>
+      <link>https://www.marketwatch.com/story/lululemon-admits-far-more-work-is-needed-for-a-turnaround-and-its-stock-sinks-e28c5618?mod=mw_rss_topstories</link>
+      <description>Problems continue to add up for Lululemon, as the yoga-wear maker on Thursday trimmed its full-year forecast to account for a potential dip in sales this year.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-b4c830a53cfdb152</guid>
+      <pubDate>Thu, 04 Jun 2026 21:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tennis Giants Tumble</title>
+      <link>https://www.nytimes.com/2026/06/04/world/05int-theworld-tennis-french-open-satrapi-lebanon.html</link>
+      <description>All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ab2c603bf1362355</guid>
+      <pubDate>Thu, 04 Jun 2026 21:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw</title>
+      <link>https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html</link>
+      <description>The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-0458f9bf7e4f6893</guid>
+      <pubDate>Thu, 04 Jun 2026 20:58:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix with Copilot for failing Actions now in Pro, Pro+, and Max</title>
+      <link>https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max</link>
+      <description>When a GitHub Actions job fails, Copilot Pro, Pro+, and Max subscribers can now ask Copilot cloud agent to fix it in one click. Click the Fix with Copilot button… The post Fix with Copilot for failing Actions now in Pro, Pro+, and Max appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-a114da147f388f5e</guid>
+      <pubDate>Thu, 04 Jun 2026 20:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>These LLMs are the best at resisting Russian propaganda</title>
+      <link>https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/</link>
+      <description>Estonian government benchmark shows how dozens of models combat Russia's "strategic narratives."</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-e45197f142a7afc5</guid>
+      <pubDate>Thu, 04 Jun 2026 20:44:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent tasks REST API now available for Copilot Pro, Pro+, and Max</title>
+      <link>https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max</link>
+      <description>Copilot Pro, Pro+, and Max users can now programmatically start and track Copilot cloud agent tasks with the Agent tasks REST API, available in public preview. Copilot cloud agent works… The post Agent tasks REST API now available for Copilot Pro, Pro+, and Max appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-b4006754071c20e9</guid>
+      <pubDate>Thu, 04 Jun 2026 20:42:10 +0000</pubDate>
+    </item>
     <item>
       <title>Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs</title>
       <link>https://www.latent.space/p/andon</link>
@@ -24,62 +104,6 @@
       <pubDate>Thu, 04 Jun 2026 20:37:46 +0000</pubDate>
     </item>
     <item>
-      <title>Why Broadcom’s stock is falling so hard after earnings</title>
-      <link>https://www.marketwatch.com/story/why-broadcoms-stock-is-falling-so-hard-after-earnings-88c6db5e?mod=mw_rss_topstories</link>
-      <description>The chip company declined to increase its AI revenue outlook for next year “in a market environment clamoring for material beats and raises.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-018aa16ac1bbae76</guid>
-      <pubDate>Thu, 04 Jun 2026 20:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wary of Americans, Canada Bets on Its Own A.I.</title>
-      <link>https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html</link>
-      <description>The country on Thursday released a national artificial intelligence strategy that focuses on building its sovereign capability and protecting consumers.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-eb90a0d510dbcd18</guid>
-      <pubDate>Thu, 04 Jun 2026 20:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw</title>
-      <link>https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html</link>
-      <description>The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-0458f9bf7e4f6893</guid>
-      <pubDate>Thu, 04 Jun 2026 20:32:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are you financially fulfilled? If not, your retirement plans are in danger.</title>
-      <link>https://www.marketwatch.com/story/are-you-financially-fulfilled-if-not-your-retirement-plans-are-in-danger-81e3531c?mod=mw_rss_topstories</link>
-      <description>Only 16% of Americans say they’re financially comfortable, a new poll found.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-12f444ec720e3907</guid>
-      <pubDate>Thu, 04 Jun 2026 20:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How One Company Plans to Mine the Bottom of the Sea</title>
-      <link>https://www.nytimes.com/2026/06/04/climate/deep-sea-mining-metals-company.html</link>
-      <description>A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-94321b5b9b02a1d1</guid>
-      <pubDate>Thu, 04 Jun 2026 20:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The IPO of this power generator for data centers quietly outshines Quantinuum</title>
-      <link>https://www.marketwatch.com/story/the-ipo-of-this-power-generator-for-data-centers-quietly-outshines-quantinuum-d5d3124c?mod=mw_rss_topstories</link>
-      <description>Innio’s stock soared in its debut, to outshine the shares of the more high-profile quantum-computing company, and Trump administration investment, Quantinuum.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-5871707983b54bdd</guid>
-      <pubDate>Thu, 04 Jun 2026 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?</title>
-      <link>https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories</link>
-      <description>A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare at a time when the programs are under pressure.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-a7dcc922ead9bf52</guid>
-      <pubDate>Thu, 04 Jun 2026 20:13:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Elon Musk tries again to escape FTC audits of X data handling</title>
       <link>https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/</link>
       <description>Musk can't be trusted to protect X user privacy, public commenters warn FTC.</description>
@@ -90,7 +114,7 @@
     <item>
       <title>Meta steals a tactic from Tesla and builds data centers in tents</title>
       <link>https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/</link>
-      <description>Meta may have one found one way to slash its massive data center bill: tents.</description>
+      <description>Meta may have found one way to slash its massive data center bill: tents.</description>
       <category>techcrunch-ai</category>
       <guid isPermaLink="false">news-de6475a399e0caf2</guid>
       <pubDate>Thu, 04 Jun 2026 19:33:09 +0000</pubDate>
@@ -159,22 +183,6 @@
       <pubDate>Thu, 04 Jun 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub Copilot in Visual Studio — May update</title>
-      <link>https://github.blog/changelog/2026-06-04-github-copilot-in-visual-studio-may-update</link>
-      <description>May 2026 brought sharper tooling for planning, reviewing, and managing your work with GitHub Copilot in Visual Studio 2026. Highlights Here’s what’s new for all GitHub Copilot users in Visual… The post GitHub Copilot in Visual Studio — May update appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-58ee141cf0408796</guid>
-      <pubDate>Thu, 04 Jun 2026 15:35:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</title>
-      <link>https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles</link>
-      <description>Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. "Customer demand is so high, and we can only support so much," TSMC CEO C.C. Wei said after a shareholder meeting on […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-d83e31aa344765ca</guid>
-      <pubDate>Thu, 04 Jun 2026 14:15:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Accelerate Edge AI Development with Foundry Local</title>
       <link>https://devblogs.microsoft.com/foundry/accelerate-edge-ai-development-with-foundry-local/</link>
       <description>Why edge AI development is still hard AI is no longer confined to cloud experiments. Developers are increasingly expected to deliver AI inside apps, devices, and edge systems where responsiveness, privacy, resilience, and local control are essential. But building those experiences for production is still difficult. Teams often have to solve model packaging, runtime fragmentation, hardware differences, […] The post Accelerate Edge AI Development with Foundry Local appeared first on Microsoft Foundry Blog.</description>
@@ -204,14 +212,6 @@
       <category>openai-news</category>
       <guid isPermaLink="false">news-d0841d29a3627d47</guid>
       <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dreaming: Better memory for a more helpful ChatGPT</title>
-      <link>https://openai.com/index/chatgpt-memory-dreaming</link>
-      <description>ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-58a72a3a66c9437c</guid>
-      <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal</title>
