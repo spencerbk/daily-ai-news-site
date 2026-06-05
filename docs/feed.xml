@@ -5,63 +5,111 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 21:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 01:42:01 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
     <item>
-      <title>Mideast Live Updates: Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel</title>
+      <title>US plans to fight flesh-eating screwworm outbreak with flies and dogs</title>
+      <link>https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-a8a6d0495d088019</guid>
+      <pubDate>Fri, 05 Jun 2026 00:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel</title>
       <link>https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon</link>
       <description>Hezbollah’s leader said the Iran-backed group, which was not included in U.S.-brokered talks, said a truce worked out between Israel and the Lebanese government amounted to surrender for his group.</description>
       <category>nyt-world</category>
       <guid isPermaLink="false">news-a46d9e2e7a61e5c4</guid>
-      <pubDate>Thu, 04 Jun 2026 21:17:21 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 00:39:41 +0000</pubDate>
     </item>
     <item>
-      <title>Quantinuum’s buzzy IPO ends with a whimper as stock gives back early gains</title>
-      <link>https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories</link>
-      <description>The quantum company’s stock opened 13% above its IPO price but ended just cents above the IPO price.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-af1459dbf618f0ec</guid>
-      <pubDate>Thu, 04 Jun 2026 21:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Broadcom’s stock is falling so hard after earnings</title>
-      <link>https://www.marketwatch.com/story/why-broadcoms-stock-is-falling-so-hard-after-earnings-88c6db5e?mod=mw_rss_topstories</link>
-      <description>The chip company declined to increase its AI revenue outlook for next year “in a market environment clamoring for material beats and raises.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-018aa16ac1bbae76</guid>
-      <pubDate>Thu, 04 Jun 2026 21:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A war-weary Treasury market faces a fresh test with Friday’s jobs report</title>
-      <link>https://www.marketwatch.com/story/a-war-weary-treasury-market-faces-a-fresh-test-with-fridays-jobs-report-73789d8a?mod=mw_rss_topstories</link>
-      <description>The new worry on Wall Street is that investors are simply losing patience and demanding higher compensation to lend money to the U.S. government.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7a51c78b74bd873f</guid>
-      <pubDate>Thu, 04 Jun 2026 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lululemon admits far more work is needed for a turnaround, and its stock sinks</title>
-      <link>https://www.marketwatch.com/story/lululemon-admits-far-more-work-is-needed-for-a-turnaround-and-its-stock-sinks-e28c5618?mod=mw_rss_topstories</link>
-      <description>Problems continue to add up for Lululemon, as the yoga-wear maker on Thursday trimmed its full-year forecast to account for a potential dip in sales this year.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-b4c830a53cfdb152</guid>
-      <pubDate>Thu, 04 Jun 2026 21:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tennis Giants Tumble</title>
-      <link>https://www.nytimes.com/2026/06/04/world/05int-theworld-tennis-french-open-satrapi-lebanon.html</link>
-      <description>All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.</description>
+      <title>Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up</title>
+      <link>https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html</link>
+      <description>As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality.</description>
       <category>nyt-world</category>
-      <guid isPermaLink="false">news-ab2c603bf1362355</guid>
-      <pubDate>Thu, 04 Jun 2026 21:01:09 +0000</pubDate>
+      <guid isPermaLink="false">news-a223d68d3e0ae20d</guid>
+      <pubDate>Fri, 05 Jun 2026 00:34:07 +0000</pubDate>
     </item>
     <item>
-      <title>As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw</title>
-      <link>https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html</link>
-      <description>The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.</description>
+      <title>House Passes Ukraine Aid in Defiance of Republican Leaders</title>
+      <link>https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html</link>
+      <description>Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president’s foreign policy agenda.</description>
       <category>nyt-world</category>
-      <guid isPermaLink="false">news-0458f9bf7e4f6893</guid>
-      <pubDate>Thu, 04 Jun 2026 20:58:22 +0000</pubDate>
+      <guid isPermaLink="false">news-a311513483ab254c</guid>
+      <pubDate>Fri, 05 Jun 2026 00:14:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI enthusiasts are in a race against time, AI skeptics are in a race against entropy</title>
+      <link>https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</link>
+      <description>AI enthusiasts are in a race against time, AI skeptics are in a race against entropy Charity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams: The enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle; teams that sit this out while competitors are hustling could be out of business before the dust settles. That’s a real, existential threat. The skeptics are also not wrong. When you ship code faster than engineers can read it, in domains where nobody has full context, you are making withdrawals from a trust account that took years to build. Reliability degrades, institutional knowledge evaporates. You end up with systems nobody understands, products burbling into incoherence, and on-call rotations that grind people up and spit them out. That is ALSO a real existential threat. Charity recommends treating this as both a leadership challenge and an engineering challenge. The key issue: There is no natural feedback loop connecting enthusiasts with skeptics. Designing feedback loops to help "mend the gap in shared reality" between the two groups is a fascinating organizational design problem. Via Lobste.rs Tags: ai, charity-majors, agentic-engineering</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-a3f95e297c8141e9</guid>
+      <pubDate>Thu, 04 Jun 2026 23:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelensky proposes face-to-face talks in open letter to Putin</title>
+      <link>https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ukraine's president tells the Russian leader that only "direct engagement" between the two countries could end the war, with the US focused on Iran.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-24397e95bef70cfe</guid>
+      <pubDate>Thu, 04 Jun 2026 23:32:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>This investing strategy digs deeper to find hidden stocks riding the AI wave</title>
+      <link>https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories</link>
+      <description>There are plenty of ways to jump into the generative-AI hardware infrastructure expansion beyond the familiar chip makers and hyperscalers.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-e84a121ac89a83f9</guid>
+      <pubDate>Thu, 04 Jun 2026 22:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marvell looks poised to finally get a spot in the S&amp;P 500 after explosive stock surge</title>
+      <link>https://www.marketwatch.com/story/marvell-looks-poised-to-finally-get-a-spot-in-the-s-p-500-after-explosive-stock-surge-02d952c6?mod=mw_rss_topstories</link>
+      <description>S&amp;P 500 changes are likely to be announced on Friday, and Marvell is now vastly bigger than the next-largest eligible contender.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-8b203a0301785a50</guid>
+      <pubDate>Thu, 04 Jun 2026 22:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns</title>
+      <link>https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/</link>
+      <description>Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-1858a5daeecf71bb</guid>
+      <pubDate>Thu, 04 Jun 2026 22:43:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Korea is the ultimate backdoor tech play — but stock investors now face a looming threat</title>
+      <link>https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories</link>
+      <description>Samsung and SK Hynix are key to soaring South Korean stock market, but a rate hike could trigger a 15% market correction.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-be060d78fce0e2d6</guid>
+      <pubDate>Thu, 04 Jun 2026 22:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Airbnb’s Brian Chesky plans to launch a new AI lab</title>
+      <link>https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/</link>
+      <description>The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-6e07b148513bb923</guid>
+      <pubDate>Thu, 04 Jun 2026 22:29:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>The skeptic’s guide to humanoid robots going viral on the Internet</title>
+      <link>https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/</link>
+      <description>Robot demonstrations can distort public perceptions of robotic capabilities.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-b3560036c170c4bb</guid>
+      <pubDate>Thu, 04 Jun 2026 22:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mistrust Spreads With the Ebola Virus in Congo</title>
+      <link>https://www.nytimes.com/video/world/africa/100000010942478/ebola-congo-mistrust-grief.html</link>
+      <description>In a remote mining town at the center of the Democratic Republic of Congo’s Ebola outbreak, grief and mistrust are complicating efforts to stop the virus. Health workers are trying to treat the ill and bury the dead, but some residents are still in denial that the disease is even real.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-3b2787a3a541c13b</guid>
+      <pubDate>Thu, 04 Jun 2026 22:02:20 +0000</pubDate>
     </item>
     <item>
       <title>Fix with Copilot for failing Actions now in Pro, Pro+, and Max</title>
@@ -96,67 +144,11 @@
       <pubDate>Thu, 04 Jun 2026 20:39:18 +0000</pubDate>
     </item>
     <item>
-      <title>Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</title>
-      <link>https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-87198121b0998f47</guid>
-      <pubDate>Thu, 04 Jun 2026 20:37:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk tries again to escape FTC audits of X data handling</title>
-      <link>https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/</link>
-      <description>Musk can't be trusted to protect X user privacy, public commenters warn FTC.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-d20b4346cd19ed43</guid>
-      <pubDate>Thu, 04 Jun 2026 19:49:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta steals a tactic from Tesla and builds data centers in tents</title>
-      <link>https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/</link>
-      <description>Meta may have found one way to slash its massive data center bill: tents.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-de6475a399e0caf2</guid>
-      <pubDate>Thu, 04 Jun 2026 19:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Bolton expected to plead guilty in classified documents case, sources confirm</title>
-      <link>https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Trump's former advisor turned critic had reached a deal with prosecutors, two people said.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-2bb300af5dc40119</guid>
-      <pubDate>Thu, 04 Jun 2026 19:28:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple approves Poke as the first AI agent on its Messages for Business platform</title>
-      <link>https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/</link>
-      <description>Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-74b95bcee00a23ca</guid>
-      <pubDate>Thu, 04 Jun 2026 19:20:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI</title>
       <link>https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety</link>
       <category>huggingface-blog</category>
       <guid isPermaLink="false">news-3c2e7a73efc4745c</guid>
       <pubDate>Thu, 04 Jun 2026 18:57:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why is this teen fashion brand closing its fitting rooms?</title>
-      <link>https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Brandy Melville's move has caused uproar among some young women who frequent its stores, with one calling it a "devastating news".</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-99a99edf8b31d843</guid>
-      <pubDate>Thu, 04 Jun 2026 18:48:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Larger context windows and configurable reasoning levels for GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot</link>
-      <description>GitHub Copilot now supports larger context windows and configurable reasoning levels to help you tackle deeper, more complex work. Leverage one-million-token context windows A one-million-token context window means users can… The post Larger context windows and configurable reasoning levels for GitHub Copilot appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-f9ad6a7bc72a4a36</guid>
-      <pubDate>Thu, 04 Jun 2026 18:45:04 +0000</pubDate>
     </item>
     <item>
       <title>Kevin O’Leary agrees to downsize massive Utah data center</title>
@@ -191,14 +183,6 @@
       <pubDate>Thu, 04 Jun 2026 13:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>Kalshi is building a prediction markets 'Bloomberg Terminal' for high-end traders, source says</title>
-      <link>https://www.cnbc.com/2026/06/04/kalshi-is-building-a-bloomberg-terminal-for-prediction-markets.html</link>
-      <description>The prediction market platform is developing the platform to create a singular platform for its highly engaged traders.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-2340b47b7d97bd4c</guid>
-      <pubDate>Thu, 04 Jun 2026 12:47:27 +0000</pubDate>
-    </item>
-    <item>
       <title>EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios</title>
       <link>https://huggingface.co/blog/ServiceNow-AI/eva-bench-data</link>
       <category>huggingface-blog</category>
@@ -214,12 +198,28 @@
       <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT</title>
+      <link>https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html</link>
+      <description>The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-ab9cdc5120d5c474</guid>
+      <pubDate>Wed, 03 Jun 2026 20:48:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal</title>
       <link>https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/</link>
       <description>If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.</description>
       <category>techcrunch-enterprise</category>
       <guid isPermaLink="false">news-b1148769570a8037</guid>
       <pubDate>Wed, 03 Jun 2026 19:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents</title>
+      <link>https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html</link>
+      <description>Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-d560c9310c1b9553</guid>
+      <pubDate>Wed, 03 Jun 2026 15:32:54 +0000</pubDate>
     </item>
     <item>
       <title>GitLab cuts 14% of staff as it scales its platform to serve AI workloads</title>
@@ -236,14 +236,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-5ca222355bcc73a6</guid>
       <pubDate>Wed, 03 Jun 2026 13:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents</title>
-      <link>https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html</link>
-      <description>Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-d560c9310c1b9553</guid>
-      <pubDate>Wed, 03 Jun 2026 13:03:08 +0000</pubDate>
     </item>
     <item>
       <title>Coralogix raises $200M on bet that someone needs to watch the AI agents</title>
@@ -801,6 +793,14 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-74e6bf8e08e37c40</guid>
       <pubDate>Sun, 31 May 2026 12:18:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hundreds arrested and dozens of police injured after Champions League riots in France</title>
+      <link>https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8218b184803a7b24</guid>
+      <pubDate>Sun, 31 May 2026 11:26:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
