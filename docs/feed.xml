@@ -5,7 +5,7 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 01:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 01:47:20 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
     <item>
       <title>Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</title>
@@ -70,14 +70,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-e84a121ac89a83f9</guid>
       <pubDate>Thu, 04 Jun 2026 22:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I’m 55, married and want a $1.5 million long-term care policy. Do I get a traditional or hybrid?</title>
-      <link>https://www.marketwatch.com/story/im-55-married-and-want-a-1-5-million-long-term-care-policy-do-i-get-a-traditional-or-hybrid-f4338fc5?mod=mw_rss_topstories</link>
-      <description>“I’m not looking for a ‘don’t do it’ opinion.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-1621573d55ecff73</guid>
-      <pubDate>Thu, 04 Jun 2026 22:51:00 +0000</pubDate>
     </item>
     <item>
       <title>Marvell looks poised to finally get a spot in the S&amp;P 500 after explosive stock surge</title>
@@ -222,6 +214,14 @@
       <pubDate>Wed, 03 Jun 2026 19:38:32 +0000</pubDate>
     </item>
     <item>
+      <title>Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents</title>
+      <link>https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html</link>
+      <description>Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-d560c9310c1b9553</guid>
+      <pubDate>Wed, 03 Jun 2026 15:32:54 +0000</pubDate>
+    </item>
+    <item>
       <title>GitLab cuts 14% of staff as it scales its platform to serve AI workloads</title>
       <link>https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/</link>
       <description>The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.</description>
@@ -236,14 +236,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-5ca222355bcc73a6</guid>
       <pubDate>Wed, 03 Jun 2026 13:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents</title>
-      <link>https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html</link>
-      <description>Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-d560c9310c1b9553</guid>
-      <pubDate>Wed, 03 Jun 2026 13:03:08 +0000</pubDate>
     </item>
     <item>
       <title>Coralogix raises $200M on bet that someone needs to watch the AI agents</title>
@@ -801,6 +793,14 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-74e6bf8e08e37c40</guid>
       <pubDate>Sun, 31 May 2026 12:18:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hundreds arrested and dozens of police injured after Champions League riots in France</title>
+      <link>https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8218b184803a7b24</guid>
+      <pubDate>Sun, 31 May 2026 11:26:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
