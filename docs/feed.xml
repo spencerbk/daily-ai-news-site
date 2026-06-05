@@ -5,8 +5,16 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2026 01:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 01:44:22 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</title>
+      <link>https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-87198121b0998f47</guid>
+      <pubDate>Fri, 05 Jun 2026 01:44:16 +0000</pubDate>
+    </item>
     <item>
       <title>US plans to fight flesh-eating screwworm outbreak with flies and dogs</title>
       <link>https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -14,6 +22,14 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-a8a6d0495d088019</guid>
       <pubDate>Fri, 05 Jun 2026 00:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tracking the Rising Death Toll From U.S. Boat Strikes</title>
+      <link>https://www.nytimes.com/video/world/americas/100000010937966/why-we-track-number-american-strikes-boats.html</link>
+      <description>The New York Times has been investigating the number of boat strikes and the death toll in the Caribbean and Eastern Pacific carried out by the Trump administration. Eric Schmitt, a national security correspondent for The Times, explains what those numbers mean.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-def21cace71ff5e7</guid>
+      <pubDate>Fri, 05 Jun 2026 00:53:36 +0000</pubDate>
     </item>
     <item>
       <title>Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel</title>
@@ -48,20 +64,20 @@
       <pubDate>Thu, 04 Jun 2026 23:55:27 +0000</pubDate>
     </item>
     <item>
-      <title>Zelensky proposes face-to-face talks in open letter to Putin</title>
-      <link>https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Ukraine's president tells the Russian leader that only "direct engagement" between the two countries could end the war, with the US focused on Iran.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-24397e95bef70cfe</guid>
-      <pubDate>Thu, 04 Jun 2026 23:32:35 +0000</pubDate>
-    </item>
-    <item>
       <title>This investing strategy digs deeper to find hidden stocks riding the AI wave</title>
       <link>https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories</link>
       <description>There are plenty of ways to jump into the generative-AI hardware infrastructure expansion beyond the familiar chip makers and hyperscalers.</description>
       <category>marketwatch</category>
       <guid isPermaLink="false">news-e84a121ac89a83f9</guid>
       <pubDate>Thu, 04 Jun 2026 22:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I’m 55, married and want a $1.5 million long-term care policy. Do I get a traditional or hybrid?</title>
+      <link>https://www.marketwatch.com/story/im-55-married-and-want-a-1-5-million-long-term-care-policy-do-i-get-a-traditional-or-hybrid-f4338fc5?mod=mw_rss_topstories</link>
+      <description>“I’m not looking for a ‘don’t do it’ opinion.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-1621573d55ecff73</guid>
+      <pubDate>Thu, 04 Jun 2026 22:51:00 +0000</pubDate>
     </item>
     <item>
       <title>Marvell looks poised to finally get a spot in the S&amp;P 500 after explosive stock surge</title>
@@ -102,14 +118,6 @@
       <category>arstechnica-ai</category>
       <guid isPermaLink="false">news-b3560036c170c4bb</guid>
       <pubDate>Thu, 04 Jun 2026 22:23:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mistrust Spreads With the Ebola Virus in Congo</title>
-      <link>https://www.nytimes.com/video/world/africa/100000010942478/ebola-congo-mistrust-grief.html</link>
-      <description>In a remote mining town at the center of the Democratic Republic of Congo’s Ebola outbreak, grief and mistrust are complicating efforts to stop the virus. Health workers are trying to treat the ill and bury the dead, but some residents are still in denial that the disease is even real.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-3b2787a3a541c13b</guid>
-      <pubDate>Thu, 04 Jun 2026 22:02:20 +0000</pubDate>
     </item>
     <item>
       <title>Fix with Copilot for failing Actions now in Pro, Pro+, and Max</title>
@@ -214,14 +222,6 @@
       <pubDate>Wed, 03 Jun 2026 19:38:32 +0000</pubDate>
     </item>
     <item>
-      <title>Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents</title>
-      <link>https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html</link>
-      <description>Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-d560c9310c1b9553</guid>
-      <pubDate>Wed, 03 Jun 2026 15:32:54 +0000</pubDate>
-    </item>
-    <item>
       <title>GitLab cuts 14% of staff as it scales its platform to serve AI workloads</title>
       <link>https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/</link>
       <description>The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.</description>
@@ -236,6 +236,14 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-5ca222355bcc73a6</guid>
       <pubDate>Wed, 03 Jun 2026 13:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Morgan Stanley will soon open its trillion-dollar wealth management funnel to AI agents</title>
+      <link>https://www.cnbc.com/2026/06/03/ai-agents-morgan-stanley-wealth-management-funnel.html</link>
+      <description>Morgan Stanley's move is one of the earliest instances of a major Wall Street bank opening its platforms to external AI tools.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-d560c9310c1b9553</guid>
+      <pubDate>Wed, 03 Jun 2026 13:03:08 +0000</pubDate>
     </item>
     <item>
       <title>Coralogix raises $200M on bet that someone needs to watch the AI agents</title>
@@ -793,14 +801,6 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-74e6bf8e08e37c40</guid>
       <pubDate>Sun, 31 May 2026 12:18:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hundreds arrested and dozens of police injured after Champions League riots in France</title>
-      <link>https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-8218b184803a7b24</guid>
-      <pubDate>Sun, 31 May 2026 11:26:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
