@@ -5,8 +5,103 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2026 20:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 13:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>My husband and I are 75. We have $1.5 million in stocks and $425,000 in savings. Is that too much cash?</title>
+      <link>https://www.marketwatch.com/story/my-husband-and-i-are-75-we-have-1-5-million-in-stocks-and-425-000-in-savings-is-that-too-much-cash-c9385f9f?mod=mw_rss_topstories</link>
+      <description>“We are debt-free, and he will get 80% of his salary when he retires.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-fcdc7145405c30bc</guid>
+      <pubDate>Sun, 07 Jun 2026 13:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?</title>
+      <link>https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories</link>
+      <description>“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-91aff9f7cd68bc78</guid>
+      <pubDate>Sun, 07 Jun 2026 12:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks</title>
+      <link>https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-01af75f279a9045d</guid>
+      <pubDate>Sun, 07 Jun 2026 12:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI ‘content creators’ are getting harder to spot</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators</link>
+      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-ab996c1697904df8</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange</title>
+      <link>https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-abdb9197cf1504a8</guid>
+      <pubDate>Sun, 07 Jun 2026 11:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>School shooting survivor sues AI gun detection firm after system failed to spot weapon</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/</link>
+      <description>How accurate does an AI system need to be?</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-92b5ffdc27e96af0</guid>
+      <pubDate>Sun, 07 Jun 2026 11:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gunman Kills at Least One in Attack on Central Israel</title>
+      <link>https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html</link>
+      <description>Israeli authorities described the shootings as a terrorist attack. Hamas, the Palestinian militant group, praised the assault, but did not claim responsibility.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-01f06da6311e2e92</guid>
+      <pubDate>Sun, 07 Jun 2026 10:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peru’s Presidential Runoff Could Swing the Country to the Right: What to Know</title>
+      <link>https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election-runoff-fujimori-sanchez.html</link>
+      <description>Facing a surge in violence, voters will choose between a newly moderated left and a right-wing candidate representing an autocrat’s divisive legacy.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-e8a24bdf039275b6</guid>
+      <pubDate>Sun, 07 Jun 2026 09:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.</title>
+      <link>https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html</link>
+      <description>President Trump’s boasts of securing a commitment from Iranian leaders not to develop a nuclear weapon have puzzled nuclear experts who note that Tehran has made that pledge for more than 50 years.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-9ae173fefb523f41</guid>
+      <pubDate>Sun, 07 Jun 2026 09:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg</title>
+      <link>https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-bcb2f72176e3aa3a</guid>
+      <pubDate>Sun, 07 Jun 2026 07:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Armenia votes as Russia piles pressure on pro-West government</title>
+      <link>https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-fe686b71c7f66775</guid>
+      <pubDate>Sun, 07 Jun 2026 04:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</title>
+      <link>https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/</link>
+      <description>Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-7140b07582028100</guid>
+      <pubDate>Sat, 06 Jun 2026 20:32:24 +0000</pubDate>
+    </item>
     <item>
       <title>C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program</title>
       <link>https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html</link>
@@ -169,7 +264,7 @@
     <item>
       <title>OpenAI Help: Lockdown Mode</title>
       <link>https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything</link>
-      <description>OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and "rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response. This looks really good to me. The Lethal Trifecta occurs when an LLM system has access to all three of access to private data, exposure to untrusted content and a way to steal data and transmit it back to the attacker. The only way to solve the trifecta is to cut off one of the three legs, and by far the easiest leg to restrict without making your LLM systems far less useful is the exfiltration vectors to steal data. It looks to me like lockdown mode directly attacks that leg, using mechanisms that are deterministic and, crucially, are not evaluated by AI systems that themselves can be subverted by sufficiently devious attacks. The existence of lockdown mode does however imply that ChatGPT, in its default settings, does not provide robust protection against sufficiently determined data exfiltration attacks! Tags: security, ai, openai, prompt-injection, llms, lethal-trifecta</description>
+      <description>OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and "rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response. This looks really good to me. The Lethal Trifecta occurs when an LLM system has access to all three of access to private data, exposure to untrusted content and a way to steal data and transmit it back to the attacker. The only way to solve the trifecta is to cut off one of the three legs, and by far the easiest leg to restrict without making your LLM systems far less useful is the exfiltration vectors to steal data. It looks to me like lockdown mode directly attacks that leg, using mechanisms that are deterministic and, crucially, are not evaluated by AI systems that themselves can be subverted by sufficiently devious attacks. The existence of lockdown mode does however imply that ChatGPT, in its default settings, does not provide robust protection against sufficiently determined data exfiltration attacks! Update: This tweet OpenAI CISO Dane Stuckey: Lockdown mode is not meant for everyone. However, for folks who have an elevated risk profile - due to who they are, what they work on, or the types of data they work with - it's an excellent tool for further securing themselves. This has some tradeoffs on functionality and utility, but for these users, the tradeoff is worthwhile. Tags: security, ai, openai, prompt-injection, llms, lethal-trifecta</description>
       <category>simonwillison</category>
       <guid isPermaLink="false">news-84c6e5c233865ec0</guid>
       <pubDate>Fri, 05 Jun 2026 23:56:40 +0000</pubDate>
@@ -253,6 +348,14 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-dde1b9a898e96fb4</guid>
       <pubDate>Fri, 05 Jun 2026 12:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where investors may find the next 'big wave' for AI trade</title>
+      <link>https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html</link>
+      <description>Tim Urbanowicz, chief investment strategist at Innovator from Goldman Sachs Asset Management, tackles the AI boom.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-6f3995da346353ff</guid>
+      <pubDate>Fri, 05 Jun 2026 12:17:43 +0000</pubDate>
     </item>
     <item>
       <title>Fury in France after child murder suspect's criminal record released</title>
@@ -699,110 +802,6 @@
       <category>devblogs-msft-foundry</category>
       <guid isPermaLink="false">news-22b055e4f09503ab</guid>
       <pubDate>Tue, 02 Jun 2026 17:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ideas: slow down to speed up when working with AI agents</title>
-      <link>https://newsletter.pragmaticengineer.com/p/ideas-slow-down-to-speed-up-when</link>
-      <description>Devs are generating twice as much code (or more) than just 6 months ago, which is a problem for quality, reliability, and tech debt. A rational fix is available for these, but who’s acting rationally?</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-806a7d29b3136fb6</guid>
-      <pubDate>Tue, 02 Jun 2026 16:42:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI launches new Codex tools for white-collar work</title>
-      <link>https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/</link>
-      <description>OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-31f39eabff831a5c</guid>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Targets Brazil With 25% Tariff, Citing Unfair Trade Practices</title>
-      <link>https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html</link>
-      <description>The proposal marks the latest effort by the administration to rebuild its tariff agenda through Section 301 investigations.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-1888fa1cd51ae904</guid>
-      <pubDate>Tue, 02 Jun 2026 13:24:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran War Live Updates: Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut</title>
-      <link>https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon</link>
-      <description>Under pressure from President Trump, Prime Minister Benjamin Netanyahu of Israel held off from attacking Beirut. But he vowed to continue Israel’s campaign against Hezbollah, which could threaten peace talks with Iran.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-34507ccbe8682a4d</guid>
-      <pubDate>Tue, 02 Jun 2026 13:22:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Many big oil tankers remain stuck in the Strait of Hormuz — and may not return once they escape</title>
-      <link>https://www.marketwatch.com/story/many-big-oil-tankers-remain-stuck-in-strait-of-hormuz-and-may-not-return-once-they-escape-5b344e49?mod=mw_rss_topstories</link>
-      <description>There’s doubt massive tankers, once the backbone of global crude flows, will be returning in quite the same numbers to the Middle East.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-a6914e1ee9d6b841</guid>
-      <pubDate>Tue, 02 Jun 2026 13:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carney Says Canada Is Failing Jewish Canadians, Describing ‘Crisis of Antisemitism’</title>
-      <link>https://www.nytimes.com/2026/06/02/world/canada/carney-antisemitism-toronto-canada.html</link>
-      <description>Prime Minister Mark Carney’s comments followed calls from Jewish organizations to address what they described as a crisis of antisemitism.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-8fcd88bee8662fce</guid>
-      <pubDate>Tue, 02 Jun 2026 13:06:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s official: More money is now spent building data centers than the government spends on transportation</title>
-      <link>https://www.marketwatch.com/story/its-official-more-money-is-now-spent-building-data-centers-than-the-government-spends-on-transportation-95fcd513?mod=mw_rss_topstories</link>
-      <description>A notable milestone was quietly reached in the April construction-spending report released by the Census Bureau on Monday: Construction spending on data centers overtook public spending on transportation.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-48dc51deed7f4943</guid>
-      <pubDate>Tue, 02 Jun 2026 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Battling a Deadly Ebola Outbreak in Eastern Congo</title>
-      <link>https://www.nytimes.com/video/world/africa/100000010936755/ebola-virus-outbreak-congo-treatment.html</link>
-      <description>At the heart of the Ebola outbreak in the Democratic Republic of Congo, health care workers are racing to open new treatment centers and ramp up testing. But after years of war, the deadly virus is just one of many challenges they’re facing.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-375c54f9963a1c36</guid>
-      <pubDate>Tue, 02 Jun 2026 12:59:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people</title>
-      <link>https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-90de04e19c09b66b</guid>
-      <pubDate>Tue, 02 Jun 2026 12:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini Spark is the most impressive and terrifying AI experience I’ve had yet</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning</link>
-      <description>According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-a983a21ac4cf0ef2</guid>
-      <pubDate>Tue, 02 Jun 2026 12:38:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZeroDrift raises $10 million to protect AI models from themselves</title>
-      <link>https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/</link>
-      <description>A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-ce28044b9514faaa</guid>
-      <pubDate>Tue, 02 Jun 2026 12:32:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Ebola Unit Plans in Kenya, Subject of Protests, Suffers New Setback From Court Ruling</title>
-      <link>https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html</link>
-      <description>The court further delayed the Trump administration’s proposed quarantine unit for Americans exposed to the virus. The plan has sparked angry protests in Kenya.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-4c563613e2244bdf</guid>
-      <pubDate>Tue, 02 Jun 2026 12:20:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Travelers deploys AI-powered claims countrywide with OpenAI</title>
-      <link>https://openai.com/index/travelers</link>
-      <description>Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-6421a7340260ea9b</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
