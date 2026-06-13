@@ -5,8 +5,199 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 13:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 13:30:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>What to Know About the Ebola Outbreak</title>
+      <link>https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html</link>
+      <description>Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-e2ff27ba15f90685</guid>
+      <pubDate>Sat, 13 Jun 2026 13:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Should Switzerland Cap Its Population at 10 Million? Voters Will Decide.</title>
+      <link>https://www.nytimes.com/2026/06/13/world/europe/switzerland-population-referendum-10-million.html</link>
+      <description>One of the world’s richest countries is about to hold a referendum on a measure that would curb migration and most likely the economy. It is being sold in warm tones.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-d6467618d933c033</guid>
+      <pubDate>Sat, 13 Jun 2026 13:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX employees now have enough wealth on paper to buy every home in this Texas city</title>
+      <link>https://www.marketwatch.com/story/spacex-employees-now-have-enough-wealth-on-paper-to-buy-every-home-in-this-texas-city-ce0842be?mod=mw_rss_topstories</link>
+      <description>2025 set an all-time high for first-time buyers who used financial assets to buy a home or fund a down payment, according to the National Association of Realtors.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2000613752a764c0</guid>
+      <pubDate>Sat, 13 Jun 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My yard is dying, so I made an app for that</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing</link>
+      <description>When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. "~ Channel is unrecoverably broken and will be disposed!" Sounded bad! But right below it was a button to fix the bug. Pretty weird […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-283c8f534b535cc6</guid>
+      <pubDate>Sat, 13 Jun 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic cuts off Fable 5 and Mythos 5 access following government order</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security</link>
+      <description>On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-c368b693a7979a02</guid>
+      <pubDate>Sat, 13 Jun 2026 12:55:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The rich keep spending money on ‘unapologetic luxury’ — and it’s raising prices on everyday goods for everyone</title>
+      <link>https://www.marketwatch.com/story/the-rich-keep-spending-money-on-unapologetic-luxury-and-its-raising-prices-on-everyday-goods-for-everyone-cdc4546b?mod=mw_rss_topstories</link>
+      <description>The wealthy are unfazed by inflation, and that could complicate the Fed’s ability to fight it.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-ec0bf540458b5651</guid>
+      <pubDate>Sat, 13 Jun 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours</title>
+      <link>https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel</link>
+      <description>The prime minister of Pakistan, a key intermediary between the U.S. and Iran, said a deal was “likely expected.” Officials on each side have also expressed optimism, but it still could be derailed.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a00c51f19873b34c</guid>
+      <pubDate>Sat, 13 Jun 2026 12:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.</title>
+      <link>https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories</link>
+      <description>Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-895625eff58f6cb5</guid>
+      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple’s new AI photo editing tools mostly work, for better and worse</title>
+      <link>https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on</link>
+      <description>The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-7db5a9c52aa28040</guid>
+      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near</title>
+      <link>https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-1cb04c95d292a753</guid>
+      <pubDate>Sat, 13 Jun 2026 11:15:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Fable and Mythos officially too dangerous to release</title>
+      <link>https://www.latent.space/p/ainews-fable-and-mythos-officially</link>
+      <description>We are in the strangest timeline.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-3bb23688bbd0dc28</guid>
+      <pubDate>Sat, 13 Jun 2026 04:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Andrew Yang thinks the next big startup opportunity is lowering the cost of living</title>
+      <link>https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/</link>
+      <description>Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-d5a167a79f01876a</guid>
+      <pubDate>Sat, 13 Jun 2026 04:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says</title>
+      <link>https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Niño Guerrero was killed in a "swift and lethal kinetic strike," the US President wrote in a social media post.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-cddba6659bca6a86</guid>
+      <pubDate>Sat, 13 Jun 2026 04:09:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic suspends new AI tools over US government security concerns</title>
+      <link>https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-87950944be0f09da</guid>
+      <pubDate>Sat, 13 Jun 2026 03:54:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic shuts down Fable, Mythos models following Trump admin directive</title>
+      <link>https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/</link>
+      <description>Commerce dept. worries that a Fable 5 "jailbreak" could be a national security threat.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-1961f5e29a94e80f</guid>
+      <pubDate>Sat, 13 Jun 2026 03:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI</title>
+      <link>https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/</link>
+      <description>Anthropic isn't hiding its frustration. "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," the company wrote in a blog post.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-60b23d1dd928ce39</guid>
+      <pubDate>Sat, 13 Jun 2026 02:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
+      <link>https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything</link>
+      <description>Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Well this is nuts: The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected. We received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. Our understanding is that the government believes it has become aware of a method of bypassing, or "jailbreaking" Fable 5. We reviewed a demonstration of this specific technique being used to identify a small number of previously known, minor vulnerabilities. These vulnerabilities all appear relatively simple, and we have found that other publicly-available models are able to discover them as well without requiring a bypass. [...] To date, the government has only given us verbal evidence of a potential narrow, non-universal jailbreak, which essentially consists of asking the model to read a specific codebase and fix any software flaws. Our understanding is that one potential jailbreak was shared with the government. We have reviewed the report and validated that the level of capability displayed there is widely available from other models (including OpenAI's GPT-5.5), and is used every day by the defenders who keep systems safe. We will share more details over the next 24 hours. I still have access to Fable via claude.ai and Claude Code now, at 9:01pm ET. Update: I ran this script against the Anthropic API to spot when claude-fable-5 would stop working. My access was cut off at 6:59pm Pacific (9:59pm ET): [2026-06-12T18:56:50-07:00] attempt 35: running uv run llm -m claude-fable-5 hi [2026-06-12T18:56:55-07:00] success: Hi there! How can I help you today? [2026-06-12T18:57:55-07:00] attempt 36: running uv run llm -m claude-fable-5 hi [2026-06-12T18:57:59-07:00] success: Hi! How can I help you today? [2026-06-12T18:58:59-07:00] attempt 37: running uv run llm -m claude-fable-5 hi [2026-06-12T18:59:00-07:00] FAILED after attempt 37 with exit code 1 stderr: Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'Claude Fable 5 is not available. Please use Opus 4.8. Learn more: https://www.anthropic.com/news/fable-mythos-access'}, 'request_id': 'req_011CbzRyirV7KZLHYYdBM9od'} Via @AnthropicAI Tags: jailbreaking, ai, generative-ai, llms, anthropic, claude, ai-ethics, claude-mythos</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-57372c22695b6980</guid>
+      <pubDate>Sat, 13 Jun 2026 01:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI WebRTC Audio Session, now with document context</title>
+      <link>https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything</link>
+      <description>OpenAI WebRTC Audio Session, now with document context I built the first version of this tool in December 2024 to try out the then-new OpenAI WebRTC API for interacting with their realtime audio models. Last month OpenAI introduced a brand new model to that API called GPT‑Realtime‑2, which they promoted as "our first voice model with GPT‑5‑class reasoning" - with a Sep 30, 2024 knowledge cut-off. I've been waiting for that model to show up in the ChatGPT iPhone app but it still hasn't, so I revisited my old playground. You can now pick the better model, and you can also paste in a big chunk of document context so you can have as audio conversation in your browser about whatever information you think would be useful to explore in a conversational way. Tags: audio, tools, ai, openai, generative-ai, llms, multi-modal-output, webrtc</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-98fc7c9badbd21b2</guid>
+      <pubDate>Fri, 12 Jun 2026 23:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we made GitHub Copilot CLI more selective about delegation</title>
+      <link>https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/</link>
+      <description>Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-051952554936ce5e</guid>
+      <pubDate>Fri, 12 Jun 2026 22:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copilot code review: New configurations and controls</title>
+      <link>https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls</link>
+      <description>With new organization runner controls, Copilot content exclusion support, and the removal of the character limit on repository custom instructions, Copilot code review is now easier to tailor to your… The post Copilot code review: New configurations and controls appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-3fe3bf526cee059a</guid>
+      <pubDate>Fri, 12 Jun 2026 21:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Andrew Singleton</title>
+      <link>https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything</link>
+      <description>Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from Forbes is assigned to profile John and Jenny, and over the course of his research, he becomes embroiled in a passionate but confusing three-way love affair with them, which eventually turns into a polyamorous common-law marriage. His profile is glowing, but light on financial details. — Andrew Singleton, AI Economics for Dummies Tags: ai</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-560cd72ab561d821</guid>
+      <pubDate>Fri, 12 Jun 2026 18:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The S&amp;P 500 already made a big call on SpaceX stock and index fund investors need to know it</title>
+      <link>https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html</link>
+      <description>The S&amp;P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-825eb5b77486faeb</guid>
+      <pubDate>Fri, 12 Jun 2026 15:59:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>olmo-eval: An evaluation workbench for the model development loop</title>
+      <link>https://huggingface.co/blog/allenai/olmo-eval</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-80b8efd89b1a0940</guid>
+      <pubDate>Fri, 12 Jun 2026 15:56:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX cuts retail IPO allocation to low 20% range, source says</title>
+      <link>https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html</link>
+      <description>The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-326ba700212ab72b</guid>
+      <pubDate>Fri, 12 Jun 2026 14:50:28 +0000</pubDate>
+    </item>
     <item>
       <title>SpaceX IPO hype is massive — and the FOMO can ruin your retirement</title>
       <link>https://www.marketwatch.com/story/spacex-ipo-hype-is-massive-and-especially-dangerous-for-investors-over-50-ae3edd10?mod=mw_rss_topstories</link>
@@ -40,14 +231,6 @@
       <pubDate>Fri, 12 Jun 2026 12:40:37 +0000</pubDate>
     </item>
     <item>
-      <title>The S&amp;P 500 already made a big call on SpaceX stock and index fund investors need to know it</title>
-      <link>https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html</link>
-      <description>The S&amp;P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-825eb5b77486faeb</guid>
-      <pubDate>Fri, 12 Jun 2026 12:35:55 +0000</pubDate>
-    </item>
-    <item>
       <title>A Dangerous Limbo Leaves Iran, and the World, Between Peace and War</title>
       <link>https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html</link>
       <description>Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal.</description>
@@ -78,6 +261,14 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-3ddc62d227a427b1</guid>
       <pubDate>Fri, 12 Jun 2026 11:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New OpenAI Academy courses for the next era of work</title>
+      <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
+      <description>OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-e17db83823d25ce6</guid>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tehran says 'nothing' finalised after Trump claims deal to end Iran war near</title>
@@ -610,198 +801,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-e5434b3a4367c0e5</guid>
       <pubDate>Sat, 06 Jun 2026 13:49:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here comes new Siri again</title>
-      <link>https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini</link>
-      <description>Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-efc7f0aa58dfff52</guid>
-      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-6b8</link>
-      <description>a quiet day of RSI.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-aaf6f2d44a4f5642</guid>
-      <pubDate>Sat, 06 Jun 2026 04:34:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>micropython-wasm 0.1a2</title>
-      <link>https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</link>
-      <description>Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section. Tags: python, sandboxing, webassembly, micropython</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-e73f4b4924363a21</guid>
-      <pubDate>Sat, 06 Jun 2026 04:26:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Running Python code in a sandbox with MicroPython and WASM</title>
-      <link>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</link>
-      <description>I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm, and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython. Why do I want a sandbox? What I want from a sandbox WebAssembly looks really promising here MicroPython in WebAssembly Building the first version Try it yourself Should you trust my vibe-coded sandbox? Why do I want a sandbox? My key open source projects - Datasette, LLM, even sqlite-utils - all support plugins. I absolutely love plugins as a mechanism for extending software. A carefully designed plugin system reduces the risk involved in trying new things to almost nothing - even the wildest ideas won't leave a lasting influence on the core application itself. My software can grow a new feature overnight and I don't even have to review a pull request! There's one major drawback: my plugin systems all use Python and Pluggy, and plugin code executes with full privileges within my applications. A buggy or malicious plugin could break everything or leak private data. I'd love to be able to run plugin-style code in an environment where it is unable to read unapproved files, connect to a network, or generally operate in a way that's risky or harmful to the rest of the application or the user's computer. My interest covers more than just plugins. For Datasette in particular there are many features I'd like to support where arbitrary code execution would be useful. I've already experimented with this for Datasette Enrichments, where code can be used to transform values stored in a table. I'd love to build a mechanism where you can run code on a schedule that fetches JSON from an approved location, runs a tiny bit of code to reformat it into a list of dictionaries, then inserts those as rows in a SQLite database table. What I want from a sandbox My goal is to execute code safely within my own Python applications. Here's what I need: Dependencies that cleanly install from PyPI, including binary wheels across multiple platforms if necessary. I don't want people using my software to have to take any extra steps beyond directly installing my Python package. Executed code must be subject to both memory and CPU limits. I don't want while True: s += "longer string" to crash my application or the user's computer. File access must be strictly controlled. Either no filesystem access at all or I get to define exactly which files can be read and which files can be written to. Network access is controlled as well. Sandboxed code should not be able to communicate with anything without going through a layer I fully control. Support for interaction with host functions. A sandbox isn't much use if I can't carefully expose selected platform features to the code that it's running. It has to be robust, supported, and clearly documented. I've lost count of the number of sandbox projects I've seen in repos with warnings that they aren't actively maintained! WebAssembly looks really promising here Web browsers operate in the most hostile environment imaginable when it comes to malicious code. Their job is to download and execute untrusted code from the web on almost every page load. Given this, JavaScript engines should be excellent candidates for sandboxes. Sadly those engines are also extremely complicated, and are not designed for easy embedding in other projects. Most of the V8-in-Python projects I've seen are infrequently maintained and come with warnings not to use them with completely untrusted code. WebAssembly is a much better candidate. It was designed from the start to support all of the characteristics I care about and has been tested in browsers for nearly a decade. The wasmtime Python library brings WASM to Python, is actively maintained, and has binary wheels. MicroPython in WebAssembly WebAssembly engines like wasmtime run WebAssembly binaries. Some programming languages like Rust are easy to compile directly to WebAssembly. Dynamic languages like JavaScript and Python are harder - they support language primitives like eval(), which means they need a full interpreter available at runtime. To run Python we need a full Python interpreter compiled to WebAssembly, wired up in a way that makes it easy to feed it code, hook up host functions and access the results. Pyodide offers an outstanding package for running Python using WebAssembly in the browser, but using Pyodide in server-side Python isn't supported. The most recent advice I could find was from October 2024 stating "Pyodide is built by the Emscripten toolchain and can only run in a browser or Node.js". The other day I decided to take a look at MicroPython as an option for this. The MicroPython site says: MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. WebAssembly sure feels like a constrained environment to me! Building the first version I had GPT-5.5 Pro do some research for me, which turned up this PR against MicroPython by Yamamoto Takahashi titled "Experimental WASI support for ports/unix". It then produced this research.md document, so I let Codex Desktop and GPT-5.5 high loose on it to see what would happen: read the research.md document and build this. You will probably need to write a script that compiles a custom WASM version of MicroPython as part of this project - fetch the MicroPython code to a /tmp directory for this as part of that script. It worked. I now had a prototype Python library that could execute Python code inside a WebAssembly sandbox! The trickiest piece to solve was persistent interpreter state. The WASM build we are using here exposes a single entry point which starts the interpreter, runs the code and then stops the interpreter at the end. This works fine for one-off scripts, but for Datasette Agent I want variables and functions to stay resident in memory so I can reuse them across multiple code execution calls. A neat thing about working with coding agents is that you can get from an idea to a proof of concept quickly. I prompted: For keeping variables resident: what if we ran code inside micropython itself which called a host function get_next_python_code() and then passed that to eval() - and that host function blocked until new code was available, maybe by running in a thread with a queue? Could that or a similar idea help here? After some iteration we got to a version of this that works! In Python code you can now do this: from micropython_wasm import MicroPythonSession with MicroPythonSession() as session: print(session.run("x = 10\nprint(x)").stdout) print(session.run("x += 5\nprint(x)").stdout) print(session.run("print(x * 2)").stdout) Under the hood this starts a thread, sets up a request queue and then sends messages to that queue for the session.run() command, each time waiting on a reply queue for the result of that execution. Inside WASM the MicroPython interpreter blocks waiting for a __session_next__() host function to return the next line of code, which it runs eval() on before calling __session_result__({"id": request_id, "ok": True}) when each block has been successfully executed. The other piece of complexity was supporting host functions, so my Python library could selectively expose functions that could then be called by code running in MicroPython. Codex ended up solving this with 78 lines of C, which ends up compiled into the 362KB WebAssembly blob I'm distributing with the package. I am by no means a C programmer, but I've read the C and had two different models explain it to me (here's Claude's explanation) and I've subjected it to a barrage of tests. The great thing about working with WebAssembly is that if the C turns out to be fatally flawed the worst that can happen is the WebAssembly execution will fail with an exception. I can live with that risk. Memory limits are directly supported by wasmtime. CPU limits are a little harder: wasmtime offers a "fuel" concept to limit how many operations a WebAssembly call can execute, and that's the correct fit for this problem, but the units are hard to reason about. I'm experimenting with a 20 million default "fuel" setting now but I'm not confident that it's the most appropriate value. Try it yourself The micropython-wasm alpha is now live on PyPI. You can try it from your own Python code as described in the README. I've also added a simple CLI mode in version 0.1a2 which means you can try it using uvx without first installing it like so: uvx micropython-wasm -c 'print("Hello world")' # To see it run out of fuel: uvx micropython-wasm -c 's = ""; while True: s += "longer"' # Outputs: micropython-wasm: guest exited with code 1 You can also try it in Datasette Agent like this: uvx llm keys set openai # Paste in an OpenAI key, then: uvx --with datasette-agent \ --with datasette-agent-micropython \ --prerelease allow \ datasette --internal internal.db \ -s plugins.datasette-llm.default_model gpt-5.5 \ --root -o Then navigate to http://127.0.0.1:8001/-/agent and run the prompt: show me some micropython You can try a live demo of that plugin running in Datasette Agent by signing into agent.datasette.io with your GitHub account. Should you trust my vibe-coded sandbox? Having complained about immature, loosely-maintained sandboxing libraries, it's deeply ironic that I've now built my own! I deliberately slapped an alpha release version on it, and I'm not ready to recommend it to anyone who isn't willing to take a significant risk. I've put it through enough testing that I'm OK using it myself. I've shipped my first plugin that uses it, datasette-agent-micropython. I've also locked GPT-5.5 xhigh in that Datasette Agent plugin and challenged it to break out of the sandbox and so far it has not managed to. I'm hoping this implementation can convince some companies with professional security teams and high-stakes problems to commit to using Python in WebAssembly as a sandboxing approach and open source their own solutions. Tags: python, sandboxing, ai, datasette, webassembly, generative-ai, llms, ai-assisted-programming, codex, datasette-agent, micropython</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-e54467eda6d5aa24</guid>
-      <pubDate>Sat, 06 Jun 2026 03:53:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Help: Lockdown Mode</title>
-      <link>https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything</link>
-      <description>OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and "rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response. This looks really good to me. The Lethal Trifecta occurs when an LLM system has access to all three of access to private data, exposure to untrusted content and a way to steal data and transmit it back to the attacker. The only way to solve the trifecta is to cut off one of the three legs, and by far the easiest leg to restrict without making your LLM systems far less useful is the exfiltration vectors to steal data. It looks to me like lockdown mode directly attacks that leg, using mechanisms that are deterministic and, crucially, are not evaluated by AI systems that themselves can be subverted by sufficiently devious attacks. The existence of lockdown mode does however imply that ChatGPT, in its default settings, does not provide robust protection against sufficiently determined data exfiltration attacks! Update: This tweet OpenAI CISO Dane Stuckey: Lockdown mode is not meant for everyone. However, for folks who have an elevated risk profile - due to who they are, what they work on, or the types of data they work with - it's an excellent tool for further securing themselves. This has some tradeoffs on functionality and utility, but for these users, the tradeoff is worthwhile. Tags: security, ai, openai, prompt-injection, llms, lethal-trifecta</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-84c6e5c233865ec0</guid>
-      <pubDate>Fri, 05 Jun 2026 23:56:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT-5.2 and GPT-5.2-Codex deprecated</title>
-      <link>https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated</link>
-      <description>As of today, June 5, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GPT-5.2 and GPT-5.2-Codex deprecated appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-6289cdb9d648f8a6</guid>
-      <pubDate>Fri, 05 Jun 2026 22:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enterprise-managed plugins in VS Code in public preview</title>
-      <link>https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview</link>
-      <description>Last month we launched a public preview with Copilot CLI that allows enterprise administrators the ability to configure and distribute plugins to GitHub Copilot CLI users across their enterprise. VS… The post Enterprise-managed plugins in VS Code in public preview appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-7a83a1a8a9b98219</guid>
-      <pubDate>Fri, 05 Jun 2026 21:01:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests</title>
-      <link>https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html</link>
-      <description>Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-8167063942ccfbe7</guid>
-      <pubDate>Fri, 05 Jun 2026 19:09:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Stop Shipping Low-Quality RL Environments (with Examples)</title>
-      <link>https://www.latent.space/p/bad-envs</link>
-      <description>Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-60784992d4416d5f</guid>
-      <pubDate>Fri, 05 Jun 2026 18:49:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free</title>
-      <link>https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html</link>
-      <description>Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-8c6c2e645adb5b08</guid>
-      <pubDate>Fri, 05 Jun 2026 13:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hopes of Lebanon Cease-fire Falter as Israel and Hezbollah Fight On</title>
-      <link>https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html</link>
-      <description>The U.S.-brokered agreement requires Hezbollah, which Iran backs, to stop firing first. But the group, not party to the talks, rejected the conditions as a virtual surrender.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-75d9cdfb270c9167</guid>
-      <pubDate>Fri, 05 Jun 2026 13:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>AirTrunk commits $30B to build 5GW of AI data centers in India</title>
-      <link>https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/</link>
-      <description>The Australian data center operator plans to set up 5GW of capacity in India.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c09ad217df2adb02</guid>
-      <pubDate>Fri, 05 Jun 2026 13:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw</title>
-      <link>https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html</link>
-      <description>The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-0458f9bf7e4f6893</guid>
-      <pubDate>Fri, 05 Jun 2026 12:54:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech</title>
-      <link>https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-7113008ec1a9c56a</guid>
-      <pubDate>Fri, 05 Jun 2026 12:42:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bulls declare victory in AI debate, but two classic signs of a market top are looming</title>
-      <link>https://www.marketwatch.com/story/bulls-declare-victory-on-ai-but-two-classic-signs-of-a-market-top-are-looming-5e4d0222?mod=mw_rss_topstories</link>
-      <description>The trend of ‘capex recycling’ is considered a problem by a TS Lombard analyst</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-dde1b9a898e96fb4</guid>
-      <pubDate>Fri, 05 Jun 2026 12:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where investors may find the next 'big wave' for AI trade</title>
-      <link>https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html</link>
-      <description>Tim Urbanowicz, chief investment strategist at Innovator from Goldman Sachs Asset Management, tackles the AI boom.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-6f3995da346353ff</guid>
-      <pubDate>Fri, 05 Jun 2026 12:17:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fury in France after child murder suspect's criminal record released</title>
-      <link>https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-8ca002cfe2b47548</guid>
-      <pubDate>Fri, 05 Jun 2026 11:32:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>US journalist pleads guilty to working as China's agent</title>
-      <link>https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Thomas Weir Pauken II, 50, knowingly worked with people employed by the Chinese government for years.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-96773b7a338c78ce</guid>
-      <pubDate>Fri, 05 Jun 2026 11:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Andreas Kling</title>
-      <link>https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything</link>
-      <description>We will no longer accept public pull requests. [...] A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds. [...] Whether code was typed by hand is beside the point. What matters is who is responsible for it once it enters the browser. Ladybird is becoming a browser for real users. The people introducing changes to it must be the people who decide those changes belong in the project, and who will answer for the consequences. — Andreas Kling, Changing How We Develop Ladybird Tags: ladybird, ai-ethics, open-source, generative-ai, ai, andreas-kling, llms</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-b41fa7b3947adc4e</guid>
-      <pubDate>Fri, 05 Jun 2026 11:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>China poaches more AI talent from the U.S. as it eyes the next 'super-app'</title>
-      <link>https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html</link>
-      <description>Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-8479d11586272159</guid>
-      <pubDate>Fri, 05 Jun 2026 07:50:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-7a8</link>
-      <description>a quiet day</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-2c5e20254c929805</guid>
-      <pubDate>Fri, 05 Jun 2026 06:44:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-wife of Dubai ruler's nephew in custody, prosecutors say</title>
-      <link>https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Zeynab Javadli had not been in contact with any of her friends since Tuesday.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-40c610d5fe72a856</guid>
-      <pubDate>Fri, 05 Jun 2026 05:44:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelensky proposes face-to-face talks in open letter to Putin</title>
-      <link>https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Ukraine's president tells the Russian leader that only "direct engagement" between the two countries could end the war, with the US focused on Iran.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-24397e95bef70cfe</guid>
-      <pubDate>Fri, 05 Jun 2026 05:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>China's Xi Jinping to make rare visit to North Korea</title>
-      <link>https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Xi will be in North Korea from 8-9 June, a rare visit to the isolated regime that is a longstanding ally of Beijing.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-9471b87d88a75314</guid>
-      <pubDate>Fri, 05 Jun 2026 05:17:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
