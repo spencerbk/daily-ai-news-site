@@ -5,8 +5,128 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 13:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 13:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Iran War Live Updates: Israel and Hezbollah Exchange Strikes, Complicating Possible Iran Peace Agreement</title>
+      <link>https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us</link>
+      <description>Israel’s military said it attacked the southern outskirts of Beirut, the Lebanese capital, after accusing Hezbollah, the Iran-backed armed group, of violating a cease-fire.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-82326b00610e43e9</guid>
+      <pubDate>Sun, 14 Jun 2026 13:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.</title>
+      <link>https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories</link>
+      <description>Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-895625eff58f6cb5</guid>
+      <pubDate>Sun, 14 Jun 2026 13:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX shows investors still want moonshots. The Fed may test that theory this week.</title>
+      <link>https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories</link>
+      <description>Higher interest rates could make the AI growth story that’s been powering the bull market harder to justify.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-c6986d27158b4387</guid>
+      <pubDate>Sun, 14 Jun 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel Strikes Beirut Outskirts as Fighting With Hezbollah Escalates</title>
+      <link>https://www.nytimes.com/2026/06/14/world/middleeast/israel-strikes-beirut-hezbollah.html</link>
+      <description>The attacks complicated an already delicate moment as President Trump and Iran appeared to be edging toward finalizing a framework peace agreement.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-8c511cb51991ba69</guid>
+      <pubDate>Sun, 14 Jun 2026 12:58:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Switzerland Rejects Measure to Cap Population at 10 Million, Projections Show</title>
+      <link>https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html</link>
+      <description>The referendum was about limiting migration after the number of residents rose by more than a quarter since 2000, but it was framed around affordability and sustainability.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-f0ab5654e9b2fe4c</guid>
+      <pubDate>Sun, 14 Jun 2026 12:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Forces Seize Russian Shadow Fleet Oil Tanker</title>
+      <link>https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html</link>
+      <description>Britain’s defense ministry said it was the first time that British forces had acted alone to stop a ship in the fleet, a collection of vessels that Russia uses to move fuel and evade sanctions.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-dc0befa09d42d5ff</guid>
+      <pubDate>Sun, 14 Jun 2026 12:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing</title>
+      <link>https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US president's comments come as Iran says an exact date has not been decided.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-4c36419dd432b173</guid>
+      <pubDate>Sun, 14 Jun 2026 11:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Armed men kidnap high-ranking security official in Haiti</title>
+      <link>https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>James Boyard's abduction is the highest-ranking abduction in the violence-wracked country in recent years, according to reports.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-9c5b6f3da0142161</guid>
+      <pubDate>Sun, 14 Jun 2026 08:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Anthropic suspends access to new models, India debates its AI future</title>
+      <link>https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/</link>
+      <description>Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-9f21cdd032f0382c</guid>
+      <pubDate>Sun, 14 Jun 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand</title>
+      <link>https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/</link>
+      <description>Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-cb3568a3265c64eb</guid>
+      <pubDate>Sun, 14 Jun 2026 00:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Publishing WASM wheels to PyPI for use with Pyodide</title>
+      <link>https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything</link>
+      <description>The Pyodide 314.0 release announcement (via Hacker News) includes news I've been looking forward to for a long time: You can now publish Python packages built for Pyodide (or any Python runtime compatible with the PyEmscripten platform defined in PEP 783) directly to PyPI and install them at runtime. Previously, the Pyodide maintainers had to maintain, build, and host over 300 packages ourselves. This created a significant burden on our maintainers and became a major bottleneck for the community, as every new package required manual review. Moving forward, package maintainers can simply build and publish Pyodide wheels to PyPI, just as they do for native wheels on Linux, macOS, or Windows. Here's the PR to PyPI itself supporting this, which landed on April 21st. I adore Pyodide, and have been frustrated in the past by this limitation. It's possible to compile C or Rust extensions to WASM in a wheel file, but before now there was no easy way to distribute them. Thanks to the efforts of a whole lot of people, that's now been fixed! Trying it out with luau-wasm I decided to celebrate by finding something I could package. I have quite a few experimental Pyodide projects lying around, but the best fit for this looked to be my Luau WebAssembly research spike from 9th March. Luau is a "small, fast, and embeddable programming language based on Lua with a gradual type system", developed by Roblox and released under an MIT license. It's written in C++. I already knew it was possible to compile it to WebAssembly and get it running inside of Pyodide, so I set Codex + GPT-5.5 xhigh the task of packaging my experiment up and publishing it to PyPI using GitHub Actions. It took some iteration, but here's the result: luau-wasm is a brand new PyPI package which publishes a 276KB luau_wasm-0.1a0-cp314-cp314-pyemscripten_2026_0_wasm32.whl file which can be used in Pyodide like this: import micropip await micropip.install("luau-wasm") import luau_wasm print(luau_wasm.execute(r''' local animals = {"fox", "owl", "frog", "rabbit"} table.sort(animals, function(a, b) return #a &lt; #b end) for i, name in animals do print(i .. ". " .. name .. " (" .. #name .. ")") end ''')) You can run that code in the Pyodide REPL demo to see it in action. The GitHub repo for luau-wasm includes all of the build and deploy scripts (using the latest cibuildwheel) and also deploys an HTML demo page which loads Pyodide, installs luau-wasm and provides an interface for trying it out: https://simonw.github.io/luau-wasm/ How many packages are using this so far? I was curious to see how many packages are currently publishing wheels for this platform. After some tinkering with ChatGPT I got to this BigQuery SQL which I ran against PyPI's public dataset on BigQuery. Here's the raw JSON of query results and here's a SQLite SQL query in Datasette Lite which dedupes packages by most recent upload date. If the query is right, there are currently 28 PyPI packages publishing with the new pyemscripten_202*_wasm32 tags: luau-wasm, uuid7-rs, cmm-16bit, pyOpenTTDAdmin, imgui-bundle, numbertoolkit, bashkit, geoarrow-rust-core, arro3-io, arro3-core, arro3-compute, onnx, powerfit-em, tcod, chonkie-core, tokie, robotraconteur, pydantic_core, yaml-rs, cadquery-ocp-novtk-OCP.wasm, uuid_utils, base64_utils, pycdfpp, lib3mf-OCP.wasm, typst, toml-rs, onnx-weekly, dummy-pyodide-ext-test Here's hoping we see a whole lot more of those showing up over the coming months and years. Tags: lua, pypi, python, sandboxing, webassembly, github-actions, pyodide</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-5c61c28c3e4812e3</guid>
+      <pubDate>Sat, 13 Jun 2026 23:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>luau-wasm 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything</link>
+      <description>Release: luau-wasm 0.1a0 See Publishing WASM wheels to PyPI for use with Pyodide for details. Tags: lua, webassembly, pyodide</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-7489ae039c8fde64</guid>
+      <pubDate>Sat, 13 Jun 2026 23:14:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mapping SQLite result columns back to their source `table.column`</title>
+      <link>https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything</link>
+      <description>Research: Mapping SQLite result columns back to their source `table.column` It would be neat if arbitrary SQL queries in Datasette could be rendered with additional information based on which columns from which tables were included in the results. To build that, we would need to be able to look at a SQL query like select users.name, orders.total from users join orders on orders.user_id = users.id and programmatically identify the table.column for each result - navigating not just joins but also more complex syntax like CTEs. I decided to set Claude Code (Opus 4.8, since Fable is currently banned by the US government) on the problem. It found several promising solutions - one using apsw, another that uses ctypes to access the SQLite sqlite3_column_table_name() C function (which is not otherwise exposed to Python), and one using clever interrogation of the output of EXPLAIN. Tags: python, sqlite, datasette</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-71b032661311b667</guid>
+      <pubDate>Sat, 13 Jun 2026 23:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon security research reportedly led to the White House’s Anthropic Fable ban</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban</link>
+      <description>According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-52f69ed1634e6a12</guid>
+      <pubDate>Sat, 13 Jun 2026 21:39:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>KPMG pulls report on AI usage due to apparent hallucinations</title>
+      <link>https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/</link>
+      <description>Once again, AI proves to be an unreliable source of information about AI.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-ae8100dd200db95d</guid>
+      <pubDate>Sat, 13 Jun 2026 20:42:31 +0000</pubDate>
+    </item>
     <item>
       <title>What to Know About the Ebola Outbreak</title>
       <link>https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html</link>
@@ -24,19 +144,19 @@
       <pubDate>Sat, 13 Jun 2026 13:04:18 +0000</pubDate>
     </item>
     <item>
-      <title>SpaceX employees now have enough wealth on paper to buy every home in this Texas city</title>
-      <link>https://www.marketwatch.com/story/spacex-employees-now-have-enough-wealth-on-paper-to-buy-every-home-in-this-texas-city-ce0842be?mod=mw_rss_topstories</link>
-      <description>2025 set an all-time high for first-time buyers who used financial assets to buy a home or fund a down payment, according to the National Association of Realtors.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-2000613752a764c0</guid>
-      <pubDate>Sat, 13 Jun 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>My yard is dying, so I made an app for that</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing</link>
       <description>When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. "~ Channel is unrecoverably broken and will be disposed!" Sounded bad! But right below it was a button to fix the bug. Pretty weird […]</description>
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-283c8f534b535cc6</guid>
+      <pubDate>Sat, 13 Jun 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceX employees now have enough wealth on paper to buy every home in this Texas city</title>
+      <link>https://www.marketwatch.com/story/spacex-employees-now-have-enough-wealth-on-paper-to-buy-every-home-in-this-texas-city-ce0842be?mod=mw_rss_topstories</link>
+      <description>2025 set an all-time high for first-time buyers who used financial assets to buy a home or fund a down payment, according to the National Association of Realtors.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2000613752a764c0</guid>
       <pubDate>Sat, 13 Jun 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -62,14 +182,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-a00c51f19873b34c</guid>
       <pubDate>Sat, 13 Jun 2026 12:24:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.</title>
-      <link>https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories</link>
-      <description>Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-895625eff58f6cb5</guid>
-      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Apple’s new AI photo editing tools mostly work, for better and worse</title>
@@ -197,6 +309,14 @@
       <category>cnbc-finance</category>
       <guid isPermaLink="false">news-326ba700212ab72b</guid>
       <pubDate>Fri, 12 Jun 2026 14:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards</title>
+      <link>https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html</link>
+      <description>With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-01a252c0a8c92ee1</guid>
+      <pubDate>Fri, 12 Jun 2026 14:46:10 +0000</pubDate>
     </item>
     <item>
       <title>SpaceX IPO hype is massive — and the FOMO can ruin your retirement</title>
@@ -682,125 +802,6 @@
       <category>techcrunch-ai</category>
       <guid isPermaLink="false">news-7140b07582028100</guid>
       <pubDate>Sat, 06 Jun 2026 20:32:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program</title>
-      <link>https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html</link>
-      <description>A federal judge has ruled that David Rush, the C.I.A. employee, must remain in detention. U.S. officials say Mr. Rush funneled millions in federal funds to himself.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-d31e6d56bf8a58bb</guid>
-      <pubDate>Sat, 06 Jun 2026 19:42:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say</title>
-      <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html</link>
-      <description>Israel’s military said a soldier opened fire after Israeli troops “perceived a vehicle accelerating toward them.” The baby’s grandmother, who was in the car, disputed that account.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-68ee2ed6d2bd8933</guid>
-      <pubDate>Sat, 06 Jun 2026 19:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five labs, five minds: building a multi-model finance drama on small models</title>
-      <link>https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-47468f27f93cf05c</guid>
-      <pubDate>Sat, 06 Jun 2026 19:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</title>
-      <link>https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/</link>
-      <description>Apple's WWDC nears: Here's what you can look forward to.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-0be181f790899c1c</guid>
-      <pubDate>Sat, 06 Jun 2026 18:13:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sriram Krishnan is leaving his role as White House AI advisor</title>
-      <link>https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/</link>
-      <description>Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-a8cf56fd7589f834</guid>
-      <pubDate>Sat, 06 Jun 2026 17:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea is the ultimate backdoor tech play — but stock investors now face a looming threat</title>
-      <link>https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories</link>
-      <description>Samsung and SK Hynix are key to soaring South Korean stock market, but a rate hike could trigger a 15% market correction.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-be060d78fce0e2d6</guid>
-      <pubDate>Sat, 06 Jun 2026 17:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'</title>
-      <link>https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The city's governor urges residents to remain indoors for the first time since the beginning of the war.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-b130098f47ee21df</guid>
-      <pubDate>Sat, 06 Jun 2026 17:14:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don’t rule out a ‘June swoon’ — the S&amp;P 500 is pushing its limits</title>
-      <link>https://www.marketwatch.com/story/dont-rule-out-a-june-swoon-the-s-p-500-is-pushing-its-limits-3c067a6b?mod=mw_rss_topstories</link>
-      <description>Even upbeat Oracle earnings next week might not be enough to rally the market.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-a7d9d8728e0564c0</guid>
-      <pubDate>Sat, 06 Jun 2026 16:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s Defense Department Sees Growing Espionage Threat From Israel</title>
-      <link>https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html</link>
-      <description>The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-40a024dd72ffc30d</guid>
-      <pubDate>Sat, 06 Jun 2026 16:41:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>This investing strategy digs deeper to find hidden stocks riding the AI wave</title>
-      <link>https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories</link>
-      <description>There are plenty of ways to jump into the generative-AI hardware infrastructure expansion beyond the familiar chip makers and hyperscalers.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-e84a121ac89a83f9</guid>
-      <pubDate>Sat, 06 Jun 2026 16:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Trump administration might take an equity stake in OpenAI</title>
-      <link>https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/</link>
-      <description>President Donald Trump said he's discussing deals "where the American people can benefit from the success of AI."</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-39923ab8405f222f</guid>
-      <pubDate>Sat, 06 Jun 2026 16:17:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>The World Has Learned From the Last Ebola Outbreak, but Gaps Remain</title>
-      <link>https://www.nytimes.com/2026/06/06/world/africa/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html</link>
-      <description>The vaccine development process and coordination between health organizations have improved since a devastating 2014-2016 outbreak.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-6fd7ac2b7eeb28b5</guid>
-      <pubDate>Sat, 06 Jun 2026 15:28:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center</link>
-      <description>A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the "No Data Center" signs going up that, "I've seen a lot of these all over town, but […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-28f2c98bc54ac3c5</guid>
-      <pubDate>Sat, 06 Jun 2026 15:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta made its own AI-generated clickbait news feed</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles</link>
-      <description>Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a "For You" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-a661c048b4fe1c53</guid>
-      <pubDate>Sat, 06 Jun 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed</title>
-      <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html</link>
-      <description>Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e5434b3a4367c0e5</guid>
-      <pubDate>Sat, 06 Jun 2026 13:49:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
