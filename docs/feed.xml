@@ -5,39 +5,158 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 13:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:30:11 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
     <item>
-      <title>New Round of U.S.-Iran Talks Is Set to Start in Switzerland</title>
-      <link>https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon</link>
-      <description>Vice President JD Vance was expected to meet with Iranian negotiators on Sunday. Pakistan, an intermediary in the talks, said it was sending a delegation.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-085410c3d04568c2</guid>
-      <pubDate>Sun, 21 Jun 2026 13:25:42 +0000</pubDate>
+      <title>This bull market isn’t going to end because of Fed rate hikes under Warsh</title>
+      <link>https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories</link>
+      <description>Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-6ff31e15dbed0626</guid>
+      <pubDate>Mon, 22 Jun 2026 13:25:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bitter Historical Feud Threatens Ukraine-Poland Alliance</title>
-      <link>https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html</link>
-      <description>President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.</description>
+      <title>U.K. Live Updates: Starmer Announces Resignation; Burnham Wins Key Endorsement</title>
+      <link>https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure</link>
+      <description>Prime Minister Keir Starmer stepped down as leader of the governing Labour Party. Andy Burnham, the party’s most popular politician, said he would seek the prime minister’s job and secured the support of a potential rival.</description>
       <category>nyt-world</category>
-      <guid isPermaLink="false">news-32dc48ac60cb4c7b</guid>
-      <pubDate>Sun, 21 Jun 2026 13:18:03 +0000</pubDate>
+      <guid isPermaLink="false">news-940f18eca3d402d9</guid>
+      <pubDate>Mon, 22 Jun 2026 13:23:35 +0000</pubDate>
     </item>
     <item>
-      <title>Low-key funeral held for giant of the art world David Hockney</title>
-      <link>https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend.</description>
+      <title>Mideast Live Updates: Vance Points to Progress After First Round of U.S.-Iran Talks</title>
+      <link>https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon</link>
+      <description>Vice President JD Vance said Iran had agreed to invite U.N. nuclear inspectors back into the country in the first round of negotiations that ended Monday. Iran did not immediately comment.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a8ec44f086f25930</guid>
+      <pubDate>Mon, 22 Jun 2026 13:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters</title>
+      <link>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-493a508e4ceaa14c</guid>
+      <pubDate>Mon, 22 Jun 2026 13:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who Will Replace Keir Starmer as UK Prime Minister? Here’s What Happens Next.</title>
+      <link>https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html</link>
+      <description>Keir Starmer, the British prime minister, could be replaced through a full leadership contest. But if the top contender, Andy Burnham, is the only candidate, the process will be much faster.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-04586d72f2d4be87</guid>
+      <pubDate>Mon, 22 Jun 2026 12:51:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schools close as more than half of France under red heat alerts</title>
+      <link>https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The health minister warns many citizens "will suffer", with temperatures set to peak on Monday.</description>
       <category>bbc-world</category>
-      <guid isPermaLink="false">news-87becc8374752240</guid>
-      <pubDate>Sun, 21 Jun 2026 13:08:49 +0000</pubDate>
+      <guid isPermaLink="false">news-4a9e23a643e76552</guid>
+      <pubDate>Mon, 22 Jun 2026 12:36:07 +0000</pubDate>
     </item>
     <item>
-      <title>Three Men Are Key to Iran’s Approach to U.S. Talks</title>
-      <link>https://www.nytimes.com/2026/06/21/world/middleeast/three-men-are-key-to-irans-approach-to-us-talks.html</link>
-      <description>Iran’s supreme leader, foreign minister and parliament speaker all play central roles in hammering out an agreement with Washington.</description>
+      <title>Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI</title>
+      <link>https://importai.substack.com/p/import-ai-462-superpersuasion-self</link>
+      <description>How religious are beliefs in the singularity?</description>
+      <category>import-ai</category>
+      <guid isPermaLink="false">news-9df0e8b363a0bfd7</guid>
+      <pubDate>Mon, 22 Jun 2026 12:31:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump ‘jawboning’ has masked a global oil-supply disaster, and the reality could mean $135 crude, says industry veteran</title>
+      <link>https://www.marketwatch.com/story/trump-jawboning-has-masked-a-global-oil-supply-disaster-and-the-reality-could-mean-135-crude-says-industry-veteran-9b0bb52b?mod=mw_rss_topstories</link>
+      <description>Author and former trader Dan Dicker says President Donald Trump’s rhetoric can only take the market so far,</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-6d047453fb5ba30a</guid>
+      <pubDate>Mon, 22 Jun 2026 12:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia</title>
+      <link>https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html</link>
+      <description>A victory for Abelardo De La Espriella, a lawyer with no previous political experience, would be another win for the right in Latin America.</description>
       <category>nyt-world</category>
-      <guid isPermaLink="false">news-d1b0d18a967b83b2</guid>
-      <pubDate>Sun, 21 Jun 2026 12:37:59 +0000</pubDate>
+      <guid isPermaLink="false">news-25070314dfe4de37</guid>
+      <pubDate>Mon, 22 Jun 2026 12:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Read this before you vibe-code another app</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps</link>
+      <description>Bob Starr was delighted with his vibe-coded website. "Boomberg" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-d42e17779ae0563d</guid>
+      <pubDate>Mon, 22 Jun 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>First round of US-Iran talks ends with encouraging progress, mediators say</title>
+      <link>https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-fc469c4d28ba2d2a</guid>
+      <pubDate>Mon, 22 Jun 2026 10:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc1 adds migrations and nested transactions</title>
+      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</link>
+      <description>sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package, including support for complex table transformations, automatic table creation from JSON data and a whole lot more. I released sqlite-utils 4.0rc1, the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people try this out before I commit to a stable release. New feature: migrations There are two significant new features in this RC compared to the previous 4.0 alphas. The first is support for database migrations. This isn't a completely new implementation - it's a slightly modified port of the sqlite-migrate package I released a few years ago. I think that package has proved itself over time, so I'm now ready to bundle it with sqlite-utils directly. Here's what a set of migrations in a migrations.py file looks like: from sqlite_utils import Database, Migrations migrations = Migrations("creatures") @migrations() def create_table(db): db["creatures"].create( {"id": int, "name": str, "species": str}, pk="id", ) @migrations() def add_weight(db): db["creatures"].add_column("weight", float) This defines a set of two migrations, one creating the creatures table and another adding a column to it. You can then run those migrations either using Python: db = Database("creatures.db") migrations.apply(db) Or with the command-line migrate command: sqlite-utils migrate creatures.db migrations.py The system is deliberately small: it doesn't provide reverse migrations, so any mistakes you make should be fixed by deploying a fresh migration to undo them. Its predecessor has been used by LLM and various other projects for several years, so I'm confident that the design is stable and works well. The new migrations feature is documented here. New feature: db.atomic() transactions This feature is a lot less exercised than migrations, so it deserves more attention from testers. Previously, sqlite-utils mostly left transaction management up to its users, via a with db.conn: construct that reused the sqlite3 mechanism directly. SQLite supports nested transactions in the form of savepoints, so I wanted an abstraction that could make those as easy to use as possible. I borrowed the terminology "atomic" from Django and Peewee. Here's what the new API looks like: with db.atomic(): db.table("dogs").insert({"id": 1, "name": "Cleo"}, pk="id") try: with db.atomic(): db.table("dogs").insert({"id": 2, "name": "Pancakes"}) raise ValueError("skip this one") except ValueError: pass db.table("dogs").insert({"id": 3, "name": "Marnie"}) More details in the documentation. Backwards incompatible changes The backwards incompatible changes in v4 were described in the alpha release notes. For 4.0a0: Upsert operations now use SQLite's INSERT ... ON CONFLICT SET syntax on all SQLite versions later than 3.23.1. This is a very slight breaking change for apps that depend on the previous INSERT OR IGNORE followed by UPDATE behavior. (#652) Python library users can opt-in to the previous implementation by passing use_old_upsert=True to the Database() constructor, see Alternative upserts using INSERT OR IGNORE. Dropped support for Python 3.8, added support for Python 3.13. (#646) sqlite-utils tui is now provided by the sqlite-utils-tui plugin. (#648) Test suite now also runs against SQLite 3.23.1, the last version (from 2018-04-10) before the new INSERT ... ON CONFLICT SET syntax was added. (#654) And for 4.0a1: Breaking change: The db.table(table_name) method now only works with tables. To access a SQL view use db.view(view_name) instead. (#657) The table.insert_all() and table.upsert_all() methods can now accept an iterator of lists or tuples as an alternative to dictionaries. The first item should be a list/tuple of column names. See Inserting data from a list or tuple iterator for details. (#672) Breaking change: The default floating point column type has been changed from FLOAT to REAL, which is the correct SQLite type for floating point values. This affects auto-detected columns when inserting data. (#645) Now uses pyproject.toml in place of setup.py for packaging. (#675) Tables in the Python API now do a much better job of remembering the primary key and other schema details from when they were first created. (#655) Breaking change: The table.convert() and sqlite-utils convert mechanisms no longer skip values that evaluate to False. Previously the --skip-false option was needed, this has been removed. (#542) Breaking change: Tables created by this library now wrap table and column names in "double-quotes" in the schema. Previously they would use [square-braces]. (#677) The --functions CLI argument now accepts a path to a Python file in addition to accepting a string full of Python code. It can also now be specified multiple times. (#659) Breaking change: Type detection is now the default behavior for the insert and upsert CLI commands when importing CSV or TSV data. Previously all columns were treated as TEXT unless the --detect-types flag was passed. Use the new --no-detect-types flag to restore the old behavior. The SQLITE_UTILS_DETECT_TYPES environment variable has been removed. (#679) Try it out You can install the new RC like this: pip install sqlite-utils==4.0rc1 Or try the CLI version directly with uvx like this: uvx --with sqlite-utils==4.0rc1 sqlite-utils --help Come chat with us about it in the sqlite-utils Discord channel, or file any bugs in GitHub Issues. Tags: migrations, projects, sqlite, sqlite-utils, annotated-release-notes</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-5199a1444ff61df2</guid>
+      <pubDate>Sun, 21 Jun 2026 23:35:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc1</title>
+      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything</link>
+      <description>Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions. Tags: sqlite-utils</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-4e10b2897da41cd4</guid>
+      <pubDate>Sun, 21 Jun 2026 23:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samsung Electronics brings ChatGPT and Codex to employees</title>
+      <link>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</link>
+      <description>Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-eebdb7f63bb5dd4f</guid>
+      <pubDate>Sun, 21 Jun 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The new oil? Inside the effort to turn AI computing power into a tradeable commodity</title>
+      <link>https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html</link>
+      <description>AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-df14d1433e9cfd6d</guid>
+      <pubDate>Sun, 21 Jun 2026 22:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Temporary Cloudflare Accounts for AI agents</title>
+      <link>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</link>
+      <description>Temporary Cloudflare Accounts for AI agents The announcement says this is "for AI agents" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well. Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account: npx wrangler deploy --temporary Cloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes. I had GPT-5.5 xhigh in Codex Desktop build this test application providing a tool for following HTTP redirects and returning the final destination. The temporary deployment worked as advertised. Running the deployment spits out the URL to a page for claiming the new project, for if you want it to last for more than 60 minutes. Here's what that claim screen looks like: Via Hacker News Tags: cloudflare</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-9feea510147ecdac</guid>
+      <pubDate>Sun, 21 Jun 2026 22:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>When the Trump administration cracks down on Anthropic, who benefits?</title>
+      <link>https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/</link>
+      <description>On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-144aa33768977dc9</guid>
+      <pubDate>Sun, 21 Jun 2026 15:28:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Exclusive] $250 off AI Engineer tix til Monday</title>
+      <link>https://www.latent.space/p/exclusive-250-off-ai-engineer-tix</link>
+      <description>special offer for subscribers - $250 off AI Engineer tix til Monday</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-4cfa2c49225446d1</guid>
+      <pubDate>Sun, 21 Jun 2026 15:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27</title>
+      <link>https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/</link>
+      <description>Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-5e4c01a2f8b57f29</guid>
+      <pubDate>Sun, 21 Jun 2026 14:40:28 +0000</pubDate>
     </item>
     <item>
       <title>U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz</title>
@@ -48,28 +167,12 @@
       <pubDate>Sun, 21 Jun 2026 12:16:26 +0000</pubDate>
     </item>
     <item>
-      <title>Keir Starmer Reflects on ‘Political Challenges’ as Pressure to Resign Mounts</title>
-      <link>https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html</link>
-      <description>An ally of Keir Starmer’s told the BBC on Sunday that Mr. Starmer was “taking the time to think through what the political realities are today compared to last week.”</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e70eaed4e6458c8c</guid>
-      <pubDate>Sun, 21 Jun 2026 12:13:24 +0000</pubDate>
-    </item>
-    <item>
       <title>'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed</title>
       <link>https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html</link>
       <description>The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.</description>
       <category>cnbc-finance</category>
       <guid isPermaLink="false">news-6207aceeefdb49da</guid>
       <pubDate>Sun, 21 Jun 2026 11:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fuel sales halted in occupied Crimea as Ukraine targets oil facilities</title>
-      <link>https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-c527912c724b7b44</guid>
-      <pubDate>Sun, 21 Jun 2026 10:55:05 +0000</pubDate>
     </item>
     <item>
       <title>Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’</title>
@@ -80,28 +183,12 @@
       <pubDate>Sat, 20 Jun 2026 20:32:29 +0000</pubDate>
     </item>
     <item>
-      <title>In the Weights is your new AI-centric vanity search</title>
-      <link>https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</link>
-      <description>So ... what's your In the Weights score?</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-af08cad5eb0b0436</guid>
-      <pubDate>Sat, 20 Jun 2026 19:41:11 +0000</pubDate>
-    </item>
-    <item>
       <title>The Atlantic created a searchable database of the music used to train AI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data</link>
       <description>Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over […]</description>
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-4eab1815f90abaf3</guid>
       <pubDate>Sat, 20 Jun 2026 18:46:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?</title>
-      <link>https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories</link>
-      <description>A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare at a time when the programs are under pressure.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-a7dcc922ead9bf52</guid>
-      <pubDate>Sat, 20 Jun 2026 18:36:00 +0000</pubDate>
     </item>
     <item>
       <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
@@ -112,124 +199,12 @@
       <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
     </item>
     <item>
-      <title>Bitcoin's future as revolutionary as the smartphone, according to CoinDesk</title>
-      <link>https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html</link>
-      <description>CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-fe1604507761e049</guid>
-      <pubDate>Sat, 20 Jun 2026 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mideast Live Updates: Fighting Persists in Lebanon, Complicating Iran Peace Talks</title>
-      <link>https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon</link>
-      <description>The Israeli military said it had exchanged fire with Hezbollah overnight, hours after a new cease-fire came into effect. Clashes in Lebanon derailed U.S.-Iran peace talks planned for Friday.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e9b642e2ddd58b3b</guid>
-      <pubDate>Sat, 20 Jun 2026 13:30:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel and Hezbollah continue strikes despite ceasefire agreement</title>
-      <link>https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Deaths are reported in southern Lebanon, with the IDF saying it hit "Hezbollah terrorist targets" after the group fired over 50 projectiles at Israeli forces.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-2bd6c3997c857520</guid>
-      <pubDate>Sat, 20 Jun 2026 13:23:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shipping remains far below prewar levels in the Strait of Hormuz.</title>
-      <link>https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon/shipping-remains-far-below-prewar-levels-in-the-strait-of-hormuz</link>
-      <description>A preliminary U.S.-Iran deal took steps to reopen the vital waterway, but traffic remains erratic.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-cd2561dea036f982</guid>
-      <pubDate>Sat, 20 Jun 2026 11:57:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>After Andy Burnham’s Win, the UK Is Set to Test How Far Charisma Can Shift Electoral Dynamics</title>
-      <link>https://www.nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html</link>
-      <description>The governing Labour Party may oust Prime Minister Keir Starmer in favor of the more popular Andy Burnham — who will still face all the same challenges.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-67e41da60da51c40</guid>
-      <pubDate>Sat, 20 Jun 2026 11:36:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[AINews] not much happened today</title>
       <link>https://www.latent.space/p/ainews-not-much-happened-today-e7b</link>
       <description>a quiet day lets us promo AIE one last time</description>
       <category>latent-space</category>
       <guid isPermaLink="false">news-a1ce9d37b1c146a5</guid>
       <pubDate>Sat, 20 Jun 2026 08:06:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia confirms first case of H5N1 bird flu as virus reaches every continent</title>
-      <link>https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-319b865632de8fb0</guid>
-      <pubDate>Sat, 20 Jun 2026 03:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>African and Caribbean nations call for formal apology for transatlantic slavery</title>
-      <link>https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-9b4485974244be08</guid>
-      <pubDate>Sat, 20 Jun 2026 02:33:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Sean Lynch</title>
-      <link>https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything</link>
-      <description>The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...] Maybe the idealized form of MCP is just an auth gateway for the API and nothing else. That’d still be a win. — Sean Lynch, comment on Hacker News Tags: model-context-protocol, llms, ai, generative-ai, skills</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-f248e4add345e056</guid>
-      <pubDate>Fri, 19 Jun 2026 22:45:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>From PGP to Mythos: a brief history of export controls that didn’t stop anyone</title>
-      <link>https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</link>
-      <description>For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-15935a3d14523f15</guid>
-      <pubDate>Fri, 19 Jun 2026 22:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warsh’s new task forces give the Fed wiggle room to put off changing rates until December</title>
-      <link>https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories</link>
-      <description>During his first press conference as Fed chair Wednesday, Kevin Warsh repeated one refrain in his answers to many reporters’ questions: A task force is looking into it.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-45bcdf120648aafa</guid>
-      <pubDate>Fri, 19 Jun 2026 17:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.</title>
-      <link>https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories</link>
-      <description>Here’s what the central bank’s hawkish agenda means for your money.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-d34fb4227b5343f8</guid>
-      <pubDate>Fri, 19 Jun 2026 17:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI credits consumed per user now in the Copilot usage metrics API</title>
-      <link>https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api</link>
-      <description>The Copilot usage metrics API now reports how many AI credits each user consumed per day, derived from the same AI credits consumption data used in the usage-based billing API.… The post AI credits consumed per user now in the Copilot usage metrics API appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-da05cbe54c366929</guid>
-      <pubDate>Fri, 19 Jun 2026 16:23:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is the US government’s Anthropic ban accidentally helping the brand?</title>
-      <link>https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/</link>
-      <description>Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c672828324075913</guid>
-      <pubDate>Fri, 19 Jun 2026 16:08:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</title>
-      <link>https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</link>
-      <description>Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-3d079fe17c331347</guid>
-      <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
     </item>
     <item>
       <title>How we built an internal data analytics agent</title>
@@ -240,568 +215,593 @@
       <pubDate>Fri, 19 Jun 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The riskiest SpaceX stock trade of all had a big first week</title>
-      <link>https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html</link>
-      <description>SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-282d8effc66d3cab</guid>
-      <pubDate>Fri, 19 Jun 2026 15:53:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The film about Sam Altman has been dropped by Amazon MGM</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped</link>
-      <description>Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-26ba1457d23d050e</guid>
-      <pubDate>Fri, 19 Jun 2026 14:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.K. Live Updates: Starmer Under Pressure After Labour Rival Wins Key Election</title>
-      <link>https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham</link>
-      <description>Prime Minister Keir Starmer of Britain said he would not “walk away” from any leadership contest after a top rival in his party, Andy Burnham, decisively won a parliamentary seat.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-10a9967d103ef610</guid>
-      <pubDate>Fri, 19 Jun 2026 13:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mideast Live Updates: Deadly Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal</title>
-      <link>https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal</link>
-      <description>Israel said it targeted Hezbollah militants after four of its soldiers were killed in southern Lebanon. Switzerland postponed U.S.-Iran talks that had been set for Friday.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-99255ae280139064</guid>
-      <pubDate>Fri, 19 Jun 2026 13:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Missing Ingredient in Ukraine’s Barrages on Russia: Ballistic Missiles</title>
-      <link>https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attacks-ballistic-missiles.html</link>
-      <description>Ukrainian drone attacks have achieved breakthroughs, but only ballistic missiles can push Russia to reconsider its war objectives, military experts and officials say.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-d2e600842e626512</guid>
-      <pubDate>Fri, 19 Jun 2026 13:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Banker’s Brief Absence Exposes Raw Nerves on Russia’s Economy</title>
-      <link>https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html</link>
-      <description>The central bank leader Elvira S. Nabiullina reappeared during a news conference after a weekslong gap that highlighted deep tensions in the country’s political and economic elite.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-60220c2b7f08d4fb</guid>
-      <pubDate>Fri, 19 Jun 2026 13:11:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Quickly Could Andy Burnham Become U.K. Prime Minister?</title>
-      <link>https://www.nytimes.com/2026/06/19/world/europe/burnham-prime-minister-starmer-uk.html</link>
-      <description>While Mr. Burnham’s leadership ambitions are clear, Prime Minister Keir Starmer has stated that he would fight any challenge.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e5bd7b59789547b8</guid>
-      <pubDate>Fri, 19 Jun 2026 13:04:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The CEO of Allbirds’ new AI biz has a plan, but no employees</title>
-      <link>https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/</link>
-      <description>Call it a startup with a sole founder and a very large seed round, but what's next is less clear.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-50b104eb1175ecb0</guid>
-      <pubDate>Fri, 19 Jun 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah</title>
-      <link>https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-d4498128e56b9a65</guid>
-      <pubDate>Fri, 19 Jun 2026 12:07:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Fed’s new hawkish reality just forced Goldman Sachs to slash its gold forecast by $500</title>
-      <link>https://www.marketwatch.com/story/the-feds-new-hawkish-reality-just-forced-goldman-sachs-to-slash-its-gold-forecast-by-500-c166d99f?mod=mw_rss_topstories</link>
-      <description>Strategists at the investment bank see gold rising to $4,900 an oune by the end of the year instead of $5,400.</description>
+      <title>My husband and I are 75. We have $1.5 million in stocks and $425,000 in savings. Is that too much cash?</title>
+      <link>https://www.marketwatch.com/story/my-husband-and-i-are-75-we-have-1-5-million-in-stocks-and-425-000-in-savings-is-that-too-much-cash-c9385f9f?mod=mw_rss_topstories</link>
+      <description>“We are debt-free, and he will get 80% of his salary when he retires.”</description>
       <category>marketwatch</category>
-      <guid isPermaLink="false">news-32c0236a881f39f5</guid>
-      <pubDate>Fri, 19 Jun 2026 11:55:00 +0000</pubDate>
+      <guid isPermaLink="false">news-fcdc7145405c30bc</guid>
+      <pubDate>Sun, 07 Jun 2026 13:08:00 +0000</pubDate>
     </item>
     <item>
-      <title>The US says ASML’s top chip tool may be in China. ASML says it isn’t</title>
-      <link>https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</link>
-      <description>There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-70dd8a7d70696214</guid>
-      <pubDate>Fri, 19 Jun 2026 07:59:12 +0000</pubDate>
+      <title>‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?</title>
+      <link>https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories</link>
+      <description>“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-91aff9f7cd68bc78</guid>
+      <pubDate>Sun, 07 Jun 2026 12:51:00 +0000</pubDate>
     </item>
     <item>
-      <title>[AINews] GLM &gt; GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December</title>
-      <link>https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe</link>
-      <description>With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-706666b669dd698d</guid>
-      <pubDate>Fri, 19 Jun 2026 05:53:54 +0000</pubDate>
+      <title>Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks</title>
+      <link>https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-01af75f279a9045d</guid>
+      <pubDate>Sun, 07 Jun 2026 12:09:57 +0000</pubDate>
     </item>
     <item>
-      <title>Barret Zoph is out at OpenAI again after just five months</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab</link>
-      <description>Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned […]</description>
+      <title>AI ‘content creators’ are getting harder to spot</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators</link>
+      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to […]</description>
       <category>theverge-ai</category>
-      <guid isPermaLink="false">news-1c5754d821968fc1</guid>
-      <pubDate>Fri, 19 Jun 2026 04:49:33 +0000</pubDate>
+      <guid isPermaLink="false">news-ab996c1697904df8</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M</title>
-      <link>https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/</link>
-      <description>Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-1fbdc3ff0b9d8200</guid>
-      <pubDate>Fri, 19 Jun 2026 00:51:11 +0000</pubDate>
+      <title>Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange</title>
+      <link>https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-abdb9197cf1504a8</guid>
+      <pubDate>Sun, 07 Jun 2026 11:38:54 +0000</pubDate>
     </item>
     <item>
-      <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
-      <link>https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything</link>
-      <description>Today we launched a new plugin for Datasette, datasette-apps, with this launch announcement post on the Datasette project blog. That post has the what, but I'm going to expand on that a little bit here to provide the why. The TL;DR Datasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained &lt;iframe&gt; sandbox hosted on your Datasette application. They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too if you configure them with some stored queries. Here's a very simple example and a more complex custom timeline example - the latter looks like this: Apps are allowed to run JavaScript and render HTML and CSS. They are limited in terms of access - the &lt;iframe sandbox="allow-scripts allow-forms"&gt; they run in prevents them from accessing cookies or localStorage and they also have an injected CSP header (thanks to this research) which prevents them from making HTTP requests to outside hosts, preventing a malicious or buggy app from exfiltrating private data. Datasette Apps started out as my attempt at building a Claude Artifacts mechanism for Datasette Agent, but I quickly realised that the sandboxed pattern is interesting for way more than just adding custom apps in a chat interface and promoted it to its own top-level concept within the Datasette ecosystem. They're also a fun way to turn my multi-year experiment in vibe-coded HTML tools into a core feature of my main project! You can try out Datasette Apps by signing in with GitHub to the agent.datasette.io demo instance. Why build this? Since the very first release, Datasette has offered a flexible backend for creating custom HTML apps via its JSON API. One of my earliest Datasette projects was an internal search engine for documentation when I worked at Eventbrite - it worked by importing documents from different systems into SQLite on a cron and then serving them through a Datasette instance with a custom HTML+JavaScript search interface that directly queried the Datasette API. I had client-side JavaScript constructing SQL queries, which originally was intended as an engineering joke but turned out to be a really productive way of iterating on the app! That project, combined with my experience building my HTML tools collection and my experiments with Claude Artifacts, has convinced me that adding a Datasette-style backend to a self-contained HTML frontend is an astonishingly powerful combination. Imagine how much more useful Claude Artifacts could be if they had access to a persistent relational database. That's what I'm building with Datasette Apps! Neat ideas in Datasette Apps Here are a few of the ideas and patterns I've figured out building this which I think have staying power. &lt;iframe sandbox="allow-scripts" srcdoc="..."&gt; + &lt;meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data: blob:;"&gt; This is the magic combination that makes Datasette Apps feasible in the first place. I need to run untrusted HTML and JavaScript on a highly sensitive domain - an authenticated Datasette instance can contain all sorts of private data. The sandbox= attribute lets me run that untrusted code in a way that cannot interact with the parent application - it can't read the DOM, or access cookies, or steal secrets from localStorage. It can however use fetch() and friends to load content (or exfiltrate data) from other domains. But... it turns out if you start an HTML page with a &lt;meta http-equiv="Content-Security-Policy"&gt; header you can set additional policies that lock down access to other domains. I was worried that malicious JavaScript would be able to update or remove that header but it turns out that doesn't work - once set, the CSP policy is immutable for the content of that frame. Locked down APIs with postMessage() and MessageChannel() Having locked down those iframes to the point that they couldn't do anything interesting at all, the challenge was to open them back again such that they could run an allow-list of operations, starting with read-only SQL queries against specified databases. I built the first version of this with postMessage(), which allows a child iframe to send messages to the parent window. I created a simple protocol for requesting that the parent run a SQL query - the parent could then verify it was against an allow-listed database before executing it. One of the LLM tools, I think it was GPT-5.5, suggested that postMessage() on its own can be exploited if the iframe somehow loads additional code from an untrusted domain. I don't think that applies to Datasette Apps, but I also believe in defense in depth, so I had GPT-5.5 help me port to a MessageChannel() based transport instead. MessageChannel() has the advantage that if a page navigates to somewhere else the channel closes automatically, removing any chance of executing commands sent from an untrusted external page. Visible logs, for queries and errors If you navigate to the timeline demo and search for the string usercontent you'll pull in some search results that embed images from the user-images.githubusercontent.com domain. This domain is not in the CSP allow-list, so it trips an error. Those errors are captured and transmitted back to the parent frame, where they can be displayed in a useful error log. This is meant to make hacking on apps more productive by surfacing otherwise-invisible problems. I built an experiment demonstrating that you can even turn this into a one-click-to-allow mechanism for building the CSP allow-list based on what breaks, but I haven't integrated that idea into datasette-apps just yet. SQL queries are also visibly logged - scroll to the bottom of the timeline page to see that in action. Stored queries for write operations I want apps to be able to conditionally write to the database, but this is an even more dangerous proposition than SQL reads! My solution involves Datasette's stored queries feature, rebranded from "canned queries" and given a major upgrade in the recent Datasette 1.0a31 - work that was directly inspired by Datasette Apps. Users can create a stored write query that performs an insert or update, then allow-list that specific query for an app to use. Usage from code inside an app looks like this: const result = await datasette.storedQuery("todos", "add_todo", { title: "Buy milk", due_date: "2026-06-20", priority: "high", completed: false }); I'm only just beginning to explore the possibilities this unlocks myself, but my goal is to support full read-write applications built safely as Datasette Apps. Copy and paste a prompt to build an app The Datasette Apps plugin has no dependency on LLMs at all, but these self-contained apps are the perfect shape to be written by a modern LLM. The create app form includes a copyable prompt at the end. This prompt has everything a model needs to know to build a new app, including the schema of any selected databases. This means you can click "copy", paste it into ChatGPT or Claude or Gemini, tell it what you need, and there's a good chance the model will spit out the code necessary to build the app. If you have Datasette Agent installed your AI assistant will also gain tools to both create new apps and edit existing ones, Claude Artifacts style. Built with so much AI assistance Datasette Apps started life back in April as datasette-agent-artifacts, a plugin I have since renamed to datasette-agent-edit keeping only its editing tools. I built that as one of the first plugins for Datasette Agent, to help get the plugin hooks into the right shape. That first prototype was mainly built using Claude Opus 4.6 in Claude Code. When I switched track to Datasette Apps I started with a plan constructed using Codex Desktop and GPT-5.5 xhigh, based on extensive dialog and feeding in both datasette-agent-artifacts and other prototypes I had built. Most of the work that followed stuck with Codex, but in the few short days that we had access to Claude Fable 5 I had it run a security evaluation of the product (an ability that would get it banned by the US government shortly afterwards) and it found a very real problem. I was allowing users to allow-list CSP hosts for their apps, but Fable pointed out the following attack: A less privileged user with create-app permission creates an app that queries SQLite for all available tables and selects and exfiltrates all of the data to a host they had allow-listed via CSP. They then trick an administrator user with access to private data into visiting their app. ... and the app can now run queries as that user and steal their private data! That's clearly unacceptable. I fixed it by restricting the ability to allow-list any domain to a new apps-set-csp permission, which is intended just for trusted staff. Site administrators can also configure Datasette with a list of allowed_csp_origins, which regular users can then select. This means you can do things like allow cdnjs.cloudflare.com and your users will be able to build apps that load extra JavaScript libraries from the cdnjs CDN. I've reviewed Datasette Apps extremely closely, especially the security-adjacent parts of it. The critical sandbox and CSP configuration are based on multiple AI-assisted prototypes and tests. It's looking good so far I'm really pleased with this initial release. Datasette is growing beyond its origins as an application for serving read-only data into a much richer ecosystem of tools for doing useful things with that data once it has been collected. Datasette's roots are in data journalism. I've always been interested in the question of what comes next after a journalist gets their hands on a giant dump of data about the world. Datasette supports exploring and publishing it. Datasette Agent adds interrogating it with AI assistance. Now Datasette Apps expands that to building custom interfaces and visualizations to help unlock the stories that are hidden within. Tags: iframes, javascript, projects, sandboxing, ai, datasette, generative-ai, llms, ai-assisted-programming, content-security-policy</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-5f72542577bb42c1</guid>
-      <pubDate>Thu, 18 Jun 2026 23:58:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming deprecation of Opus 4.6 (fast)</title>
-      <link>https://github.blog/changelog/2026-06-18-upcoming-deprecation-of-opus-4-6-fast</link>
-      <description>We will deprecate Opus 4.6 (fast) across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), on June 29th, 2026: Model Deprecation date… The post Upcoming deprecation of Opus 4.6 (fast) appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-4f4fa9bb905b54a9</guid>
-      <pubDate>Thu, 18 Jun 2026 23:58:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chairman Warsh drastically alters Fed rate statement. Here's what's changed</title>
-      <link>https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html</link>
-      <description>This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-5a1fcb0a440e3b4b</guid>
-      <pubDate>Thu, 18 Jun 2026 22:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>As China looms, Taiwan makes more drones for defense and the US military</title>
-      <link>https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/</link>
-      <description>Taiwan's drone spending plans for defense could also boost business overseas.</description>
+      <title>School shooting survivor sues AI gun detection firm after system failed to spot weapon</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/</link>
+      <description>How accurate does an AI system need to be?</description>
       <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-72e6e0e7833bf01d</guid>
-      <pubDate>Thu, 18 Jun 2026 21:21:26 +0000</pubDate>
+      <guid isPermaLink="false">news-92b5ffdc27e96af0</guid>
+      <pubDate>Sun, 07 Jun 2026 11:08:30 +0000</pubDate>
     </item>
     <item>
-      <title>Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry</title>
-      <link>https://devblogs.microsoft.com/foundry/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/</link>
-      <description>We shipped a lot at Build 2026: hosted agents, Toolboxes, Foundry IQ, Memory, Managed Compute, fine‑tuning, Frontier Tuning, and a new evaluation and optimization stack. Read as a feature list, it is a lot to hold in your head. So here is a simpler way to see it: these are the parts you need to […] The post Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry appeared first on Microsoft Foundry Blog.</description>
+      <title>Gunman Kills at Least One in Attack on Central Israel</title>
+      <link>https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html</link>
+      <description>Israeli authorities described the shootings as a terrorist attack. Hamas, the Palestinian militant group, praised the assault, but did not claim responsibility.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-01f06da6311e2e92</guid>
+      <pubDate>Sun, 07 Jun 2026 10:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peru’s Presidential Runoff Could Swing the Country to the Right: What to Know</title>
+      <link>https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election-runoff-fujimori-sanchez.html</link>
+      <description>Facing a surge in violence, voters will choose between a newly moderated left and a right-wing candidate representing an autocrat’s divisive legacy.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-e8a24bdf039275b6</guid>
+      <pubDate>Sun, 07 Jun 2026 09:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.</title>
+      <link>https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html</link>
+      <description>President Trump’s boasts of securing a commitment from Iranian leaders not to develop a nuclear weapon have puzzled nuclear experts who note that Tehran has made that pledge for more than 50 years.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-9ae173fefb523f41</guid>
+      <pubDate>Sun, 07 Jun 2026 09:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg</title>
+      <link>https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-bcb2f72176e3aa3a</guid>
+      <pubDate>Sun, 07 Jun 2026 07:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Armenia votes as Russia piles pressure on pro-West government</title>
+      <link>https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-fe686b71c7f66775</guid>
+      <pubDate>Sun, 07 Jun 2026 04:45:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</title>
+      <link>https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/</link>
+      <description>Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-7140b07582028100</guid>
+      <pubDate>Sat, 06 Jun 2026 20:32:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program</title>
+      <link>https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html</link>
+      <description>A federal judge has ruled that David Rush, the C.I.A. employee, must remain in detention. U.S. officials say Mr. Rush funneled millions in federal funds to himself.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-d31e6d56bf8a58bb</guid>
+      <pubDate>Sat, 06 Jun 2026 19:42:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say</title>
+      <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html</link>
+      <description>Israel’s military said a soldier opened fire after Israeli troops “perceived a vehicle accelerating toward them.” The baby’s grandmother, who was in the car, disputed that account.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-68ee2ed6d2bd8933</guid>
+      <pubDate>Sat, 06 Jun 2026 19:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five labs, five minds: building a multi-model finance drama on small models</title>
+      <link>https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-47468f27f93cf05c</guid>
+      <pubDate>Sat, 06 Jun 2026 19:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</title>
+      <link>https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/</link>
+      <description>Apple's WWDC nears: Here's what you can look forward to.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-0be181f790899c1c</guid>
+      <pubDate>Sat, 06 Jun 2026 18:13:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sriram Krishnan is leaving his role as White House AI advisor</title>
+      <link>https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/</link>
+      <description>Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-a8cf56fd7589f834</guid>
+      <pubDate>Sat, 06 Jun 2026 17:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Korea is the ultimate backdoor tech play — but stock investors now face a looming threat</title>
+      <link>https://www.marketwatch.com/story/south-korea-is-the-ultimate-backdoor-tech-play-but-stock-investors-now-face-a-looming-threat-25065699?mod=mw_rss_topstories</link>
+      <description>Samsung and SK Hynix are key to soaring South Korean stock market, but a rate hike could trigger a 15% market correction.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-be060d78fce0e2d6</guid>
+      <pubDate>Sat, 06 Jun 2026 17:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'</title>
+      <link>https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The city's governor urges residents to remain indoors for the first time since the beginning of the war.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-b130098f47ee21df</guid>
+      <pubDate>Sat, 06 Jun 2026 17:14:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t rule out a ‘June swoon’ — the S&amp;P 500 is pushing its limits</title>
+      <link>https://www.marketwatch.com/story/dont-rule-out-a-june-swoon-the-s-p-500-is-pushing-its-limits-3c067a6b?mod=mw_rss_topstories</link>
+      <description>Even upbeat Oracle earnings next week might not be enough to rally the market.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-a7d9d8728e0564c0</guid>
+      <pubDate>Sat, 06 Jun 2026 16:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Defense Department Sees Growing Espionage Threat From Israel</title>
+      <link>https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html</link>
+      <description>The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-40a024dd72ffc30d</guid>
+      <pubDate>Sat, 06 Jun 2026 16:41:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>This investing strategy digs deeper to find hidden stocks riding the AI wave</title>
+      <link>https://www.marketwatch.com/story/this-investing-strategy-digs-deeper-to-find-hidden-stocks-riding-the-ai-wave-2cfcccd9?mod=mw_rss_topstories</link>
+      <description>There are plenty of ways to jump into the generative-AI hardware infrastructure expansion beyond the familiar chip makers and hyperscalers.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-e84a121ac89a83f9</guid>
+      <pubDate>Sat, 06 Jun 2026 16:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Trump administration might take an equity stake in OpenAI</title>
+      <link>https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/</link>
+      <description>President Donald Trump said he's discussing deals "where the American people can benefit from the success of AI."</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-39923ab8405f222f</guid>
+      <pubDate>Sat, 06 Jun 2026 16:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The World Has Learned From the Last Ebola Outbreak, but Gaps Remain</title>
+      <link>https://www.nytimes.com/2026/06/06/world/africa/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html</link>
+      <description>The vaccine development process and coordination between health organizations have improved since a devastating 2014-2016 outbreak.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-6fd7ac2b7eeb28b5</guid>
+      <pubDate>Sat, 06 Jun 2026 15:28:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center</link>
+      <description>A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the "No Data Center" signs going up that, "I've seen a lot of these all over town, but […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-28f2c98bc54ac3c5</guid>
+      <pubDate>Sat, 06 Jun 2026 15:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta made its own AI-generated clickbait news feed</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles</link>
+      <description>Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a "For You" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-a661c048b4fe1c53</guid>
+      <pubDate>Sat, 06 Jun 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed</title>
+      <link>https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html</link>
+      <description>Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-e5434b3a4367c0e5</guid>
+      <pubDate>Sat, 06 Jun 2026 13:49:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitcoin is cratering, but a new Wall Street crypto hype is on the rise</title>
+      <link>https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html</link>
+      <description>As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-0f5fc94c777d07d2</guid>
+      <pubDate>Sat, 06 Jun 2026 13:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here comes new Siri again</title>
+      <link>https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini</link>
+      <description>Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-efc7f0aa58dfff52</guid>
+      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] not much happened today</title>
+      <link>https://www.latent.space/p/ainews-not-much-happened-today-6b8</link>
+      <description>a quiet day of RSI.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-aaf6f2d44a4f5642</guid>
+      <pubDate>Sat, 06 Jun 2026 04:34:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>micropython-wasm 0.1a2</title>
+      <link>https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</link>
+      <description>Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section. Tags: python, sandboxing, webassembly, micropython</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-e73f4b4924363a21</guid>
+      <pubDate>Sat, 06 Jun 2026 04:26:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Running Python code in a sandbox with MicroPython and WASM</title>
+      <link>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</link>
+      <description>I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm, and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython. Why do I want a sandbox? What I want from a sandbox WebAssembly looks really promising here MicroPython in WebAssembly Building the first version Try it yourself Should you trust my vibe-coded sandbox? Why do I want a sandbox? My key open source projects - Datasette, LLM, even sqlite-utils - all support plugins. I absolutely love plugins as a mechanism for extending software. A carefully designed plugin system reduces the risk involved in trying new things to almost nothing - even the wildest ideas won't leave a lasting influence on the core application itself. My software can grow a new feature overnight and I don't even have to review a pull request! There's one major drawback: my plugin systems all use Python and Pluggy, and plugin code executes with full privileges within my applications. A buggy or malicious plugin could break everything or leak private data. I'd love to be able to run plugin-style code in an environment where it is unable to read unapproved files, connect to a network, or generally operate in a way that's risky or harmful to the rest of the application or the user's computer. My interest covers more than just plugins. For Datasette in particular there are many features I'd like to support where arbitrary code execution would be useful. I've already experimented with this for Datasette Enrichments, where code can be used to transform values stored in a table. I'd love to build a mechanism where you can run code on a schedule that fetches JSON from an approved location, runs a tiny bit of code to reformat it into a list of dictionaries, then inserts those as rows in a SQLite database table. What I want from a sandbox My goal is to execute code safely within my own Python applications. Here's what I need: Dependencies that cleanly install from PyPI, including binary wheels across multiple platforms if necessary. I don't want people using my software to have to take any extra steps beyond directly installing my Python package. Executed code must be subject to both memory and CPU limits. I don't want while True: s += "longer string" to crash my application or the user's computer. File access must be strictly controlled. Either no filesystem access at all or I get to define exactly which files can be read and which files can be written to. Network access is controlled as well. Sandboxed code should not be able to communicate with anything without going through a layer I fully control. Support for interaction with host functions. A sandbox isn't much use if I can't carefully expose selected platform features to the code that it's running. It has to be robust, supported, and clearly documented. I've lost count of the number of sandbox projects I've seen in repos with warnings that they aren't actively maintained! WebAssembly looks really promising here Web browsers operate in the most hostile environment imaginable when it comes to malicious code. Their job is to download and execute untrusted code from the web on almost every page load. Given this, JavaScript engines should be excellent candidates for sandboxes. Sadly those engines are also extremely complicated, and are not designed for easy embedding in other projects. Most of the V8-in-Python projects I've seen are infrequently maintained and come with warnings not to use them with completely untrusted code. WebAssembly is a much better candidate. It was designed from the start to support all of the characteristics I care about and has been tested in browsers for nearly a decade. The wasmtime Python library brings WASM to Python, is actively maintained, and has binary wheels. MicroPython in WebAssembly WebAssembly engines like wasmtime run WebAssembly binaries. Some programming languages like Rust are easy to compile directly to WebAssembly. Dynamic languages like JavaScript and Python are harder - they support language primitives like eval(), which means they need a full interpreter available at runtime. To run Python we need a full Python interpreter compiled to WebAssembly, wired up in a way that makes it easy to feed it code, hook up host functions and access the results. Pyodide offers an outstanding package for running Python using WebAssembly in the browser, but using Pyodide in server-side Python isn't supported. The most recent advice I could find was from October 2024 stating "Pyodide is built by the Emscripten toolchain and can only run in a browser or Node.js". The other day I decided to take a look at MicroPython as an option for this. The MicroPython site says: MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. WebAssembly sure feels like a constrained environment to me! Building the first version I had GPT-5.5 Pro do some research for me, which turned up this PR against MicroPython by Yamamoto Takahashi titled "Experimental WASI support for ports/unix". It then produced this research.md document, so I let Codex Desktop and GPT-5.5 high loose on it to see what would happen: read the research.md document and build this. You will probably need to write a script that compiles a custom WASM version of MicroPython as part of this project - fetch the MicroPython code to a /tmp directory for this as part of that script. It worked. I now had a prototype Python library that could execute Python code inside a WebAssembly sandbox! The trickiest piece to solve was persistent interpreter state. The WASM build we are using here exposes a single entry point which starts the interpreter, runs the code and then stops the interpreter at the end. This works fine for one-off scripts, but for Datasette Agent I want variables and functions to stay resident in memory so I can reuse them across multiple code execution calls. A neat thing about working with coding agents is that you can get from an idea to a proof of concept quickly. I prompted: For keeping variables resident: what if we ran code inside micropython itself which called a host function get_next_python_code() and then passed that to eval() - and that host function blocked until new code was available, maybe by running in a thread with a queue? Could that or a similar idea help here? After some iteration we got to a version of this that works! In Python code you can now do this: from micropython_wasm import MicroPythonSession with MicroPythonSession() as session: print(session.run("x = 10\nprint(x)").stdout) print(session.run("x += 5\nprint(x)").stdout) print(session.run("print(x * 2)").stdout) Under the hood this starts a thread, sets up a request queue and then sends messages to that queue for the session.run() command, each time waiting on a reply queue for the result of that execution. Inside WASM the MicroPython interpreter blocks waiting for a __session_next__() host function to return the next line of code, which it runs eval() on before calling __session_result__({"id": request_id, "ok": True}) when each block has been successfully executed. The other piece of complexity was supporting host functions, so my Python library could selectively expose functions that could then be called by code running in MicroPython. Codex ended up solving this with 78 lines of C, which ends up compiled into the 362KB WebAssembly blob I'm distributing with the package. I am by no means a C programmer, but I've read the C and had two different models explain it to me (here's Claude's explanation) and I've subjected it to a barrage of tests. The great thing about working with WebAssembly is that if the C turns out to be fatally flawed the worst that can happen is the WebAssembly execution will fail with an exception. I can live with that risk. Memory limits are directly supported by wasmtime. CPU limits are a little harder: wasmtime offers a "fuel" concept to limit how many operations a WebAssembly call can execute, and that's the correct fit for this problem, but the units are hard to reason about. I'm experimenting with a 20 million default "fuel" setting now but I'm not confident that it's the most appropriate value. Try it yourself The micropython-wasm alpha is now live on PyPI. You can try it from your own Python code as described in the README. I've also added a simple CLI mode in version 0.1a2 which means you can try it using uvx without first installing it like so: uvx micropython-wasm -c 'print("Hello world")' # To see it run out of fuel: uvx micropython-wasm -c 's = ""; while True: s += "longer"' # Outputs: micropython-wasm: guest exited with code 1 You can also try it in Datasette Agent like this: uvx llm keys set openai # Paste in an OpenAI key, then: uvx --with datasette-agent \ --with datasette-agent-micropython \ --prerelease allow \ datasette --internal internal.db \ -s plugins.datasette-llm.default_model gpt-5.5 \ --root -o Then navigate to http://127.0.0.1:8001/-/agent and run the prompt: show me some micropython You can try a live demo of that plugin running in Datasette Agent by signing into agent.datasette.io with your GitHub account. Should you trust my vibe-coded sandbox? Having complained about immature, loosely-maintained sandboxing libraries, it's deeply ironic that I've now built my own! I deliberately slapped an alpha release version on it, and I'm not ready to recommend it to anyone who isn't willing to take a significant risk. I've put it through enough testing that I'm OK using it myself. I've shipped my first plugin that uses it, datasette-agent-micropython. I've also locked GPT-5.5 xhigh in that Datasette Agent plugin and challenged it to break out of the sandbox and so far it has not managed to. I'm hoping this implementation can convince some companies with professional security teams and high-stakes problems to commit to using Python in WebAssembly as a sandboxing approach and open source their own solutions. Tags: python, sandboxing, ai, datasette, webassembly, generative-ai, llms, ai-assisted-programming, codex, datasette-agent, micropython</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-e54467eda6d5aa24</guid>
+      <pubDate>Sat, 06 Jun 2026 03:53:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Help: Lockdown Mode</title>
+      <link>https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything</link>
+      <description>OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and "rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response. This looks really good to me. The Lethal Trifecta occurs when an LLM system has access to all three of access to private data, exposure to untrusted content and a way to steal data and transmit it back to the attacker. The only way to solve the trifecta is to cut off one of the three legs, and by far the easiest leg to restrict without making your LLM systems far less useful is the exfiltration vectors to steal data. It looks to me like lockdown mode directly attacks that leg, using mechanisms that are deterministic and, crucially, are not evaluated by AI systems that themselves can be subverted by sufficiently devious attacks. The existence of lockdown mode does however imply that ChatGPT, in its default settings, does not provide robust protection against sufficiently determined data exfiltration attacks! Update: This tweet OpenAI CISO Dane Stuckey: Lockdown mode is not meant for everyone. However, for folks who have an elevated risk profile - due to who they are, what they work on, or the types of data they work with - it's an excellent tool for further securing themselves. This has some tradeoffs on functionality and utility, but for these users, the tradeoff is worthwhile. Tags: security, ai, openai, prompt-injection, llms, lethal-trifecta</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-84c6e5c233865ec0</guid>
+      <pubDate>Fri, 05 Jun 2026 23:56:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.2 and GPT-5.2-Codex deprecated</title>
+      <link>https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated</link>
+      <description>As of today, June 5, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GPT-5.2 and GPT-5.2-Codex deprecated appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-6289cdb9d648f8a6</guid>
+      <pubDate>Fri, 05 Jun 2026 22:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise-managed plugins in VS Code in public preview</title>
+      <link>https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview</link>
+      <description>Last month we launched a public preview with Copilot CLI that allows enterprise administrators the ability to configure and distribute plugins to GitHub Copilot CLI users across their enterprise. VS… The post Enterprise-managed plugins in VS Code in public preview appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-7a83a1a8a9b98219</guid>
+      <pubDate>Fri, 05 Jun 2026 21:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests</title>
+      <link>https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html</link>
+      <description>Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-8167063942ccfbe7</guid>
+      <pubDate>Fri, 05 Jun 2026 19:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Stop Shipping Low-Quality RL Environments (with Examples)</title>
+      <link>https://www.latent.space/p/bad-envs</link>
+      <description>Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-60784992d4416d5f</guid>
+      <pubDate>Fri, 05 Jun 2026 18:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free</title>
+      <link>https://www.nytimes.com/2026/06/05/world/europe/uk-prince-andrew-royal-lodge-property-sublet.html</link>
+      <description>Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-8c6c2e645adb5b08</guid>
+      <pubDate>Fri, 05 Jun 2026 13:10:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hopes of Lebanon Cease-fire Falter as Israel and Hezbollah Fight On</title>
+      <link>https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html</link>
+      <description>The U.S.-brokered agreement requires Hezbollah, which Iran backs, to stop firing first. But the group, not party to the talks, rejected the conditions as a virtual surrender.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-75d9cdfb270c9167</guid>
+      <pubDate>Fri, 05 Jun 2026 13:04:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>AirTrunk commits $30B to build 5GW of AI data centers in India</title>
+      <link>https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/</link>
+      <description>The Australian data center operator plans to set up 5GW of capacity in India.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c09ad217df2adb02</guid>
+      <pubDate>Fri, 05 Jun 2026 13:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw</title>
+      <link>https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html</link>
+      <description>The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-0458f9bf7e4f6893</guid>
+      <pubDate>Fri, 05 Jun 2026 12:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech</title>
+      <link>https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-7113008ec1a9c56a</guid>
+      <pubDate>Fri, 05 Jun 2026 12:42:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bulls declare victory in AI debate, but two classic signs of a market top are looming</title>
+      <link>https://www.marketwatch.com/story/bulls-declare-victory-on-ai-but-two-classic-signs-of-a-market-top-are-looming-5e4d0222?mod=mw_rss_topstories</link>
+      <description>The trend of ‘capex recycling’ is considered a problem by a TS Lombard analyst</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-dde1b9a898e96fb4</guid>
+      <pubDate>Fri, 05 Jun 2026 12:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Where investors may find the next 'big wave' for AI trade</title>
+      <link>https://www.cnbc.com/2026/06/05/where-investors-may-find-the-next-big-wave-for-ai-trade.html</link>
+      <description>Tim Urbanowicz, chief investment strategist at Innovator from Goldman Sachs Asset Management, tackles the AI boom.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-6f3995da346353ff</guid>
+      <pubDate>Fri, 05 Jun 2026 12:17:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fury in France after child murder suspect's criminal record released</title>
+      <link>https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8ca002cfe2b47548</guid>
+      <pubDate>Fri, 05 Jun 2026 11:32:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>US journalist pleads guilty to working as China's agent</title>
+      <link>https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Thomas Weir Pauken II, 50, knowingly worked with people employed by the Chinese government for years.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-96773b7a338c78ce</guid>
+      <pubDate>Fri, 05 Jun 2026 11:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Andreas Kling</title>
+      <link>https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything</link>
+      <description>We will no longer accept public pull requests. [...] A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds. [...] Whether code was typed by hand is beside the point. What matters is who is responsible for it once it enters the browser. Ladybird is becoming a browser for real users. The people introducing changes to it must be the people who decide those changes belong in the project, and who will answer for the consequences. — Andreas Kling, Changing How We Develop Ladybird Tags: ladybird, ai-ethics, open-source, generative-ai, ai, andreas-kling, llms</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-b41fa7b3947adc4e</guid>
+      <pubDate>Fri, 05 Jun 2026 11:10:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>China poaches more AI talent from the U.S. as it eyes the next 'super-app'</title>
+      <link>https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html</link>
+      <description>Tencent Chief AI Scientist Yao Shunyu, who joined the company from OpenAI, said Friday he aims to pursue artificial general intelligence.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-8479d11586272159</guid>
+      <pubDate>Fri, 05 Jun 2026 07:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] not much happened today</title>
+      <link>https://www.latent.space/p/ainews-not-much-happened-today-7a8</link>
+      <description>a quiet day</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-2c5e20254c929805</guid>
+      <pubDate>Fri, 05 Jun 2026 06:44:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-wife of Dubai ruler's nephew in custody, prosecutors say</title>
+      <link>https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Zeynab Javadli had not been in contact with any of her friends since Tuesday.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-40c610d5fe72a856</guid>
+      <pubDate>Fri, 05 Jun 2026 05:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelensky proposes face-to-face talks in open letter to Putin</title>
+      <link>https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ukraine's president tells the Russian leader that only "direct engagement" between the two countries could end the war, with the US focused on Iran.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-24397e95bef70cfe</guid>
+      <pubDate>Fri, 05 Jun 2026 05:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>China's Xi Jinping to make rare visit to North Korea</title>
+      <link>https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Xi will be in North Korea from 8-9 June, a rare visit to the isolated regime that is a longstanding ally of Beijing.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-9471b87d88a75314</guid>
+      <pubDate>Fri, 05 Jun 2026 05:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mira Murati steps back into the spotlight, carefully</title>
+      <link>https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/</link>
+      <description>In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-77f323f635fceb3b</guid>
+      <pubDate>Fri, 05 Jun 2026 05:06:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>In ‘wild’ twist, SpaceX won’t be allowed early entry to the S&amp;P 500 after all</title>
+      <link>https://www.marketwatch.com/story/in-wild-twist-spacex-wont-be-allowed-early-entry-to-the-s-p-500-after-all-2c1b8205?mod=mw_rss_topstories</link>
+      <description>S&amp;P Dow Jones Indices considered whether to loosen index requirements but opted to keep its policies unchanged.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-85f6ca75b158b4b8</guid>
+      <pubDate>Fri, 05 Jun 2026 02:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon</title>
+      <link>https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-87198121b0998f47</guid>
+      <pubDate>Fri, 05 Jun 2026 01:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>US plans to fight flesh-eating screwworm outbreak with flies and dogs</title>
+      <link>https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-a8a6d0495d088019</guid>
+      <pubDate>Fri, 05 Jun 2026 00:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI enthusiasts are in a race against time, AI skeptics are in a race against entropy</title>
+      <link>https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</link>
+      <description>AI enthusiasts are in a race against time, AI skeptics are in a race against entropy Charity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams: The enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle; teams that sit this out while competitors are hustling could be out of business before the dust settles. That’s a real, existential threat. The skeptics are also not wrong. When you ship code faster than engineers can read it, in domains where nobody has full context, you are making withdrawals from a trust account that took years to build. Reliability degrades, institutional knowledge evaporates. You end up with systems nobody understands, products burbling into incoherence, and on-call rotations that grind people up and spit them out. That is ALSO a real existential threat. Charity recommends treating this as both a leadership challenge and an engineering challenge. The key issue: There is no natural feedback loop connecting enthusiasts with skeptics. Designing feedback loops to help "mend the gap in shared reality" between the two groups is a fascinating organizational design problem. Via Lobste.rs Tags: ai, charity-majors, agentic-engineering</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-a3f95e297c8141e9</guid>
+      <pubDate>Thu, 04 Jun 2026 23:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marvell looks poised to finally get a spot in the S&amp;P 500 after explosive stock surge</title>
+      <link>https://www.marketwatch.com/story/marvell-looks-poised-to-finally-get-a-spot-in-the-s-p-500-after-explosive-stock-surge-02d952c6?mod=mw_rss_topstories</link>
+      <description>S&amp;P 500 changes are likely to be announced on Friday, and Marvell is now vastly bigger than the next-largest eligible contender.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-8b203a0301785a50</guid>
+      <pubDate>Thu, 04 Jun 2026 22:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns</title>
+      <link>https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/</link>
+      <description>Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-1858a5daeecf71bb</guid>
+      <pubDate>Thu, 04 Jun 2026 22:43:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The skeptic’s guide to humanoid robots going viral on the Internet</title>
+      <link>https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/</link>
+      <description>Robot demonstrations can distort public perceptions of robotic capabilities.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-b3560036c170c4bb</guid>
+      <pubDate>Thu, 04 Jun 2026 22:23:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix with Copilot for failing Actions now in Pro, Pro+, and Max</title>
+      <link>https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max</link>
+      <description>When a GitHub Actions job fails, Copilot Pro, Pro+, and Max subscribers can now ask Copilot cloud agent to fix it in one click. Click the Fix with Copilot button… The post Fix with Copilot for failing Actions now in Pro, Pro+, and Max appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-a114da147f388f5e</guid>
+      <pubDate>Thu, 04 Jun 2026 20:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>These LLMs are the best at resisting Russian propaganda</title>
+      <link>https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/</link>
+      <description>Estonian government benchmark shows how dozens of models combat Russia's "strategic narratives."</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-e45197f142a7afc5</guid>
+      <pubDate>Thu, 04 Jun 2026 20:44:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent tasks REST API now available for Copilot Pro, Pro+, and Max</title>
+      <link>https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max</link>
+      <description>Copilot Pro, Pro+, and Max users can now programmatically start and track Copilot cloud agent tasks with the Agent tasks REST API, available in public preview. Copilot cloud agent works… The post Agent tasks REST API now available for Copilot Pro, Pro+, and Max appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-b4006754071c20e9</guid>
+      <pubDate>Thu, 04 Jun 2026 20:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs</title>
+      <link>https://www.latent.space/p/andon</link>
+      <description>We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-8ec3bd7b96f13cda</guid>
+      <pubDate>Thu, 04 Jun 2026 20:39:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-3c2e7a73efc4745c</guid>
+      <pubDate>Thu, 04 Jun 2026 18:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Larger context windows and configurable reasoning levels for GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot</link>
+      <description>GitHub Copilot now supports larger context windows and configurable reasoning levels to help you tackle deeper, more complex work. Leverage one-million-token context windows A one-million-token context window means users can… The post Larger context windows and configurable reasoning levels for GitHub Copilot appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-f9ad6a7bc72a4a36</guid>
+      <pubDate>Thu, 04 Jun 2026 18:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kevin O’Leary agrees to downsize massive Utah data center</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center</link>
+      <description>Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-9b2993a562b7da8c</guid>
+      <pubDate>Thu, 04 Jun 2026 18:38:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Emanuel Maiberg, 404 Media</title>
+      <link>https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything</link>
+      <description>After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that "it's critical that we maintain humans in the loop." — Emanuel Maiberg, 404 Media, Google Employees Internally Share Memes About How Its AI Sucks Tags: ai-ethics, journalism, ai, google</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-c499c073f095544e</guid>
+      <pubDate>Thu, 04 Jun 2026 16:38:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Universe is back: All together now, in the agentic era</title>
+      <link>https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/</link>
+      <description>GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-9181afe03b45ce19</guid>
+      <pubDate>Thu, 04 Jun 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accelerate Edge AI Development with Foundry Local</title>
+      <link>https://devblogs.microsoft.com/foundry/accelerate-edge-ai-development-with-foundry-local/</link>
+      <description>Why edge AI development is still hard AI is no longer confined to cloud experiments. Developers are increasingly expected to deliver AI inside apps, devices, and edge systems where responsiveness, privacy, resilience, and local control are essential. But building those experiences for production is still difficult. Teams often have to solve model packaging, runtime fragmentation, hardware differences, […] The post Accelerate Edge AI Development with Foundry Local appeared first on Microsoft Foundry Blog.</description>
       <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-16fab4e017e26809</guid>
-      <pubDate>Thu, 18 Jun 2026 20:37:18 +0000</pubDate>
+      <guid isPermaLink="false">news-817bef69cbd2fbe9</guid>
+      <pubDate>Thu, 04 Jun 2026 13:00:24 +0000</pubDate>
     </item>
     <item>
-      <title>MAI-Code-1-Flash available on more Copilot surfaces</title>
-      <link>https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces</link>
-      <description>MAI‑Code‑1‑Flash, Microsoft’s purpose‑built small coding model, is now available across additional GitHub Copilot surfaces. MAI‑Code‑1‑Flash can now be used in: Copilot CLI GitHub Copilot app Copilot Chat on GitHub Visual… The post MAI-Code-1-Flash available on more Copilot surfaces appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-6f63ab131b5c43cd</guid>
-      <pubDate>Thu, 18 Jun 2026 20:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>datasette-acl 0.6a0</title>
-      <link>https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything</link>
-      <description>Release: datasette-acl 0.6a0 This release expands datasette-acl from table-only permissions toward a general resource-sharing system. Alex Garcia did most of the work for this release - we're fleshing out the plugin that will allow multi-user Datasette instances finely grained control over who can access which resources within Datasette. Tags: datasette, alex-garcia</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-b6fb1ed2ccea7813</guid>
-      <pubDate>Thu, 18 Jun 2026 19:03:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon hopes to challenge Nvidia more directly by selling its AI chips</title>
-      <link>https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/</link>
-      <description>AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-1bf8102f92ff3c3d</guid>
-      <pubDate>Thu, 18 Jun 2026 18:22:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>MosaicLeaks: Can your research agent keep a secret?</title>
-      <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-e9b8182dcfcc0d62</guid>
-      <pubDate>Thu, 18 Jun 2026 18:13:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Markets are set for a much more hawkish Warsh Fed than expected</title>
-      <link>https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html</link>
-      <description>Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.</description>
+      <title>Kalshi is building a prediction markets 'Bloomberg Terminal' for high-end traders, source says</title>
+      <link>https://www.cnbc.com/2026/06/04/kalshi-is-building-a-bloomberg-terminal-for-prediction-markets.html</link>
+      <description>The prediction market platform is developing the platform to create a singular platform for its highly engaged traders.</description>
       <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-4a8312f1f19c260f</guid>
-      <pubDate>Thu, 18 Jun 2026 18:04:41 +0000</pubDate>
+      <guid isPermaLink="false">news-2340b47b7d97bd4c</guid>
+      <pubDate>Thu, 04 Jun 2026 12:47:27 +0000</pubDate>
     </item>
     <item>
-      <title>The Pulse: Big implications of US banning Anthropic’s new model, Fable</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us</link>
-      <description>Also: a follow-up on Meta destroying its own engineering culture, the SpaceX IPO, SpaceX buys Cursor, Cursor’s GitHub competitor, and more.</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-e7065f6abfe2141b</guid>
-      <pubDate>Thu, 18 Jun 2026 17:11:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry</title>
-      <link>https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/</link>
-      <description>Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-a662792ef1fa08bc</guid>
-      <pubDate>Thu, 18 Jun 2026 17:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New usage analytics and updated spend controls for enterprises</title>
-      <link>https://openai.com/index/chatgpt-enterprise-spend-controls</link>
-      <description>OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.</description>
+      <title>How Endava is redesigning software delivery around AI agents</title>
+      <link>https://openai.com/index/endava-frontiers</link>
+      <description>Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.</description>
       <category>openai-news</category>
-      <guid isPermaLink="false">news-217d8a1a56f1c727</guid>
-      <pubDate>Thu, 18 Jun 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">news-d0841d29a3627d47</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How pull request limits are cutting down the noise</title>
-      <link>https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/</link>
-      <description>Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-c3d99e0e11b6711c</guid>
-      <pubDate>Thu, 18 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran War Live Updates: Oil Prices Fall as U.S.-Iran Deal Offers Hope for Shipping</title>
-      <link>https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal</link>
-      <description>With an initial agreement signed by both sides, oil could soon flow again through the Strait of Hormuz. But prospects for a long-term deal remained murky as talks on tougher issues loomed.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-dcdb50e5afa019f4</guid>
-      <pubDate>Thu, 18 Jun 2026 13:13:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack</title>
-      <link>https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html</link>
-      <description>The attack, which shut down the capital’s airports for several hours, appeared to be the biggest wave of strikes on the city since the start of the war.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-70c8851758da1f01</guid>
-      <pubDate>Thu, 18 Jun 2026 13:12:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe’s redesigned AI studio remembers what your creations look like</title>
-      <link>https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update</link>
-      <description>Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a "reimagined" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you "persistent context, reusable assets, and organized workflows" across your projects, according to Adobe, […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-f259a942dddb9ab6</guid>
-      <pubDate>Thu, 18 Jun 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Photoshop and Premiere now have AI assistants</title>
-      <link>https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch</link>
-      <description>Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-ffaf585febcf3175</guid>
-      <pubDate>Thu, 18 Jun 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Southeast Asia, Switching to Solar Offers Relief from Energy Crisis Caused by Iran War</title>
-      <link>https://www.nytimes.com/2026/06/18/world/asia/asia-oil-crisis-iran-solar-panels.html</link>
-      <description>Homeowners and businesses in Southeast Asia, which relies heavily on imported oil, are installing rooftop solar panels to reduce the sting of soaring energy costs.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-b397d132667ad403</guid>
-      <pubDate>Thu, 18 Jun 2026 12:55:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gulf States Are Frustrated by Failure to Tackle Iran’s Missiles, Analysts Say</title>
-      <link>https://www.nytimes.com/2026/06/18/world/middleeast/gulf-states-us-iran-deal.html</link>
-      <description>The preliminary U.S.-Iranian peace deal does not address Iranian rockets or drones, raising questions in the region about relying on Washington as a security guarantor.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-292c9aacafebcfae</guid>
-      <pubDate>Thu, 18 Jun 2026 12:53:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the By-Election in Makerfield Will Have Giant Consequences for the UK</title>
-      <link>https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-by-election-burnham-starmer.html</link>
-      <description>Here is what to know about the by-election on Thursday in Makerfield, the outcome of which could lead to Prime Minister Keir Starmer’s ouster.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-55006c22e270f058</guid>
-      <pubDate>Thu, 18 Jun 2026 12:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The next two weeks could be a bumpy ride for U.S. stocks. Buy any dip, this strategist says.</title>
-      <link>https://www.marketwatch.com/story/the-next-two-weeks-could-bring-a-bumpy-ride-for-u-s-stocks-buy-any-dip-says-this-strategist-215d5595?mod=mw_rss_topstories</link>
-      <description>Citadel Securities strategist Scott Rubner says one of the most important two weeks of the year is here, and that could open buying opportunities for stocks.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-b61c9b1aa4eb98f0</guid>
-      <pubDate>Thu, 18 Jun 2026 12:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two key things that need to happen before Strait of Hormuz traffic can return to prewar levels</title>
-      <link>https://www.marketwatch.com/story/two-key-things-that-need-to-happen-before-strait-of-hormuz-traffic-can-return-to-prewar-levels-996bb7ec?mod=mw_rss_topstories</link>
-      <description>The U.S. and Iran agreed to a framework for a peace deal that extends their cease-fire for another 60 days. Now, a series of practical steps are needed for traffic to pick back up through the shipping chokepoint.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-fe6113096f36b0e1</guid>
-      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pixi’s new iOS app turns text messages into interactive AR experiences</title>
-      <link>https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/</link>
-      <description>Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-910fbda02a31cbb2</guid>
-      <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moscow hit by largest Ukrainian attack since start of Russia's full-scale war</title>
-      <link>https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-804665c74f49d45e</guid>
-      <pubDate>Thu, 18 Jun 2026 09:47:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generated release notes credit you for Copilot pull requests</title>
-      <link>https://github.blog/changelog/2026-06-18-generated-release-notes-credit-you-for-copilot-pull-requests</link>
-      <description>When you generate release notes for a new release, the generated notes include a list of pull requests merged since the last release. For more information about automatically generating release… The post Generated release notes credit you for Copilot pull requests appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-df0bd79b81aa1388</guid>
-      <pubDate>Thu, 18 Jun 2026 09:30:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Midjourney Medical: scan your organs like you step on a scale</title>
-      <link>https://www.latent.space/p/ainews-midjourney-medical-scan-your</link>
-      <description>The only bootstrapped frontier lab announces its second product and second</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-c7a02626e6e78429</guid>
-      <pubDate>Thu, 18 Jun 2026 04:23:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Midjourney goes from generating cat images to full-body ultrasound scans</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan</link>
-      <description>Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the "cat pictures" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-099f3e8ce24cf5ab</guid>
-      <pubDate>Thu, 18 Jun 2026 03:12:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to turn off AI in your Google Docs</title>
-      <link>https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/</link>
-      <description>Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-77a3267bf3a245b3</guid>
-      <pubDate>Thu, 18 Jun 2026 01:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is it agentic enough? Benchmarking open models on your own tooling</title>
-      <link>https://huggingface.co/blog/is-it-agentic-enough</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-d44bbcfdf323272f</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
-      <link>https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything</link>
-      <description>Chinese AI lab Z.ai released GLM-5.2 to their coding plan subscribers on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their previous GLM-5 and GLM-5.1 releases, this is 753B parameter, 1.51TB monster - with 40 active parameters (Mixture of Experts). GLM-5.2 is a text input only model - Z.ai have a separate vision family most recently represented by GLM-5V-Turbo, but that one isn't open weights. GLM-5.2 has a 1 million token context window, up from GLM-5.1's 200,000. The buzz around this model is strong. Artificial Analysis, who run one of the most widely respected independent benchmarks: GLM-5.2 is the new leading open weights model on the Artificial Analysis Intelligence Index. GLM-5.2 is the leading open weights model on the Intelligence Index v4.1. At 51, it leads MiniMax-M3 (44), DeepSeek V4 Pro (max, 44) and Kimi K2.6 (43) They did however find it to be quite token-hungry: GLM-5.2 uses more output tokens per task than other leading open weights models: the model uses 43k output tokens per Intelligence Index task, up from GLM-5.1 (26k) and above MiniMax-M3 (24k), Kimi K2.6 (35k) and DeepSeek V4 Pro (max, 37k) The model is also now ranked 2nd on the Code Arena WebDev leaderboard, behind only Claude Fable 5. That leaderboard measures "front-end web development tasks, including agentic coding workflows". I'm impressed to see it rank so highly given the lack of image input, which I had incorrectly assumed was a key part of building a truly great frontend coding model. I've been trying it out via OpenRouter, which has it from 9 different providers, almost all of which are charging $1.40/million for input and $4.40/million for output. For comparison, GPT-5.5 is $5/$30 and Claude Opus 4.5-4.8 is $5/$25. Excellent pelican, disappointing opossum GLM-5.1 gave me one of my favorite pelicans and my all time favorite opossum (for the prompt "Generate an SVG of a NORTH VIRGINIA OPOSSUM ON AN E-SCOOTER".) Interestingly, in both of those cases the model chose to return SVG wrapped in an HTML document that added additional animations using CSS. Let's try GLM-5.2. For "Generate an SVG of a pelican riding a bicycle" I got this: It's a self-contained fully animated SVG, and the animations aren't broken! Often I'll see eyes falling off or wheels rotating independently of the bicycle but here everything works great. It's a very nice vector illustration of a pelican too. Very impressive. Sadly, the NORTH VIRGINIA OPOSSUM ON AN E-SCOOTER did not come out nearly as well: This is such a step down from GLM-5.1! As a reminder, that possum looked like this: 5.2 didn't even try to animate it. Tags: ai, generative-ai, llms, pelican-riding-a-bicycle, llm-release, openrouter, ai-in-china, glm</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-42e4b84f22192e1d</guid>
-      <pubDate>Wed, 17 Jun 2026 23:58:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fed holds rates steady, pares down statement to remove cutting bias</title>
-      <link>https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html</link>
-      <description>The Federal Reserve on Wednesday released its interest rate decision.</description>
+      <title>'Disrupted or dead': AI is crushing a generation of startups built before ChatGPT</title>
+      <link>https://www.cnbc.com/2026/06/01/ai-startup-valuations-pre-chatgpt.html</link>
+      <description>The AI boom that has funneled more than $250 billion into OpenAI and Anthropic has left hundreds of startups built before ChatGPT's arrival in 2022 stranded.</description>
       <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-187b5d8a65b65600</guid>
-      <pubDate>Wed, 17 Jun 2026 21:42:28 +0000</pubDate>
+      <guid isPermaLink="false">news-ab9cdc5120d5c474</guid>
+      <pubDate>Wed, 03 Jun 2026 20:48:40 +0000</pubDate>
     </item>
     <item>
-      <title>Getting more from each token: How Copilot improves context handling and model routing</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/</link>
-      <description>How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-45a22139612dc9e5</guid>
-      <pubDate>Wed, 17 Jun 2026 19:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026</title>
-      <link>https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html</link>
-      <description>The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.</description>
+      <title>Bitcoin set to slump to new lows for 2026 after recent sell-off, traders forecast</title>
+      <link>https://www.cnbc.com/2026/06/03/bitcoin-to-slump-to-new-lows-after-recent-sell-off-traders-predict.html</link>
+      <description>The cryptocurrency is likely to break below its lows hit in early February, traders on prediction market Kalshi believe.</description>
       <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-79d7fa4161d43ce9</guid>
-      <pubDate>Wed, 17 Jun 2026 19:27:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI coding agents taught robots how to install GPUs and cut zip ties</title>
-      <link>https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/</link>
-      <description>Nvidia's self-improvement program for robots enlists teams of AI coding agents.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-461fcb952ef6bf7e</guid>
-      <pubDate>Wed, 17 Jun 2026 19:25:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔬 The Self-Driving Lab — Joseph Krause, Radical AI</title>
-      <link>https://www.latent.space/p/radical-ai</link>
-      <description>Radical AI's Joseph Krause on why the moat in materials is the lab, not the model</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-ca34c0056bc933a8</guid>
-      <pubDate>Wed, 17 Jun 2026 17:58:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enterprise-managed settings now support bypass permission controls</title>
-      <link>https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls</link>
-      <description>We’re adding our first governance capability to the enterprise-managed settings configuration. Enterprise administrators can now set disableBypassPermissionsMode to "disable" in the enterprise-managed settings.json to prevent GitHub Copilot CLI and VS… The post Enterprise-managed settings now support bypass permission controls appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-6fad1bd8adc5e362</guid>
-      <pubDate>Wed, 17 Jun 2026 17:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>CI/CD with Robert Erez</title>
-      <link>https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez</link>
-      <description>Robert Erez of Octopus Deploy joins me to discuss Kubernetes, GitOps, progressive delivery, AI in CI/CD, and the evolving practices behind modern software delivery.</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-fd6c44580fa4af3c</guid>
-      <pubDate>Wed, 17 Jun 2026 16:41:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is the stock market open on Juneteenth? Will the post office deliver mail?</title>
-      <link>https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories</link>
-      <description>The June 19 federal holiday falls on a Friday this year. Here’s how trading hours and other services are affected.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-34bf410eacc5ca77</guid>
-      <pubDate>Wed, 17 Jun 2026 14:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI</title>
-      <link>https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/</link>
-      <description>Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-19fa8d5958a5eb91</guid>
-      <pubDate>Wed, 17 Jun 2026 14:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Updates: After G7 Leaders Praise U.S.-Iran Deal, Trump Threatens Iran Again</title>
-      <link>https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france</link>
-      <description>President Trump said the United States would resume bombing Iran if he did not like how the preliminary agreement was implemented, hours after leaders from the Group of 7 nations called the deal a “breakthrough.”</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-061933a1ac154ac2</guid>
-      <pubDate>Wed, 17 Jun 2026 14:09:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK investigating reports Russian warship fired warning shots near yacht in English Channel</title>
-      <link>https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-71095671685d85a7</guid>
-      <pubDate>Wed, 17 Jun 2026 13:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI search grounded in Facebook posts? What could go wrong?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on</link>
-      <description>AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of "What should I do this weekend?" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-c80a0f3b9e4a5c94</guid>
-      <pubDate>Wed, 17 Jun 2026 13:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>More united Fed board seen at Warsh's first meeting, according to Kalshi traders</title>
-      <link>https://www.cnbc.com/2026/06/17/more-united-fed-board-seen-at-warshs-first-meeting-according-to-kalshi-traders.html</link>
-      <description>Traders on prediction market platform Kalshi largely forecast a unanimous decision among FOMC members at Wednesday's meeting, after April's divided vote.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-12140d9b876cc525</guid>
-      <pubDate>Wed, 17 Jun 2026 13:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran sends tankers loaded with oil past US military blockade</title>
-      <link>https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-40ab61e2d28601a5</guid>
-      <pubDate>Wed, 17 Jun 2026 13:27:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>High gas prices soak up more retail-sales dollars — and restaurants are paying the bill</title>
-      <link>https://www.marketwatch.com/story/high-gas-prices-soak-up-more-retail-sales-dollars-and-restaurants-are-paying-the-bill-4255057c?mod=mw_rss_topstories</link>
-      <description>Americans are spending more on gas and eating out less, a sign of stress on the economy tied to the conflict with Iran that’s forced consumers to shift more dollars to needs instead of wants.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-ba59bd942c0feae4</guid>
-      <pubDate>Wed, 17 Jun 2026 13:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CME Group's Terry Duffy to step down in 2027, CFO Lynne Fitzpatrick to become CEO</title>
-      <link>https://www.cnbc.com/2026/06/17/cme-groups-terry-duffy-to-step-down-in-2027-cfo-lynne-fitzpatrick-to-become-ceo.html</link>
-      <description>Duffy, 67, will transition to executive chairman effective March 1, 2027, the company said Wednesday.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-95c91a176006b6fd</guid>
-      <pubDate>Wed, 17 Jun 2026 13:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s first smart speaker in six years arrives next week</title>
-      <link>https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features</link>
-      <description>Google's first new smart speaker in six years starts shipping on June 29th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same slightly squished round design, with touch-capacitive buttons […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-bba323a0c26c0aca</guid>
-      <pubDate>Wed, 17 Jun 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canadian pension giant joins race to fund India’s AI-fueled data center boom</title>
-      <link>https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/</link>
-      <description>The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-e7d1efe819f4a2ea</guid>
-      <pubDate>Wed, 17 Jun 2026 12:38:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepL acquires Mixhalo for live-event audio streaming and translation</title>
-      <link>https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/</link>
-      <description>With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-2c43b950cdcf387e</guid>
-      <pubDate>Wed, 17 Jun 2026 12:14:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech C.E.O.s to Discuss A.I. With G7 Leaders</title>
-      <link>https://www.nytimes.com/2026/06/17/world/europe/g7-summit-ai-tech-leaders-openai-anthropic.html</link>
-      <description>Executives from Anthropic, OpenAI and Mistral will be among those attending a lunch meeting with leaders from many of the world’s richest nations.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-78881d645f9b59de</guid>
-      <pubDate>Wed, 17 Jun 2026 12:08:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says</title>
-      <link>https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Under its new president, Bolivia is re-establishing severed ties with the US to combat organised crime.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-00bcd99e8904da22</guid>
-      <pubDate>Wed, 17 Jun 2026 12:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Search for six-year-old Ebola patient after armed men storm DR Congo hospital</title>
-      <link>https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Health facilities have come under attack during the current outbreak as a result of misinformation and fear.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-2d7d6f6bef90daae</guid>
-      <pubDate>Wed, 17 Jun 2026 11:26:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</title>
-      <link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-c7b6e0d15e340e1a</guid>
-      <pubDate>Wed, 17 Jun 2026 10:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry</title>
-      <link>https://openai.com/index/ai-chemist-improves-reaction</link>
-      <description>OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-1a8cd099cf1eaeb6</guid>
-      <pubDate>Wed, 17 Jun 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.2: Built for Long-Horizon Tasks</title>
-      <link>https://huggingface.co/blog/zai-org/glm-52-blog</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-64d6b4cbeaac616a</guid>
-      <pubDate>Wed, 17 Jun 2026 09:01:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding</title>
-      <link>https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding</link>
-      <description>We have a new top open model in the world!</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-b1ce34688b084ecf</guid>
-      <pubDate>Wed, 17 Jun 2026 05:37:40 +0000</pubDate>
+      <guid isPermaLink="false">news-ea86bbaea18ccffb</guid>
+      <pubDate>Wed, 03 Jun 2026 20:06:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
