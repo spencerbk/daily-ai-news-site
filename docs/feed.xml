@@ -5,8 +5,136 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:30:09 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks</title>
+      <link>https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Nigeria's government said one of its nationals was reportedly killed by police officers "using gruesome interrogation techniques".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-2f47dad50d5805bf</guid>
+      <pubDate>Sun, 05 Jul 2026 13:09:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guam and Northern Mariana Islands Prepare for Typhoon Bavi</title>
+      <link>https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</link>
+      <description>Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ad9329792ccd9ef1</guid>
+      <pubDate>Sun, 05 Jul 2026 13:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hybrids are the breakout star of the U.S. car market as EV demand fades</title>
+      <link>https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories</link>
+      <description>Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on function and price.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-78dc270ce373210f</guid>
+      <pubDate>Sun, 05 Jul 2026 13:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month</title>
+      <link>https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories</link>
+      <description>Momentum trades tend to struggle in July — but this year may be particularly volatile, says one strategist. The rumblings have already started.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-969a3408f6951f0f</guid>
+      <pubDate>Sun, 05 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia probes mystery space balls that washed up on beach</title>
+      <link>https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-23eadbf6a23a3d15</guid>
+      <pubDate>Sun, 05 Jul 2026 12:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?</title>
+      <link>https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories</link>
+      <description>“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-317581c702d6f5fc</guid>
+      <pubDate>Sun, 05 Jul 2026 12:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mourners Chant ‘Revenge’ at Funeral Prayers for Iran’s Slain Supreme Leader</title>
+      <link>https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html</link>
+      <description>On the second day of public mourning for Ayatollah Ali Khamenei, who was killed in February, there was still no sign of his son and successor, Mojtaba Khamenei.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a02812510db43845</guid>
+      <pubDate>Sun, 05 Jul 2026 12:45:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>For Cape Verde, There’s Victory in Their World Cup Defeat</title>
+      <link>https://www.nytimes.com/2026/07/04/world/africa/cape-verde-world-cup.html</link>
+      <description>The tiny African nation was eliminated from the World Cup by one of soccer’s biggest powers, Argentina, but there was still plenty to celebrate.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-95308879ded516f5</guid>
+      <pubDate>Sun, 05 Jul 2026 12:33:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</link>
+      <description>I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompatible major versions to be as rare as possible. I started with this prompt, in Claude Code for web on my iPhone: Final review before shipping a stable 4.0 release - very important to spot any last minute things that would be a breaking change if we fix them later Here's that initial report it created for me. There were some significant problems that I hadn't myself encountered yet - 5 that Fable categorized as "release blockers". Here's the worst of the bunch: 1. delete_where() never commits and poisons the connection (data loss) Table.delete_where() (sqlite_utils/db.py:2948) runs its DELETE via a bare self.db.execute() with no atomic() wrapper — compare Table.delete() at db.py:2944, which wraps correctly. The connection is left in_transaction=True, so every subsequent atomic() call takes the savepoint branch (db.py:430-440) and never commits either. Reproduced end-to-end: db = sqlite_utils.Database("dw.db") db["t"].insert_all([{"id": i} for i in range(3)], pk="id") db["t"].delete_where("id = ?", [0]) # conn.in_transaction is now True db["t"].insert({"id": 50}) db["u"].insert({"a": 1}) db.close() # Reopen: rows are [0, 1, 2] — the delete, row 50, AND table u are all gone. That's a really bad bug! Very glad I didn't ship that, although at least it would have been a bug I could fix in a 4.0.1 point release, not a design flaw that would force a 5.0. Over the course of 37 prompts, 34 commits and +1,321 -190 code changes over 30 separate files, we worked through the entire set of feedback in turn, making several other design improvements along the way. A weird thing about coding agents is that harder tasks like this one actually provide more opportunity to do other things at the same time, since the agent sometimes needs 10-15 minutes to churn away on a new task. I went out to enjoy the Half Moon Bay 4th of July parade, occasionally checking in and prompting the next step for Fable from my phone. Full details in the PR and this shared transcript. I switched to my laptop for the final review, which I conducted through GitHub's PR interface. The most significant changes relate to transaction handling, which was the signature new feature in the earlier RC. The new RC now includes comprehensive documentation on the new transaction model, the intro to which I'll quote here in full: Every method in this library that writes to the database - insert(), upsert(), update(), delete(), delete_where(), transform(), create_table(), create_index(), enable_fts() and the rest - runs inside its own transaction and commits it before returning. Your changes are saved to disk as soon as the method call finishes: db = Database("data.db") db.table("news").insert({"headline": "Dog wins award"}) # The new row is already saved - no commit() required The same applies to raw SQL executed with db.execute() - a write statement is committed as soon as it has run. You never need to call commit(), and you do not need to close the database to persist your changes. There are exactly two situations where you need to think about transactions: You want to group several write operations together, so they either all succeed or all fail - use db.atomic(). You are managing a transaction yourself with db.begin(), in which case nothing is committed until you commit - the library will never commit a transaction you opened. In reviewing Fable's documentation - I find that reviewing the documentation edits first is an excellent way to build an initial understanding of what has changed - I spotted this detail: db.atomic() and the automatic per-method transactions are designed for connections in Python's default transaction handling mode. Connections created with the Python 3.12+ sqlite3.connect(..., autocommit=True) or autocommit=False options are not supported, because commit() and rollback() behave differently on those connections. I admit I hadn't thought about how sqlite-utils would react to the more recent autocommit setting, added in Python 3.12. It turns out "behave differently on those connections" equated to almost the entire test suite failing, so I worked with the model to ensure that this difference would not break how the library works. And a final review by GPT-5.5 I used to think that the idea of having one model review the work of another was somewhat absurd - it felt weirdly superstitious. The problem is it really does work - I've started habitually having Anthropic's best model review OpenAI's work and vice versa, because I've had that turn up interesting results often enough to be valuable. I prompted Codex Desktop and GPT-5.5 xhigh with the following: Review changes since the last RC. Also confirm that the changelog is up-to-date. Which was enough to turn up two issues worth investigating: Findings [P1] sqlite_utils/db.py:663 db.query() now rejects non-row statements only after calling db.execute(), and sqlite_utils/db.py:705 auto-commits those writes first. So db.query("update ...") raises ValueError but the update is already committed. That is a surprising side effect for a method documented as “can only be used with SQL that returns rows.” [P1] sqlite_utils/db.py:672 INSERT ... RETURNING through db.query() only commits after the returned generator is fully exhausted. db.query("insert ... returning ...") without iteration, or common next(db.query(...)) usage, leaves the transaction open and the write can be rolled back on close. This contradicts docs/changelog.rst:15 and docs/python-api.rst:232, which say it takes effect without iteration. I pasted that into a fresh Fable session, which ran some experiments to confirm the problem: Both findings were confirmed. db.query() called self.execute() first, which auto-commits writes, and only then checked cursor.description — so db.query("update ...") committed the update before raising ValueError. And the INSERT ... RETURNING commit lived at the end of the returned generator, so it never fired unless you exhausted the iterator — next(db.query(...)) or an un-iterated call left the transaction open, contradicting what the changelog and docs promise. Here's the PR with the fix, and the full Claude Code transcript. Reviewing this code helped me build a better mental model of the edge cases of SQLite transaction semantics! For an estimated (unsubsidized) cost of $149.25 I upgraded to the Claude Max $200/month plan (I was previously on $100/month) to increase my Fable allowance for the remaining time until the July 7th Fablepocalypse, when even Claude Max subscribers will have to pay full API cost for the model. I was curious as to how much this would have cost me if I had been paying those costs directly. At first I thought those numbers weren't available to me since I had run the work remotely using Claude Code for web, and then I realized I could run AgentsView inside that existing session to get that cost estimate! Run "uvx agentsview --help"​ and then use that tool to calculate the cost of this session Claude figured out how to use the session list --include-children command and came out with the following: Transcript Model Cost Main session claude-fable-5 $141.02 API-surface sweep agent claude-fable-5 $2.40 Transactions/atomic review agent claude-fable-5 $2.39 Post-rc1 commits review agent claude-fable-5 $1.72 Migrations review agent claude-fable-5 $1.40 Prompt-counting agent claude-opus-4-8 $0.32 Total $149.25 I'm very glad I'm on that subscription! I really should have followed my own advice and leaned more heavily into subagents with cheaper models. Here's what claude.ai/settings/usage is showing me right now: I have several other major Fable-driven projects on the go right now as well, with the goal of hitting 100% on that Fable bar just in time for the price increase. The full release notes for sqlite-utils 4.0rc2 Here are the full release notes for the RC. I had Fable add these to an "Unreleased" section of the changelog as each change landed, reviewing them as it went. This has the neat side effect that the commit history of the changelog acts as a concise summary of each of the changes that went into the release. In the past I've had a policy of writing release notes by hand, but honestly these are better than I would have created myself. Release notes are a great example of writing that I'm OK to outsource to agents because they need to be boring, predictable and accurate. Breaking changes: Write statements executed with db.execute() are now committed automatically, unless a transaction is already open in which case they join it. Previously they opened an implicit transaction that stayed open until something committed it - writes appeared to work when read on the same connection but were silently rolled back when the connection closed. Code that relied on rolling back uncommitted db.execute() writes should use the new db.begin() method to open an explicit transaction first. The transaction model is documented in full at Transactions and saving your changes. db.query() now executes its SQL as soon as it is called, rather than waiting until the returned generator is first iterated. Rows are still fetched lazily during iteration. SQL errors are now raised at the call site, statements such as INSERT ... RETURNING are executed and committed immediately without needing to iterate over their results, and passing a statement that returns no rows - previously a silent no-op - now raises a ValueError recommending db.execute() instead. A statement rejected this way is rolled back before the error is raised, so it has no effect on the database. Python API validation errors now raise ValueError instead of AssertionError. Previously invalid arguments - such as create_table() with no columns, transform() on a table that does not exist, or passing both ignore=True and replace=True - were rejected using bare assert statements, which are silently skipped when Python runs with the -O flag. Code that caught AssertionError for these cases should catch ValueError instead. table.upsert() and table.upsert_all() now raise PrimaryKeyRequired if a record is missing a value for any primary key column, or has a value of None for one. Previously such records - which can never match an existing row - were quietly inserted as brand new rows, or triggered a confusing KeyError after the insert had already taken place. db.enable_wal() and db.disable_wal() now raise a sqlite_utils.db.TransactionError if called while a transaction is open. Previously they would silently commit the open transaction as a side effect of changing the journal mode, breaking the rollback guarantee of db.atomic() and of user-managed transactions. The View class no longer has an enable_fts() method. It existed only to raise NotImplementedError, since full-text search is not supported for views - calling it now raises AttributeError instead, and the method no longer appears in the API reference. The sqlite-utils enable-fts command shows a clean error when pointed at a view. The no-op -d/--detect-types flag has been removed from the insert and upsert commands. Type detection has been the default for CSV/TSV data since 4.0a1, so the flag did nothing - invocations using it should simply drop it. --no-detect-types remains available to disable detection. Database() now raises a sqlite_utils.db.TransactionError if passed a connection created with the Python 3.12+ sqlite3.connect(..., autocommit=True) or autocommit=False options. commit() and rollback() behave differently on those connections, which previously caused every write made by the library to be silently discarded when the connection closed. Everything else: Fixed a bug where table.delete_where(), table.optimize() and table.rebuild_fts() did not commit their changes, leaving the connection inside an open transaction. Their work - and any subsequent writes - could then be silently rolled back when the connection was closed. All three now use db.atomic(), consistent with the other write methods. The sqlite-utils drop-table command now refuses to drop a view, and drop-view refuses to drop a table. Previously each would silently drop the wrong type of object if the name matched. Both now exit with an error suggesting the correct command to use. Migrations applied by the new migrations system now run inside a transaction, together with the record of the migration having been applied. If a migration raises an exception its changes are rolled back and it stays pending, so it can be safely re-applied after the error is fixed. Migrations that cannot run inside a transaction, such as those executing VACUUM, can opt out using @migrations(transactional=False) - see Migrations and transactions. table.upsert() and table.upsert_all() now detect the primary key or compound primary key of an existing table, so the pk= argument is no longer required when upserting into a table that already has a primary key. db.table(table_name).insert({}) can now be used to insert a row consisting entirely of default values into an existing table, using INSERT INTO ... DEFAULT VALUES. (#759) Improvements to the sqlite-utils migrate command: --stop-before values that do not match any known migration are now an error instead of being silently ignored, --stop-before now works correctly with migration files that still use the older sqlite_migrate.Migrations class, and --list is now a read-only operation that no longer creates the database file or the migrations tracking table. migrations.applied() now returns migrations in the order they were applied. New db.begin(), db.commit() and db.rollback() methods for taking manual control of transactions, as an alternative to the db.atomic() context manager. New documentation: Transactions and saving your changes describes how transactions work and when changes are committed, and a new Upgrading page details the changes needed to move between major versions. Tags: projects, sqlite, sqlite-utils, annotated-release-notes, anthropic, claude, coding-agents, claude-code, agentic-engineering, gpt, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-3a3f83543daaa610</guid>
+      <pubDate>Sun, 05 Jul 2026 01:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc2</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything</link>
+      <description>Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25).</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-e842d380740173d3</guid>
+      <pubDate>Sun, 05 Jul 2026 00:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a World Map with only 500 bytes</title>
+      <link>https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything</link>
+      <description>Building a World Map with only 500 bytes Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate compression, which is then wired together using this neat snippet of JavaScript. I didn't know you could use fetch() with data: URIs like this: fetch('data:;base64,1ZpLsgIxCEXnrM...==').then( r =&gt; r.body.pipeThrough(new DecompressionStream('deflate-raw')) ).then( s =&gt; new Response(s).text() ).then( t =&gt; b.innerHTML = '&lt;pre style=font-size:.65vw&gt;' + t ) Via Hacker News Tags: ascii-art, data-urls, javascript</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-ad1d53808b5cb564</guid>
+      <pubDate>Sat, 04 Jul 2026 23:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Better Models: Worse Tools</title>
+      <link>https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</link>
+      <description>Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually correct but the arguments do not match the schema as the model invents made-up keys and Pi thus rejects the tool call and asks to try again. That alone is not too surprising as models emit malformed tool calls sometimes. Particularly small ones. What surprised me is that this is getting worse with newer Anthropic models as both Opus 4.8 and Sonnet 5 show it but none of the older models. In other words, the SOTA models of the family are worse at this specific tool schema than their older siblings. Armin theorizes that this is because more recent Anthropic models have been specifically trained (presumably via Reinforcement Learning) to better use the edit tools that are baked into Claude Code. This has the unfortunate effect that other coding harnesses, such as Pi, may find that their own custom edit tools are more likely to be used incorrectly. Claude's edit tool uses search and replace. OpenAI's Codex uses an apply_patch mechanism instead, and OpenAI have talked in the past about how their models are trained to use that tool effectively. Does this mean third-party coding harnesses like Pi should implement multiple edit tools just so they can use the one with the best performance for the underlying model the user has selected? Tags: armin-ronacher, ai, openai, generative-ai, llms, anthropic, llm-tool-use, coding-agents, pi</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-63516e892da9cb43</guid>
+      <pubDate>Sat, 04 Jul 2026 22:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Google commercial imagines a Declaration of Independence written with help from AI</title>
+      <link>https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/</link>
+      <description>Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-8573d500219a4ac5</guid>
+      <pubDate>Sat, 04 Jul 2026 20:55:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Midjourney wants Hollywood studios to reveal the details of their AI usage</title>
+      <link>https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</link>
+      <description>As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-ad2c7ff5662989c6</guid>
+      <pubDate>Sat, 04 Jul 2026 18:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alibaba reportedly bans employees from using Claude Code</title>
+      <link>https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</link>
+      <description>Alibaba has reportedly classified Claude Code as high-risk software.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-7a350947a7988282</guid>
+      <pubDate>Sat, 04 Jul 2026 16:32:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is Mistral AI? Everything to know about the OpenAI competitor</title>
+      <link>https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
+      <description>Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-2f6fc0b6a29caa9b</guid>
+      <pubDate>Sat, 04 Jul 2026 15:51:32 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine hits major oil terminal in Russia's St Petersburg</title>
       <link>https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -53,14 +181,6 @@
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-0d56e0d25e0dda17</guid>
       <pubDate>Sat, 04 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>For Cape Verde, There’s Victory in Their World Cup Defeat</title>
-      <link>https://www.nytimes.com/2026/07/04/world/africa/cape-verde-world-cup.html</link>
-      <description>The tiny African nation was eliminated from the World Cup by one of soccer’s biggest powers, Argentina, but there was still plenty to celebrate.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-95308879ded516f5</guid>
-      <pubDate>Sat, 04 Jul 2026 11:48:23 +0000</pubDate>
     </item>
     <item>
       <title>Will Iran’s New Supreme Leader, Mojtaba Khamenei, Attend His Father’s Funeral?</title>
@@ -683,125 +803,6 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-82e142e24e7f256a</guid>
       <pubDate>Tue, 30 Jun 2026 13:10:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it</title>
-      <link>https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html</link>
-      <description>The advance marks a sharp turnaround after years of underperformance versus large-cap peers.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-f4a2c1f2813dd2ac</guid>
-      <pubDate>Tue, 30 Jun 2026 13:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the lawyer who beat Elon Musk — twice</title>
-      <link>https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter</link>
-      <description>Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were "designed to trick me," […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-3d35f2b1b965d81f</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypto exchange OKX wants AI agents to hire and pay each other</title>
-      <link>https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/</link>
-      <description>OKX is bringing together payments, identity and reputation into a marketplace for AI agents.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-7feee9f011d73f1d</guid>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-07e</link>
-      <description>a quiet day before the storm.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-b246fc079aca295c</guid>
-      <pubDate>Tue, 30 Jun 2026 06:47:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>The AI jobs debate just got messier</title>
-      <link>https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/</link>
-      <description>A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-3c82ab124c4b4c08</guid>
-      <pubDate>Tue, 30 Jun 2026 04:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe coding platform Base44 launches own model as AI startups seek defensibility</title>
-      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
-      <description>Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-534a67ec1d1b9560</guid>
-      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Featuring Every Eval Ever Results on Hugging Face Model Pages</title>
-      <link>https://huggingface.co/blog/eee-community-evals</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-3f0a56fa70110027</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HTML table extractor</title>
-      <link>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</link>
-      <description>Tool: HTML table extractor Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected table into HTML, Markdown, CSV, TSV, or JSON. Try it out by selecting everything on the Wikipedia List of cities and towns in the San Francisco Bay Area page and pasting it directly into the tool: On a similar note, I recently rebuilt my Rich text to markdown tool to add support for tables and generally improve the UI. Update: It turns out Wikipedia has an open CORS API for retrieving the full rendered HTML content of any page - demo here - so I had Codex add the ability to search Wikipedia for a page and then automatically import and display any tables from that page. Tags: html, tools, wikipedia, cors</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-7be15e2e0b232a7c</guid>
-      <pubDate>Mon, 29 Jun 2026 23:38:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea to spend $1T on more memory chip production and humanoid robots</title>
-      <link>https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</link>
-      <description>South Korea targets physical AI lead and commercial humanoid robots by 2028.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-9cf6193eed202101</guid>
-      <pubDate>Mon, 29 Jun 2026 21:09:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role</title>
-      <link>https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/</link>
-      <description>VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-53ea251a354c7aec</guid>
-      <pubDate>Mon, 29 Jun 2026 20:55:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright</title>
-      <link>https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label</link>
-      <description>Tidal shared its new policies regarding AI-generated music today and how the platform plans to "protect artists" and "inform listeners." Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. "Tidal's […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-fe7194ed402b1927</guid>
-      <pubDate>Mon, 29 Jun 2026 19:47:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Count the number of Safari tabs</title>
-      <link>https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything</link>
-      <description>Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari: osascript -e 'tell application "Safari" to count tabs of every window' Tags: safari, til, applescript</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-35a54d6099b9f555</guid>
-      <pubDate>Mon, 29 Jun 2026 18:36:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Highlights from Git 2.55</title>
-      <link>https://github.blog/open-source/git/highlights-from-git-2-55/</link>
-      <description>The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-b438fa863567125b</guid>
-      <pubDate>Mon, 29 Jun 2026 17:25:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot</link>
-      <description>Claude Opus 4.8 (fast mode) is now rolling out in preview on GitHub Copilot. Fast mode delivers significantly faster output token speeds while maintaining the same intelligence as Claude Opus… The post Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-5a9c6b882649f840</guid>
-      <pubDate>Mon, 29 Jun 2026 16:47:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Advisory Database and what happens when vulnerability volume breaks records</title>
-      <link>https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/</link>
-      <description>The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-9961abc5c67f2804</guid>
-      <pubDate>Mon, 29 Jun 2026 16:10:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
