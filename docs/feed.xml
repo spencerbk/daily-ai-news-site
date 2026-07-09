@@ -5,8 +5,191 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 13:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes</title>
+      <link>https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump</link>
+      <description>Attacks on ships were followed by new U.S. strikes on Iran, which responded by firing at Gulf nations. The pattern of hostilities has all but collapsed a cease-fire, with little sign that either side will step back.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-97e77c9bc8906047</guid>
+      <pubDate>Thu, 09 Jul 2026 13:23:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>I.U.C.N. Update Says Deep-Sea Mining Threatens Mollusks Around Hydrothermal Vents</title>
+      <link>https://www.nytimes.com/2026/07/09/climate/iucn-red-list-threatened-species.html</link>
+      <description>The snails and other mollusks around hydrothermal vents have evolved to thrive in extreme conditions, but mineral extraction could drive more than half to extinction.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-9c2c1f610711a8f4</guid>
+      <pubDate>Thu, 09 Jul 2026 13:22:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tanker Attacks Risk Overplaying Iran’s Hand, Analysts Say</title>
+      <link>https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html</link>
+      <description>Iran’s history shows it is willing to dig in, even when it may suffer big losses.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-e900243ed675643e</guid>
+      <pubDate>Thu, 09 Jul 2026 13:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Character.AI wants a piece of the microdrama pie</title>
+      <link>https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video</link>
+      <description>Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-d2d0db5054530f57</guid>
+      <pubDate>Thu, 09 Jul 2026 13:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>The U.S. and China are today’s leaders in AI. These countries could be the next-stage champions.</title>
+      <link>https://www.marketwatch.com/story/the-u-s-and-china-are-todays-leaders-in-ai-these-countries-could-be-the-next-stage-champions-3297348c?mod=mw_rss_topstories</link>
+      <description>Economists at Bank of America spotlight South Korea and the United Arab Emirates as likely to gain from both the build-out and adoption of artificial intelligence.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-89515a31e536aff5</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Character.AI enters the microdrama arena with its own productions, but there’s a twist</title>
+      <link>https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/</link>
+      <description>In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c13cbbb8e218f52a</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FL Studio 2026 turns its AI chatbot into your assistant engineer</title>
+      <link>https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot</link>
+      <description>Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-6b0fd45dbfe0af31</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users</title>
+      <link>https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/</link>
+      <description>Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on Github by helping developers easily run AI on their PCs.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-925e9a59def11ced</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salesforce’s stock may look like a bargain — but that’s just a mirage, analyst says</title>
+      <link>https://www.marketwatch.com/story/salesforces-stock-may-look-like-a-bargain-but-thats-just-a-mirage-analyst-says-b8f590a4?mod=mw_rss_topstories</link>
+      <description>KeyBanc downgraded Salesforce shares, citing doubts about the company’s AI narrative.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-95404b5c1c74a057</guid>
+      <pubDate>Thu, 09 Jul 2026 12:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund</title>
+      <link>https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/</link>
+      <description>Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-55f260f226bdff6b</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran launches more strikes after accusing US of targeting nuclear plant</title>
+      <link>https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-b694a47324b8c0c6</guid>
+      <pubDate>Thu, 09 Jul 2026 09:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>International court tells BBC of breakthrough in Sudan war crimes probe</title>
+      <link>https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The ICC has been looking into atrocities committed in Darfur over the past three years.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8da5ce7d121d2c28</guid>
+      <pubDate>Thu, 09 Jul 2026 08:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition</title>
+      <link>https://www.latent.space/p/ainews-spacexai-launches-grok-45</link>
+      <description>SpaceXAI continues to move faster than any other frontier lab on earth.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-d9aedbf9734e78e7</guid>
+      <pubDate>Thu, 09 Jul 2026 06:05:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>China warns about AI risks with Anthropic's Claude Code</title>
+      <link>https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html</link>
+      <description>China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-fa304592a704e1e7</guid>
+      <pubDate>Thu, 09 Jul 2026 01:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rewriting Bun in Rust</title>
+      <link>https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</link>
+      <description>Rewriting Bun in Rust Jarred Sumner has been promising this blog post (since May 9th) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig for getting Bun this far. Then we get to a core idea in the piece, emphasis mine: Our bugfix list felt bad and I was tired of going to sleep worrying about crashes in Bun. I don't blame Zig for that - other users of Zig don't have the bugs we had, and mixing GC with manually-managed memory is an uncommon enough thing for software to need that no language really designs for it. We wouldn't have gotten this far if not for Zig, and I'll always be grateful. Until very recently, programming language choice was a one-way decision for a project like Bun. Everyone knows you should never stop the world and rewrite a large piece of software from the ground up. Joel Spolsky highlighted that in Things You Should Never Do, Part I back in April 2000! Coding agents powered by today's frontier models change that equation. Why pick Rust? It all came down to those challenges with memory management: A large percentage of bugs from that list are use-after-free, double-free, and "forgot to free" in an error path. In safe Rust, these are compiler errors and RAII-like automatic cleanup with Drop. A crucial enabling factor for the rewrite was that the Bun test suite was written in TypeScript, which meant it could act as a conformance suite. This allowed an agent harness to automate much of the initial port from Bun to Rust, initially as an experiment to try out an earlier version of the model we now have access to as Mythos/Fable. At first, I didn't expect it to work. A few days in, a high % of the test suite started passing and I saw how much the new Rust code matched up with the original Zig codebase. My opinion went from "this is worth trying" to "I'm going to merge this". [...] For most of those 11 days (and after), I monitored workflows - manually reading the outputs to check for issues and bugs, and prompting Claude to edit the loop to fix things. How do you review a PR with +1 million lines added? How do you start to build the confidence needed to responsibly merge large quantities of LLM-authored code? A language-independent test suite with a million assertions, adversarial code review and when something does go wrong, fixing the process that generates the code instead of hand-fixing the code. The new implementation of Bun has been live in Claude Code for nearly a month now: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. A perk of working at Anthropic is that you don't have to pay for your tokens - handy when the estimated cost is $165,000! Pre-merge, this took 5.9 billion uncached input tokens, 690 million output tokens, and 72 billion cached input token reads — around $165,000 at API pricing. This whole thing is a fascinating case study in taking on wildly ambitious projects with the help of coordinated parallel agents. Via Hacker News Tags: ai, rust, zig, generative-ai, llms, ai-assisted-programming, anthropic, bun, conformance-suites, agentic-engineering, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-d9be8582f02bacd4</guid>
+      <pubDate>Wed, 08 Jul 2026 23:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT‑Live</title>
+      <link>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</link>
+      <description>Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off harder tasks to GPT-5.5: For questions that require web search, deeper reasoning, or more complex work, it delegates to our latest frontier model behind the scenes and brings the result back into the conversation when it’s ready. While it works, GPT‑Live can keep talking with you and maintain the flow of conversation. At launch, GPT‑Live will use GPT‑5.5 in the background. As we release new frontier models, we’ll continuously update the model used by GPT‑Live. The previous voice mode in the ChatGPT app was based on a GPT-4o era model, with a knowledge cut-off some time in 2024. I had mostly stopped using voice mode because the age and relative weakness of the model greatly limited how useful it was as a brainstorming partner. During the preview period I encountered a pretty obscure bug: the model was interrupting me to laugh at things I said, which weren't even intended as jokes! It felt rude and condescending - I reported it to OpenAI and as far as I can tell they made some tweaks and it's now less likely to happen. From looking back at my transcripts I think it was this bit that triggered the interrupting laugh: so where are the owls when they're not, like before dusk? The owls exist, right? Are they hiding in holes? Where are they hiding? My longest conversation with the new model has been a full hour while walking the dog (and taking photos of pelicans). I have not yet managed to take a photo of an owl. Via Hacker News Tags: text-to-speech, ai, openai, generative-ai, llms, multi-modal-output, llm-release, speech-to-text</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-ea0729cfed39b58c</guid>
+      <pubDate>Wed, 08 Jul 2026 23:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%</title>
+      <link>https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</link>
+      <description>AI cheating leads to "a failed society," professor says.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-796a2e39bbc4f718</guid>
+      <pubDate>Wed, 08 Jul 2026 21:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automating cross-repo documentation with GitHub Agentic Workflows</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/</link>
+      <description>Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-7eb481eef0961440</guid>
+      <pubDate>Wed, 08 Jul 2026 21:11:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise-managed OpenTelemetry export for VS Code and CLI</title>
+      <link>https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli</link>
+      <description>Organizations can now mandate where GitHub Copilot sends OpenTelemetry (OTel) data, so telemetry flows to an approved collector without each developer setting OTEL_* environment variables. The configuration is delivered through… The post Enterprise-managed OpenTelemetry export for VS Code and CLI appeared first on The GitHub Blog.</description>
+      <category>github-copilot-changelog</category>
+      <guid isPermaLink="false">news-ce2436329e7b827e</guid>
+      <pubDate>Wed, 08 Jul 2026 20:50:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub availability report: June 2026</title>
+      <link>https://github.blog/news-insights/company-news/github-availability-report-june-2026/</link>
+      <description>In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-1c059d918df5e827</guid>
+      <pubDate>Wed, 08 Jul 2026 19:35:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Data for Agents</title>
+      <link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-5535aeb9eb9d5ca5</guid>
+      <pubDate>Wed, 08 Jul 2026 17:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pragmatic Engineer AMA</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama</link>
+      <description>In this AMA episode, Gergely Orosz answers listener questions on AI, engineering, hiring, and careers.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-b73c8f825057786c</guid>
+      <pubDate>Wed, 08 Jul 2026 16:38:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple to produce Made in America wireless chips with Broadcom</title>
+      <link>https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/</link>
+      <description>Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-e9368646ca84ffcb</guid>
+      <pubDate>Wed, 08 Jul 2026 14:43:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iran Live Updates: Trump Casts Doubt on Future of Cease-Fire After Latest Strikes</title>
       <link>https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump</link>
@@ -617,189 +800,6 @@
       <category>github-blog</category>
       <guid isPermaLink="false">news-43163564b58e7727</guid>
       <pubDate>Mon, 22 Jun 2026 17:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>New features and Claude as agent provider preview in JetBrains IDEs</title>
-      <link>https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides</link>
-      <description>This update adds support for organization and enterprise agents from GitHub, lets you queue and steer messages in Copilot CLI sessions, introduces a new agent debug logs summary view, and… The post New features and Claude as agent provider preview in JetBrains IDEs appeared first on The GitHub Blog.</description>
-      <category>github-copilot-changelog</category>
-      <guid isPermaLink="false">news-76bfa22b1a423302</guid>
-      <pubDate>Mon, 22 Jun 2026 15:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This bull market isn’t going to end because of Fed rate hikes under Warsh</title>
-      <link>https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories</link>
-      <description>Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-6ff31e15dbed0626</guid>
-      <pubDate>Mon, 22 Jun 2026 13:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.K. Live Updates: Starmer Announces Resignation; Burnham Wins Key Endorsement</title>
-      <link>https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure</link>
-      <description>Prime Minister Keir Starmer stepped down as leader of the governing Labour Party. Andy Burnham, the party’s most popular politician, said he would seek the prime minister’s job and secured the support of a potential rival.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-940f18eca3d402d9</guid>
-      <pubDate>Mon, 22 Jun 2026 13:23:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mideast Live Updates: Vance Points to Progress After First Round of U.S.-Iran Talks</title>
-      <link>https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon</link>
-      <description>Vice President JD Vance said Iran had agreed to invite U.N. nuclear inspectors back into the country in the first round of negotiations that ended Monday. Iran did not immediately comment.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-a8ec44f086f25930</guid>
-      <pubDate>Mon, 22 Jun 2026 13:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters</title>
-      <link>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-493a508e4ceaa14c</guid>
-      <pubDate>Mon, 22 Jun 2026 13:18:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who Will Replace Keir Starmer as UK Prime Minister? Here’s What Happens Next.</title>
-      <link>https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html</link>
-      <description>Keir Starmer, the British prime minister, could be replaced through a full leadership contest. But if the top contender, Andy Burnham, is the only candidate, the process will be much faster.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-04586d72f2d4be87</guid>
-      <pubDate>Mon, 22 Jun 2026 12:51:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schools close as more than half of France under red heat alerts</title>
-      <link>https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The health minister warns many citizens "will suffer", with temperatures set to peak on Monday.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-4a9e23a643e76552</guid>
-      <pubDate>Mon, 22 Jun 2026 12:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI</title>
-      <link>https://importai.substack.com/p/import-ai-462-superpersuasion-self</link>
-      <description>How religious are beliefs in the singularity?</description>
-      <category>import-ai</category>
-      <guid isPermaLink="false">news-9df0e8b363a0bfd7</guid>
-      <pubDate>Mon, 22 Jun 2026 12:31:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump ‘jawboning’ has masked a global oil-supply disaster, and the reality could mean $135 crude, says industry veteran</title>
-      <link>https://www.marketwatch.com/story/trump-jawboning-has-masked-a-global-oil-supply-disaster-and-the-reality-could-mean-135-crude-says-industry-veteran-9b0bb52b?mod=mw_rss_topstories</link>
-      <description>Author and former trader Dan Dicker says President Donald Trump’s rhetoric can only take the market so far,</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-6d047453fb5ba30a</guid>
-      <pubDate>Mon, 22 Jun 2026 12:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia</title>
-      <link>https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html</link>
-      <description>A victory for Abelardo De La Espriella, a lawyer with no previous political experience, would be another win for the right in Latin America.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-25070314dfe4de37</guid>
-      <pubDate>Mon, 22 Jun 2026 12:11:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Read this before you vibe-code another app</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps</link>
-      <description>Bob Starr was delighted with his vibe-coded website. "Boomberg" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-d42e17779ae0563d</guid>
-      <pubDate>Mon, 22 Jun 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>First round of US-Iran talks ends with encouraging progress, mediators say</title>
-      <link>https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-fc469c4d28ba2d2a</guid>
-      <pubDate>Mon, 22 Jun 2026 10:46:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc1 adds migrations and nested transactions</title>
-      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</link>
-      <description>sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package, including support for complex table transformations, automatic table creation from JSON data and a whole lot more. I released sqlite-utils 4.0rc1, the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people try this out before I commit to a stable release. New feature: migrations There are two significant new features in this RC compared to the previous 4.0 alphas. The first is support for database migrations. This isn't a completely new implementation - it's a slightly modified port of the sqlite-migrate package I released a few years ago. I think that package has proved itself over time, so I'm now ready to bundle it with sqlite-utils directly. Here's what a set of migrations in a migrations.py file looks like: from sqlite_utils import Database, Migrations migrations = Migrations("creatures") @migrations() def create_table(db): db["creatures"].create( {"id": int, "name": str, "species": str}, pk="id", ) @migrations() def add_weight(db): db["creatures"].add_column("weight", float) This defines a set of two migrations, one creating the creatures table and another adding a column to it. You can then run those migrations either using Python: db = Database("creatures.db") migrations.apply(db) Or with the command-line migrate command: sqlite-utils migrate creatures.db migrations.py The system is deliberately small: it doesn't provide reverse migrations, so any mistakes you make should be fixed by deploying a fresh migration to undo them. Its predecessor has been used by LLM and various other projects for several years, so I'm confident that the design is stable and works well. The new migrations feature is documented here. New feature: db.atomic() transactions This feature is a lot less exercised than migrations, so it deserves more attention from testers. Previously, sqlite-utils mostly left transaction management up to its users, via a with db.conn: construct that reused the sqlite3 mechanism directly. SQLite supports nested transactions in the form of savepoints, so I wanted an abstraction that could make those as easy to use as possible. I borrowed the terminology "atomic" from Django and Peewee. Here's what the new API looks like: with db.atomic(): db.table("dogs").insert({"id": 1, "name": "Cleo"}, pk="id") try: with db.atomic(): db.table("dogs").insert({"id": 2, "name": "Pancakes"}) raise ValueError("skip this one") except ValueError: pass db.table("dogs").insert({"id": 3, "name": "Marnie"}) More details in the documentation. Backwards incompatible changes The backwards incompatible changes in v4 were described in the alpha release notes. For 4.0a0: Upsert operations now use SQLite's INSERT ... ON CONFLICT SET syntax on all SQLite versions later than 3.23.1. This is a very slight breaking change for apps that depend on the previous INSERT OR IGNORE followed by UPDATE behavior. (#652) Python library users can opt-in to the previous implementation by passing use_old_upsert=True to the Database() constructor, see Alternative upserts using INSERT OR IGNORE. Dropped support for Python 3.8, added support for Python 3.13. (#646) sqlite-utils tui is now provided by the sqlite-utils-tui plugin. (#648) Test suite now also runs against SQLite 3.23.1, the last version (from 2018-04-10) before the new INSERT ... ON CONFLICT SET syntax was added. (#654) And for 4.0a1: Breaking change: The db.table(table_name) method now only works with tables. To access a SQL view use db.view(view_name) instead. (#657) The table.insert_all() and table.upsert_all() methods can now accept an iterator of lists or tuples as an alternative to dictionaries. The first item should be a list/tuple of column names. See Inserting data from a list or tuple iterator for details. (#672) Breaking change: The default floating point column type has been changed from FLOAT to REAL, which is the correct SQLite type for floating point values. This affects auto-detected columns when inserting data. (#645) Now uses pyproject.toml in place of setup.py for packaging. (#675) Tables in the Python API now do a much better job of remembering the primary key and other schema details from when they were first created. (#655) Breaking change: The table.convert() and sqlite-utils convert mechanisms no longer skip values that evaluate to False. Previously the --skip-false option was needed, this has been removed. (#542) Breaking change: Tables created by this library now wrap table and column names in "double-quotes" in the schema. Previously they would use [square-braces]. (#677) The --functions CLI argument now accepts a path to a Python file in addition to accepting a string full of Python code. It can also now be specified multiple times. (#659) Breaking change: Type detection is now the default behavior for the insert and upsert CLI commands when importing CSV or TSV data. Previously all columns were treated as TEXT unless the --detect-types flag was passed. Use the new --no-detect-types flag to restore the old behavior. The SQLITE_UTILS_DETECT_TYPES environment variable has been removed. (#679) Try it out You can install the new RC like this: pip install sqlite-utils==4.0rc1 Or try the CLI version directly with uvx like this: uvx --with sqlite-utils==4.0rc1 sqlite-utils --help Come chat with us about it in the sqlite-utils Discord channel, or file any bugs in GitHub Issues. Tags: migrations, projects, sqlite, sqlite-utils, annotated-release-notes</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-5199a1444ff61df2</guid>
-      <pubDate>Sun, 21 Jun 2026 23:35:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc1</title>
-      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything</link>
-      <description>Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions. Tags: sqlite-utils</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-4e10b2897da41cd4</guid>
-      <pubDate>Sun, 21 Jun 2026 23:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samsung Electronics brings ChatGPT and Codex to employees</title>
-      <link>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</link>
-      <description>Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-eebdb7f63bb5dd4f</guid>
-      <pubDate>Sun, 21 Jun 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The new oil? Inside the effort to turn AI computing power into a tradeable commodity</title>
-      <link>https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html</link>
-      <description>AI compute futures could eventually rival some of the world's largest commodity markets, Silicon Data's Carmen Li believes.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-df14d1433e9cfd6d</guid>
-      <pubDate>Sun, 21 Jun 2026 22:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Temporary Cloudflare Accounts for AI agents</title>
-      <link>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</link>
-      <description>Temporary Cloudflare Accounts for AI agents The announcement says this is "for AI agents" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well. Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account: npx wrangler deploy --temporary Cloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes. I had GPT-5.5 xhigh in Codex Desktop build this test application providing a tool for following HTTP redirects and returning the final destination. The temporary deployment worked as advertised. Running the deployment spits out the URL to a page for claiming the new project, for if you want it to last for more than 60 minutes. Here's what that claim screen looks like: Via Hacker News Tags: cloudflare</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-9feea510147ecdac</guid>
-      <pubDate>Sun, 21 Jun 2026 22:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>When the Trump administration cracks down on Anthropic, who benefits?</title>
-      <link>https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/</link>
-      <description>On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-144aa33768977dc9</guid>
-      <pubDate>Sun, 21 Jun 2026 15:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Exclusive] $250 off AI Engineer tix til Monday</title>
-      <link>https://www.latent.space/p/exclusive-250-off-ai-engineer-tix</link>
-      <description>special offer for subscribers - $250 off AI Engineer tix til Monday</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-4cfa2c49225446d1</guid>
-      <pubDate>Sun, 21 Jun 2026 15:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27</title>
-      <link>https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/</link>
-      <description>Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-5e4c01a2f8b57f29</guid>
-      <pubDate>Sun, 21 Jun 2026 14:40:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz</title>
-      <link>https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html</link>
-      <description>Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-1bd7e20868fa004c</guid>
-      <pubDate>Sun, 21 Jun 2026 12:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed</title>
-      <link>https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html</link>
-      <description>The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-6207aceeefdb49da</guid>
-      <pubDate>Sun, 21 Jun 2026 11:14:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’</title>
-      <link>https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/</link>
-      <description>"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-a8b7179eed6310d2</guid>
-      <pubDate>Sat, 20 Jun 2026 20:32:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
