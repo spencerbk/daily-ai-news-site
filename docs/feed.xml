@@ -5,8 +5,96 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 13:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 13:30:09 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium</title>
+      <link>https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html</link>
+      <description>The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ec91151f09f862e2</guid>
+      <pubDate>Sun, 12 Jul 2026 13:23:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a "true American patriot" who will be "greatly missed".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8ae6e20b0fee02c3</guid>
+      <pubDate>Sun, 12 Jul 2026 13:10:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.K. Police Make New Arrest in Killing of Ex-Lawmaker</title>
+      <link>https://www.nytimes.com/2026/07/12/world/europe/ann-widdecombe-arrest-uk.html</link>
+      <description>A 28-year-old man was detained on Saturday in connection with the death of Ann Widdecombe, a former Parliament member, the police said. Another man arrested on Friday was later released.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-8570c5ba81ef4033</guid>
+      <pubDate>Sun, 12 Jul 2026 13:02:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The stock-market rally now hinges more on AI than oil</title>
+      <link>https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories</link>
+      <description>As earnings season kicks off, AI investment remains front and center.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-5e5b1efe014117ff</guid>
+      <pubDate>Sun, 12 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here’s a look at the heavy strikes in recent days.</title>
+      <link>https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes</link>
+      <description>The attack</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-f8bbba3741faf941</guid>
+      <pubDate>Sun, 12 Jul 2026 12:28:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The fight against AI data centers is just beginning</title>
+      <link>https://www.theverge.com/column/963346/ai-data-centers-fight</link>
+      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-36d5f814be20fea4</guid>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Badly burned British couple rescued from ravine during Spain wildfires, reports say</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-cecfc532df2763d5</guid>
+      <pubDate>Sun, 12 Jul 2026 11:23:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>sqlite-utils 4.1</title>
+      <link>https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</link>
+      <description>Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago, introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Python code (or a path to a .py file) that defines a rows() function or rows iterable of rows to insert, as an alternative to importing from a file. (#684) sqlite-utils already had features that allow you to pass blocks of Python code as CLI arguments, for example this one for the sqlite-utils convert command: sqlite-utils convert content.db articles headline ' def convert(value): return value.upper()' Allowing blocks of code to generate new rows directly was on obvious extension of that pattern: sqlite-utils insert data.db creatures --code ' def rows(): yield {"id": 1, "name": "Cleo"} yield {"id": 2, "name": "Suna"} ' --pk id sqlite-utils insert and sqlite-utils upsert now accept --type column-name type to override the type automatically chosen when the table is created. This is useful for CSV or TSV columns such as ZIP codes that look like integers but should be stored as TEXT to preserve leading zeros. (#131) A long-standing feature request which turned out to be a simple implementation. New table.drop_index(name) method and sqlite-utils drop-index command for dropping an index by name. Both accept ignore=True/--ignore to ignore a missing index. (#626) sqlite-utils query can now read the SQL query from standard input by passing - in place of the query, for example echo "select * from dogs" | sqlite-utils query dogs.db -. (#765) Two more small features. I had Codex review all open issues and highlight the easiest ones! sqlite-utils upsert can now infer the primary key of an existing table, so --pk can be omitted when upserting into a table that already has a primary key. Another Codex suggestion, an obvious missing CLI feature from a Python library improvement that shipped in the 4.0 release. table.transform() and table.transform_sql() now accept strict=True or strict=False to change a table’s SQLite strict mode. Omitting the option preserves the existing mode. (#787) The sqlite-utils transform command now accepts --strict and --no-strict to change a table’s strict mode. (#787) These two were inspired by Prefer STRICT tables in SQLite by Evan Hahn, which did the rounds on Hacker News today. Evan pointed out that: Unfortunately, I don’t think there’s a way to ALTER a table to make it strict. I think you have to copy the data out of the non-strict table into the strict one. That's exactly what the sqlite-utils transform mechanism does, so I extended it to add the ability to switch tables from strict to non-strict and vice-versa. Here's the GPT-5.6 Sol xhigh Codex transcript I used to implement those new strict table features. One of the most useful prompts I ran was this one: use uv run python -c and manually exercise the new .transform(strict=) option, see if you can find any edge-cases or bugs Effectively telling the model to manually test its work, outside of the automated tests it had already written. This turned up two minor issues that we then fixed. Tags: projects, python, sqlite, sqlite-utils, annotated-release-notes, ai-assisted-programming</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-03499c68059edb51</guid>
+      <pubDate>Sat, 11 Jul 2026 23:50:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?</title>
+      <link>https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories</link>
+      <description>“My house shook violently from the wind.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-be9b8e2aa65c3ea0</guid>
+      <pubDate>Sat, 11 Jul 2026 21:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>These underperforming trades could yield big returns over next six months</title>
+      <link>https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html</link>
+      <description>ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-17487260effc4970</guid>
+      <pubDate>Sat, 11 Jul 2026 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
+      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
+      <description>ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-e7fba57de10c4cc9</guid>
+      <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?</title>
       <link>https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html</link>
@@ -715,94 +803,6 @@
       <category>techcrunch-enterprise</category>
       <guid isPermaLink="false">news-a087d85e01873cd8</guid>
       <pubDate>Mon, 06 Jul 2026 15:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Quake Survivors</title>
-      <link>https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake</link>
-      <description>The 7.2- and 7.5-magnitude earthquakes left at least 164 dead and hundreds missing, the authorities said. The full scale of the damage was still becoming clear.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-0e5f26f97fc27409</guid>
-      <pubDate>Thu, 25 Jun 2026 13:21:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits</title>
-      <link>https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html</link>
-      <description>The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-95fc26920be7d725</guid>
-      <pubDate>Thu, 25 Jun 2026 13:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe's heatwave shifts east as France raises health alert to highest level</title>
-      <link>https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-9baa1d0bc7814f69</guid>
-      <pubDate>Thu, 25 Jun 2026 13:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Updates: As Europe Bakes, Spain Warns of a Possible High Death Toll</title>
-      <link>https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france</link>
-      <description>A Spanish monitoring agency linked the extreme heat to an estimated rise in deaths since Sunday. Days of scorching temperatures are testing Europe’s ability to adapt to extreme weather.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-d9c8af24d98cb8e8</guid>
-      <pubDate>Thu, 25 Jun 2026 13:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Driver Plows Into Crowd of World Cup Fans in Mexico, Authorities Say</title>
-      <link>https://www.nytimes.com/2026/06/25/world/americas/car-ramming-mexico-world-cup-cabo-san-lucas.html</link>
-      <description>Videos show a car repeatedly accelerating into a crowd in Cabo San Lucas after Mexico won a World Cup game. The authorities said at least 17 people were injured and the driver was arrested.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-1536dcf6ae755428</guid>
-      <pubDate>Thu, 25 Jun 2026 13:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consumer spending rises again — and now cheaper gas is on the way</title>
-      <link>https://www.marketwatch.com/story/consumer-spending-rises-again-and-now-cheaper-gas-is-on-the-way-7615b45b?mod=mw_rss_topstories</link>
-      <description>Inflation is set to slow during the summer</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-f5c82d00e26ccecf</guid>
-      <pubDate>Thu, 25 Jun 2026 12:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Key figure in South Africa police corruption scandal pleads guilty</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Prosecutors say Vusimusi "Cat" Matlala could provide evidence against "high-ranking officials".</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-baef3ad068927458</guid>
-      <pubDate>Thu, 25 Jun 2026 12:49:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. inflation tops 4%, PCE shows, but tumbling oil prices to bring price relief soon</title>
-      <link>https://www.marketwatch.com/story/u-s-inflation-tops-4-but-tumbling-oil-prices-to-bring-price-relief-soon-ef1ce5e1?mod=mw_rss_topstories</link>
-      <description>Worst inflation in three years may have peaked</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-2aa439b93fb1bba1</guid>
-      <pubDate>Thu, 25 Jun 2026 12:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response</title>
-      <link>https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html</link>
-      <description>Two major quakes struck back to back on Wednesday night in the country’s populated northern areas. The second was the strongest to hit Venezuela in over a century.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-7c5a4315fafc6b13</guid>
-      <pubDate>Thu, 25 Jun 2026 12:34:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon ups India bet with fresh $13B AI infrastructure investment</title>
-      <link>https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/</link>
-      <description>Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-d9694507b5cbf5c3</guid>
-      <pubDate>Thu, 25 Jun 2026 12:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ford had to hire back former engineers to fix mistakes made by its automated systems</title>
-      <link>https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes</link>
-      <description>To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-91da026df123d984</guid>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
