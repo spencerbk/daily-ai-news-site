@@ -5,8 +5,198 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 13:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:30:09 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It</title>
+      <link>https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html</link>
+      <description>Rather than rally behind the tournament’s last Latin American team, other countries in the region are confronting Argentina’s fraught claims to its own identity.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-e03106a44b2f3925</guid>
+      <pubDate>Wed, 15 Jul 2026 13:21:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump</title>
+      <link>https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories</link>
+      <description>Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-c64ad09735db3478</guid>
+      <pubDate>Wed, 15 Jul 2026 13:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models</title>
+      <link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
+      <description>Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-c90a394799e18cd6</guid>
+      <pubDate>Wed, 15 Jul 2026 13:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'</title>
+      <link>https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html</link>
+      <description>The investor has been sharply critical of the stock market, one that he says is increasingly defined by speculative trading as opposed to long-term investing.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-d82173187a831b45</guid>
+      <pubDate>Wed, 15 Jul 2026 13:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Wall Street ‘theme-o-meter’ has a clear message: The artificial-intelligence bull market is back</title>
+      <link>https://www.marketwatch.com/story/this-wall-street-theme-o-meter-has-a-clear-message-the-artificial-intelligence-bull-market-is-back-50f18755?mod=mw_rss_topstories</link>
+      <description>UBS says its top theme right now is that leadership for artificial-intelligence stocks is returning, and earnings season may prove how investors have been too pessimistic.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-bb44a40c51d24be0</guid>
+      <pubDate>Wed, 15 Jul 2026 13:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>France Is Set to Allow Assisted Dying</title>
+      <link>https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html</link>
+      <description>Lawmakers were expected to approve a bill that would allow doctors to help terminally ill patients to die. If the law passes, the country would join a small group of nations that permit the measure.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-5ca28a6c5f3207fd</guid>
+      <pubDate>Wed, 15 Jul 2026 13:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reelful’s AI turns your camera roll into short-form videos for social media</title>
+      <link>https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/</link>
+      <description>The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-5b81db5acf681acd</guid>
+      <pubDate>Wed, 15 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rime picks up $24M Series A to help enterprises field customer calls</title>
+      <link>https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/</link>
+      <description>Rime is handling over 100 million calls each month across multiple companies</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-f072cd3534ee1291</guid>
+      <pubDate>Wed, 15 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz/heres-the-latest</link>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-da37e87b6485762c</guid>
+      <pubDate>Wed, 15 Jul 2026 12:49:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran threatens to block more trade routes as US launches fresh strikes</title>
+      <link>https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-45559dddd50c0fdc</guid>
+      <pubDate>Wed, 15 Jul 2026 12:26:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seven Britons among those killed in Spain wildfires</title>
+      <link>https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-ac2466c7e2e70371</guid>
+      <pubDate>Wed, 15 Jul 2026 12:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vint Cerf is working on a plan to unleash AI agents on the open internet</title>
+      <link>https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/</link>
+      <description>The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-668f2fe4792b1cab</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse</title>
+      <link>https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/</link>
+      <description>Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-65b4fc81d09ea0b4</guid>
+      <pubDate>Wed, 15 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot in Visual Studio — June update</title>
+      <link>https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update</link>
+      <description>June 2026 is about visibility and trust with a clearer view of your GitHub Copilot usage, a new trust layer for MCP servers, and the first C++ scenarios for the… The post GitHub Copilot in Visual Studio — June update appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-18f99e3f3fbc2838</guid>
+      <pubDate>Wed, 15 Jul 2026 00:01:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Real World VoiceEQ: Measuring the human quality of voice AI</title>
+      <link>https://huggingface.co/blog/real-world-voiceeq</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-5d7569c2afe37a81</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] not much happened today</title>
+      <link>https://www.latent.space/p/ainews-not-much-happened-today-c72</link>
+      <description>a continuation: Codex adding 1M users a day now.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-22032595394fd9a0</guid>
+      <pubDate>Tue, 14 Jul 2026 23:54:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot for JetBrains expands BYOK capabilities</title>
+      <link>https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities</link>
+      <description>This update brings major advances in customization and model provider flexibility to all tiers of GitHub Copilot for JetBrains IDEs. With richer plugin and provider experiences, improved conversational interactions, and… The post GitHub Copilot for JetBrains expands BYOK capabilities appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-ad1e2a9c54078e49</guid>
+      <pubDate>Tue, 14 Jul 2026 23:37:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Trends That Defined AI Engineering at World’s Fair 2026</title>
+      <link>https://www.latent.space/p/aiewf26trends</link>
+      <description>At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-8ec1cf2be3ad5d8d</guid>
+      <pubDate>Tue, 14 Jul 2026 23:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting GitHub Changelog</title>
+      <link>https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything</link>
+      <description>Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration. — GitHub Changelog, embracing dependency cooldowns Tags: dependency-cooldowns, packaging, security, github</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-7b744818ee2a343e</guid>
+      <pubDate>Tue, 14 Jul 2026 22:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>simonw/pedalican</title>
+      <link>https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything</link>
+      <description>simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a "pet" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks. Your browser does not support HTML5 video. The most interesting thing about this process was watching how the custom pet was created. I told it I wanted a custom pet that was a pelican riding a bicycle and GPT-5.6 Sol xhigh did the rest of the work, using several rounds with gpt-image-2 to generate the necessary sprite assets. I had it make extensive notes and record all of the intermediary steps. My GItHub repo includes every generated image and combined sprite sheet, plus GIFs for each of the animation loops such as this one, called waving.gif: That GIF was compiled from a single image generated by gpt-image-2 that looked like this: And that image was created by executing this prompt against the initial generated character reference image, which was created with this prompt, which has this structure: Create one clean full-body reference sprite for Codex pet Pedalican. Pet identity: A compact adorable baby pelican with a round cream-white body, soft coral-orange bill and feet, riding a tiny sky-blue bicycle [...] Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. [...] I've been looking out for ways to use image generation to create simple game-ready sprites, so I spent some time digging into this mechanism to see how it works. The key implementation details are open source - these two skills in particular, both Apache 2.0 licensed: hatch-pet from openai/skills imagegen from openai/codex And yes, GPT-5.6 Sol did come up with the name "Pedalican". I like it! Tags: ai, prompt-engineering, generative-ai, llms, text-to-image, pelican-riding-a-bicycle, codex</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-7304da59b75cdd1c</guid>
+      <pubDate>Tue, 14 Jul 2026 22:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI may announce a ChatGPT smart speaker this year</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device</link>
+      <description>OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to "understand" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-dc52ec30e5cc8573</guid>
+      <pubDate>Tue, 14 Jul 2026 21:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawsuit claims Meta's layoff decisions were made by AI, not humans</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/</link>
+      <description>Meta denies using AI to terminate workers with disabilities and medical problems.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-21d0570696037b90</guid>
+      <pubDate>Tue, 14 Jul 2026 20:05:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is “loop engineering?”</title>
+      <link>https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering</link>
+      <description>There’s talk about loop engineering, but what is it exactly? I looked into it, and found triggers, cron jobs, AI slop &amp; more. Is it a “here today, gone tomorrow” trend?</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-17b10d10d281c33e</guid>
+      <pubDate>Tue, 14 Jul 2026 17:01:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reflection inks $1B compute deal with Nebius</title>
+      <link>https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/</link>
+      <description>Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-bf9c8ae541abb778</guid>
+      <pubDate>Tue, 14 Jul 2026 14:37:48 +0000</pubDate>
+    </item>
     <item>
       <title>Here’s the latest.</title>
       <link>https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz/heres-the-latest</link>
@@ -613,197 +803,6 @@
       <category>openai-news</category>
       <guid isPermaLink="false">news-027b05f9d0faae18</guid>
       <pubDate>Fri, 10 Jul 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp</title>
-      <link>https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna</link>
-      <description>A big day for OpenAI.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-f7ffe7c764e66c3e</guid>
-      <pubDate>Fri, 10 Jul 2026 06:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting OpenAI</title>
-      <link>https://simonwillison.net/2026/Jul/10/openai/#atom-everything</link>
-      <description>[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer. — OpenAI, trying (unsuccessfully) to clarify ChatGPT Work Tags: openai, chatgpt, ai</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-e11b299a33538b8e</guid>
-      <pubDate>Fri, 10 Jul 2026 01:05:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</title>
-      <link>https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/</link>
-      <description>OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-bf8a0a3516a92df9</guid>
-      <pubDate>Fri, 10 Jul 2026 00:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s carbon emissions went up 25 percent last year</title>
-      <link>https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026</link>
-      <description>Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons "without select interventions." Microsoft says this was "driven primarily by the expansion of our […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-3e171b9d1ff3d14d</guid>
-      <pubDate>Fri, 10 Jul 2026 00:04:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Profiling in PyTorch (Part 3): Attention is all you profile</title>
-      <link>https://huggingface.co/blog/torch-attention-profile</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-145fbd552c757009</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fidji Simo steps down from OpenAI’s No. 2 role</title>
-      <link>https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/</link>
-      <description>OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-ac681ce233d76765</guid>
-      <pubDate>Thu, 09 Jul 2026 23:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI wants its new tool to do your work for you and with you</title>
-      <link>https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/</link>
-      <description>Rebranded Codex promises independent workflows that can run "for hours if needed."</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-fd6c695aa203d323</guid>
-      <pubDate>Thu, 09 Jul 2026 21:25:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Humanoid robots controlled by surgeons did world-first operation on live pigs</title>
-      <link>https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/</link>
-      <description>Preclinical trial is testing the feasibility of humanoid robots in surgery.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-aff8bc84adc9fa62</guid>
-      <pubDate>Thu, 09 Jul 2026 20:12:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>The new GPT-5.6 family: Luna, Terra, Sol</title>
-      <link>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</link>
-      <description>OpenAI's latest flagship model hit general availability this morning, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens doesn't tell us much now that the number of reasoning tokens can differ so much between models for the same task. All three models have a February 16th 2026 knowledge cutoff, a million token context window, and 128,000 maximum output tokens. OpenAI's biggest benchmark claim concerns long-running agentic performance, with one benchmark showing all three models outperforming Claude Fable 5: We trained GPT-5.6 to get more useful work from every token. On Agents’ Last Exam, an evaluation of long-running professional workflows across 55 fields, GPT-5.6 Sol sets a new high of 53.6, eclipsing Claude Fable 5 (adaptive reasoning) by 13.1 points. Even at medium reasoning, it beats Fable 5 by 11.4 points at roughly one-quarter the estimated cost. That efficiency extends to smaller models, which are essential to making intelligence more abundant and affordable: GPT-5.6 Terra and GPT-5.6 Luna outperform Fable 5 at around one-sixteenth the cost. Amusingly, one self-reported benchmark that Fable 5 crushed the GPT-5.6 family on was SWE-Bench Pro, where Fable 5 got 80% compared to GPT-5.6 Sol getting 64.6%. This may help explain why OpenAI chose to publish this article yesterday specifically calling out SWE-Bench Pro for problems they found while auditing that benchmark: In light of these results, we estimate that ~30% of SWE-bench Pro tasks are broken, and advise that model developers carefully examine results I've had some early access to GPT-5.6 Sol - it's definitely very competent, though so far it hasn't struck me as better than Fable at the kind of complex coding tasks I've been using with Anthropic's model. As usual, the model guidance for using GPT-5.6 has the most interesting details. There are a bunch of new API features that I need to explore (and probably add support for in LLM), including: Programmatic Tool Calling allows the models to "compose and run JavaScript that orchestrates tool calls" - which sounds to me like it could help bridge the gap between MCPs and full terminal sessions that can compose CLI utilities in useful ways. Also reminiscent of the dynamic filtering mechanism Anthropic added to their web search tool, which allows code execution against web results as part of a single model turn. Multi-agent lets the model "spin up subagents for parallel, focused work" - the sub-agent pattern now baked into the core API. Prompt cache breakpoints brings the Claude model of prompt caching to OpenAI, letting you be explicit about where the cache breakpoints are rather than relying on the API to detect them automatically. Personally I much prefer automatic detection (still supported by OpenAI), but presumably there are optimization cost savings to be had here if you put the work in. You can now set detail: original on image requests to avoid resizing the image at all before it is processed. Here's a full page with 18 different pelicans - for reasoning efforts none, low, medium, high, xhigh, and max across the three different models. It also lists their token and calculated costs - the least expensive was gpt-5.6-luna at effort none for 0.71 cents, the most expensive was gpt-5.6-sol at max reasoning level for 48.55 cents. In further pelican news, if you jump to 17:50 in their livestream from this morning you'll see OpenAI's own demo of 3D pelicans riding a tricycle, a bicycle, a pony, and another pelican! Tags: ai, openai, generative-ai, llms, llm-tool-use, llm-pricing, pelican-riding-a-bicycle, llm-release, gpt-5</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-c223296e0641446f</guid>
-      <pubDate>Thu, 09 Jul 2026 19:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot</link>
-      <description>OpenAI’s GPT-5.6 family is now rolling out in GitHub Copilot. GPT-5.6 comes in three variants, Sol, Terra, and Luna, so you can match the model to the job, whether that’s… The post OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-281a7d3afe46b7a5</guid>
-      <pubDate>Thu, 09 Jul 2026 16:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from</link>
-      <description>A rewrite done in 11 days that would have taken a small team a year to complete, for $165K in tokens. Also: coding LLM “wars” heat up, AI fakers from North Korea still a problem when hiring, and more</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-2acbe8a7bbf788fa</guid>
-      <pubDate>Thu, 09 Jul 2026 16:32:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>How GitHub gave every repository a durable owner</title>
-      <link>https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/</link>
-      <description>GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a durable owner appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-99556ceee7289c0c</guid>
-      <pubDate>Thu, 09 Jul 2026 16:29:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ask Copilot for a repository overview</title>
-      <link>https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview</link>
-      <description>You can now ask GitHub Copilot for a high-level overview of any repository you’re exploring for the first time. When you visit the home page of a repository you haven’t… The post Ask Copilot for a repository overview appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-3f5c6212602aa668</guid>
-      <pubDate>Thu, 09 Jul 2026 14:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes</title>
-      <link>https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump</link>
-      <description>Attacks on ships were followed by new U.S. strikes on Iran, which responded by firing at Gulf nations. The pattern of hostilities has all but collapsed a cease-fire, with little sign that either side will step back.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-97e77c9bc8906047</guid>
-      <pubDate>Thu, 09 Jul 2026 13:23:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>I.U.C.N. Update Says Deep-Sea Mining Threatens Mollusks Around Hydrothermal Vents</title>
-      <link>https://www.nytimes.com/2026/07/09/climate/iucn-red-list-threatened-species.html</link>
-      <description>The snails and other mollusks around hydrothermal vents have evolved to thrive in extreme conditions, but mineral extraction could drive more than half to extinction.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-9c2c1f610711a8f4</guid>
-      <pubDate>Thu, 09 Jul 2026 13:22:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tanker Attacks Risk Overplaying Iran’s Hand, Analysts Say</title>
-      <link>https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html</link>
-      <description>Iran’s history shows it is willing to dig in, even when it may suffer big losses.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e900243ed675643e</guid>
-      <pubDate>Thu, 09 Jul 2026 13:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Character.AI wants a piece of the microdrama pie</title>
-      <link>https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video</link>
-      <description>Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-d2d0db5054530f57</guid>
-      <pubDate>Thu, 09 Jul 2026 13:11:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>The U.S. and China are today’s leaders in AI. These countries could be the next-stage champions.</title>
-      <link>https://www.marketwatch.com/story/the-u-s-and-china-are-todays-leaders-in-ai-these-countries-could-be-the-next-stage-champions-3297348c?mod=mw_rss_topstories</link>
-      <description>Economists at Bank of America spotlight South Korea and the United Arab Emirates as likely to gain from both the build-out and adoption of artificial intelligence.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-89515a31e536aff5</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Character.AI enters the microdrama arena with its own productions, but there’s a twist</title>
-      <link>https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/</link>
-      <description>In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c13cbbb8e218f52a</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FL Studio 2026 turns its AI chatbot into your assistant engineer</title>
-      <link>https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot</link>
-      <description>Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-6b0fd45dbfe0af31</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users</title>
-      <link>https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/</link>
-      <description>Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on Github by helping developers easily run AI on their PCs.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-925e9a59def11ced</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesforce’s stock may look like a bargain — but that’s just a mirage, analyst says</title>
-      <link>https://www.marketwatch.com/story/salesforces-stock-may-look-like-a-bargain-but-thats-just-a-mirage-analyst-says-b8f590a4?mod=mw_rss_topstories</link>
-      <description>KeyBanc downgraded Salesforce shares, citing doubts about the company’s AI narrative.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-95404b5c1c74a057</guid>
-      <pubDate>Thu, 09 Jul 2026 12:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund</title>
-      <link>https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/</link>
-      <description>Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-55f260f226bdff6b</guid>
-      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran launches more strikes after accusing US of targeting nuclear plant</title>
-      <link>https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-b694a47324b8c0c6</guid>
-      <pubDate>Thu, 09 Jul 2026 09:53:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
