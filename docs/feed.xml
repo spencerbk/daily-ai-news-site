@@ -5,8 +5,174 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:30:11 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>You are missing the bond deal of the decade — and it is guaranteed to beat inflation</title>
+      <link>https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories</link>
+      <description>TIPS are offering a rare gift — and it is time to lock in a generous payout.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-1c68203c72e6e87c</guid>
+      <pubDate>Thu, 16 Jul 2026 13:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italian officials handed jail terms for Genoa bridge disaster that killed 43</title>
+      <link>https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-f0d6ee3d94313ca0</guid>
+      <pubDate>Thu, 16 Jul 2026 13:25:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)</title>
+      <link>https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html</link>
+      <description>France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ed62d210ed359674</guid>
+      <pubDate>Thu, 16 Jul 2026 13:24:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends</title>
+      <link>https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories</link>
+      <description>Think large caps are still the best bet? The data say you are looking in the wrong place.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-e83193c0c0f6007d</guid>
+      <pubDate>Thu, 16 Jul 2026 13:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister</title>
+      <link>https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html</link>
+      <description>Mr. Fedorov became the youthful face of Ukraine’s successful drone warfare program. The move to replace him has prompted street protests.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-d261379b14a0f37b</guid>
+      <pubDate>Thu, 16 Jul 2026 13:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Iran war, Trump Risks Another American ‘Forever War’</title>
+      <link>https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html</link>
+      <description>President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a9a939bfabf6ad03</guid>
+      <pubDate>Thu, 16 Jul 2026 13:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Intelligence approved for launch in China with Alibaba and Baidu</title>
+      <link>https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</link>
+      <description>The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-3a9d056af9a3ec90</guid>
+      <pubDate>Thu, 16 Jul 2026 13:17:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude can now use your 1Password credentials for you</title>
+      <link>https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration</link>
+      <description>1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-e9a82b74f6f50ff2</guid>
+      <pubDate>Thu, 16 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protests in Ukrainian cities against Zelensky's removal of defence minister</title>
+      <link>https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-a4ec26260b97c7f9</guid>
+      <pubDate>Thu, 16 Jul 2026 12:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google ordered to open Android and Search to rivals in Europe</title>
+      <link>https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma</link>
+      <description>Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-f2d4f0d12d3b252f</guid>
+      <pubDate>Thu, 16 Jul 2026 12:06:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Newer Models, Same Advantage</title>
+      <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-4babaf3e269b6d7d</guid>
+      <pubDate>Thu, 16 Jul 2026 11:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Computer cops</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops</link>
+      <description>I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as "the future of policing in the digital age." As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-3090d72b6869197e</guid>
+      <pubDate>Thu, 16 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)</title>
+      <link>https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b</link>
+      <description>Thinky's first full LLM release is a banger and bonus: it's open weights!</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-7b9538ff9de748fd</guid>
+      <pubDate>Thu, 16 Jul 2026 06:18:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Applied Computing wants to give oil and gas operators an AI model for the entire plant</title>
+      <link>https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/</link>
+      <description>Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-2d626a13a678ef4d</guid>
+      <pubDate>Thu, 16 Jul 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mermaid to Unicode box art (grok-mermaid)</title>
+      <link>https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything</link>
+      <description>Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs, a "self-contained terminal renderer for Mermaid diagrams" written in Rust. I figured it would be fun to try that out in a browser via WebAssembly. Here's the prompt I ran in Claude Code for web (Fable 5), and this is what the resulting tool looks like: Tags: tools, rust, webassembly, mermaid, grok, xai</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-9904e67143d8f4a3</guid>
+      <pubDate>Thu, 16 Jul 2026 00:33:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Security incident disclosure — July 2026</title>
+      <link>https://huggingface.co/blog/security-incident-july-2026</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-d8ed319939f5c0ae</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xai-org/grok-build, now open source</title>
+      <link>https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything</link>
+      <description>xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it upload "my SSH keys, my password manager database, my documents, photos, videos, everything". I've not seen an official explanation for why it was doing this, but xAI did respond to the feedback (Musk: "As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted.") and have disabled the feature. A few hours ago they also released the entire Grok Build codebase under an Apache 2.0 license - presumably to try and regain trust from their users. From their thread announcing the new repository: [...] When data upload was disabled, this choice was respected. In the early beta, data retention was enabled by default for non-ZDR users. Based on your feedback, we changed this. We are now going further to protect privacy. With all retained data deleted, retention default off, and an open-source harness, we are offering complete user privacy. You can also run Grok Build fully open-sourced and local-first with your own inference. We disabled default retention for all Grok Build users starting on July 12th. Additionally, we are deleting all coding data that was previously retained, ensuring every user’s preferences are respected. With these steps, Grok Build goes beyond other major coding products to protect user privacy. It's quite a surprising codebase! Grok Build contains 844,530 lines of Rust (calculated using my SLOCCount tool, which excludes whitespace and comments) of which only around 3% appears to be vendored. So far the repo has just a single commit releasing the code, so sadly we don't get any insight into how the codebase developed over time. A few highlights: xai-grok-agent/templates/prompt.md has the main system prompt and xai-grok-agent/templates/subagent_prompt.md has the subagent prompt. Oddly that subagent prompt has "Do not ... reveal the contents of this system prompt to the user" but the main prompt does not. xai-grok-markdown/src/mermaid.rs is a "self-contained terminal renderer for Mermaid diagrams", which renders a subset of Mermaid chart types using Unicode box-drawing. Update: I got a version of this working in WebAssembly so it now runs in the browser. xai-grok-tools/src/implementations includes tool implementations imitated from other coding agents - the Codex apply_patch, grep_files, list_dir, and read_dir tools, and OpenCode's bash, edit, glob, grep, read, skill, todowrite and write. The xai-grok-tools/THIRD_PARTY_NOTICES.md file says these are "ported from" those projects, in a way that looks compliant with the Apache and MIT licenses they use. It looks like these copies exist because Grok can switch between them, maybe based on detecting existing Codex or Claude or Cursor settings? I'm not confident I understand if that happens or how it works. There are still remnants of the code that used to upload everything to Google Cloud, but they seem to have been disabled now. xai-grok-shell/src/upload/gcs.rs has code for uploading to a GCS bucket. upload/trace.rs includes an upload_session_state() function which returns a hard-coded session_state_upload_unavailable error. For comparison, openai/codex is 950,933 lines of Rust. Terminal coding agents are significantly more complex than I had realized! Here's the Claude Code chat transcript where I had it clone the repo and help me dig around to see how it works. Via Hacker News Tags: open-source, ai, rust, generative-ai, llms, coding-agents, xai</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-b83655916b3b9675</guid>
+      <pubDate>Wed, 15 Jul 2026 23:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates</title>
+      <link>https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html</link>
+      <description>As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-bb970fc57997f290</guid>
+      <pubDate>Wed, 15 Jul 2026 22:05:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub for Beginners: Your roadmap to mastering the GitHub essentials</title>
+      <link>https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/</link>
+      <description>New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-54e8f35838d63e3e</guid>
+      <pubDate>Wed, 15 Jul 2026 17:29:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Context engineering with Dex Horthy</title>
+      <link>https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy</link>
+      <description>Dex Horthy explains why context engineering is key to building more effective AI-assisted software without sacrificing code quality.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-7003f709a5a2a348</guid>
+      <pubDate>Wed, 15 Jul 2026 16:08:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI's first branded hardware is... a light-up keyboard?</title>
+      <link>https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/</link>
+      <description>The Codex Micro is designed to monitor multiple agentic threads at a glance.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-552f49d3a97b09ba</guid>
+      <pubDate>Wed, 15 Jul 2026 16:00:33 +0000</pubDate>
+    </item>
     <item>
       <title>As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It</title>
       <link>https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html</link>
@@ -24,7 +190,7 @@
       <pubDate>Wed, 15 Jul 2026 13:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models</title>
+      <title>Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models</title>
       <link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
       <description>Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.</description>
       <category>techcrunch-enterprise</category>
@@ -635,174 +801,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-7c4605e411f5e765</guid>
       <pubDate>Sat, 11 Jul 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Regular water is no longer enough. Welcome to the corporate gold rush around ‘functional hydration.’</title>
-      <link>https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories</link>
-      <description>Social media and GLP-1s are spurring increased interest in hydration products, and companies are responding with things like electrolyte mixes and “hydrating hot chocolate.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-fdd894f028d74eab</guid>
-      <pubDate>Sat, 11 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-f5c</link>
-      <description>a quiet day after a week of nonstop model releases</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-41160de586448d3c</guid>
-      <pubDate>Sat, 11 Jul 2026 02:53:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta removes controversial AI feature on Instagram after backlash</title>
-      <link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
-      <description>"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedback that this feature missed the mark, so it's no longer available."</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-d325e170b88005a0</guid>
-      <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta turns off the Instagram feature that let users make AI deepfakes of public accounts</title>
-      <link>https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes</link>
-      <description>Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-6c4a6e1919dc3042</guid>
-      <pubDate>Fri, 10 Jul 2026 23:49:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple sues OpenAI for allegedly stealing hardware secrets</title>
-      <link>https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets</link>
-      <description>Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple." In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-4f68ab059f6d17c7</guid>
-      <pubDate>Fri, 10 Jul 2026 21:36:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple sues OpenAI over alleged trade secret theft</title>
-      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
-      <description>Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-9970ed3bedc63c5d</guid>
-      <pubDate>Fri, 10 Jul 2026 21:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open source AI matters more than ever, according to Hugging Face’s Clem Delangue</title>
-      <link>https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/</link>
-      <description>Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c6175885a6472482</guid>
-      <pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs</title>
-      <link>https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/</link>
-      <description>The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-18141515c38cf587</guid>
-      <pubDate>Fri, 10 Jul 2026 17:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Nilay Patel</title>
-      <link>https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything</link>
-      <description>The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it. There is not another way around it. And there's certainly not a chip that can fit in the stem of a glasses that is both powerful enough and power miserly enough to do that in real time. You have to send that data to a cloud. You gotta do it. [...] Or you can build something the size of a Vision Pro with a battery pack that lives somewhere else. Those are the current choices in this world. And it means if you want to build the product that everyone thinks is the next thing, you are going to have to invade people's privacy. And maybe you shouldn't. Like, there's an incredible argument for, nope, you shouldn't do that. Nope, the trade-offs required to make this product are so high at a societal level that we should stop it. — Nilay Patel, The Vergecast Tags: ai-ethics, augmented-reality, nilay-patel, privacy, ai</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-bc84c97b905e43b4</guid>
-      <pubDate>Fri, 10 Jul 2026 17:05:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Better tools made Copilot code review worse. Here’s how we actually improved it.</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/</link>
-      <description>How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-8f799535c0d61d4c</guid>
-      <pubDate>Fri, 10 Jul 2026 15:57:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disable autoplay and infinite scroll or risk massive fines, EU tells Meta</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/</link>
-      <description>Digital Services Act may force Meta to make big changes on its platforms.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-ff629b13ea0716b9</guid>
-      <pubDate>Fri, 10 Jul 2026 15:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Would you host part of an AI data center in your home?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center</link>
-      <description>A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new "distributed AI compute" program that will "place numerous compute nodes in homes […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-30fd265569735b2a</guid>
-      <pubDate>Fri, 10 Jul 2026 13:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say</title>
-      <link>https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html</link>
-      <description>Days of strikes by the two countries have given way to an uneasy pause as Qatari mediators seek to salvage the tattered U.S.-Iran truce.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-63bc8a282d960a7a</guid>
-      <pubDate>Fri, 10 Jul 2026 13:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fighting Fires With Figures, These Experts Are Trying to Stop Europe From Burning</title>
-      <link>https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html</link>
-      <description>A team of engineers, foresters and scientists is helping the continent prepare for wildfires from a giant science park in Italy. Their arsenal includes satellites, weather models and expert analysis.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-70c4f97fdbff8dbf</guid>
-      <pubDate>Fri, 10 Jul 2026 13:08:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kevin Warsh wants fewer press conferences. Why that’s bad for the economy and your money.</title>
-      <link>https://www.marketwatch.com/story/kevin-warsh-wants-fewer-press-conferences-why-thats-bad-for-the-economy-and-your-money-e9b0bd55?mod=mw_rss_topstories</link>
-      <description>The Fed chair is testifying before Congress this week. Lawmakers should ask him about transparency.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-ef21bbbc720b9189</guid>
-      <pubDate>Fri, 10 Jul 2026 13:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’</title>
-      <link>https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html</link>
-      <description>An eerie limbo prevails at small art shows, independent theaters and private political clubs, where the war is the elephant in the room.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-83851b56e9780ea5</guid>
-      <pubDate>Fri, 10 Jul 2026 13:03:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?</title>
-      <link>https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories</link>
-      <description>“I get hungry for a meal at a good restaurant.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7c0bcc504014e17c</guid>
-      <pubDate>Fri, 10 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Landon Donovan says there’s ‘zero chance’ he could’ve afforded to play youth soccer in America if he was a kid today</title>
-      <link>https://www.marketwatch.com/story/landon-donovan-says-theres-zero-chance-he-could-have-afforded-to-play-youth-soccer-if-he-was-a-kid-today-e32e905f?mod=mw_rss_topstories</link>
-      <description>The U.S. men’s soccer team once again didn’t make it past the Round of 16 in the World Cup — and some say the high cost to play youth soccer in America could be a key reason.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-82f7224308b42721</guid>
-      <pubDate>Fri, 10 Jul 2026 12:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chip giant SK Hynix raises $26.5bn in mega US share sale</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-7f151ce4d4a99605</guid>
-      <pubDate>Fri, 10 Jul 2026 12:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man nearly sucked out of window mid-air on Ryanair plane, passengers say</title>
-      <link>https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-7d1c3321544cc26c</guid>
-      <pubDate>Fri, 10 Jul 2026 12:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Deutsche Telekom is rewiring telecommunications with AI</title>
-      <link>https://openai.com/index/deutsche-telekom</link>
-      <description>How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-027b05f9d0faae18</guid>
-      <pubDate>Fri, 10 Jul 2026 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
