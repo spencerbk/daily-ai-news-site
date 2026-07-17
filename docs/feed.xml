@@ -5,8 +5,167 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 13:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:30:15 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Is SpaceX’s stock a bust because it fell below $135? Look what happened after Meta’s IPO.</title>
+      <link>https://www.marketwatch.com/story/is-spacexs-stock-a-bust-because-it-fell-below-135-look-what-happened-after-metas-ipo-baed7e68?mod=mw_rss_topstories</link>
+      <description>Close to half of major IPOs sink below their offering price — and stay there for several years. Here’s why SpaceX is no different.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-0d59dc1e46babf40</guid>
+      <pubDate>Fri, 17 Jul 2026 13:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now</title>
+      <link>https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories</link>
+      <description>Veteran venture capitalist weighs in on the AI bubble and four huge opportunities he missed.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2a3c9468536fd673</guid>
+      <pubDate>Fri, 17 Jul 2026 13:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran War Live Updates: U.S. Hits Bridges and a Port in Country’s South, Iranian Media says</title>
+      <link>https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz</link>
+      <description>The U.S. military’s Central Command said the latest round of attacks had “hit dozens of Iranian military targets” but made no mention of civilian infrastructure.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ccf6e541c82f5932</guid>
+      <pubDate>Fri, 17 Jul 2026 13:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran-U.S. Talks: How 4 Negotiators Would Approach Diplomacy</title>
+      <link>https://www.nytimes.com/2026/07/17/world/middleeast/iran-us-war-peace-talks-strategies.html</link>
+      <description>First step: Agree on a goal.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-98f9132b98eac5c3</guid>
+      <pubDate>Fri, 17 Jul 2026 13:06:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Russian Political Battle Ends With a Visit From Masked Men</title>
+      <link>https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html</link>
+      <description>Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-f5a2559f4f24b3b5</guid>
+      <pubDate>Fri, 17 Jul 2026 13:02:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uganda suspends school trips after 20 pupils die in bus crash</title>
+      <link>https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Thousands are killed on Uganda's roads each year but this is one of its deadliest accidents involving children.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-4c300e4125ce7a50</guid>
+      <pubDate>Fri, 17 Jul 2026 12:25:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the first GPU financiers are turning to inference chips in a $400 million deal</title>
+      <link>https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</link>
+      <description>A $400 million chip-backed loan points to the next wave of AI infrastructure deals.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-2861dc09b67c80d8</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump alleges China meddled in 2020 election and questions voting security ahead of midterms</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-0a60831426e08846</guid>
+      <pubDate>Fri, 17 Jul 2026 11:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A scorecard for the AI age</title>
+      <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
+      <description>Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-3ebda52fc80ebe33</guid>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy</title>
+      <link>https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html</link>
+      <description>The IPO of India's largest asset manager closed on Thursday, drawing keen interest from institutional investors.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-126356d7e89676a5</guid>
+      <pubDate>Fri, 17 Jul 2026 03:54:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spot birds not golf</title>
+      <link>https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</link>
+      <description>Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby! Google used 10.9 billion gallons in 2025, so about 30 million gallons per day. The Coachella Valley has 120 golf courses each using ~800 acre-feet per year, which is ~750,000 gallons per day. So Google buying up 40 of those courses (1/3) should do the trick. Tags: ai-energy-usage, ai</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-8840673948d8c1a8</guid>
+      <pubDate>Fri, 17 Jul 2026 02:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing</title>
+      <link>https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest</link>
+      <description>a great week for open models continues.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-08f77354ddc37235</guid>
+      <pubDate>Fri, 17 Jul 2026 01:46:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firefox in WebAssembly</title>
+      <link>https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything</link>
+      <description>Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly, running in Chrome: They chose Firefox/Gecko because it has strong single-process support. The project used an estimated $25,000 worth of Claude Opus and Fable tokens, but took advantage of a Claude Max subscription plan so cost much less in actual dollars. The demo funnels all traffic over a WebSocket protocol (using the Wisp protocol) through Puter's server - a requirement to get this kind of thing to work because code running in browsers can't open arbitrary network connections. (That proxying sounds expensive! The team had to scale the servers up to handle the traffic during the Hacker News conversation about the project.) Puter claim this supports end-to-end encryption and that looks to be true - I inspected the WebSocket messages and traffic to my own HTTPS site was encrypted whereas requests and responses to http://www.example.com/ were in cleartext. Here's the repo for firefox-wasm. theogbob/WebkitWasm is a similar project that compiles WebKit to WASM, but that one doesn't currently have an accessible online demo. Via Hacker News Tags: browsers, firefox, ai, webassembly, generative-ai, llms, ai-assisted-programming, claude, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-d54546b30bf811a4</guid>
+      <pubDate>Thu, 16 Jul 2026 23:34:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's official: EU will force Google to share search data and open up AI on Android</title>
+      <link>https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/</link>
+      <description>Google says these changes could endanger user privacy and security.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-07ed030492571bc5</guid>
+      <pubDate>Thu, 16 Jul 2026 20:41:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>xAI can’t deny Grok makes CSAM anymore. So it’s suing users.</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</link>
+      <description>Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-23cebf3a219de505</guid>
+      <pubDate>Thu, 16 Jul 2026 20:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Vids now lets you star in your own AI videos</title>
+      <link>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</link>
+      <description>Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c590dbac4bda22ef</guid>
+      <pubDate>Thu, 16 Jul 2026 18:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York governor says she&amp;#8217;s using AI to analyze &amp;#8216;every single rule&amp;#8217; in the state</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies</link>
+      <description>New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using "AI to analyze every single rule, regulation, [and] policy" to check for outdated […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-3ba9165b869acc19</guid>
+      <pubDate>Thu, 16 Jul 2026 17:58:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pulse: Grok’s CLI caught uploading all your local files to the cloud</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading</link>
+      <description>Also: engineering leaders concerned about continued increase in code review load, devs at enterprises surprised by high enterprise pricing, and more</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-1bed9fef2ad668a6</guid>
+      <pubDate>Thu, 16 Jul 2026 16:48:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-ff8c14b3821e60f1</guid>
+      <pubDate>Thu, 16 Jul 2026 16:01:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google is renaming NotebookLM to Gemini Notebook</title>
+      <link>https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm</link>
+      <description>Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-79ed56faeda92346</guid>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>You are missing the bond deal of the decade — and it is guaranteed to beat inflation</title>
       <link>https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories</link>
@@ -641,166 +800,6 @@
       <category>simonwillison</category>
       <guid isPermaLink="false">news-a88663736fbe0de1</guid>
       <pubDate>Sun, 12 Jul 2026 20:55:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lorde says Ray-Ban Meta AI glasses are ‘not sexy’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy</link>
-      <description>Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-795fd22cc6f50ca9</guid>
-      <pubDate>Sun, 12 Jul 2026 20:10:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple’s failed self-driving car program left a legacy of powerful AI chips</title>
-      <link>https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra</link>
-      <description>Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-5bbc3a5ef63f4579</guid>
-      <pubDate>Sun, 12 Jul 2026 16:27:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium</title>
-      <link>https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html</link>
-      <description>The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-ec91151f09f862e2</guid>
-      <pubDate>Sun, 12 Jul 2026 13:23:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a "true American patriot" who will be "greatly missed".</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-8ae6e20b0fee02c3</guid>
-      <pubDate>Sun, 12 Jul 2026 13:10:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.K. Police Make New Arrest in Killing of Ex-Lawmaker</title>
-      <link>https://www.nytimes.com/2026/07/12/world/europe/ann-widdecombe-arrest-uk.html</link>
-      <description>A 28-year-old man was detained on Saturday in connection with the death of Ann Widdecombe, a former Parliament member, the police said. Another man arrested on Friday was later released.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-8570c5ba81ef4033</guid>
-      <pubDate>Sun, 12 Jul 2026 13:02:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The stock-market rally now hinges more on AI than oil</title>
-      <link>https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories</link>
-      <description>As earnings season kicks off, AI investment remains front and center.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-5e5b1efe014117ff</guid>
-      <pubDate>Sun, 12 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s a look at the heavy strikes in recent days.</title>
-      <link>https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes</link>
-      <description>The attack</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-f8bbba3741faf941</guid>
-      <pubDate>Sun, 12 Jul 2026 12:28:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>The fight against AI data centers is just beginning</title>
-      <link>https://www.theverge.com/column/963346/ai-data-centers-fight</link>
-      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-36d5f814be20fea4</guid>
-      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Badly burned British couple rescued from ravine during Spain wildfires, reports say</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-cecfc532df2763d5</guid>
-      <pubDate>Sun, 12 Jul 2026 11:23:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>sqlite-utils 4.1</title>
-      <link>https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</link>
-      <description>Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago, introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Python code (or a path to a .py file) that defines a rows() function or rows iterable of rows to insert, as an alternative to importing from a file. (#684) sqlite-utils already had features that allow you to pass blocks of Python code as CLI arguments, for example this one for the sqlite-utils convert command: sqlite-utils convert content.db articles headline ' def convert(value): return value.upper()' Allowing blocks of code to generate new rows directly was on obvious extension of that pattern: sqlite-utils insert data.db creatures --code ' def rows(): yield {"id": 1, "name": "Cleo"} yield {"id": 2, "name": "Suna"} ' --pk id sqlite-utils insert and sqlite-utils upsert now accept --type column-name type to override the type automatically chosen when the table is created. This is useful for CSV or TSV columns such as ZIP codes that look like integers but should be stored as TEXT to preserve leading zeros. (#131) A long-standing feature request which turned out to be a simple implementation. New table.drop_index(name) method and sqlite-utils drop-index command for dropping an index by name. Both accept ignore=True/--ignore to ignore a missing index. (#626) sqlite-utils query can now read the SQL query from standard input by passing - in place of the query, for example echo "select * from dogs" | sqlite-utils query dogs.db -. (#765) Two more small features. I had Codex review all open issues and highlight the easiest ones! sqlite-utils upsert can now infer the primary key of an existing table, so --pk can be omitted when upserting into a table that already has a primary key. Another Codex suggestion, an obvious missing CLI feature from a Python library improvement that shipped in the 4.0 release. table.transform() and table.transform_sql() now accept strict=True or strict=False to change a table’s SQLite strict mode. Omitting the option preserves the existing mode. (#787) The sqlite-utils transform command now accepts --strict and --no-strict to change a table’s strict mode. (#787) These two were inspired by Prefer STRICT tables in SQLite by Evan Hahn, which did the rounds on Hacker News today. Evan pointed out that: Unfortunately, I don’t think there’s a way to ALTER a table to make it strict. I think you have to copy the data out of the non-strict table into the strict one. That's exactly what the sqlite-utils transform mechanism does, so I extended it to add the ability to switch tables from strict to non-strict and vice-versa. Here's the GPT-5.6 Sol xhigh Codex transcript I used to implement those new strict table features. One of the most useful prompts I ran was this one: use uv run python -c and manually exercise the new .transform(strict=) option, see if you can find any edge-cases or bugs Effectively telling the model to manually test its work, outside of the automated tests it had already written. This turned up two minor issues that we then fixed. Tags: projects, python, sqlite, sqlite-utils, annotated-release-notes, ai-assisted-programming</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-03499c68059edb51</guid>
-      <pubDate>Sat, 11 Jul 2026 23:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?</title>
-      <link>https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories</link>
-      <description>“My house shook violently from the wind.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-be9b8e2aa65c3ea0</guid>
-      <pubDate>Sat, 11 Jul 2026 21:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>These underperforming trades could yield big returns over next six months</title>
-      <link>https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html</link>
-      <description>ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-17487260effc4970</guid>
-      <pubDate>Sat, 11 Jul 2026 15:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
-      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
-      <description>ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-e7fba57de10c4cc9</guid>
-      <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?</title>
-      <link>https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html</link>
-      <description>During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-06186b66332a0264</guid>
-      <pubDate>Sat, 11 Jul 2026 13:26:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man Arrested in Killing of U.K. Ex-Lawmaker Is Released</title>
-      <link>https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html</link>
-      <description>The police said the 26-year-old was no longer part of the investigation into the death of Ann Widdecombe and urged anyone with information about the crime to come forward.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-f027c736aac8c3d7</guid>
-      <pubDate>Sat, 11 Jul 2026 13:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?</title>
-      <link>https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories</link>
-      <description>“I have very little money, while my ex’s financial statements show assets in the millions.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-99afdf0d6efac6f9</guid>
-      <pubDate>Sat, 11 Jul 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>US wants Iran to pledge to stop shooting at ships in Strait of Hormuz</title>
-      <link>https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-93ed358829db0a59</guid>
-      <pubDate>Sat, 11 Jul 2026 13:14:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>US pays out $3m to victims of mystery Havana Syndrome condition reported by spies</title>
-      <link>https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>US officials and diplomats and their families began reporting a mysterious illness a decade ago.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-d669ffca3fef186c</guid>
-      <pubDate>Sat, 11 Jul 2026 13:11:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boat Carrying Dozens of Tourists Capsizes in Vietnam</title>
-      <link>https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html</link>
-      <description>A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam. Local media reported that 15 people had died and that the others had been rescued.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-6eb865018f6a2177</guid>
-      <pubDate>Sat, 11 Jul 2026 13:10:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Day-to-day dread’ haunts frustrated job seekers in era of low hiring. When will it end?</title>
-      <link>https://www.marketwatch.com/story/day-to-day-dread-haunts-frustrated-job-seekers-in-era-of-low-hiring-when-will-it-end-76640caf?mod=mw_rss_topstories</link>
-      <description>Finding a job was easy a few years ago. Now, Americans are worried about their job prospects, even though the unemployment rate is historically low.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7c4605e411f5e765</guid>
-      <pubDate>Sat, 11 Jul 2026 12:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
