@@ -5,8 +5,175 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 13:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:30:22 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Russia and Ukraine Trade Deadly Blows With Missiles and Drones</title>
+      <link>https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html</link>
+      <description>Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated an air campaign.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-8d5d1525885ed12b</guid>
+      <pubDate>Fri, 24 Jul 2026 13:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?</title>
+      <link>https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories</link>
+      <description>“We live in a house that I purchased entirely with money I had before we were married.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-d0eca17149fa9e56</guid>
+      <pubDate>Fri, 24 Jul 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tanzanian lecturer arrested over anti-government protests charged with terrorism</title>
+      <link>https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>He is among more than 130 people detained over planned protests calling for democratic reforms.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-fd0e761fa0d57da8</guid>
+      <pubDate>Fri, 24 Jul 2026 12:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>A panicking Fed is just what the bond market needs, says Bank of America’s chief strategist</title>
+      <link>https://www.marketwatch.com/story/a-panicking-fed-is-just-what-the-bond-market-needs-says-bank-of-americas-chief-strategist-c780884c?mod=mw_rss_topstories</link>
+      <description>New Fed Chairman Kevin Warsh probably needs to hike soon to reassure the long end of the Treasury curve, says Bank of America strategist Michael Hartnett.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-620a27bfc5b16956</guid>
+      <pubDate>Fri, 24 Jul 2026 12:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil/heres-the-latest</link>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-9f1e90a97be10bce</guid>
+      <pubDate>Fri, 24 Jul 2026 12:45:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>US hits dozens of countries with new wave of tariffs</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-52a7ef755c17a4d8</guid>
+      <pubDate>Fri, 24 Jul 2026 12:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Korea A.I. Billionaire Ordered to Pay More Than Half a Billion Dollars in ‘Divorce of the Century’</title>
+      <link>https://www.nytimes.com/2026/07/24/world/asia/korea-chey-tae-won-sk-hynix-divorce.html</link>
+      <description>A South Korean court awarded $644 million to Roh Soh-yeong, who had sought much more from her ex-husband, Chey Tae-won, the head of the conglomerate behind SK Hynix.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a84db78262474f86</guid>
+      <pubDate>Fri, 24 Jul 2026 12:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model</title>
+      <link>https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal</link>
+      <description>A HUGE win for BFL!</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-1651e280128c3d7c</guid>
+      <pubDate>Fri, 24 Jul 2026 04:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S., other nations back open-source AI with 'strong security' at China summit</title>
+      <link>https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html</link>
+      <description>The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-59b002cb99d47d47</guid>
+      <pubDate>Fri, 24 Jul 2026 02:42:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI guardrails are impeding the work of offensive cybersecurity researchers</title>
+      <link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
+      <description>We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-2a6bd5e0331119fb</guid>
+      <pubDate>Fri, 24 Jul 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
+      <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
+      <description>The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code: Hugging Face has an enormous attack surface. They have more interfaces than I can count which run untrusted models and code. While they definitely have invested in defences, by nature of their operating model they do have many more opportunities to be attacked than many other services. I certainly don't envy their cybersecurity teams. Secondly, one of the things that has puzzled me is how OpenAI didn't notice that their sandbox had been so thoroughly breached by the agent. Surely they'd be monitoring network traffic closely? Martin points out that: It's also likely they were running a huge amount of benchmarks simultaneously with ~unlimited token budgets - you want as many samples as possible to figure out how good a model is at a certain benchmark. It may also be they are testing various different checkpoints of the model too, understanding how the model is improving as it goes through the various training stages. The mistakes made by the OpenAI team running this benchmark are easier to imagine when you think about the scale at which benchmarks of this kind usually operate. For all we know they could have been subjecting a new model to dozens of benchmarks at the same time, in dozens of different environments. Via Lobste.rs Tags: security, ai, openai, generative-ai, llms, hugging-face, ai-security-research</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-dc52ca5a9a9312f4</guid>
+      <pubDate>Thu, 23 Jul 2026 22:53:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copilot cloud agent for Linear is now generally available</title>
+      <link>https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available</link>
+      <description>You can now assign issues in Linear to Copilot cloud agent, our asynchronous, autonomous background agent. When you assign a Linear issue to Copilot, it will: Analyze the issue contents… The post Copilot cloud agent for Linear is now generally available appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-d1636ce0d6d1b1f5</guid>
+      <pubDate>Thu, 23 Jul 2026 22:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alexa Plus is getting an AI update to handle more complicated instructions</title>
+      <link>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</link>
+      <description>Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-c6bad60c590297fa</guid>
+      <pubDate>Thu, 23 Jul 2026 21:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub MCP Server supports the next MCP specification</title>
+      <link>https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification</link>
+      <description>The MCP protocol is going stateless on 28th July 2026, and the GitHub MCP Server supports the latest spec ahead of the official release. What’s changing The new stateless core… The post GitHub MCP Server supports the next MCP specification appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-53c15e4668dbfa9f</guid>
+      <pubDate>Thu, 23 Jul 2026 20:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMD takes on Nvidia with its Helios AI rack-scale system</title>
+      <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
+      <description>AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-264c4ef28eb24c04</guid>
+      <pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/</link>
+      <description>Bill would let Homeland Security chief decide when an AI should be shut down.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-3e38ac33e5b879f9</guid>
+      <pubDate>Thu, 23 Jul 2026 19:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude’s voice mode is now available for Opus and Sonnet</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai</link>
+      <description>Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-77885ca812d6bc37</guid>
+      <pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google just had its first negative cash flow quarter due to massive AI spending</title>
+      <link>https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/</link>
+      <description>Google continues to report big quarterly revenue, but its AI spending has skyrocketed.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-d049e2dcfca2bb1e</guid>
+      <pubDate>Thu, 23 Jul 2026 16:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The case for a cooldown: Why Dependabot now waits before issuing version updates</title>
+      <link>https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/</link>
+      <description>A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-ab3c6b3534f0eb77</guid>
+      <pubDate>Thu, 23 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pulse: Quitting Spotify Podcasts over reliability</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-quitting-spotify-podcasts</link>
+      <description>Also: Chinese open models match closed ones from Anthropic and OpenAI, AWS’s “heart-attack” billing error, and more</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-01df3619cdf60a7b</guid>
+      <pubDate>Thu, 23 Jul 2026 15:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent automation controls in GitHub Issues in public preview</title>
+      <link>https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview</link>
+      <description>Agent automations increasingly label, type, assign, and close issues for you. GitHub Issues now shows the reason behind each change and lets you review them before they’re applied, so you… The post Agent automation controls in GitHub Issues in public preview appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-660c6350b79c6f1d</guid>
+      <pubDate>Thu, 23 Jul 2026 15:30:29 +0000</pubDate>
+    </item>
     <item>
       <title>Why I Sought Out a Taliban Commander I Had Fought</title>
       <link>https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html</link>
@@ -116,6 +283,14 @@
       <link>https://huggingface.co/blog/nunchaku-diffusers</link>
       <category>huggingface-blog</category>
       <guid isPermaLink="false">news-37c9890bc32e7cee</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Launching Health in ChatGPT</title>
+      <link>https://openai.com/index/health-in-chatgpt</link>
+      <description>Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-7569338ee0d35289</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -627,180 +802,6 @@
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-90cef26b7e07e68a</guid>
       <pubDate>Mon, 20 Jul 2026 10:16:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Safety and alignment in an era of long-horizon models</title>
-      <link>https://openai.com/index/safety-alignment-long-horizon-models</link>
-      <description>OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-d4ff9ec891b78868</guid>
-      <pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Sam Altman</title>
-      <link>https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</link>
-      <description>We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can run locally on consumer hardware and release that. We’d like to do it soon, before Stability or someone else does. In general, we think this helps discourage others from releasing similarly-powerful models, and makes it harder for new efforts to get funded. — Sam Altman, Email to OpenAI's board, October 1, 2022 - exposed in Musk v. Altman (2026) Tags: ai-ethics, sam-altman, generative-ai, openai, ai, llms</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-b5d7973c852acead</guid>
-      <pubDate>Mon, 20 Jul 2026 03:47:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to watch for after Jensen Huang’s Japan visit</title>
-      <link>https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/</link>
-      <description>Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-18b4e5bf120fe99f</guid>
-      <pubDate>Sun, 19 Jul 2026 21:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can an Apple lawsuit derail OpenAI’s hardware plans?</title>
-      <link>https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/</link>
-      <description>On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-94f3c8d716243267</guid>
-      <pubDate>Sun, 19 Jul 2026 19:24:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>I hate that I don’t hate this song made with Suno</title>
-      <link>https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music</link>
-      <description>I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-c0ef7a87d4b35aa6</guid>
-      <pubDate>Sun, 19 Jul 2026 17:35:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’</title>
-      <link>https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/</link>
-      <description>"Everybody knows the Greeks are inside."</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-66f92f75ad32b91d</guid>
-      <pubDate>Sun, 19 Jul 2026 14:52:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>US and Iran trade fire after two US soldiers killed in Jordan</title>
-      <link>https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-fdf722c98f4c6909</guid>
-      <pubDate>Sun, 19 Jul 2026 13:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tate brothers arrested in US as further UK charges take total to 59</title>
-      <link>https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-8b7fdb3f783a260e</guid>
-      <pubDate>Sun, 19 Jul 2026 12:53:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kalshi adds 3 million new users as prediction market capitalizes on the World Cup</title>
-      <link>https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html</link>
-      <description>The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the tournament.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-7ba80ee219694ee7</guid>
-      <pubDate>Sun, 19 Jul 2026 12:42:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>I racked up $35,000 in credit-card debt. Should I file for bankruptcy?</title>
-      <link>https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories</link>
-      <description>“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-1de174e7c21df2d1</guid>
-      <pubDate>Sun, 19 Jul 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/heres-the-latest</link>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-4fae5d4532b33709</guid>
-      <pubDate>Sun, 19 Jul 2026 12:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?</title>
-      <link>https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories</link>
-      <description>Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-cb7c88860004a0d4</guid>
-      <pubDate>Sun, 19 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia launches major ballistic missile attack on Ukrainian cities</title>
-      <link>https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-f4bd263aa05900d8</guid>
-      <pubDate>Sun, 19 Jul 2026 11:28:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Mania Is Eviscerating Global Decision-Making</title>
-      <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
-      <description>AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical strategy for an organisation with $2B+ in revenue which was entirely centered around AI. Here's a report from an engineer at a company with a token leaderboard: Checking out a parallel copy of our Go repository and telling the AI to rewrite the whole thing in Zig while I work on something else just so I can keep my job. I particularly enjoyed this conversation with a skeptical executive at an over-enthusiastic company: I asked why this was being repeated without opposition. Was it just sales fluff? The answer was a lot more interesting. It was partially ridiculous sales material being delivered to an easily excitable audience, but this was not the dominant factor constraining honesty. Executives at their customers were saying absurd things about achieving 100x productivity, and this meant that if any executive at the vendor said that these gains were not plausible, it would undermine the credibility of the customer’s executive, be perceived as an attack (or heresy), and possibly result in an enterprise contract cancellation. And getting enterprise contracts cancelled because you wanted to opine on something that doesn’t really matter to your organisation’s mission is a great way to get fired. Via Hacker News Tags: ai, ai-ethics, ai-misuse</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-c54ae55d46e9b8ec</guid>
-      <pubDate>Sun, 19 Jul 2026 05:06:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code uses Bun written in Rust now</title>
-      <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</link>
-      <description>In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust. I found these two commands convincing: strings ~/.local/bin/claude | grep -m1 'Bun v1' For me this outputs Bun v1.4.0 (macOS arm64). The most recent release of Bun on GitHub is currently v1.3.14 from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview of a not-yet-released Bun version. (Update: The Rust version has been released as Bun canary - running bun upgrade --canary will install this release.) strings ~/.local/bin/claude | grep -Eo 'src/[[:alnum:]_./-]+\.rs' This outputs a list of 563 filenames, starting with these: src/runtime/bake/dev_server/mod.rs src/runtime/bake/production.rs src/bundler/bundle_v2.rs It looks like Bun in Rust is indeed being run in production across millions of different devices. Like Jarred said, "Boring is good". Update: Here's a neat trick from Ajan Raj: cat &gt; /tmp/bun-version.ts &lt;&lt;'EOF' console.log("embedded bun:", Bun.version); process.exit(0); EOF BUN_OPTIONS="--preload=/tmp/bun-version.ts" claude --version This outputs 1.4.0 for me. Here's the commit from May 17th that updated the version in package.json to 1.4.0. That version hasn't been changed since then, but also hasn't yet made it into a tagged release outside of canary. Tags: bun, rust, anthropic, claude-code, jarred-sumner</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-165d33e669f422b6</guid>
-      <pubDate>Sun, 19 Jul 2026 03:54:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation</link>
-      <description>Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-3d89d3a43d6e93b9</guid>
-      <pubDate>Sat, 18 Jul 2026 20:54:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimi: Threat or menace?</title>
-      <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
-      <description>Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-80ddfeeeb7a4a3e9</guid>
-      <pubDate>Sat, 18 Jul 2026 18:51:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>SQLite Query Explainer</title>
-      <link>https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</link>
-      <description>Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite: Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite in Python in Pyodide in Web Assembly in the browser and adds a layer of explanation to the results of both EXPLAIN and EXPLAIN QUERY PLAN. Approach with caution, since I don't know enough about SQLite query plans to verify the results myself, but it seems cromulent enough to me. Tags: sql, sqlite, tools, julia-evans, pyodide, claude-mythos-fable</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-ccfb0a129469c16c</guid>
-      <pubDate>Sat, 18 Jul 2026 17:19:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure</title>
-      <link>https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz</link>
-      <description>In the days since the cease-fire unraveled, the United States and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e1f679bd45b7e023</guid>
-      <pubDate>Sat, 18 Jul 2026 13:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/heres-the-latest</link>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e462e438aabdf130</guid>
-      <pubDate>Sat, 18 Jul 2026 13:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>A massive lettuce recall hits home as local restaurants shake up their salad menus</title>
-      <link>https://www.marketwatch.com/story/a-massive-lettuce-recall-hits-home-as-local-restaurants-shake-up-their-salad-menus-15f7ac35?mod=mw_rss_topstories</link>
-      <description>Some independent restaurants are throwing out all their bagged lettuce, while others have found ways to keep serving customers their leafy greens.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-9c554339df658131</guid>
-      <pubDate>Sat, 18 Jul 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel Counters Iranian Spying by Warning Against Recruitment</title>
-      <link>https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html</link>
-      <description>The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-5608cc01788ddb28</guid>
-      <pubDate>Sat, 18 Jul 2026 13:09:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
