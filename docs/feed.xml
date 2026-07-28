@@ -5,8 +5,200 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Recursive Superintelligence signs $410 compute deal with Amazon</title>
+      <link>https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/</link>
+      <description>Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-85087db999842f6e</guid>
+      <pubDate>Tue, 28 Jul 2026 13:19:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say</title>
+      <link>https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami</link>
+      <description>Emergency workers were racing to find people and extinguish fires after the 6.8-magnitude quake struck the southwestern prefecture of Kumamoto.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-c0738cffd9568fec</guid>
+      <pubDate>Tue, 28 Jul 2026 13:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?</title>
+      <link>https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories</link>
+      <description>“I plan to retire at the end of my 70th year and transition to Medicare.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-eccb24e41a37ff35</guid>
+      <pubDate>Tue, 28 Jul 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards</title>
+      <link>https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html</link>
+      <description>One of the largest fires in modern French history is raging near the vineyards of Bordeaux. That is just the latest problem for France’s embattled wine industry.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-cfa91b5979e79a41</guid>
+      <pubDate>Tue, 28 Jul 2026 13:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cuba, Lacking Fuel, Relies on Ingenuity to Defy Trump’s Blockade</title>
+      <link>https://www.nytimes.com/2026/07/27/world/americas/trump-oil-gas-cuba-havana.html</link>
+      <description>President Trump has tried to strangle Cuba by blocking its oil imports. But six months later, the island is finding ways to endure.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ecbb39cc3ef269e3</guid>
+      <pubDate>Tue, 28 Jul 2026 13:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>'It's a hell of a situation': Spain grapples with devastating wildfires</title>
+      <link>https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-3262d6e041011296</guid>
+      <pubDate>Tue, 28 Jul 2026 13:03:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple is now letting you lease an iPhone like a car. Here’s what to know.</title>
+      <link>https://www.marketwatch.com/story/apple-is-now-letting-you-lease-an-iphone-like-a-car-heres-what-to-know-51a10a91?mod=mw_rss_topstories</link>
+      <description>The program represents a historic shift in how the company sells its consumer electronics — just as consumers are worried about high prices.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-e3adcb367ff4903e</guid>
+      <pubDate>Tue, 28 Jul 2026 12:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PayPal delivers an earnings beat — and suggests it’s not against a merger deal</title>
+      <link>https://www.marketwatch.com/story/paypal-delivers-an-earnings-beat-as-investors-await-updates-on-possible-merger-105930b7?mod=mw_rss_topstories</link>
+      <description>“If we see levers or a path that we believe would create superior value for our shareholders than executing our current strategy, we would, of course, carefully consider them,” CEO says</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-e9c8a6c600456de4</guid>
+      <pubDate>Tue, 28 Jul 2026 12:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US singer D4vd to go on trial for murder in death of 14-year-old</title>
+      <link>https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-d3d25218d9380859</guid>
+      <pubDate>Tue, 28 Jul 2026 12:31:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity’s Personal Computer turns Windows PCs into AI agents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents</link>
+      <description>Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a "general-purpose digital worker" that can access local files and apps to perform […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-37db1a04f0b2392c</guid>
+      <pubDate>Tue, 28 Jul 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smart rings are looking like my kind of AI gadget</title>
+      <link>https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index</link>
+      <description>Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-0f6e69dea15d3dcb</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hugging Face is being used to easily undress women and children</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children</link>
+      <description>Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-2a58c8ebd3b148b6</guid>
+      <pubDate>Tue, 28 Jul 2026 09:07:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Much ado about Open Weights</title>
+      <link>https://www.latent.space/p/ainews-much-ado-about-open-weights</link>
+      <description>Everyone is writing a lot, but only Kimi K3 shipped today</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-abde6a421348d459</guid>
+      <pubDate>Tue, 28 Jul 2026 06:20:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing</title>
+      <link>https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/</link>
+      <description>Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-5dd05f1ed5d9e7d2</guid>
+      <pubDate>Tue, 28 Jul 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management</title>
+      <link>https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management</link>
+      <description>This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-4464a24ffd5f77f3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>moonshotai/Kimi-K3</title>
+      <link>https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</link>
+      <description>moonshotai/Kimi-K3 As promised earlier this month, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi introduced their own janky modified version of the MIT license with K2 back in July 2025. That license just added this paragraph requiring attribution beyond a certain size of commercial entity: Our only modification part is that, if the Software (or any derivative works thereof) is used for any of your commercial products or services that have more than 100 million monthly active users, or more than 20 million US dollars (or equivalent in other currencies) in monthly revenue, you shall prominently display "Kimi K2" on the user interface of such product or service. The K3 license no longer calls itself "modified MIT" and goes further, requiring a separate agreement with Moonshot for large "Model as a Service" businesses: If the Licensee or any of its affiliates operates a Model as a Service business, and the aggregate revenue of the Licensee and its affiliates exceeds 20 million US dollars (or the equivalent in other currencies) in total over any consecutive 12 months, the Licensee must enter into a separate agreement with Moonshot AI before using the Software or its derivative works for any commercial purpose. To Kimi's credit, they make no attempt to describe this as an "open source" license in their own materials, consistently using the term "open weight" in its place. OpenRouter is already offering K3 from 7 providers, most of which are at the same $3/million input and $15/million output as Moonshot AI themselves. Tags: ai, generative-ai, llms, llm-pricing, llm-release, ai-in-china, moonshot, kimi, janky-licenses</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-64db355e6a0ca244</guid>
+      <pubDate>Mon, 27 Jul 2026 23:39:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft unveils AI security tools it says outperform competing platforms</title>
+      <link>https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/</link>
+      <description>Microsoft says tools cost less than competing ones and outperform them, too.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-7b818cd68cd5f7ab</guid>
+      <pubDate>Mon, 27 Jul 2026 21:56:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>An opinionated guide to which AI to use to do stuff</title>
+      <link>https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</link>
+      <description>An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful alternative mode. Today it's much more about agentic systems - "where the AI is capable of doing the equivalent of many hours of real human work in one go". Gemini has fallen off Ethan's list, since Google still doesn’t have an established entry in the Codex/ChatGPT Work/Cowork category. Gemini Spark has yet to prove itself! Ethan offers a useful explanation of the ways you can give ChatGPT or Claude a computer to use: To use the computers provided by the AI companies, the mode you want is called ChatGPT Work in ChatGPT, and Cowork in Claude (the naming will not get less confusing, I am sorry to say). [...] The most powerful way to use AI is to give it access to your computer. You do that by downloading the ChatGPT or Claude apps and picking a mode to use. ChatGPT's two agent modes are Work and Codex; Claude's are Cowork and Code. The names do not map onto each other in any way that will help you remember them. And yes, these use the same names as the Work and Cowork modes we discussed above, but operate differently, and have more features and capabilities because they can access your computer. I think the difference between ChatGPT Work on a mobile device and ChatGPT Work inside the desktop app (where it's effectively a less intimidating skin on top of Codex) is spectacularly unintuitive. Short version: if you flip ChatGPT mobile from "Chat" to "Work" mode you get a version where its Code Interpreter container is no longer restricted from accessing the internet! Tags: ai, generative-ai, llms, ethan-mollick, code-interpreter, general-agents</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-def96b54eb52415f</guid>
+      <pubDate>Mon, 27 Jul 2026 21:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Satya Nadella says companies that trust one AI for everything may not survive</title>
+      <link>https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/</link>
+      <description>Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-593821ed005c615b</guid>
+      <pubDate>Mon, 27 Jul 2026 21:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manage GitHub Copilot app access with a dedicated policy</title>
+      <link>https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy</link>
+      <description>The GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels. Until now, access to the Copilot… The post Manage GitHub Copilot app access with a dedicated policy appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-1fe7f694c616fdc7</guid>
+      <pubDate>Mon, 27 Jul 2026 20:43:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>The harness is all you need (mostly)</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/</link>
+      <description>A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-c82b7e99cb9c1aaa</guid>
+      <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent</title>
+      <link>https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app</link>
+      <description>You can now govern the GitHub Copilot app and Copilot cloud agent with enterprise managed settings, the same centrally managed policies you use to control Copilot across your enterprise. With… The post Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-58d617805c7fc609</guid>
+      <pubDate>Mon, 27 Jul 2026 17:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot app for Beginners: Getting started</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/</link>
+      <description>New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-7310f03f0754cef4</guid>
+      <pubDate>Mon, 27 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker</title>
+      <link>https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for</link>
+      <description>The warning shots will continue until civilization wakes up</description>
+      <category>import-ai</category>
+      <guid isPermaLink="false">news-ec1fb6f0e057252d</guid>
+      <pubDate>Mon, 27 Jul 2026 13:30:53 +0000</pubDate>
+    </item>
     <item>
       <title>Oil prices see largest one-day declines in two months after U.S. and Iran pause strikes</title>
       <link>https://www.marketwatch.com/story/oil-prices-see-largest-one-day-declines-in-two-months-amid-pause-in-strikes-d819160a?mod=mw_rss_topstories</link>
@@ -612,197 +804,6 @@
       <category>techcrunch-enterprise</category>
       <guid isPermaLink="false">news-8bdbd9a84622bbb0</guid>
       <pubDate>Thu, 23 Jul 2026 06:09:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro"</title>
-      <link>https://www.latent.space/p/ainews-laguna-s-21-released-cheaper</link>
-      <description>a quiet day lets us highlight a new neolab win.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-43429d78e14c1c8f</guid>
-      <pubDate>Thu, 23 Jul 2026 05:18:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Model Factory — Eiso Kant, Poolside AI</title>
-      <link>https://www.latent.space/p/poolside</link>
-      <description>Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-332d880765debabb</guid>
-      <pubDate>Thu, 23 Jul 2026 05:09:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Seth Larson</title>
-      <link>https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything</link>
-      <description>The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible. — Seth Larson, PyPI blog Tags: packaging, python, supply-chain, pypi, seth-michael-larson</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-d64f4f789af1d5a7</guid>
-      <pubDate>Thu, 23 Jul 2026 04:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bringing Nunchaku 4-bit Diffusion Inference to Diffusers</title>
-      <link>https://huggingface.co/blog/nunchaku-diffusers</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-37c9890bc32e7cee</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Launching Health in ChatGPT</title>
-      <link>https://openai.com/index/health-in-chatgpt</link>
-      <description>Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-7569338ee0d35289</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Thomas Ptacek</title>
-      <link>https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything</link>
-      <description>I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes. — Thomas Ptacek, doesn't think this even needs a frontier model Tags: thomas-ptacek, openai, security, generative-ai, ai-security-research, ai, llms, sandboxing</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-1c709fbdce5f5af7</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>After shocking quarter, IBM insists that AI isn’t killing the mainframe</title>
-      <link>https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/</link>
-      <description>After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-ac40ec794b96ec3f</guid>
-      <pubDate>Wed, 22 Jul 2026 23:47:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Paulson says we are in the early stages of a long-term bull market for gold</title>
-      <link>https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html</link>
-      <description>He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-4cf5f7a389947635</guid>
-      <pubDate>Wed, 22 Jul 2026 22:06:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copilot vs. raw API access: What are you actually paying for?</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/</link>
-      <description>Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-b8eb1fb94832c252</guid>
-      <pubDate>Wed, 22 Jul 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hyundai claims humanoid robot plan is not part of talks with striking workers</title>
-      <link>https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/</link>
-      <description>Union previously warned automaker that any robot deployment must be negotiated.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-46cb8ce6f449e78a</guid>
-      <pubDate>Wed, 22 Jul 2026 18:18:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face</title>
-      <link>https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/</link>
-      <description>"This is day one for cybersecurity in the age of agents," Hugging Face CEO says.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-5d0c6b9d07fb1e21</guid>
-      <pubDate>Wed, 22 Jul 2026 16:47:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Copilot usage metrics impact dashboard</title>
-      <link>https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard</link>
-      <description>We’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is… The post New Copilot usage metrics impact dashboard appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-3710e649c509ac2e</guid>
-      <pubDate>Wed, 22 Jul 2026 16:21:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Agents that Act on Your Behalf with Toolboxes in Foundry</title>
-      <link>https://devblogs.microsoft.com/foundry/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/</link>
-      <description>How Toolboxes in Foundry simplify user delegation At some point, many agents move from answering questions to taking action. And when it does, the question becomes: whose identity is it acting with? Imagine you are building an internal employee agent. It needs to call a private, Entra-protected MCP server for orders, and it also needs to use Microsoft’s managed Work IQ MCP server to reason over the employee’s Microsoft 365 […] The post Building Agents that Act on Your Behalf with Toolboxes in Foundry appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-b091786f1b33815f</guid>
-      <pubDate>Wed, 22 Jul 2026 15:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait</title>
-      <link>https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz</link>
-      <description>President Trump said the United States would target a bridge or power plant, including in or near the Iranian capital, if Iran fired on the Strait of Hormuz. Secretary of State Marco Rubio earlier suggested that Tehran was “not serious” about diplomacy.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-d52b2f17b4869df0</guid>
-      <pubDate>Wed, 22 Jul 2026 13:26:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shares of GE Vernova fall in premarket trading despite raised revenue outlook</title>
-      <link>https://www.marketwatch.com/story/shares-of-ge-vernova-fall-in-premarket-trading-despite-raised-revenue-outlook-6eec9263?mod=mw_rss_topstories</link>
-      <description>The stock declined nearly 5% despite the energy company upgrading its guidance for 2026 revenue by $1 billion.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-3a9ad98131b02b3b</guid>
-      <pubDate>Wed, 22 Jul 2026 13:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari</title>
-      <link>https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</link>
-      <description>We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-4022c61989ed570d</guid>
-      <pubDate>Wed, 22 Jul 2026 13:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s 50% Tariffs on Canada: What to Know, and What’s Next</title>
-      <link>https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html</link>
-      <description>The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-84e8e14feb4144eb</guid>
-      <pubDate>Wed, 22 Jul 2026 13:18:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.</title>
-      <link>https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories</link>
-      <description>The Iran war isn’t causing your energy bill to soar. Blame Wall Street for that.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-764aa3b0d3a9f8e5</guid>
-      <pubDate>Wed, 22 Jul 2026 13:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How news organizations are using AI to advance their vital missions</title>
-      <link>https://openai.com/index/how-news-organizations-are-using-ai</link>
-      <description>News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-130e23c4bd2f87cb</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building AI infrastructure with the Effingham County community</title>
-      <link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
-      <description>OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-bd6ce42035f55001</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Passionfroot raises $15M to expand its B2B creator marketplace to the US</title>
-      <link>https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/</link>
-      <description>Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-858b2ce5d7c2ee2e</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok</title>
-      <link>https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html</link>
-      <description>Now halfway through the year, we’ve made it to 11 of our picks, uncovering lesser-known spots where the American Revolution was fought, all-night parties in Poland and more.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-f968252304d123e6</guid>
-      <pubDate>Wed, 22 Jul 2026 12:58:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>US to announce deal allowing Saudi Arabia a nuclear programme, reports say</title>
-      <link>https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-b9a681b562162f4e</guid>
-      <pubDate>Wed, 22 Jul 2026 12:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police station opens at Hitler's birthplace in bid to rid site of Nazi link</title>
-      <link>https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-7e875643c8c38c21</guid>
-      <pubDate>Wed, 22 Jul 2026 12:32:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
