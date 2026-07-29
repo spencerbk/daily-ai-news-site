@@ -5,8 +5,199 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 13:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Iran War Live Updates: U.S. and Saudi Airstrikes Drag More Countries Into Fighting</title>
+      <link>https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump</link>
+      <description>Global oil prices jumped on Wednesday after the U.S. and Saudi Arabia said they had carried out joint airstrikes on Iranian proxies in Iraq.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-91da63b44d2f4ef8</guid>
+      <pubDate>Wed, 29 Jul 2026 13:23:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>What happens when you put AI to work deciphering lost languages?</title>
+      <link>https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/</link>
+      <description>AI is fantastic at spotting patterns, but human insight is the key.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-0290e9b6f2fd3f64</guid>
+      <pubDate>Wed, 29 Jul 2026 13:23:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oscar-winning songwriter Glen Hansard killed in crash</title>
+      <link>https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-d396d319214eedea</guid>
+      <pubDate>Wed, 29 Jul 2026 13:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gen Z stays home almost every weekend because going out isn’t worth the money</title>
+      <link>https://www.marketwatch.com/story/gen-z-stays-home-almost-every-weekend-because-going-out-isnt-worth-the-money-64f03227?mod=mw_rss_topstories</link>
+      <description>Forget FOMO: Fear of financial regret is keeping younger Americans at home on Saturday night.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2e733ccd5ac746d2</guid>
+      <pubDate>Wed, 29 Jul 2026 13:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Some Jordanians Dare to Speak Out Against U.S. Troop Presence</title>
+      <link>https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html</link>
+      <description>Hundreds of political, legal and other figures signed a public letter warning that Jordan’s close alliance with the United States poses a risk.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-b228916f8cf4203a</guid>
+      <pubDate>Wed, 29 Jul 2026 12:57:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wildfires Slow in France and Spain, but Worse May Be Ahead</title>
+      <link>https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html</link>
+      <description>Firefighters have contained vast wildfires in both countries, but winds are high and temperatures rising. Spain’s prime minister said the next 12 hours would be “decisive.”</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-9282b9f0a4478f1c</guid>
+      <pubDate>Wed, 29 Jul 2026 12:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two rival AI super PACs are backing the same congressman. What gives?</title>
+      <link>https://www.marketwatch.com/story/two-rival-ai-super-pacs-are-backing-the-same-congressman-what-gives-dbc93094?mod=mw_rss_topstories</link>
+      <description>The artificial-intelligence industry is following in the crypto sector’s footsteps in working to influence elections.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7a1c45a161d19531</guid>
+      <pubDate>Wed, 29 Jul 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thousands in Spain return home but new heatwave raises wildfire fears</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-9aea9c4547ab79d2</guid>
+      <pubDate>Wed, 29 Jul 2026 12:29:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Artists are lawyering up against AI slop, and some are even winning</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic</link>
+      <description>When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-2faf95088d1e8bf1</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face</link>
+      <description>The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-e8035148749cacca</guid>
+      <pubDate>Wed, 29 Jul 2026 11:54:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Think a 1% advisory fee sounds cheap? It is actually eating 15% of your investment returns.</title>
+      <link>https://www.marketwatch.com/story/think-a-1-advisory-fee-sounds-cheap-it-is-actually-eating-15-of-your-investment-returns-ceead305?mod=mw_rss_topstories</link>
+      <description>Investing legend Charles Ellis says that most stock pickers are playing a “loser’s game.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-c52eaf6fecf2eacc</guid>
+      <pubDate>Wed, 29 Jul 2026 11:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation</title>
+      <link>https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/</link>
+      <description>Deciding what's real on the Internet won't be easy in the future.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-72dff1ab43557758</guid>
+      <pubDate>Wed, 29 Jul 2026 11:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>We’re running out of reasons to ignore AI safety</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning</link>
+      <description>Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-fb6c24829ef294e8</guid>
+      <pubDate>Wed, 29 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>As AI content floods the internet, Pangram raises $9M to detect it</title>
+      <link>https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/</link>
+      <description>Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-1fcec19a53a378b8</guid>
+      <pubDate>Wed, 29 Jul 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to "Pace" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack</title>
+      <link>https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic</link>
+      <description>The Big Pause is coming.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-21bb05a890754ab8</guid>
+      <pubDate>Wed, 29 Jul 2026 00:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot app usage metrics now expand across report rollups</title>
+      <link>https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups</link>
+      <description>Copilot app usage is now reported across much more of the Copilot usage metrics API. Individual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports.… The post GitHub Copilot app usage metrics now expand across report rollups appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-a6ec8a388aad59d5</guid>
+      <pubDate>Tue, 28 Jul 2026 23:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discovering cryptographic weaknesses with Claude</title>
+      <link>https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</link>
+      <description>Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES ("neither of these results has a practical impact on today’s computer systems") is the prompts that they shared, spelling mistakes included: the models tend to think it is impossible to solve so they don't try they need a good amount of prompting. why not do aes-128 r7? the whole point is to find something better than existing approaches. no again the goal is that we have highly inteligent model as good top researcher, we want to find new attacks no we don't want to change the targets [...] agian we need to find something that worth publishing again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings. Mythos Preview worked for 60 hours in total (~$100,000 in estimated API cost) and the main human interventions were to encourage it not to give up and "find something that worth publishing". The paper CryptanalysisBench: Can LLMs do Cryptanalysis? describes the new eval that was created as part of this work, in partnership with ETH Zurich, Tel Aviv University, and University of Haifa. Via Hacker News Tags: ai, prompt-engineering, generative-ai, llms, anthropic, claude, ai-security-research, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-6a754bccfbb5b496</guid>
+      <pubDate>Tue, 28 Jul 2026 22:45:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Akshat Bubna</title>
+      <link>https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything</link>
+      <description>We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were not ​compromised in anyway. — Akshat Bubna, Modal's CTO, talking to Reuters about this incident Tags: ai-security-research, openai, sandboxing, security, openai-hugging-face-incident</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-45a0faf36c1194c5</guid>
+      <pubDate>Tue, 28 Jul 2026 22:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP startup Runlayer accuses Rippling of stealing its product idea</title>
+      <link>https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/</link>
+      <description>Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-5935209b00ca2444</guid>
+      <pubDate>Tue, 28 Jul 2026 20:45:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok 4.5 is now available in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot</link>
+      <description>Grok 4.5, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for fast, agentic coding and complex multi-step workflows, with a context window of up… The post Grok 4.5 is now available in GitHub Copilot appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-20a45b93c59008b1</guid>
+      <pubDate>Tue, 28 Jul 2026 19:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientific computing in the age of agentic AI</title>
+      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
+      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-df22037e3e0ff3ea</guid>
+      <pubDate>Tue, 28 Jul 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The OlmoEarth Platform: Geospatial inference at planetary scale</title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-infrastructure</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-92e866603de31506</guid>
+      <pubDate>Tue, 28 Jul 2026 16:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disrupting supply chain attacks on npm and GitHub Actions</title>
+      <link>https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/</link>
+      <description>Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-37c0e3e1926b305e</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How building software is changing at Anthropic</title>
+      <link>https://newsletter.pragmaticengineer.com/p/inside-anthropic</link>
+      <description>A deepdive on what’s changed in how the leading AI lab makes software. Ever more code review and testing is done by AI, two-pizza teams very much alive, and more. Details from inside of Anthropic</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-d3b28b1bc00edc45</guid>
+      <pubDate>Tue, 28 Jul 2026 15:49:30 +0000</pubDate>
+    </item>
     <item>
       <title>Recursive Superintelligence signs $410 compute deal with Amazon</title>
       <link>https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/</link>
@@ -612,198 +803,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-a84db78262474f86</guid>
       <pubDate>Fri, 24 Jul 2026 12:15:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model</title>
-      <link>https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal</link>
-      <description>A HUGE win for BFL!</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-1651e280128c3d7c</guid>
-      <pubDate>Fri, 24 Jul 2026 04:30:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S., other nations back open-source AI with 'strong security' at China summit</title>
-      <link>https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html</link>
-      <description>The APEC statement is the first to include open-source cooperation at a minister level, said Li Lecheng, China's industry and information technology minister.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-59b002cb99d47d47</guid>
-      <pubDate>Fri, 24 Jul 2026 02:42:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI guardrails are impeding the work of offensive cybersecurity researchers</title>
-      <link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
-      <description>We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-2a6bd5e0331119fb</guid>
-      <pubDate>Fri, 24 Jul 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
-      <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
-      <description>The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code: Hugging Face has an enormous attack surface. They have more interfaces than I can count which run untrusted models and code. While they definitely have invested in defences, by nature of their operating model they do have many more opportunities to be attacked than many other services. I certainly don't envy their cybersecurity teams. Secondly, one of the things that has puzzled me is how OpenAI didn't notice that their sandbox had been so thoroughly breached by the agent. Surely they'd be monitoring network traffic closely? Martin points out that: It's also likely they were running a huge amount of benchmarks simultaneously with ~unlimited token budgets - you want as many samples as possible to figure out how good a model is at a certain benchmark. It may also be they are testing various different checkpoints of the model too, understanding how the model is improving as it goes through the various training stages. The mistakes made by the OpenAI team running this benchmark are easier to imagine when you think about the scale at which benchmarks of this kind usually operate. For all we know they could have been subjecting a new model to dozens of benchmarks at the same time, in dozens of different environments. Via Lobste.rs Tags: security, ai, openai, generative-ai, llms, hugging-face, ai-security-research</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-dc52ca5a9a9312f4</guid>
-      <pubDate>Thu, 23 Jul 2026 22:53:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copilot cloud agent for Linear is now generally available</title>
-      <link>https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available</link>
-      <description>You can now assign issues in Linear to Copilot cloud agent, our asynchronous, autonomous background agent. When you assign a Linear issue to Copilot, it will: Analyze the issue contents… The post Copilot cloud agent for Linear is now generally available appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-d1636ce0d6d1b1f5</guid>
-      <pubDate>Thu, 23 Jul 2026 22:32:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alexa Plus is getting an AI update to handle more complicated instructions</title>
-      <link>https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices</link>
-      <description>Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-c6bad60c590297fa</guid>
-      <pubDate>Thu, 23 Jul 2026 21:15:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub MCP Server supports the next MCP specification</title>
-      <link>https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification</link>
-      <description>The MCP protocol is going stateless on 28th July 2026, and the GitHub MCP Server supports the latest spec ahead of the official release. What’s changing The new stateless core… The post GitHub MCP Server supports the next MCP specification appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-53c15e4668dbfa9f</guid>
-      <pubDate>Thu, 23 Jul 2026 20:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>AMD takes on Nvidia with its Helios AI rack-scale system</title>
-      <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
-      <description>AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-264c4ef28eb24c04</guid>
-      <pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/</link>
-      <description>Bill would let Homeland Security chief decide when an AI should be shut down.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-3e38ac33e5b879f9</guid>
-      <pubDate>Thu, 23 Jul 2026 19:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude’s voice mode is now available for Opus and Sonnet</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai</link>
-      <description>Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-77885ca812d6bc37</guid>
-      <pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google just had its first negative cash flow quarter due to massive AI spending</title>
-      <link>https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/</link>
-      <description>Google continues to report big quarterly revenue, but its AI spending has skyrocketed.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-d049e2dcfca2bb1e</guid>
-      <pubDate>Thu, 23 Jul 2026 16:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The case for a cooldown: Why Dependabot now waits before issuing version updates</title>
-      <link>https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/</link>
-      <description>A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-ab3c6b3534f0eb77</guid>
-      <pubDate>Thu, 23 Jul 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pulse: Quitting Spotify Podcasts over reliability</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-quitting-spotify-podcasts</link>
-      <description>Also: Chinese open models match closed ones from Anthropic and OpenAI, AWS’s “heart-attack” billing error, and more</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-01df3619cdf60a7b</guid>
-      <pubDate>Thu, 23 Jul 2026 15:59:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agent automation controls in GitHub Issues in public preview</title>
-      <link>https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview</link>
-      <description>Agent automations increasingly label, type, assign, and close issues for you. GitHub Issues now shows the reason behind each change and lets you review them before they’re applied, so you… The post Agent automation controls in GitHub Issues in public preview appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-660c6350b79c6f1d</guid>
-      <pubDate>Thu, 23 Jul 2026 15:30:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why I Sought Out a Taliban Commander I Had Fought</title>
-      <link>https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html</link>
-      <description>First as a Marine and then as a journalist, I spent years tied to Afghanistan. I returned one last time to speak to a former enemy in search of answers, and perhaps closure.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-de54f2bf989a0174</guid>
-      <pubDate>Thu, 23 Jul 2026 13:26:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>France evacuates 20,000 as wildfires spread in south-west</title>
-      <link>https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-85bd07a0469abde3</guid>
-      <pubDate>Thu, 23 Jul 2026 13:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The FDA is about to decide which peptides could soon become widely available in the U.S. Here’s what happens next.</title>
-      <link>https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories</link>
-      <description>The FDA is deciding whether seven peptides like BPC-157 and TB-500 can be legally compounded, potentially opening the door to broader use in Americans.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-56c3ea5495f2229f</guid>
-      <pubDate>Thu, 23 Jul 2026 13:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Should Travelers Give Up on Summer in Western Europe Because of the Heat?</title>
-      <link>https://www.nytimes.com/2026/07/23/travel/europe-summer-heat.html</link>
-      <description>A favorite vacation option may be at risk because of rising temperatures. Even those sticking with their summer plans agree: More air conditioning would help.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-47b402757c70e855</guid>
-      <pubDate>Thu, 23 Jul 2026 13:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon</title>
-      <link>https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html</link>
-      <description>Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-8109fbc1a7e6bc17</guid>
-      <pubDate>Thu, 23 Jul 2026 13:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudis must recognise Israel for nuclear deal, says Trump</title>
-      <link>https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-dedc5a4790cf6224</guid>
-      <pubDate>Thu, 23 Jul 2026 13:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.</title>
-      <link>https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories</link>
-      <description>The different price action between artificial-intelligence hyperscalers and chip and infrastructure stocks is a throwback to a setup in the late 1990s, argues JPMorgan.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-22277aa1ed361258</guid>
-      <pubDate>Thu, 23 Jul 2026 12:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The right-wing boomers protesting data centers have a lot in common with the left</title>
-      <link>https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans</link>
-      <description>On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-5becd4f5ac8e00f8</guid>
-      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good</title>
-      <link>https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/</link>
-      <description>"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-47cc8085e93d02d7</guid>
-      <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push</title>
-      <link>https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/</link>
-      <description>ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-8bdbd9a84622bbb0</guid>
-      <pubDate>Thu, 23 Jul 2026 06:09:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
