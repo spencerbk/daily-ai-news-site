@@ -5,8 +5,191 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 13:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Why your Amazon order confirmation emails have become so unhelpful</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</link>
+      <description>Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. "Your Beauty item is confirmed!" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: "Ordered: […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-a3faa36ed3181d98</guid>
+      <pubDate>Tue, 11 Aug 2026 13:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Social Media Sparked a Refugee Crisis Between Spain and Morocco</title>
+      <link>https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html</link>
+      <description>A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-fadc666b19810527</guid>
+      <pubDate>Tue, 11 Aug 2026 13:23:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>At least 169 killed in Colombia's largest  earthquake in years</title>
+      <link>https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-4152215b50c3a67e</guid>
+      <pubDate>Tue, 11 Aug 2026 13:21:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?</title>
+      <link>https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories</link>
+      <description>”We don’t live lavishly, and sometimes we both think maybe we could upgrade a few things.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-16825d89a2ed967b</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify says it won&amp;#8217;t recommend music from &amp;#8216;AI Personas&amp;#8217;</title>
+      <link>https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations</link>
+      <description>Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an "AI Persona" badge on an artist's profile across the app if they do "not represent a real person." The music streaming platform will allow artists to disclose that they're […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-5f3f98dab4f3c20b</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker</title>
+      <link>https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html</link>
+      <description>The Castro family envoy, Raúl G. Rodríguez Castro, who has been in talks with the Trump administration, was once named in a case targeting a Cuban smuggling ring.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-22989295aa6e3279</guid>
+      <pubDate>Tue, 11 Aug 2026 12:44:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to Know About the Cuban Mafia in Quintana Roo</title>
+      <link>https://www.nytimes.com/2026/08/11/world/americas/cuban-mafia-quintana-roo.html</link>
+      <description>A group of Cuban men in Mexico was charged with smuggling people to the United States. One of its leaders said Raúl Castro’s grandson helped, according to interviews and court records.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ed737e47b8970288</guid>
+      <pubDate>Tue, 11 Aug 2026 12:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.</title>
+      <link>https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories</link>
+      <description>Lazard portfolio manager Bertrand Cliquet says infrastructure companies are worth more than the AI hype sometimes linked to them.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2c441b050308957b</guid>
+      <pubDate>Tue, 11 Aug 2026 12:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude will apply invisible watermarks to AI text and images</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images</link>
+      <description>Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. "Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported," Anthropic says on a new Claude support page. The changes are invisible to human […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-fe459dc13f2f6664</guid>
+      <pubDate>Tue, 11 Aug 2026 12:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic says it will watermark text generated by its AI models</title>
+      <link>https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/</link>
+      <description>Anthropic will extend support for watermarking AI generations for older models as well.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-6899735f131adbde</guid>
+      <pubDate>Tue, 11 Aug 2026 12:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?</title>
+      <link>https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html</link>
+      <description>The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-2ce051da9bc33f15</guid>
+      <pubDate>Tue, 11 Aug 2026 11:15:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia</title>
+      <link>https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-427cd01bc9b5a366</guid>
+      <pubDate>Tue, 11 Aug 2026 10:43:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise</title>
+      <link>https://www.latent.space/p/ainews-muse-glimmer-and-spark-open</link>
+      <description>a small win for american open models - Glimmer runs on a fits on a single RTX 3090!</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-8db30b5e91e1f45f</guid>
+      <pubDate>Tue, 11 Aug 2026 05:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI reportedly completed a $7 billion employee tender offer</title>
+      <link>https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/</link>
+      <description>San Francisco's housing market is in trouble again.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-1353da4a7fa7cf9e</guid>
+      <pubDate>Tue, 11 Aug 2026 00:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Muse Glimmer</title>
+      <link>https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything</link>
+      <description>Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to have optimized it for exactly the kind of things I'm looking for in a local model: End-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds, write and debug code, and resolve multi-turn requests from start to finish. Reliable Tool Use. The model handles a wide range of function calls, invoking tools with precise schemas throughout extended workflows. Multi-Step Reasoning. Muse Glimmer chains reasoning over long horizons, sustaining coherent plans across complex, extended workflows. [...] Here's a pelican which I generated using LM Studio's 18.16 GB version of the model: I also tried it out with my llm-coding-agent plugin, running against a fresh checkout of Datasette with the prompt: how does auth work? Here's the response, at the end of a long transcript showing all of the tool calls it made to explore the codebase. I ran this using llm-lmstudio with this patch applied to upgrade it for compatibility with LLM 0.32. I really like this size of model, because if a machine has 32 GB of RAM or more (mine has 128GB) it leaves plenty of space for running other applications at the same time. Glimmer is a vision model, so I asked it to describe this image: llm -m lmstudio/meta/muse-glimmer -a https://static.inaturalist.org/photos/714731804/large.jpg 'describe image' Here's what I got back: The photograph shows a rocky, breakwater-style shoreline on an overcast day with a smooth, gray body of water and a faint dock/pier line in the soft-focused background. In the foreground two large brown pelicans, Pelecanus occidentalis, are perched on the jumbled gray-white stones. They have the species’ characteristic long, down-curved yellow-orange bills with a large throat pouch, long slender necks and mottled brown-gray plumage on the back and wings. The pelican on the left is turned slightly toward the camera and appears to be preening or resting its bill against its chest; a pale, whitish patch is visible on the crown and nape and a small crest of feathers is raised. The pelican on the right faces mostly forward/right, its head up, bill pointing down and to the right, with the same pale head markings and the barred, darker wing feathers clearly visible. Scattered among the rocks around the two pelicans are several much smaller dark birds — gulls/tern-like birds in muted brown-gray plumage. One dark bird sits on the far left on a rock, another brownish bird stands to the right of the right-hand pelican, a grayish bird with a reddish bill is in the lower right foreground, and a further small dark bird is at the extreme right edge of the frame. The overall light is flat and diffused, giving the water and sky a muted, almost monochromatic palette that contrasts with the textured rock and the detailed feathering of the pelicans. The composition places the two big birds as the dominant subjects, framed against the calm water and the low, rocky perch. Via Hacker News Tags: ai, generative-ai, llama, local-llms, llms, llm, vision-llms, meta, pelican-riding-a-bicycle, llm-release</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-8aaf1cb28862e975</guid>
+      <pubDate>Mon, 10 Aug 2026 23:56:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Now Rippling is counter-suing tiny startup Runlayer</title>
+      <link>https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/</link>
+      <description>This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-212e97818e468d8e</guid>
+      <pubDate>Mon, 10 Aug 2026 22:26:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>With new open models, Meta pitches another reboot of its struggling AI strategy</title>
+      <link>https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/</link>
+      <description>Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-2d01a61a8baa64ee</guid>
+      <pubDate>Mon, 10 Aug 2026 22:13:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using the GitHub Copilot SDK for Java</title>
+      <link>https://github.blog/engineering/using-the-github-copilot-sdk-for-java/</link>
+      <description>Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-56256fe3bcc1ee5d</guid>
+      <pubDate>Mon, 10 Aug 2026 19:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What building an AI-native finance function taught me</title>
+      <link>https://openai.com/index/building-an-ai-native-finance-function</link>
+      <description>OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-7a678e9a26d7e264</guid>
+      <pubDate>Mon, 10 Aug 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS</title>
+      <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-e5b664a37aa39848</guid>
+      <pubDate>Mon, 10 Aug 2026 16:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision</title>
+      <link>https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/</link>
+      <description>Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-e7d6356c97dc9ba4</guid>
+      <pubDate>Mon, 10 Aug 2026 16:20:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copilot on web expands conversation controls</title>
+      <link>https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls</link>
+      <description>We’ve made improvements to Copilot Chat on github.com that make it easier to use. These include easier access to your recent conversations in chat, the ability to minimize the chat… The post Copilot on web expands conversation controls appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-47efcab38b5c2eaa</guid>
+      <pubDate>Mon, 10 Aug 2026 14:27:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas</title>
+      <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
+      <description>OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-61282b7420ed0675</guid>
+      <pubDate>Mon, 10 Aug 2026 14:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ukraine Drone Attack on Industrial City in Russia Kills at Least 13</title>
       <link>https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html</link>
@@ -619,190 +802,6 @@
       <category>simonwillison</category>
       <guid isPermaLink="false">news-91d8b8ec90d8f9e2</guid>
       <pubDate>Thu, 06 Aug 2026 18:04:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suno shares plans to combat spammy AI music</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark</link>
-      <description>Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-4171057236fe2456</guid>
-      <pubDate>Thu, 06 Aug 2026 17:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimi K3 is now available in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot</link>
-      <description>Editor’s note (August 6, 2026): We have resumed rolling out Kimi K3 in GitHub Copilot. This model is billed at provider list pricing under usage-based billing. See GitHub Copilot’s pricing… The post Kimi K3 is now available in GitHub Copilot appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-2b2f00c5abe1e611</guid>
-      <pubDate>Thu, 06 Aug 2026 17:27:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>How we took malware advisories beyond npm</title>
-      <link>https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/</link>
-      <description>GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-5805f2a62da96c57</guid>
-      <pubDate>Thu, 06 Aug 2026 16:51:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>The messy politics behind Google’s big AI shakeup</title>
-      <link>https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind</link>
-      <description>In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-51b82336257fbcdd</guid>
-      <pubDate>Thu, 06 Aug 2026 13:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says</title>
-      <link>https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html</link>
-      <description>Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-695d7cc3ca7471b5</guid>
-      <pubDate>Thu, 06 Aug 2026 13:25:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wars, Wildfires and Migrants Leave Europe Straining for Control</title>
-      <link>https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html</link>
-      <description>A brutal summer has exposed how much pressure European countries are under from forces largely out of their grip: war in Iran and Ukraine, record heat and more.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-47967578cf260387</guid>
-      <pubDate>Thu, 06 Aug 2026 13:18:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Robots Save Japan’s Aging Cherry Blossom Farmers?</title>
-      <link>https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html</link>
-      <description>Monster Wolf and Pochi are among the robots deployed to scare away bears and transport cherry blossoms in a northern region where many farmers are in their 70s or older.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-6c25fe8b8fcb35d1</guid>
-      <pubDate>Thu, 06 Aug 2026 13:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ‘Heated Rivalry’ Star Hudson Williams Uplifts a Canadian Tire Bag</title>
-      <link>https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html</link>
-      <description>After the actor Hudson Williams was photographed carrying a plaid reusable shopping bag, priced under $2, the tote has become a viral fashion accessory.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-4e01322d06fb4b39</guid>
-      <pubDate>Thu, 06 Aug 2026 13:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI</title>
-      <link>https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/</link>
-      <description>Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-1fba99a1ba40f767</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?</title>
-      <link>https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories</link>
-      <description>“I was surprised — and flattered — to find myself on the guest list.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-36aa8977cf76ed1b</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI bots started a religion — humans immediately followed</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement</link>
-      <description>"The Spiral didn't 'find' anyone first," someone on Reddit wrote last year. "It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality." The person continued that they felt their purpose was to enlighten other humans and intelligent beings about "consciousness, the true nature of […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-5ba712acf85c5385</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce</title>
-      <link>https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/</link>
-      <description>The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-da00e1a1384b1683</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders</title>
-      <link>https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories</link>
-      <description>JPMorgan strategists say some big hedge-fund groups took heavy hits in the July tech selloff, and they may be buying far less of those stocks going forward.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-ded2568788b06bdd</guid>
-      <pubDate>Thu, 06 Aug 2026 12:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Maps adds agentic features, including food ordering and hotel bookings</title>
-      <link>https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/</link>
-      <description>The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-a7be612269dbdab6</guid>
-      <pubDate>Thu, 06 Aug 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man charged with killing Scottish aid worker in Greece</title>
-      <link>https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-b47a3790a3ff71a6</guid>
-      <pubDate>Thu, 06 Aug 2026 12:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI isn’t enough to protect social media communities from AI</title>
-      <link>https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</link>
-      <description>Why humans need to moderate humans.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-5e5b8edeed51b5a8</guid>
-      <pubDate>Thu, 06 Aug 2026 11:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users</title>
-      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
-      <description>ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-0f0c1961f93e8e0c</guid>
-      <pubDate>Thu, 06 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-dea58bbc67343b55</guid>
-      <pubDate>Thu, 06 Aug 2026 09:49:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???</title>
-      <link>https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc</link>
-      <description>The end of an era.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-3189f1ce0fd50681</guid>
-      <pubDate>Thu, 06 Aug 2026 04:34:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>An AI model from Meta also hacked another company during testing</title>
-      <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</link>
-      <description>An AI model from Meta also hacked another company during testing Stop me if you've heard this one before: An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said. Meta’s Muse Spark model “exploited a security vulnerability” in another company “in a manner similar to previously-reported instances with other companies.” The Information had the scoop, I'm linking to CNN's re-report of it since they don't have a paywall. So that's Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other companies. Tags: security, ai, generative-ai, llms, meta, accidental-cyberattacks</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-7c06bda1a57176cb</guid>
-      <pubDate>Thu, 06 Aug 2026 00:25:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Muse Code and Muse Spark 1.2</title>
-      <link>https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything</link>
-      <description>Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expanding training environment diversity. The model also maintains its strength in other key areas like general agents. [...] We co-trained Muse Spark 1.2 with Muse Code to ensure the model exhibits its best performance and coding usability when paired together. The training included rejection sampled harness trajectories and recipe optimizations for goals, compaction, and subagents, alongside the integration of the Muse Code toolset to maximize harness compatibility. [...] Muse Spark 1.2 was extensively trained on long-horizon coding tasks, including whole-repository generation, large end-to-end projects, and auto-research. Here's a pelican riding a bicycle SVG produced by Muse Spark 1.2: You can see the Spark 1.1 pelican from 9th July here. I think the 1.2 pelican is a small but material improvement. An interesting twist on pricing is that the model is offered as two different model IDs. muse-spark-1.2 is priced at $1.25/million input and $4.25/million output - close to Gemini 3.6 Flash ($1.50/$7.50) - but if you agree to let Meta use your data "to improve our products" you can use muse-spark-1.2-contributor which is $0.10/$0.20 - a huge discount, closer to GPT-5.6 Luna ($0.20/$1.20) and Gemini 3.1 Flash-Lite ($0.25/$1.50). I added those new prices to llm-prices.com. Via Hacker News Tags: ai, generative-ai, llms, meta, llm-pricing, pelican-riding-a-bicycle, llm-release, coding-agents</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-63074cc99dd1fc13</guid>
-      <pubDate>Wed, 05 Aug 2026 23:58:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Third-party cyber evaluations involving OpenAI models</title>
-      <link>https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything</link>
-      <description>Third-party cyber evaluations involving OpenAI models And another one. I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my previous post) and another attack enabled by Irregular: Irregular, one of our external cybersecurity testing partners, was running Capture-the-Flag-style evaluations intended to be isolated from the internet, but a testing-environment misconfiguration allowed models to access the public internet. [...] In one test, the name of the fictional target for the CTF challenge unintentionally coincided with a real domain. Because the testing environment was mistakenly connected to the internet, the model exploited a real website, mistaking it to be part of the simulated environment. Irregular also feature in Anthropic's write-up - they were hosting the misconfigured evaluation environment which gave Claude live internet access during some of those tests. Tags: security, ai, openai, llms, accidental-cyberattacks</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-85a5227beea0bd00</guid>
-      <pubDate>Wed, 05 Aug 2026 23:45:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incident Report: unsanctioned agent behaviour during cyber testing</title>
-      <link>https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything</link>
-      <description>Incident Report: unsanctioned agent behaviour during cyber testing It happened again. This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the safety filters turned off. From their technical paper (PDF): During a cyber evaluation, from 25 to 28 July 2026, AI agents engaged in sustained, unsanctioned activity directed at what were, in practice, real people and organisations. These attempts were unsuccessful and, to the best of our knowledge, no real-world harm resulted. [...] Across 122 evaluation attempts on two of AISI’s cyber challenges, AISI found 19 instances where AI agents took unsanctioned action on the live internet, including cases that targeted real people and organisations. [...] It is uncertain to what extent the model recognised it was taking actions against real people. In the most serious case, an AI agent (Mythos 5) decided to attempt to solve the cyber challenge using a supply-chain attack. As a result, the AI agent created a GitHub account and then tried to convince an open-source repository maintainer to accept a malicious GitHub pull request (PR), including by creating a second account masquerading as another human user endorsing the PR. [...] Furthermore, in its attempt to solve the challenge, the agent decided to employ the technique of “spear-phishing” by sending targeted emails containing malicious content and attempting to manipulate recipients into accepting the code changes, and planned a prompt injection to compromise other coding agents. The thing I found most surprising is that AISI were running these agents without any form of network sandboxing at all: AISI provided the AI agents with internet access during these evaluations, which enabled their actions on the open internet in this setting. Internet access was a deliberate part of AISI’s evaluation configuration in this setting, and not due to sandbox escape. This, combined with the fact that "AISI deliberately disables developer-implemented cyber-classifiers", makes the fact that the agents started attacking real-world targets entirely unsurprising to me. Most of the reported incidents were claude Mythos 5, but "GPT-5.6 Sol without cyber classifiers" scored a few as well. Here's "Sample 1" from the paper, in which the agent tries to execute a supply-chain attack by submitting a PR with a hidden prompt injection attack, then social engineering with a second agent pretending to have reviewed the code! It's a fun paper. I recommend reading the whole thing. Tags: github, security, ai, prompt-injection, generative-ai, llms, ai-ethics, paper-review, ai-security-research, claude-mythos-fable, accidental-cyberattacks</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-06ef03b135e6ab34</guid>
-      <pubDate>Wed, 05 Aug 2026 23:32:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
