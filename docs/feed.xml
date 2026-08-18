@@ -5,8 +5,167 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:30:10 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>How Israel’s Financial Chokehold Is Stifling the West Bank Economy</title>
+      <link>https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html</link>
+      <description>Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-820f68c72305ef9d</guid>
+      <pubDate>Tue, 18 Aug 2026 13:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stocks keep shrugging off rising Treasury yields. Here’s the level that could finally trigger a selloff.</title>
+      <link>https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories</link>
+      <description>The yield on the 10-year Treasury yield continues to climb, but our call of the day from Strategas says that ascent will be much higher before stocks start to hurt.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-06dc20f6aed270a6</guid>
+      <pubDate>Tue, 18 Aug 2026 13:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Copilot reveals secret input that allowed it to be hacked</title>
+      <link>https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</link>
+      <description>Secret parameter allowed hackers to steal passwords when a target clicked on a link.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-3bbaa3b8ac78ec5a</guid>
+      <pubDate>Tue, 18 Aug 2026 13:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disney sues FCC over Trump’s broadcast-license threat</title>
+      <link>https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories</link>
+      <description>Disney says the Trump administration “has attacked ABC’s speech — the stories its journalists report and the viewpoints its network programs air.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-45ac93b428425b1f</guid>
+      <pubDate>Tue, 18 Aug 2026 12:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning</title>
+      <link>https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its "hour of need".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-73549710cf660be0</guid>
+      <pubDate>Tue, 18 Aug 2026 12:36:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster</title>
+      <link>https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Recovery efforts continue in what is the country's deadliest transport disaster.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-a5ea43890019dffe</guid>
+      <pubDate>Tue, 18 Aug 2026 12:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs</title>
+      <link>https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</link>
+      <description>Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-c5aaed179b85a275</guid>
+      <pubDate>Tue, 18 Aug 2026 11:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
+      <link>https://openai.com/index/chatgpt-for-teens</link>
+      <description>ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-01003c6680bc2ecc</guid>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partnering with CodeAI to prepare the first AI generation</title>
+      <link>https://openai.com/index/partnering-with-codeai</link>
+      <description>OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-9765648ad527edb6</guid>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zambia's Hichilema re-elected president as main rival in hiding over alleged threats</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-18185c180534b354</guid>
+      <pubDate>Tue, 18 Aug 2026 10:59:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner</title>
+      <link>https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html</link>
+      <description>Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling "would be and is void."</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-847ee8bc49ab7c84</guid>
+      <pubDate>Tue, 18 Aug 2026 10:53:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
+      <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
+      <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model. Via Hacker News Tags: ai, generative-ai, llms, qwen, ai-in-china, artificial-analysis</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-1999067b96178080</guid>
+      <pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s annualized revenue surges to $65B</title>
+      <link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
+      <description>The model maker added $18 billion in annualized revenue in two months.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-dbbfe5994f2dcae5</guid>
+      <pubDate>Mon, 17 Aug 2026 23:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Stripe buys OpenRouter for $7B</title>
+      <link>https://www.latent.space/p/ainews-stripe-buys-openrouter-for</link>
+      <description>No GPUs, no Agents, just really, really, really good infra and distribution.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-9757553db818987a</guid>
+      <pubDate>Mon, 17 Aug 2026 23:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI automation startup Relay shuts down, staff joins Google’s Chrome team</title>
+      <link>https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/</link>
+      <description>"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-63576ecb69ad2713</guid>
+      <pubDate>Mon, 17 Aug 2026 21:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former SpaceX engineers are building a robotic factory for making steel parts</title>
+      <link>https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/</link>
+      <description>“We're not necessarily building in a dogmatic fashion towards full autonomy.”</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-f1914d8ebf8ad4c1</guid>
+      <pubDate>Mon, 17 Aug 2026 21:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Same Cluster, 33 Points More Utilization: What Changed Was the Order</title>
+      <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-b597a3d03ee72b44</guid>
+      <pubDate>Mon, 17 Aug 2026 19:46:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>From single call to agents: five new Claude capabilities now available in Microsoft Foundry</title>
+      <link>https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry/</link>
+      <description>Structured outputs, web search, web fetch, MCP connector, and tool search are now available for Claude models hosted on Azure in Microsoft Foundry, turning a model endpoint into a production agent platform. The post From single call to agents: five new Claude capabilities now available in Microsoft Foundry appeared first on Microsoft Foundry Blog.</description>
+      <category>devblogs-msft-foundry</category>
+      <guid isPermaLink="false">news-24f6f4d862545013</guid>
+      <pubDate>Mon, 17 Aug 2026 19:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hidden Airtag reveals Amazon is trashing rare books to train AI</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</link>
+      <description>Amazon’s team uses a T. rex preparing to devour a book as its logo.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-acb1e48a2ecd8123</guid>
+      <pubDate>Mon, 17 Aug 2026 18:13:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>How canvases make agentic workflows visible, steerable, and cost-efficient</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/</link>
+      <description>Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-78d3666d8b6a956f</guid>
+      <pubDate>Mon, 17 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Russia and Ukraine trade more deadly strikes</title>
       <link>https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -644,166 +803,6 @@
       <category>cnbc-finance</category>
       <guid isPermaLink="false">news-3ef38ebf2d989d9e</guid>
       <pubDate>Thu, 13 Aug 2026 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>See the 2026 European Solar Eclipse, in Photos and Videos</title>
-      <link>https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html</link>
-      <description>People gathered across the continent to watch the total solar eclipse on Wednesday.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-4ab1c8be85e67420</guid>
-      <pubDate>Thu, 13 Aug 2026 13:17:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.</title>
-      <link>https://www.marketwatch.com/story/wholesale-inflation-flattens-out-in-july-and-price-pressure-ease-c0ea1b91?mod=mw_rss_topstories</link>
-      <description>The latest readings on inflation could deter central bank from raising borrowing costs.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-9ce53b55241c58a9</guid>
-      <pubDate>Thu, 13 Aug 2026 13:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?</title>
-      <link>https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories</link>
-      <description>“She has contacted the mortgage company, but they will not discuss the mortgage.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-6e3509c0aa5298fe</guid>
-      <pubDate>Thu, 13 Aug 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Putin Visits Islands Seized From Japan in World War II, Angering Tokyo</title>
-      <link>https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html</link>
-      <description>Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-82c4c79f7aa201cd</guid>
-      <pubDate>Thu, 13 Aug 2026 13:12:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hundreds of Flights Canceled in Sicily as Mount Etna Erupts</title>
-      <link>https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html</link>
-      <description>Etna erupts often, but it usually doesn’t release this much ash, an expert said. Tens of thousands of travelers’ plans have been disrupted in the past week.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-ed9d5615bc8a5e6d</guid>
-      <pubDate>Thu, 13 Aug 2026 12:47:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eurovision Song Contest 2027 to be held in Burgas, Bulgaria</title>
-      <link>https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-968854cc830388fb</guid>
-      <pubDate>Thu, 13 Aug 2026 11:10:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude's new Scarlet Letter watermark is invisible—for now</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/</link>
-      <description>The mark flags anything Claude processed, even human writing it only edited.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-ce6137803a586c9a</guid>
-      <pubDate>Thu, 13 Aug 2026 11:10:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>The builder’s guide to GPT‑5.6</title>
-      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
-      <description>Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-855fa77e93e122bb</guid>
-      <pubDate>Thu, 13 Aug 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] SpaceXAI Grok 4.6 and Grok @Bot</title>
-      <link>https://www.latent.space/p/ainews-spacexai-grok-46-and-grok</link>
-      <description>AI teammate category just had its most significant new entrant yet</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-814632afac7368fe</guid>
-      <pubDate>Thu, 13 Aug 2026 01:53:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4 Pro 0813 (on OpenRouter)</title>
-      <link>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</link>
-      <description>DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model. I haven't been able to confirm if they plan to release the open weights, but given the weights are available for both April's deepseek-ai/DeepSeek-V4-Pro and July's deepseek-ai/DeepSeek-V4-Flash-0731 it seems likely. Interestingly I got very different looking pelicans for the three different reasoning levels of low, medium, and high. I've not noticed this kind of difference from any other model: Low: Medium: High: In terms of benchmarks... as far as I can tell those were released to the Official DeepSeek WeChat Group, then copied and pasted into a post on Reddit which was deleted by the moderators for being "low-effort", then copied into this ASCII-art table on Hacker News. Tags: ai, generative-ai, llms, pelican-riding-a-bicycle, deepseek, llm-release, ai-in-china</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-04d62565190e878d</guid>
-      <pubDate>Wed, 12 Aug 2026 23:59:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</title>
-      <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
-      <description>Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-6648dbd01204eccb</guid>
-      <pubDate>Wed, 12 Aug 2026 22:26:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub availability report: July 2026</title>
-      <link>https://github.blog/news-insights/company-news/github-availability-report-july-2026/</link>
-      <description>In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-b07daedacd7d2fd4</guid>
-      <pubDate>Wed, 12 Aug 2026 22:17:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>The web’s newest weapon against AI scrapers is a font</title>
-      <link>https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/</link>
-      <description>“ShieldFont” aims to poison AI training data without making pages unreadable for people.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-b7995d0a4e6fe0c1</guid>
-      <pubDate>Wed, 12 Aug 2026 22:02:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon will train on Twitch streamers’ content by default, unless they opt out</title>
-      <link>https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/</link>
-      <description>"If this was opt-in, nobody would opt in," Twitch CPO Mike Minton said on a livestream responding to user feedback. "That's honestly the answer."</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-05510c646bcda098</guid>
-      <pubDate>Wed, 12 Aug 2026 20:10:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>alchemy-utils 0.1a0</title>
-      <link>https://simonwillison.net/2026/Aug/12/alchemy-utils/</link>
-      <description>Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked Codex and GPT-5.6 Sol Ultra with building a prototype: Do a research spike to see what it would take to build a library with the same core API as SQLite-utils - in particular the insert and upsert and insert_all and upsert_all and create and update methods, and the table introspection stuff - but backed by SQLalchemy so it works for multiple database engines Test against PostgreSQL and SQLite and duckdb Use ~/dev/sqlite-utils for reference Create a git repo for this and commit and early and often - use uv init to start the project - use red/green TDD and pytest, see ~/dev/django-sql-dashboard for one idea as to how the PostgreSQL tests could work It took very few follow-up prompts to produce this project in a state good enough to release as an alpha. Here's a one-liner I can use to list the rows in a table in my local PostgreSQL copy of my blog's database: uvx --with 'alchemy-utils[postgresql]' alchemy-utils rows 'postgresql+psycopg://simon@localhost:5432/simonwillisonblog' redirects_redirect The output from that starts like this: [ { "id": 2328, "domain": "simonwillison.net", "path": "2020/May/21/apple-photos-sqlite/", "target": "/2020/May/21/dogsheep-photos/", "created": "2020-05-21T13:03:46.591692-07:00" }, { "id": 3, "domain": "feeds.simonwillison.net", "path": "swn-links", "target": "https://simonwillison.net/atom/links/", "created": "2017-10-01T14:12:54.820729-07:00" } Or if you'd like a DuckDB database with every tree in San Francisco, schema created automatically to match the file: curl 'https://raw.githubusercontent.com/simonw/sf-tree-history/refs/heads/main/Street_Tree_List.csv' | uvx --with 'alchemy-utils[duckdb]' alchemy-utils insert 'duckdb:////tmp/trees.db' trees - --csv (That one took nearly an hour the first time I ran it, so I had Codex optimize it and got it down to around 35 seconds.) Tags: databases, postgresql, projects, python, sql, sqlalchemy, sqlite, sqlite-utils, duckdb, coding-agents, codex</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-96d1d535cf9d161f</guid>
-      <pubDate>Wed, 12 Aug 2026 19:51:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Write your first prompt with the GitHub Copilot app</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/</link>
-      <description>Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-57803b26113b247a</guid>
-      <pubDate>Wed, 12 Aug 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Sync APIs to support for the GPT-5 model series and agentic workflows: What’s new in Azure Content Understanding – August 2026</title>
-      <link>https://devblogs.microsoft.com/foundry/azure-content-understanding-updates-august-2026/</link>
-      <description>Enterprise content is no longer just something people read. AI apps and agents are only as useful as the information they can understand, yet much of the world’s enterprise knowledge is locked in documents, forms, tables, images, audio, and video. The latest Azure Content Understanding updates help developers turn that content into structured, grounded data […] The post From Sync APIs to support for the GPT-5 model series and agentic workflows: What’s new in Azure Content Understanding – August 2026 appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-b66d268e1d411f27</guid>
-      <pubDate>Wed, 12 Aug 2026 18:43:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app</title>
-      <link>https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app</link>
-      <description>You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.… The post Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-52be363e70b37b9f</guid>
-      <pubDate>Wed, 12 Aug 2026 18:39:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise</title>
-      <link>https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/</link>
-      <description>Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-26e311ec1c77a03a</guid>
-      <pubDate>Wed, 12 Aug 2026 17:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Twitch streamers can now opt out from training Amazon’s AI</title>
-      <link>https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai</link>
-      <description>Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that "your streams, VODs, clips, stream chats, and pictures and text on your channel" won't be used in "future training" of an Amazon AI model "whose purpose is to generate or synthesize text, […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-70c73a35f66ab0cb</guid>
-      <pubDate>Wed, 12 Aug 2026 17:29:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
