@@ -5,15 +5,174 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>What to Know About Prince Harry and Meghan’s Move Back to the U.K.</title>
+      <link>https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html</link>
+      <description>The couple are moving back after six years in the United States. What they will do, and much else, are still unclear.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-715f57b1d07cb01a</guid>
+      <pubDate>Thu, 20 Aug 2026 13:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The A.I.-Robotics Job Only a Human Can Do</title>
+      <link>https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html</link>
+      <description>In India, some people are strapping cameras to their bodies to collect data on how humans move and train A.I.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-0ba9db891f3e3215</guid>
+      <pubDate>Thu, 20 Aug 2026 13:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Walmart’s stock slides as U.S. sales are hit by falling drug prices</title>
+      <link>https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories</link>
+      <description>The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-f38a48b39303e494</guid>
+      <pubDate>Thu, 20 Aug 2026 13:17:00 +0000</pubDate>
+    </item>
     <item>
       <title>‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?</title>
       <link>https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories</link>
       <description>“We are hurt and confused, but we have also tried to respect the boundaries they have established.”</description>
       <category>marketwatch</category>
       <guid isPermaLink="false">news-5cf4ff68f1d14274</guid>
-      <pubDate>Wed, 19 Aug 2026 13:15:00 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home</title>
+      <link>https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-1acfe0c022038fa8</guid>
+      <pubDate>Thu, 20 Aug 2026 13:04:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok exfiltrates user data when malicious instructions are encrypted</title>
+      <link>https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</link>
+      <description>Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-901b75f2181aea7b</guid>
+      <pubDate>Thu, 20 Aug 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle</title>
+      <link>https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html</link>
+      <description>Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-1cdb6f02f130fcaa</guid>
+      <pubDate>Thu, 20 Aug 2026 12:58:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assad officer extradited to Syria on war crimes charges for first time</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-854cfb2dfbed3351</guid>
+      <pubDate>Thu, 20 Aug 2026 12:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta AI’s new Mac app wants you to talk to your apps</title>
+      <link>https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/</link>
+      <description>Meta said its Muse Spark model is powering the dictation feature.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-d252e5e06fc4a74f</guid>
+      <pubDate>Thu, 20 Aug 2026 12:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slack is launching collaborative vibe-coding channels</title>
+      <link>https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch</link>
+      <description>Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. "With Slack Code, when you have […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-b5d48fb4832376fe</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Binance now lets AI agents trade, but keeping them in check is largely up to users</title>
+      <link>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</link>
+      <description>Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c770fe34bf361b9f</guid>
+      <pubDate>Thu, 20 Aug 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law</title>
+      <link>https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie</link>
+      <description>Every lab CEO is on X now</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-575914020583058b</guid>
+      <pubDate>Thu, 20 Aug 2026 05:17:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>China is defying the global bond yield surge, boosting its diversification appeal</title>
+      <link>https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html</link>
+      <description>Chinese government bond yields have remained low amid a global surge.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-8f3dbcdf6f30d35e</guid>
+      <pubDate>Thu, 20 Aug 2026 02:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</title>
+      <link>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</link>
+      <description>Research: smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against "while true") with no network access and filesystem access only to designated files Goal is to be able to use this to execute user-provided tasks for things like data transformations It quickly ran into a problem: the Claude Code for web environment can't run smol machines. Quoting the notes it wrote: This Claude Code container: Linux 6.18.5-fc-v20 (itself a Firecracker guest), 4 vCPU, 15GB RAM. No /dev/kvm, no vmx/svm CPU flags → no nested virt. smolvm machine run fails as expected: "kvm not available". Plan B: GitHub Actions ubuntu runners DO expose /dev/kvm → run the real test battery via a temporary workflow on this branch, collect logs, remove workflow in final commit. And Plan B is what it did, installing smolvm and running these tests directly in a GitHub Actions runner against that branch. That was a creative solution to the environmental limits posed by Claude Code for web. Another example of Fable being relentlessly proactive. Tags: research, sandboxing, ai, github-actions, generative-ai, llms, coding-agents, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-5cb86b7b06ea6e49</guid>
+      <pubDate>Wed, 19 Aug 2026 23:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Jeremy Morrell</title>
+      <link>https://simonwillison.net/2026/Aug/19/jeremy-morrell/</link>
+      <description>My hypothesis is that there is a new opportunity for Extensible Software on the web. LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We can build our app as a solid, accountable core, and allow users to safely extend it in many directions by having LLMs fill in the missing pieces. We can give our users super powers. — Jeremy Morrell, Extensible Software in the age of LLMs Tags: sandboxing, llms, ai, generative-ai</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-287e3b90895c5b3d</guid>
+      <pubDate>Wed, 19 Aug 2026 22:56:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flight attendants freaked out that Google is buying tons of Spirit employee data</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/</link>
+      <description>Bankrupt Spirit accused of selling out workers in massive data sale to Google.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-c68077f21300db58</guid>
+      <pubDate>Wed, 19 Aug 2026 20:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Offering Zero Data Retention for frontier models</title>
+      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
+      <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-ef913e9fdabc01a8</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Gemini is getting a dedicated student hub</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub</link>
+      <description>As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-336770ff41e56b45</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot app for Beginners: Managing your work</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/</link>
+      <description>If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-b5a1511da6d9a3c2</guid>
+      <pubDate>Wed, 19 Aug 2026 17:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>From Chrome DevTools to AI Engineering, with Addy Osmani</title>
+      <link>https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering</link>
+      <description>Addy Osmani shares lessons from 14 years at Google and how AI agents are reshaping software engineering, developer workflows, and the skills engineers need to succeed.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-4d7cecd4850bc523</guid>
+      <pubDate>Wed, 19 Aug 2026 16:53:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation</title>
+      <link>https://huggingface.co/blog/LiquidAI/qad</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-22e214c525696116</guid>
+      <pubDate>Wed, 19 Aug 2026 13:48:49 +0000</pubDate>
     </item>
     <item>
       <title>The bond selloff is rattling investors, but here’s why they shouldn’t expect a deeper stock downturn</title>
@@ -644,166 +803,6 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-8890d3817dfdc24c</guid>
       <pubDate>Sat, 15 Aug 2026 12:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring</title>
-      <link>https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html</link>
-      <description>Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-1d047d94feddfa68</guid>
-      <pubDate>Sat, 15 Aug 2026 11:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Northern Gannet</title>
-      <link>https://simonwillison.net/2026/Aug/15/sighting-391300422/</link>
-      <description>Northern Gannet, in Pillar Point Harbor, CA, USThis is Morris. Morris is a local celebrity: the only known Northern Gannet (Morus bassanus) in the entire Pacific Ocean. They showed up in the Farallon Islands off the coast of San Francisco 14 years ago. They have since made Pillar Point harbor their home, where they are quite easy to spot: the only white bird with a yellow head, usually hanging out with the smaller black Brandt’s cormorants near the harbor sign visible from the end of the commercial pier. Tags: photography, wildlife, half-moon-bay</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-69a56244fe9854e4</guid>
-      <pubDate>Sat, 15 Aug 2026 03:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don't classify. Hallucinate!</title>
-      <link>https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</link>
-      <description>Don't classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say "which of these tags match the following content". Doug Turnbull has a neat solution. Tell the model to output tags without any details of the existing vocabulary, then use vector embeddings against the existing corpus to find the concrete tags that are closest to the ones the model imagined might fit! His example prompt suggests including an example of the shape of your tags to help the model make a more useful guess: Your task is to create novel, never seen before, furniture, home goods, or hardware classification that best fit a search query. Product classifications might look like: Furniture / Living Room Furniture / Coffee Tables &amp; End Tables / Coffee Tables Décor &amp; Pillows / Decorative Pillows &amp; Blankets / Throw Pillows Furniture / Bedroom Furniture / Dressers &amp; Chests Kitchen &amp; Tabletop / Kitchen Organization / Food Storage &amp; Canisters School Furniture and Supplies / School Furniture / School Chairs &amp; Seating / Stackable Chairs Baby &amp; Kids / Toddler &amp; Kids Bedroom Furniture / Kids Beds Here's the query to generate classifications for: brown coffee table Tags: search, ai, generative-ai, llms, embeddings, doug-turnbull</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-77478ebfdae20e21</guid>
-      <pubDate>Fri, 14 Aug 2026 21:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets</title>
-      <link>https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html</link>
-      <description>Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-42f26ef65283278f</guid>
-      <pubDate>Fri, 14 Aug 2026 21:06:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspecting court of using AI, man injected prompts in filings to try to win case</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</link>
-      <description>Judge warns pro se litigants are using chatbots wrong and getting desperate.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-9510778d4d6d6795</guid>
-      <pubDate>Fri, 14 Aug 2026 17:26:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pulse: Meta’s self-inflicted resignation-wave</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation</link>
-      <description>The social media giant is offering $1M+ retainer equity grants to staff who are leaving: and even this is not effective. Also: is Grok Bot the “OpenClaw moment” for managed AI agents?</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-68c233597f82a79b</guid>
-      <pubDate>Fri, 14 Aug 2026 16:55:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark Zuckerberg has an Instagzam</title>
-      <link>https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast</link>
-      <description>Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-8fce1ccaf76f5503</guid>
-      <pubDate>Fri, 14 Aug 2026 16:54:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>You can now turn off Google Gemini&amp;#8217;s visible watermarks</title>
-      <link>https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal</link>
-      <description>Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new "Media watermark" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the "sparkle" watermark that appears in the bottom-right corner of […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-d469d19d5d596cb8</guid>
-      <pubDate>Fri, 14 Aug 2026 16:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.6 is now available in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot</link>
-      <description>Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed… The post Grok 4.6 is now available in GitHub Copilot appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-61fc6209c742fde8</guid>
-      <pubDate>Fri, 14 Aug 2026 16:17:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google will now allow users to remove visible watermark from its AI generations</title>
-      <link>https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/</link>
-      <description>Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f51202f8724d2bac</guid>
-      <pubDate>Fri, 14 Aug 2026 16:13:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to bring your software delivery workflow into GitHub with agent apps</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/</link>
-      <description>See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-0bb7c760ba823275</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does Mark Zuckerberg really believe AI is ‘for everyone’?</title>
-      <link>https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/</link>
-      <description>Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f3fe42a4b3a4708f</guid>
-      <pubDate>Fri, 14 Aug 2026 15:43:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI and Anthropic in price war as Chinese AI rivals gain ground</title>
-      <link>https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/</link>
-      <description>US groups release cheaper models after new challenges to their trillion-dollar ambitions.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-56f28cd3a41a0cfa</guid>
-      <pubDate>Fri, 14 Aug 2026 14:27:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits.</title>
-      <link>https://www.marketwatch.com/story/retail-sales-slump-in-july-cheaper-gas-and-amazon-prime-hangover-are-the-chief-culprits-b9db8535?mod=mw_rss_topstories</link>
-      <description>Sales at U.S. retailers in July had the largest decline in 14 months, but not because the economy sputtered. Americans spent less at gas stations due to cheaper fuel and bought less online after Amazon’s summer sales bonanza.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-62d4a1c39e531fc9</guid>
-      <pubDate>Fri, 14 Aug 2026 13:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The average car loan is now $785 a month — and lasts for almost 6 years</title>
-      <link>https://www.marketwatch.com/story/the-average-car-loan-is-now-785-a-month-and-lasts-for-almost-6-years-a950c80c?mod=mw_rss_topstories</link>
-      <description>Americans borrowed a record $211 billion to pay for their cars last quarter.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-8487c4e57217f517</guid>
-      <pubDate>Fri, 14 Aug 2026 13:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks</title>
-      <link>https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html</link>
-      <description>Jared Kushner, President Trump’s senior aide, is expected to meet with Prime Minister Benjamin Netanyahu of Israel, who has rejected a U.S.-backed deal to disarm Hamas.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-49b797bfff0abc28</guid>
-      <pubDate>Fri, 14 Aug 2026 13:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Builders unearth €9m gold loot sealed in walls of Belgian property</title>
-      <link>https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-f6ae48084239327a</guid>
-      <pubDate>Fri, 14 Aug 2026 13:18:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan</title>
-      <link>https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html</link>
-      <description>Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-c27464a7d60bddc5</guid>
-      <pubDate>Fri, 14 Aug 2026 12:47:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Wildfires and Extreme Heat Roil Europe, but Relief Is on the Horizon</title>
-      <link>https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html</link>
-      <description>Another day of near record heat baked the continent on Friday, but temperatures could retreat to seasonal averages in the coming days.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-2ca3f963bb9a73f6</guid>
-      <pubDate>Fri, 14 Aug 2026 12:41:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Presidential vote counting halted in Zambia over alleged attacks on polling staff</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The electoral commission said violence had "resulted in the theft of marked ballot papers".</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-e9f2b0724217c7a6</guid>
-      <pubDate>Fri, 14 Aug 2026 11:37:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
