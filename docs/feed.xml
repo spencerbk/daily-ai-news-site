@@ -5,8 +5,128 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 13:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:30:04 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test</title>
+      <link>https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories</link>
+      <description>Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-65983aefe3f8f3aa</guid>
+      <pubDate>Sun, 23 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelensky should be asked what he knew about government corruption, sacked minister tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-c85614423c829fa1</guid>
+      <pubDate>Sun, 23 Aug 2026 12:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>DR Congo and M23 rebels agree roadmap for peace talks</title>
+      <link>https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Representatives met in Switzerland to work out next steps to resolve the conflict.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-02fe1f5a459e0413</guid>
+      <pubDate>Sun, 23 Aug 2026 12:52:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wicker Man director's sons complete their late father's film trilogy</title>
+      <link>https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-9df0000ed14466ed</guid>
+      <pubDate>Sun, 23 Aug 2026 12:51:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Warns Gulf States Not to Join Trump’s Economic War</title>
+      <link>https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html</link>
+      <description>Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-f32f83afb7d11fd2</guid>
+      <pubDate>Sun, 23 Aug 2026 12:47:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Top Trade Representative Details Offer That Canada Rejected</title>
+      <link>https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html</link>
+      <description>In an interview, Jamieson Greer, President Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-dbf40386a4051396</guid>
+      <pubDate>Sun, 23 Aug 2026 12:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill</title>
+      <link>https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html</link>
+      <description>Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-9c78f9c95a3c5f2f</guid>
+      <pubDate>Sun, 23 Aug 2026 12:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?</title>
+      <link>https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories</link>
+      <description>“The last adviser we worked with lost a significant portion of our portfolio.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7405fc7a9543b76d</guid>
+      <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harvard’s $699 startup bootcamp offers AI avatars of its instructors</title>
+      <link>https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/</link>
+      <description>In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-6024a826f3039a27</guid>
+      <pubDate>Sat, 22 Aug 2026 21:46:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Linus Torvalds</title>
+      <link>https://simonwillison.net/2026/Aug/22/linus-torvalds/</link>
+      <description>And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit where credit is due and I let the AI write the commit message above. — Linus Torvalds, drm/xe: Don't hand out the flat CCS storage as usable VRAM Tags: linus-torvalds, linux, generative-ai, ai-assisted-programming, ai, llms</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-d17933d43559704b</guid>
+      <pubDate>Sat, 22 Aug 2026 21:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research</title>
+      <link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
+      <description>Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-00b5c41772e1c032</guid>
+      <pubDate>Sat, 22 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>llm 0.33</title>
+      <link>https://simonwillison.net/2026/Aug/22/llm/</link>
+      <description>Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2. #1608, #1631 I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix. llm embed and llm embed-multi now accept --key. The Python EmbeddingModel.embed(), EmbeddingModel.embed_multi(), Collection.embed() and Collection.embed_multi() methods accept key= too, passing the resolved per-call key to embedding plugins without changing shared model state. Existing plugins that read self.key continue to work through a compatibility fallback. Thanks, ChrisJr404. #757, #1620 The embedding models now use the same pattern for keys that regular LLM models do. llm prompt -t/--template can now be repeated to combine templates in order. This allows model configuration and options from one template to be used with a prompt from another. This unlocks a neat pattern where you can create templates that package a model with a set of default options: llm -m gpt-5.6-luna -o reasoning_effort high --save lhigh llm "Generate an SVG of a pelican riding a bicycle" --save pelican # Combine and run the templates llm -t lhigh -t pelican Reasoning-capable Responses API models now support a reasoning_summary option with auto, concise, and detailed values. This can be used with llm openai endpoint --responses. #1600 This is particularly useful for exercising different models that provide their own imitation of the OpenAI Responses API. Tags: annotated-release-notes, llm</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-d2a4852ea41c5f51</guid>
+      <pubDate>Sat, 22 Aug 2026 17:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI says California should strengthen its AI safety bill</title>
+      <link>https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/</link>
+      <description>OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-ceb77d2acd274b30</guid>
+      <pubDate>Sat, 22 Aug 2026 16:30:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Frontier AI labs still won’t say how they’d contain a rogue model</title>
+      <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
+      <description>A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-32aab1e028788474</guid>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than just code review</title>
+      <link>https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</link>
+      <description>The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a chance to a piece of software. Tags: code-review, coding-agents, generative-ai, agentic-engineering, ai, llms</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-64b442a93659bae0</guid>
+      <pubDate>Sat, 22 Aug 2026 15:56:54 +0000</pubDate>
+    </item>
     <item>
       <title>Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital</title>
       <link>https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html</link>
@@ -682,125 +802,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-06dc20f6aed270a6</guid>
       <pubDate>Tue, 18 Aug 2026 13:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Copilot reveals secret input that allowed it to be hacked</title>
-      <link>https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</link>
-      <description>Secret parameter allowed hackers to steal passwords when a target clicked on a link.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-3bbaa3b8ac78ec5a</guid>
-      <pubDate>Tue, 18 Aug 2026 13:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disney sues FCC over Trump’s broadcast-license threat</title>
-      <link>https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories</link>
-      <description>Disney says the Trump administration “has attacked ABC’s speech — the stories its journalists report and the viewpoints its network programs air.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-45ac93b428425b1f</guid>
-      <pubDate>Tue, 18 Aug 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning</title>
-      <link>https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its "hour of need".</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-73549710cf660be0</guid>
-      <pubDate>Tue, 18 Aug 2026 12:36:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster</title>
-      <link>https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Recovery efforts continue in what is the country's deadliest transport disaster.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-a5ea43890019dffe</guid>
-      <pubDate>Tue, 18 Aug 2026 12:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs</title>
-      <link>https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</link>
-      <description>Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-c5aaed179b85a275</guid>
-      <pubDate>Tue, 18 Aug 2026 11:15:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
-      <link>https://openai.com/index/chatgpt-for-teens</link>
-      <description>ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-01003c6680bc2ecc</guid>
-      <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Partnering with CodeAI to prepare the first AI generation</title>
-      <link>https://openai.com/index/partnering-with-codeai</link>
-      <description>OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-9765648ad527edb6</guid>
-      <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zambia's Hichilema re-elected president as main rival in hiding over alleged threats</title>
-      <link>https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-18185c180534b354</guid>
-      <pubDate>Tue, 18 Aug 2026 10:59:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner</title>
-      <link>https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html</link>
-      <description>Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling "would be and is void."</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-847ee8bc49ab7c84</guid>
-      <pubDate>Tue, 18 Aug 2026 10:53:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
-      <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
-      <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters, and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model. Via Hacker News Tags: ai, generative-ai, llms, qwen, ai-in-china, artificial-analysis</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-1999067b96178080</guid>
-      <pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s annualized revenue surges to $65B</title>
-      <link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
-      <description>The model maker added $18 billion in annualized revenue in two months.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-dbbfe5994f2dcae5</guid>
-      <pubDate>Mon, 17 Aug 2026 23:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Stripe buys OpenRouter for $7B</title>
-      <link>https://www.latent.space/p/ainews-stripe-buys-openrouter-for</link>
-      <description>No GPUs, no Agents, just really, really, really good infra and distribution.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-9757553db818987a</guid>
-      <pubDate>Mon, 17 Aug 2026 23:13:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI automation startup Relay shuts down, staff joins Google’s Chrome team</title>
-      <link>https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/</link>
-      <description>"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-63576ecb69ad2713</guid>
-      <pubDate>Mon, 17 Aug 2026 21:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former SpaceX engineers are building a robotic factory for making steel parts</title>
-      <link>https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/</link>
-      <description>“We're not necessarily building in a dogmatic fashion towards full autonomy.”</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-f1914d8ebf8ad4c1</guid>
-      <pubDate>Mon, 17 Aug 2026 21:18:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Same Cluster, 33 Points More Utilization: What Changed Was the Order</title>
-      <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-b597a3d03ee72b44</guid>
-      <pubDate>Mon, 17 Aug 2026 19:46:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
