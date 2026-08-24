@@ -5,8 +5,136 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Iceland’s Murder Rate Is Off the Charts — in Its Books, at Least</title>
+      <link>https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html</link>
+      <description>The Nordic nation has almost no homicides, yet crime fiction is its favorite literary genre. That means writers face a challenge: making murder feel believable.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-0976a5fd3b88c9f8</guid>
+      <pubDate>Mon, 24 Aug 2026 13:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>My father-in-law passed away, leaving a house with tenants. Do I evict them?</title>
+      <link>https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories</link>
+      <description>“We don’t know whether they have signed leases or are renting month to month.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7712b256ef8f738f</guid>
+      <pubDate>Mon, 24 Aug 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonya Massey's killer Sean Grayson dies in US prison</title>
+      <link>https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-2ef879858d129b99</guid>
+      <pubDate>Mon, 24 Aug 2026 13:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye</title>
+      <link>https://importai.substack.com/p/import-ai-470-no-rights-for-machines</link>
+      <description>Differential acceleration of cyber, math, and AI</description>
+      <category>import-ai</category>
+      <guid isPermaLink="false">news-46c56422349e8565</guid>
+      <pubDate>Mon, 24 Aug 2026 13:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.</title>
+      <link>https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html</link>
+      <description>The German actress Collien Fernandes set out to discover who was pretending to be her online and sending men sexually explicit material. Her answer ignited a feminist movement.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ede1791fb15ca585</guid>
+      <pubDate>Mon, 24 Aug 2026 13:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yields are the highest they’ve been in years — but are bonds cheap enough to buy? Two strategists disagree.</title>
+      <link>https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories</link>
+      <description>Bond yields are driven by the market’s estimate of the average federal funds rate over the next 10 years, plus some compensation for the risks associated with predicting that. Barclays finds bonds at fair value but not cheap yet.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-883dbdb29de4749e</guid>
+      <pubDate>Mon, 24 Aug 2026 13:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Zealand to introduce bill for under-16s social media ban</title>
+      <link>https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The government faces opposition to its proposals from MPs who believe a ban will not work.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-f631750f09188cef</guid>
+      <pubDate>Mon, 24 Aug 2026 12:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings</title>
+      <link>https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html</link>
+      <description>In his first foreign trip since taking office, Prime Minister Andy Burnham affirmed support for Kyiv despite new warnings from Moscow of potential consequences.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-209545cf295c0303</guid>
+      <pubDate>Mon, 24 Aug 2026 12:06:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your executable is a SQLite database</title>
+      <link>https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</link>
+      <description>Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable &amp; Linkable Format. The various components of the ELF executable format are then arranged into a number of different SQLite tables, using this schema. Their self-exec interpreter (C code here) can then extract and execute the necessary pieces. You can additionally use a Linux mechanism called binfmt_misc to teach the kernel to execute that any time it encounters an executable matching that binary pattern. Farid uses NixOS here, but without NixOS I think registration looks something like this: printf '%s\n' ':self:M:68:SELF::/usr/local/bin/self-exec:' \ &gt; /proc/sys/fs/binfmt_misc/register Via Hacker News Tags: c, linux, sqlite</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-45339259dc1eb1a5</guid>
+      <pubDate>Mon, 24 Aug 2026 11:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alibaba plunges after announcing $10.2 billion share placement to fund AI push</title>
+      <link>https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html</link>
+      <description>Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-2218a3297e7bcc76</guid>
+      <pubDate>Mon, 24 Aug 2026 08:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
+      <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
+      <description>Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from "people with knowledge of the matter": Anthropic's "annualized revenue" for July is up to $65bn - it was $47bn in May, and I collected more historic numbers here. Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. "It also told investors that it had 6,000 customers that spend $100,000 annually or more." As for OpenAI, "annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year". This article also introduced me to the Ramp AI index, which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption. Here's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model: Opus 4.8: 28.0% Sonnet 4.6: 8.3% Fable 5: 8.0% Opus 4.6: 6.9% Sonnet 5: 3.6% Opus 5: 3.5% Opus 4.7: 1.7% Sonnet 4.5: 1.3% Haiku 4.5: 1.0% Opus 4.5: 0.7% Via Hacker News Tags: ai, openai, generative-ai, llms, anthropic, claude, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-fc0f17557ab7491b</guid>
+      <pubDate>Sun, 23 Aug 2026 20:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who’s behind the new ‘stealth model’ Ox Alpha?</title>
+      <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
+      <description>A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-bab230b853cb2058</guid>
+      <pubDate>Sun, 23 Aug 2026 20:01:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Drew Breunig</title>
+      <link>https://simonwillison.net/2026/Aug/23/drew-breunig/</link>
+      <description>Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible. But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed. So we started to think about what work went where. — Drew Breunig, Fable &amp; The End of the Free Lunch Tags: drew-breunig, anthropic, claude, llm-pricing, ai, llms, generative-ai, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-0e890f2df398c0d6</guid>
+      <pubDate>Sun, 23 Aug 2026 19:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
+      <link>https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
+      <description>Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-ff8825167e803fae</guid>
+      <pubDate>Sun, 23 Aug 2026 19:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash</title>
+      <link>https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/</link>
+      <description>Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-80d039e631a921e8</guid>
+      <pubDate>Sun, 23 Aug 2026 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is it legal to train AI models on copyrighted books? It’s complicated</title>
+      <link>https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/</link>
+      <description>Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-badce92339778deb</guid>
+      <pubDate>Sun, 23 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test</title>
       <link>https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories</link>
@@ -675,133 +803,6 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-471f548932757104</guid>
       <pubDate>Wed, 19 Aug 2026 12:47:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza</title>
-      <link>https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-f0db32b6db433463</guid>
-      <pubDate>Wed, 19 Aug 2026 12:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI isn’t close to curing cancer. This startup says it knows what it will take.</title>
-      <link>https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/</link>
-      <description>It's the data, stupid.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-30d3d7085f2b0c1a</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia’s new financial strategy does not compute</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset</link>
-      <description>April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-09ece407a49b987f</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retail investors aren't entirely giving up on AI trade, but they appear more cautious</title>
-      <link>https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html</link>
-      <description>Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-da12db5329ac9071</guid>
-      <pubDate>Wed, 19 Aug 2026 11:09:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Relativity Networks raises $22 million to bring a faster kind of fiber to data centers</title>
-      <link>https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/</link>
-      <description>Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-9bc229aee6b55ecc</guid>
-      <pubDate>Wed, 19 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Memory prices up 500% in 12 months</title>
-      <link>https://www.latent.space/p/ainews-memory-prices-up-500-in-12</link>
-      <description>the Memory crunch continues - Moore’s Law reversed to 2007 levels</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-00320f49d7cbedeb</guid>
-      <pubDate>Wed, 19 Aug 2026 08:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enterprise managed settings in GitHub Copilot for JetBrains</title>
-      <link>https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains</link>
-      <description>GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s… The post Enterprise managed settings in GitHub Copilot for JetBrains appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-1572a951af051c84</guid>
-      <pubDate>Tue, 18 Aug 2026 23:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cursor capitalizes on GitHub frustration, launches rival hosting platform</title>
-      <link>https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/</link>
-      <description>Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-5ae44dec09ad8b6d</guid>
-      <pubDate>Tue, 18 Aug 2026 22:14:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Ads expands across Europe</title>
-      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
-      <description>ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-e4563871866d3a63</guid>
-      <pubDate>Tue, 18 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing</title>
-      <link>https://www.latent.space/p/glean-model-routing</link>
-      <description>Glean CEO Arvind Jain explains why model routing helps control AI costs for organizations, and how human feedback loops at scale improve its routing systems.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-39f4f37f7100a7ef</guid>
-      <pubDate>Tue, 18 Aug 2026 21:41:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mojo🔥 is now open source</title>
-      <link>https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</link>
-      <description>Mojo🔥 is now open source Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025: Mojo may or may not evolve into a full superset of Python, and it’s okay if it doesn’t. We’re encouraged by how well AI-assisted coding tools already help migrate Python to Mojo today, and we’re confident that future tooling and ecosystem maturity will make this evolution even smoother. Today Mojo is its own language, optimized to make GPU programming as painless as possible using syntax inspired by Python, if not 100% compatible with existing code. Via Lobste.rs Tags: open-source, python, mojo</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-fe6793f58b70731a</guid>
-      <pubDate>Tue, 18 Aug 2026 21:39:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robin Williams’ Instagram account brought back to fight ‘AI abuse’</title>
-      <link>https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai</link>
-      <description>Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a "safe, trusted place where the […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-9dffd5e77e26ac96</guid>
-      <pubDate>Tue, 18 Aug 2026 19:48:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Much Memory Does Your Agent Actually Need?</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-5ce8103476b1f3ac</guid>
-      <pubDate>Tue, 18 Aug 2026 18:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Headed for the Exit: the Great Engineering Leader Career Break</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break</link>
-      <description>Trend: more CTOs, VPEs, and Heads of Engineering are walking away from their high-status, in-demand positions. There are many reasons, mostly related to AI, and to "founder mode"</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-4fe89b4c93910eb0</guid>
-      <pubDate>Tue, 18 Aug 2026 16:21:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Israel’s Financial Chokehold Is Stifling the West Bank Economy</title>
-      <link>https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html</link>
-      <description>Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-820f68c72305ef9d</guid>
-      <pubDate>Tue, 18 Aug 2026 13:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stocks keep shrugging off rising Treasury yields. Here’s the level that could finally trigger a selloff.</title>
-      <link>https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories</link>
-      <description>The yield on the 10-year Treasury yield continues to climb, but our call of the day from Strategas says that ascent will be much higher before stocks start to hurt.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-06dc20f6aed270a6</guid>
-      <pubDate>Tue, 18 Aug 2026 13:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
