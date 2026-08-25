@@ -5,8 +5,166 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:30:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?</title>
+      <link>https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html</link>
+      <description>China’s humanoid robots are achieving superhuman feats of athleticism. But how that translates into the real world is still an open question, experts said.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-efaf5473f75d1331</guid>
+      <pubDate>Tue, 25 Aug 2026 13:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?</title>
+      <link>https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories</link>
+      <description>“The cost is absolutely ridiculous.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-660c78717c9228f3</guid>
+      <pubDate>Tue, 25 Aug 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Removes Syria From Its List of Terrorism Sponsors</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html</link>
+      <description>The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-984e19f014ae069c</guid>
+      <pubDate>Tue, 25 Aug 2026 13:03:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple's new desktop computers are designed specifically for local AI development</title>
+      <link>https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/</link>
+      <description>Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-a037d648cf60b82d</guid>
+      <pubDate>Tue, 25 Aug 2026 13:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accel-backed Keenable is indexing the web for AI agents</title>
+      <link>https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/</link>
+      <description>Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-9f1468a44254df3e</guid>
+      <pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investors poured into Canadian ETFs right before trade talks broke down</title>
+      <link>https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories</link>
+      <description>Investors misread the mood music on U.S.-Canadian talks, in a big way.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-d9815a4e776fa800</guid>
+      <pubDate>Tue, 25 Aug 2026 12:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China needs U.S. dollars but is building a hedge against Washington’s sanctions</title>
+      <link>https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html</link>
+      <description>The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-34c45d5969a5bd92</guid>
+      <pubDate>Tue, 25 Aug 2026 12:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War</title>
+      <link>https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html</link>
+      <description>Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-68289a9848504352</guid>
+      <pubDate>Tue, 25 Aug 2026 12:39:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</title>
+      <link>https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/</link>
+      <description>TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-9e2dc1206d7d0224</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lockerbie bombing trial postponed days before it was due to start</title>
+      <link>https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-41f66579f418cf68</guid>
+      <pubDate>Tue, 25 Aug 2026 11:54:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>China hits out at 'illegal' new US sanctions on Iran and trading partners</title>
+      <link>https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-62bd4787a0226a7f</guid>
+      <pubDate>Tue, 25 Aug 2026 11:53:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-f6b26e55a4899220</guid>
+      <pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI subpoenaed by Alabama AG over Hugging Face hack</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack</link>
+      <description>Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-63243808b1492cbf</guid>
+      <pubDate>Tue, 25 Aug 2026 09:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Andrew Ng gets into AI Engineering</title>
+      <link>https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</link>
+      <description>An industry legend starts covering the inevitable!</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-ae2819cc8ddcd143</guid>
+      <pubDate>Tue, 25 Aug 2026 02:50:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</title>
+      <link>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</link>
+      <description>The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-23a36ae92a3cbc95</guid>
+      <pubDate>Tue, 25 Aug 2026 00:23:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wire It, Run It, Deploy It: AI Workflows in Gradio</title>
+      <link>https://huggingface.co/blog/gradio-workflow-guide</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-2983dbf79834f512</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disrupting a new covert influence campaign from Russia</title>
+      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
+      <description>OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-da55f7d7bd9decaa</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI is hitting entry-level jobs hardest, Stanford study finds</title>
+      <link>https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</link>
+      <description>Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-f2e956db9deea37e</guid>
+      <pubDate>Mon, 24 Aug 2026 21:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your alt text passes automated checks. That doesn’t mean it’s any good.</title>
+      <link>https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/</link>
+      <description>We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-7d07036b604df13d</guid>
+      <pubDate>Mon, 24 Aug 2026 20:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>llm-anthropic 0.27</title>
+      <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
+      <description>Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2. OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic provide this migration guide for upgrading to 1.0, so I prompted Fable 5 in Claude Code with: Upgrade to anthropic&gt;=1 - read https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/refs/heads/main/MIGRATION.md and get the tests passing Here's the resulting PR. Tags: python, httpx, llm, anthropic, claude</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-a6d4702c68220816</guid>
+      <pubDate>Mon, 24 Aug 2026 16:27:04 +0000</pubDate>
+    </item>
     <item>
       <title>Iceland’s Murder Rate Is Off the Charts — in Its Books, at Least</title>
       <link>https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html</link>
@@ -644,165 +802,6 @@
       <category>arstechnica-ai</category>
       <guid isPermaLink="false">news-901b75f2181aea7b</guid>
       <pubDate>Thu, 20 Aug 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html</link>
-      <description>Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-1cdb6f02f130fcaa</guid>
-      <pubDate>Thu, 20 Aug 2026 12:58:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assad officer extradited to Syria on war crimes charges for first time</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-854cfb2dfbed3351</guid>
-      <pubDate>Thu, 20 Aug 2026 12:38:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta AI’s new Mac app wants you to talk to your apps</title>
-      <link>https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/</link>
-      <description>Meta said its Muse Spark model is powering the dictation feature.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-d252e5e06fc4a74f</guid>
-      <pubDate>Thu, 20 Aug 2026 12:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Slack is launching collaborative vibe-coding channels</title>
-      <link>https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch</link>
-      <description>Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. "With Slack Code, when you have […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-b5d48fb4832376fe</guid>
-      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance now lets AI agents trade, but keeping them in check is largely up to users</title>
-      <link>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</link>
-      <description>Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c770fe34bf361b9f</guid>
-      <pubDate>Thu, 20 Aug 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law</title>
-      <link>https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie</link>
-      <description>Every lab CEO is on X now</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-575914020583058b</guid>
-      <pubDate>Thu, 20 Aug 2026 05:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>China is defying the global bond yield surge, boosting its diversification appeal</title>
-      <link>https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html</link>
-      <description>Chinese government bond yields have remained low amid a global surge.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-8f3dbcdf6f30d35e</guid>
-      <pubDate>Thu, 20 Aug 2026 02:39:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</title>
-      <link>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</link>
-      <description>Research: smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against "while true") with no network access and filesystem access only to designated files Goal is to be able to use this to execute user-provided tasks for things like data transformations It quickly ran into a problem: the Claude Code for web environment can't run smol machines. Quoting the notes it wrote: This Claude Code container: Linux 6.18.5-fc-v20 (itself a Firecracker guest), 4 vCPU, 15GB RAM. No /dev/kvm, no vmx/svm CPU flags → no nested virt. smolvm machine run fails as expected: "kvm not available". Plan B: GitHub Actions ubuntu runners DO expose /dev/kvm → run the real test battery via a temporary workflow on this branch, collect logs, remove workflow in final commit. And Plan B is what it did, installing smolvm and running these tests directly in a GitHub Actions runner against that branch. That was a creative solution to the environmental limits posed by Claude Code for web. Another example of Fable being relentlessly proactive. Tags: research, sandboxing, ai, github-actions, generative-ai, llms, coding-agents, claude-mythos-fable</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-5cb86b7b06ea6e49</guid>
-      <pubDate>Wed, 19 Aug 2026 23:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Jeremy Morrell</title>
-      <link>https://simonwillison.net/2026/Aug/19/jeremy-morrell/</link>
-      <description>My hypothesis is that there is a new opportunity for Extensible Software on the web. LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We can build our app as a solid, accountable core, and allow users to safely extend it in many directions by having LLMs fill in the missing pieces. We can give our users super powers. — Jeremy Morrell, Extensible Software in the age of LLMs Tags: sandboxing, llms, ai, generative-ai</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-287e3b90895c5b3d</guid>
-      <pubDate>Wed, 19 Aug 2026 22:56:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flight attendants freaked out that Google is buying tons of Spirit employee data</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/</link>
-      <description>Bankrupt Spirit accused of selling out workers in massive data sale to Google.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-c68077f21300db58</guid>
-      <pubDate>Wed, 19 Aug 2026 20:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Offering Zero Data Retention for frontier models</title>
-      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
-      <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-ef913e9fdabc01a8</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Gemini is getting a dedicated student hub</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub</link>
-      <description>As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-336770ff41e56b45</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot app for Beginners: Managing your work</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/</link>
-      <description>If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-b5a1511da6d9a3c2</guid>
-      <pubDate>Wed, 19 Aug 2026 17:50:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Chrome DevTools to AI Engineering, with Addy Osmani</title>
-      <link>https://newsletter.pragmaticengineer.com/p/from-chrome-devtools-to-ai-engineering</link>
-      <description>Addy Osmani shares lessons from 14 years at Google and how AI agents are reshaping software engineering, developer workflows, and the skills engineers need to succeed.</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-4d7cecd4850bc523</guid>
-      <pubDate>Wed, 19 Aug 2026 16:53:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation</title>
-      <link>https://huggingface.co/blog/LiquidAI/qad</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-22e214c525696116</guid>
-      <pubDate>Wed, 19 Aug 2026 13:48:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>The bond selloff is rattling investors, but here’s why they shouldn’t expect a deeper stock downturn</title>
-      <link>https://www.marketwatch.com/story/the-bond-selloff-is-rattling-investors-but-heres-why-they-shouldnt-expect-a-deeper-stock-downturn-43139350?mod=mw_rss_topstories</link>
-      <description>Fundstrat’s Mark Newton says it’s not time to panic about surging bond yields driving a deeper stock rout. He offers technical evidence to back his case.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-856e48c30d20e1df</guid>
-      <pubDate>Wed, 19 Aug 2026 13:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese Comic Investigated After Singing a Riff of a Patriotic Song</title>
-      <link>https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html</link>
-      <description>Guo Degang, one of the country’s best-known comedians, was reported to the authorities, as the arts continue to be a focus for ideological crackdowns.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-8898e11e9f23103a</guid>
-      <pubDate>Wed, 19 Aug 2026 13:05:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Six tourists and pilot killed in Kenya helicopter crash</title>
-      <link>https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-96f51d25cdbc6713</guid>
-      <pubDate>Wed, 19 Aug 2026 13:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky</title>
-      <link>https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html</link>
-      <description>Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-2542b8a48e8344f6</guid>
-      <pubDate>Wed, 19 Aug 2026 12:53:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian man arrested in Croatia over Nord Stream pipeline blasts</title>
-      <link>https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-471f548932757104</guid>
-      <pubDate>Wed, 19 Aug 2026 12:47:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
