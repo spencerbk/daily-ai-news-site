@@ -5,8 +5,175 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/08/26/world/nepal-floods/nepal-floods-tibet-missing</link>
+      <description>A wall of water swept down a Himalayan river valley shared between Nepal and the Chinese territory of Tibet.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-c17fc21c0fa0f0ae</guid>
+      <pubDate>Wed, 26 Aug 2026 13:27:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government</title>
+      <link>https://www.nytimes.com/2026/08/26/world/middleeast/kurdish-militia-syria-disbands.html</link>
+      <description>The Syrian Democratic Forces, a Kurdish-led armed group that has lost territory and authority in recent months, will integrate with the country’s military.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ae1baf987a355efa</guid>
+      <pubDate>Wed, 26 Aug 2026 13:20:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>China's short-drama producers flood the market with cheap bets — and let audiences pick the winners</title>
+      <link>https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html</link>
+      <description>The short-drama model offers an alternative to traditional entertainment, but rising distribution costs and audience-retention challenges remain.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-0c9f8a35c27ad8de</guid>
+      <pubDate>Wed, 26 Aug 2026 13:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran and Oman Report Progress in Talks on Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/08/26/world/middleeast/iran-oman-strait-hormuz.html</link>
+      <description>The two countries said they would create a temporary shipping lane and clear mines in the waterway. Global oil prices dipped after the joint announcement.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a335435955f7d831</guid>
+      <pubDate>Wed, 26 Aug 2026 13:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>There’s so much betting against long-term bonds that a turnaround could catch investors off guard, says Citadel Securities</title>
+      <link>https://www.marketwatch.com/story/wall-streets-massive-bet-against-long-term-bonds-is-a-recipe-for-a-painful-bearish-unwind-says-citadel-securities-430dc145?mod=mw_rss_topstories</link>
+      <description>Citadel Securities’ strategist Frank Flight says a bet that appears to be one-sided against long-term bonds could be setting up for a painful unwind.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-dfbb62adc47ef19d</guid>
+      <pubDate>Wed, 26 Aug 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P 500 is expected to reach fresh highs this year — but Barclays warns of risks</title>
+      <link>https://www.marketwatch.com/story/s-p-500-is-expected-to-reach-fresh-highs-this-year-but-barclays-warns-of-risks-abc86282?mod=mw_rss_topstories</link>
+      <description>Strategists at the bank warn of rising macroeconomic volatility, capital-supply concerns related to artificial intelligence and uncertainty over the U.S. midterm elections.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-eeff6d71627fc5f1</guid>
+      <pubDate>Wed, 26 Aug 2026 13:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>QueryStory wants you to believe what AI is telling you</title>
+      <link>https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/</link>
+      <description>The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-4ce0a25c62ad4456</guid>
+      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arga Labs is building a better way to train enterprise AI agents</title>
+      <link>https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/</link>
+      <description>Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-22b66277c658d734</guid>
+      <pubDate>Wed, 26 Aug 2026 12:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say</title>
+      <link>https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-fd7e67b0b86ac360</guid>
+      <pubDate>Wed, 26 Aug 2026 12:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>China advises its citizens to leave Taiwan ally Eswatini over 'security risks'</title>
+      <link>https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-033193ef8aba6ded</guid>
+      <pubDate>Wed, 26 Aug 2026 12:17:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses</title>
+      <link>https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/</link>
+      <description>The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-5e47f0272d897599</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBM's new Granite 4.2 models ride the wave of interest in local LLMs</title>
+      <link>https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/</link>
+      <description>The focus is on agentic capability and predictable enterprise deployment.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-05f45dd4d9cc70b6</guid>
+      <pubDate>Wed, 26 Aug 2026 11:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bill Gates is deeply worried about AI, and he’s no longer staying quiet</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet</link>
+      <description>Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-214a2fe83e85dcfa</guid>
+      <pubDate>Wed, 26 Aug 2026 11:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Paul Dix</title>
+      <link>https://simonwillison.net/2026/Aug/26/paul-dix/</link>
+      <description>The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can produce a highly complex, highly sophisticated piece of software and it can continue to refine it until it just works. — Paul Dix, The end of programming Tags: coding-agents, ai-assisted-programming, generative-ai, bun, ai, llms</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-e7386291854e2ef6</guid>
+      <pubDate>Wed, 26 Aug 2026 08:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>How loveholidays is making everyone a builder with Codex</title>
+      <link>https://openai.com/index/loveholidays</link>
+      <description>Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-d34e82eae2f299fc</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EVE Online: The Move to Python 3 Begins!</title>
+      <link>https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</link>
+      <description>EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010. Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for example 1 / 2 is 0 in Python 2 but is 0.5 in Python 3. There's nothing in this announcement about how they plan to replace Stackless, but at their conference last year they presented Scheduling in Carbon: Leaving Stackless Python Behind describing how they replaced Stackless in the Carbon engine for their more recent game EVE Frontier, using their (now open source) carbonengine/scheduler library. Via Lobster.rs Tags: eve-online, migrations, python, python3, stackless</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-f59c3acff0af2de2</guid>
+      <pubDate>Tue, 25 Aug 2026 22:59:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to evaluate LLMs before production</title>
+      <link>https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/</link>
+      <description>These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-7414ec6882716a03</guid>
+      <pubDate>Tue, 25 Aug 2026 21:35:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>World humanoid robot games show runners breaking records, bursting into flames</title>
+      <link>https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/</link>
+      <description>Record-breaking robot races are less substantial than household chore challenges.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-91e48aee10201957</guid>
+      <pubDate>Tue, 25 Aug 2026 20:59:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot app Customize tab is generally available</title>
+      <link>https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available</link>
+      <description>GitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on. The new Customize tab in the GitHub Copilot app brings MCP… The post GitHub Copilot app Customize tab is generally available appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-3dfdd70a153107b7</guid>
+      <pubDate>Tue, 25 Aug 2026 20:05:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Ramp built its own in-house coding agent, Inspect</title>
+      <link>https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect</link>
+      <description>A fintech company rejected the easy route and homebrewed its own coding agent – and is now a step ahead of coding agents from frontier AI labs. An in-depth look</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-4e66e71e0084ef29</guid>
+      <pubDate>Tue, 25 Aug 2026 15:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Granite 4.2 LLMs: How They're Built</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-74043a2c13e42e05</guid>
+      <pubDate>Tue, 25 Aug 2026 15:14:14 +0000</pubDate>
+    </item>
     <item>
       <title>A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?</title>
       <link>https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html</link>
@@ -636,172 +803,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-770492407dcb0928</guid>
       <pubDate>Fri, 21 Aug 2026 11:38:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/</link>
-      <description>Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-f141b3b9c86f9ea8</guid>
-      <pubDate>Fri, 21 Aug 2026 11:00:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better</title>
-      <link>https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html</link>
-      <description>Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-54d954332cd70cde</guid>
-      <pubDate>Fri, 21 Aug 2026 09:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud</title>
-      <link>https://www.latent.space/p/ainews-poolside-gets-12b-reverse</link>
-      <description>Yes, we’re confused too.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-9a19920264c99721</guid>
-      <pubDate>Fri, 21 Aug 2026 05:45:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI data startup Micro1 reaches $500M gross run rate amid AI training boom</title>
-      <link>https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/</link>
-      <description>Surging demand for AI training data is driving rapid growth for the startup and its rivals.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-35f97ccf87836552</guid>
-      <pubDate>Fri, 21 Aug 2026 00:13:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Measuring benchmark optimization in speech recognition</title>
-      <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-68e9fb1705e10808</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT search now uses the site:operator at scale</title>
-      <link>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</link>
-      <description>ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging "GEO" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT. The Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini. They publish aggregate reports on this as part of their own content marketing strategy, which do seem to provide credible hints as to otherwise invisible design changes to those products. Their own tracking shows a notable change aligned with the GPT-5.6 rollout earlier this month: The percentage of all ChatGPT Search fanout queries that contain the site:operator, per day. The share hovered between 0.3% and 0.5% for weeks, dipped briefly to 0.15% on August 3 to 5 (consistent with a staged rollout or pre-launch experiment), then jumped to 16-17% on August 8. It's important to note that these figures only reflect the prompts for which they have automated tracking enabled. This corresponds to OpenAI's somewhat vague August 6th announcement: For Plus and Pro users, we’re updating GPT‑5.6 Sol in Chat to be more reliable with facts and provide more focused answers. Once again I am hampered by OpenAI's decision to actively obscure their system prompts, but from poking at ChatGPT I believe their latest search tool has a shape like search(query, recency, domains) rather than encouraging a site: operator directly. In a follow-up on August 18th Promptwatch reported that ChatGPT appeared to have greatly reduced the likelihood of Reddit being used in those searches. My own attempts to ascertain if the system prompt has been updated to discourage Reddit sourcing have been unsuccessful - the most thorough leaked system prompt collection I know of doesn't yet show any relevant changes. Tags: reddit, seo, openai, chatgpt, ai-assisted-search, system-prompts</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-d58dda0fceeadd9c</guid>
-      <pubDate>Thu, 20 Aug 2026 23:57:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI is gaining on Anthropic with business users, new data indicates</title>
-      <link>https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/</link>
-      <description>Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how "sticky" enterprise AI spending really is.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-e1438dc5cd8f7d04</guid>
-      <pubDate>Thu, 20 Aug 2026 22:36:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT can now send texts for you with new Apple Messages plug-in</title>
-      <link>https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/</link>
-      <description>Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f9af7db8aba157ae</guid>
-      <pubDate>Thu, 20 Aug 2026 22:09:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Discover is getting an AI chatbot-tuned feed</title>
-      <link>https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed</link>
-      <description>Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the "coming days," will use AI to automatically tweak your feed and "remember" your preferences for future visits. You'll find the option within the three-dot menu on your […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-abea01bdfec26a5b</guid>
-      <pubDate>Thu, 20 Aug 2026 21:50:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The /wayfinder Skill: Navigating the “Fog of War” of Planning</title>
-      <link>https://www.latent.space/p/wayfinder-skill</link>
-      <description>Matt Pocock tells us about his /wayfinder skill, for greenfield projects or for when the way forward is unclear.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-e791424eb124bfa1</guid>
-      <pubDate>Thu, 20 Aug 2026 20:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders</title>
-      <link>https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/</link>
-      <description>Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-859f0b88d5add40a</guid>
-      <pubDate>Thu, 20 Aug 2026 19:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The August 17 outage, and the work ahead</title>
-      <link>https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</link>
-      <description>An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-ba7ef830fa2ae19c</guid>
-      <pubDate>Thu, 20 Aug 2026 18:36:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pulse: We need to talk about migrations with AI</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations</link>
-      <description>Asana completed a testing framework migration in two weeks, that they would have delayed for years more, and they’re not alone. Also: AI startups could make Gartner much less relevant, and more</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-8908f6c83c5f5473</guid>
-      <pubDate>Thu, 20 Aug 2026 17:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Up to 3.2x Faster Inference with LFM2.5-DSpark</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-dspark</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-c7cdb6722fd86cc4</guid>
-      <pubDate>Thu, 20 Aug 2026 16:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s Greg Brockman’s OpenAI now</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion</link>
-      <description>OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-d7ef2975580865aa</guid>
-      <pubDate>Thu, 20 Aug 2026 15:45:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to Know About Prince Harry and Meghan’s Move Back to the U.K.</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html</link>
-      <description>The couple are moving back after six years in the United States. What they will do, and much else, are still unclear.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-715f57b1d07cb01a</guid>
-      <pubDate>Thu, 20 Aug 2026 13:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>The A.I.-Robotics Job Only a Human Can Do</title>
-      <link>https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html</link>
-      <description>In India, some people are strapping cameras to their bodies to collect data on how humans move and train A.I.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-0ba9db891f3e3215</guid>
-      <pubDate>Thu, 20 Aug 2026 13:19:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Walmart’s stock slides as U.S. sales are hit by falling drug prices</title>
-      <link>https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories</link>
-      <description>The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-f38a48b39303e494</guid>
-      <pubDate>Thu, 20 Aug 2026 13:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?</title>
-      <link>https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories</link>
-      <description>“We are hurt and confused, but we have also tried to respect the boundaries they have established.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-5cf4ff68f1d14274</guid>
-      <pubDate>Thu, 20 Aug 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home</title>
-      <link>https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-1acfe0c022038fa8</guid>
-      <pubDate>Thu, 20 Aug 2026 13:04:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok exfiltrates user data when malicious instructions are encrypted</title>
-      <link>https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</link>
-      <description>Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-901b75f2181aea7b</guid>
-      <pubDate>Thu, 20 Aug 2026 13:00:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
