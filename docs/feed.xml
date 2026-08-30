@@ -5,8 +5,112 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:30:05 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order</title>
+      <link>https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html</link>
+      <description>Users in the United States will see the new label, following President Trump’s executive order last week.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ff77059150c5d23b</guid>
+      <pubDate>Sun, 30 Aug 2026 13:18:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>See Nepali Rescue Workers Testing Aid Delivery by Drone</title>
+      <link>https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html</link>
+      <description>Some survivors of the deadly flood and landslide have no access to food. Officials and volunteers are testing how drones can help.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a2df65f65c72aa28</guid>
+      <pubDate>Sun, 30 Aug 2026 13:12:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna</title>
+      <link>https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html</link>
+      <description>The theft of the precious object, once owned by an Egyptian queen and later sold to satisfy her creditors, was the latest in a string of high-profile museum losses.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-508c1b05f2298545</guid>
+      <pubDate>Sun, 30 Aug 2026 13:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.</title>
+      <link>https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories</link>
+      <description>“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2db288bd22f8a193</guid>
+      <pubDate>Sun, 30 Aug 2026 13:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>These charts show how leverage-happy investors are transforming the stock market</title>
+      <link>https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories</link>
+      <description>A rush of retail investors and quant funds has caused a shift toward more borrowed money and more short-term trading.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-74139bb124957496</guid>
+      <pubDate>Sun, 30 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manhunt after shooting at Swiss rave kills woman, 22, and injures five</title>
+      <link>https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Five others in their twenties were injured after shots were fired at a techno event near Zurich.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-868f6bb6e2a977d4</guid>
+      <pubDate>Sun, 30 Aug 2026 12:44:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?</title>
+      <link>https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories</link>
+      <description>“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7179dad1536b16c0</guid>
+      <pubDate>Sun, 30 Aug 2026 12:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Meta’s push to put robots to work in data centers</title>
+      <link>https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/</link>
+      <description>The company is testing robots on tasks that can performed by technicians.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-ce11c9b872b55c7e</guid>
+      <pubDate>Sun, 30 Aug 2026 11:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iceland votes against restarting talks on joining EU</title>
+      <link>https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-a3d0d3ca0dff3984</guid>
+      <pubDate>Sun, 30 Aug 2026 10:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Hy4 Preview</title>
+      <link>https://simonwillison.net/2026/Aug/29/hy4/</link>
+      <description>Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face. This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates to better understand their capabilities. Here's Hy4's chat_template.jinja on Hugging Face, which includes this section: {%- if not reasoning_effort is defined %} {%- set reasoning_effort = 'high' %} {%- elif reasoning_effort not in ['high', 'no_think'] %} {%- if reasoning_effort is none %} {{- raise_exception('reasoning_effort error : None, should be no_think/high') }} {%- else %} {{- raise_exception('reasoning_effort error : ' + reasoning_effort + ', should be no_think/high') }} {%- endif %} {%- endif %} So it looks like there are just two reasoning effort levels: "high" (the default) and "no_think" (reason by disabled). I tried my "Generate an SVG of a pelican riding a bicycle" prompt with the default high reasoning via OpenRouter and got this: Quoting the reasoning trace: [...] Let's maybe add a helmet? It could improve riding theme, but may obscure head. Maybe a small cycling cap or helmet? The user didn't ask; can add red helmet? Might be cute. But pelican with big beak; a helmet might obscure. Better maybe no. Maybe add sunglasses? no. Maybe add water? no. It's interesting how the reasoning trace uses slightly truncated English, presumably because perfect grammar isn't useful or token efficient for hidden reasoning text. Tags: ai, generative-ai, llms, pelican-riding-a-bicycle, llm-reasoning, llm-release, ai-in-china</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-e99b0d4d4edfa874</guid>
+      <pubDate>Sat, 29 Aug 2026 23:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</title>
+      <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
+      <description>This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-a07c3116b1cc1621</guid>
+      <pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sony Music Publishing and Warner Chappell are suing Anthropic</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright</link>
+      <description>Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-202512972a826b19</guid>
+      <pubDate>Sat, 29 Aug 2026 18:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z</title>
+      <link>https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/</link>
+      <description>Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "engineering" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-160a511db123aa08</guid>
+      <pubDate>Sat, 29 Aug 2026 17:36:47 +0000</pubDate>
+    </item>
     <item>
       <title>Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil</title>
       <link>https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -14,6 +118,14 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-d1fd3bc001a527cb</guid>
       <pubDate>Sat, 29 Aug 2026 13:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia’s AI advantage is moving beyond the GPU</title>
+      <link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
+      <description>The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-dcb10e4dd9846f66</guid>
+      <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why would someone lock up money by rolling it into a 401(k)?</title>
@@ -693,116 +805,6 @@
       <category>pragmatic-engineer</category>
       <guid isPermaLink="false">news-4e66e71e0084ef29</guid>
       <pubDate>Tue, 25 Aug 2026 15:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Granite 4.2 LLMs: How They're Built</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-74043a2c13e42e05</guid>
-      <pubDate>Tue, 25 Aug 2026 15:14:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?</title>
-      <link>https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html</link>
-      <description>China’s humanoid robots are achieving superhuman feats of athleticism. But how that translates into the real world is still an open question, experts said.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-efaf5473f75d1331</guid>
-      <pubDate>Tue, 25 Aug 2026 13:26:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?</title>
-      <link>https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories</link>
-      <description>“The cost is absolutely ridiculous.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-660c78717c9228f3</guid>
-      <pubDate>Tue, 25 Aug 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Removes Syria From Its List of Terrorism Sponsors</title>
-      <link>https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html</link>
-      <description>The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-984e19f014ae069c</guid>
-      <pubDate>Tue, 25 Aug 2026 13:03:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple's new desktop computers are designed specifically for local AI development</title>
-      <link>https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/</link>
-      <description>Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-a037d648cf60b82d</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accel-backed Keenable is indexing the web for AI agents</title>
-      <link>https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/</link>
-      <description>Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-9f1468a44254df3e</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investors poured into Canadian ETFs right before trade talks broke down</title>
-      <link>https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories</link>
-      <description>Investors misread the mood music on U.S.-Canadian talks, in a big way.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-d9815a4e776fa800</guid>
-      <pubDate>Tue, 25 Aug 2026 12:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China needs U.S. dollars but is building a hedge against Washington’s sanctions</title>
-      <link>https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html</link>
-      <description>The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-34c45d5969a5bd92</guid>
-      <pubDate>Tue, 25 Aug 2026 12:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War</title>
-      <link>https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html</link>
-      <description>Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-68289a9848504352</guid>
-      <pubDate>Tue, 25 Aug 2026 12:39:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</title>
-      <link>https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/</link>
-      <description>TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-9e2dc1206d7d0224</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lockerbie bombing trial postponed days before it was due to start</title>
-      <link>https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-41f66579f418cf68</guid>
-      <pubDate>Tue, 25 Aug 2026 11:54:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>China hits out at 'illegal' new US sanctions on Iran and trading partners</title>
-      <link>https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-62bd4787a0226a7f</guid>
-      <pubDate>Tue, 25 Aug 2026 11:53:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-f6b26e55a4899220</guid>
-      <pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI subpoenaed by Alabama AG over Hugging Face hack</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack</link>
-      <description>Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-63243808b1492cbf</guid>
-      <pubDate>Tue, 25 Aug 2026 09:15:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
