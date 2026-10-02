@@ -5,8 +5,199 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>As Gas Prices Rose, Sales of Larger Vehicles Slid</title>
+      <link>https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html</link>
+      <description>Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-482c508173d67192</guid>
+      <pubDate>Fri, 02 Oct 2026 13:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s Push Into A.I. Has Led to a Problem: Too Much Usage</title>
+      <link>https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html</link>
+      <description>As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-902e8e14d43a06f7</guid>
+      <pubDate>Fri, 02 Oct 2026 13:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police in India Detain Hundreds Rallying Against ‘Vote Theft’</title>
+      <link>https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html</link>
+      <description>Opposition groups are demanding the resignation of the election chief over the removal of 130 million voters from the rolls. The government denies influencing the exercise.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-464491895a464ddc</guid>
+      <pubDate>Fri, 02 Oct 2026 13:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?</title>
+      <link>https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories</link>
+      <description>“I have $152,000 in my IRA and Roth accounts.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-aabef0343d74b9b9</guid>
+      <pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Western Digital and Seagate are seeing big stock drops today</title>
+      <link>https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories</link>
+      <description>Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-4464199b0f7b2d64</guid>
+      <pubDate>Fri, 02 Oct 2026 12:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>School protests send shivers down French government's spine</title>
+      <link>https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-4d704831eb84b5cd</guid>
+      <pubDate>Fri, 02 Oct 2026 12:43:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%</title>
+      <link>https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html</link>
+      <description>Banks are fueling a hiring surge for AI engineers who are good at "agent orchestration" — the ability to coordinate teams of specialized agents.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-40bcdb8ee8c9e850</guid>
+      <pubDate>Fri, 02 Oct 2026 12:24:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI hallucinations are making entitled customers even worse</title>
+      <link>https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents</link>
+      <description>Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. "Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions," says Madison, who asked that her last name be withheld to […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-b3a9a516e91b03e6</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>If a data center is camouflaged in the woods, will anyone hate it?</title>
+      <link>https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry</link>
+      <description>San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive "hyperscale" facilities spanning millions of square feet and housing the physical infrastructure for AI. There are now more […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-f829ccaecea00650</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon writes scary blog warning communities not to block data centers</title>
+      <link>https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning</link>
+      <description>Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-78ffcfd0a288af0c</guid>
+      <pubDate>Fri, 02 Oct 2026 11:52:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?</title>
+      <link>https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8bc663610baab95f</guid>
+      <pubDate>Fri, 02 Oct 2026 11:52:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Pi 1.0, Pi Durable, and AIE NYC</title>
+      <link>https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc</link>
+      <description>the minimalist harness goes stable... and TypeScript!</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-22b95dcb283e6437</guid>
+      <pubDate>Fri, 02 Oct 2026 06:40:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-a885ed61f54a415a</guid>
+      <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Academia is for Ambition — Alex Zhang, MIT</title>
+      <link>https://www.latent.space/p/rlm</link>
+      <description>We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-d1b287482ae91f9f</guid>
+      <pubDate>Fri, 02 Oct 2026 00:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president</title>
+      <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
+      <description>President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-17bfcacf3c393321</guid>
+      <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search</title>
+      <link>https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/</link>
+      <description>The court acknowledges AI search comes with consequences, but it's not an antitrust issue.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-de8e231194157ca9</guid>
+      <pubDate>Thu, 01 Oct 2026 20:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT can now virtually try on clothes for you</title>
+      <link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
+      <description>OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-280d0a9a74fa163f</guid>
+      <pubDate>Thu, 01 Oct 2026 19:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot can now interact with desktop apps with computer use</title>
+      <link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
+      <description>Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-819b8b6c47de6884</guid>
+      <pubDate>Thu, 01 Oct 2026 19:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot in VS Code, September 2026 releases</title>
+      <link>https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</link>
+      <description>This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps… The post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-b33dfcad9023c0fa</guid>
+      <pubDate>Thu, 01 Oct 2026 19:09:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>The eternal complement</title>
+      <link>https://openai.com/index/the-eternal-complement</link>
+      <description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-7e67b43cf9d0e609</guid>
+      <pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pulse: Firebase’s global outage &amp; poor response</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage</link>
+      <description>Also: OpenAI’s platform play that has similarities to AWS, more data on companies moving to open models, and more</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-593fe84d411ed3fe</guid>
+      <pubDate>Thu, 01 Oct 2026 16:43:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dynamic workflows in Copilot CLI and the Copilot app</title>
+      <link>https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</link>
+      <description>Dynamic workflows are now available in Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK. These let you define an orchestration in code to get the reliability and… The post Dynamic workflows in Copilot CLI and the Copilot app appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-90b9985c3923e420</guid>
+      <pubDate>Thu, 01 Oct 2026 16:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Albertsons Companies is reimagining retail from the inside out</title>
+      <link>https://openai.com/index/albertsons-reimagining-retail</link>
+      <description>Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-a80484c2d5849bdb</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 technical talks I’m excited about at GitHub Universe 2026</title>
+      <link>https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/</link>
+      <description>From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-a2af7a6c887d4504</guid>
+      <pubDate>Thu, 01 Oct 2026 15:07:16 +0000</pubDate>
+    </item>
     <item>
       <title>Live Updates: Investigators Seek Motive in FlyDubai Attack</title>
       <link>https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots</link>
@@ -613,198 +804,6 @@
       <category>latent-space</category>
       <guid isPermaLink="false">news-5dcea7d65eb470eb</guid>
       <pubDate>Sat, 29 Aug 2026 05:11:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court</title>
-      <link>https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html</link>
-      <description>The 9th U.S. Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a 3rd Circuit ruling from April.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-a81ce72624fecf38</guid>
-      <pubDate>Sat, 29 Aug 2026 02:23:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Just a rumour of a bug is enough to find a security exploit these days</title>
-      <link>https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</link>
-      <description>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding probes for percent-encoded traversal sequences, indicating that automated watchers are keeping an eye on public repositories. Modern coding agents have become so effective at finding flaws that the slightest hint at a new bug can be enough information for them to find it, something Anil has been able to demonstrate using his own agents, switching to DeepSeek V4 Pro⁠ when Claude Fable refused the task. Anil points out that this rate of discovery appears incompatible with existing open source embargo practices for new issues. If an issue can become an exploit this fast, we need to figure out new processes for keeping our communities safe. rclone maintainer Nick Craig-Wood confirms in the Hacker News comments that his project is seeing this problem: In the first 10 years of the rclone project we received about 20 security disclosures through GitHub. We had to deal with over 40 in the last month! That has taken a huge amount of my time, even using AI tools to triage and come up with fixes for review. The hit rate for those security disclosures is pretty good - about 75% of them have a nugget of something which needs looking at. [...] GitHub assigns CVEs for the advisories. Before the AI apocalypse they took 2-3 days for an assignment but now it they are running at 3-4 weeks so I have to send the point releases out with CVE-PENDING in the changelog which isn't ideal. Via Hacker News Tags: open-source, security, ai, generative-ai, llms, coding-agents, ocaml, ai-security-research</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-c03b509bb377bca6</guid>
-      <pubDate>Fri, 28 Aug 2026 22:12:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot in Visual Studio — August update</title>
-      <link>https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2</link>
-      <description>August 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review. Highlights Here’s what’s… The post GitHub Copilot in Visual Studio — August update appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-362e2edecbfb3eea</guid>
-      <pubDate>Fri, 28 Aug 2026 20:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neocloud Lambda secures $1B in debt to buy more chips</title>
-      <link>https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/</link>
-      <description>Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-d63f08afee62f90d</guid>
-      <pubDate>Fri, 28 Aug 2026 20:24:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot weekly releases — August 24</title>
-      <link>https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24</link>
-      <description>This week’s updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE. GitHub Copilot in… The post GitHub Copilot weekly releases — August 24 appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-fe43888c26b149f6</guid>
-      <pubDate>Fri, 28 Aug 2026 20:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Anthropic researcher just gave us a peek at self-improving AI</title>
-      <link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
-      <description>Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-09fc2e9c2c2d86c0</guid>
-      <pubDate>Fri, 28 Aug 2026 19:30:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump blacklisting of "woke" Anthropic deemed illegal by federal judge</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/</link>
-      <description>Anthropic refused to support lethal autonomous warfare and mass surveillance.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-9d521aac8c7888ee</guid>
-      <pubDate>Fri, 28 Aug 2026 18:07:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s EPA wants to let data centers hide their air pollution</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit</link>
-      <description>Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-2c0deb26fc847391</guid>
-      <pubDate>Fri, 28 Aug 2026 16:28:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta makes AI glasses slightly less creepy with limit on nonconsensual recording</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/</link>
-      <description>Meta fixes AI glasses to stop recording any time users cover up the safety light.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-941119c98ca4f164</guid>
-      <pubDate>Fri, 28 Aug 2026 15:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Updates: New Nepal Flood Warning Clouds Desperate Search for Survivors</title>
-      <link>https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods</link>
-      <description>The Nepali police warned people to head for safety because more water could soak flood-ravaged villages. China said that the risk of a Tibetan lake overflowing had “gradually decreased.”</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-0e00b408fb9f906e</guid>
-      <pubDate>Fri, 28 Aug 2026 13:13:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Palestine Action Activists Accused of Vandalism at Trump Turnberry Face Terrorism Accusation</title>
-      <link>https://www.nytimes.com/2026/08/28/world/europe/palestine-action-trump-golf-course.html</link>
-      <description>Prosecutors will seek to prove that members of Palestine Action who they say painted “Gaza is not 4 sale” on the Scottish golf course last year committed acts connected to terrorism.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-99f0ce4807a59f92</guid>
-      <pubDate>Fri, 28 Aug 2026 13:11:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who Is Haakon, Norway’s New King?</title>
-      <link>https://www.nytimes.com/2026/08/28/world/europe/norway-new-king-haakon.html</link>
-      <description>Crown Prince Haakon, the only son of King Harald V, will become monarch, a largely ceremonial and symbolic role.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-60cfd96de6863581</guid>
-      <pubDate>Fri, 28 Aug 2026 13:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Micron’s Chinese rival just reported its first earnings as a public company — and sales are booming</title>
-      <link>https://www.marketwatch.com/story/microns-chinese-rival-just-reported-its-first-earnings-as-a-public-company-and-sales-are-booming-182c6a42?mod=mw_rss_topstories</link>
-      <description>CXMT, the Chinese memory-chip producer, on Friday reported its first financials as a public company that showed that how much it is benefiting from surge in artificial-intelligence services lifting prices.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-226bd77565830298</guid>
-      <pubDate>Fri, 28 Aug 2026 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse</title>
-      <link>https://www.bbc.co.uk/news/videos/ce3rykzvevno?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Some parts of the globe had a chance to see the rare event when the Sun, Earth and Moon line up in the night sky.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-6555a4690c41d554</guid>
-      <pubDate>Fri, 28 Aug 2026 12:49:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>This new Social Security math could lead us down a dangerous road</title>
-      <link>https://www.marketwatch.com/story/this-new-social-security-math-could-lead-us-down-a-dangerous-road-3c44d7d7?mod=mw_rss_topstories</link>
-      <description>What are taxpayers entitled to?</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-c0c30f1f9d3d1f30</guid>
-      <pubDate>Fri, 28 Aug 2026 12:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic gets its first court win over the Pentagon’s supply chain risk label</title>
-      <link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
-      <description>A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c6fae4a04883d827</guid>
-      <pubDate>Fri, 28 Aug 2026 12:46:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India</title>
-      <link>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</link>
-      <description>Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f3970ce5d9ff791c</guid>
-      <pubDate>Fri, 28 Aug 2026 12:21:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dutch court sentences man to life over Rwanda genocide</title>
-      <link>https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-02f486cbd16ef6d0</guid>
-      <pubDate>Fri, 28 Aug 2026 12:15:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect</title>
-      <link>https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html</link>
-      <description>Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-312648df945e78df</guid>
-      <pubDate>Fri, 28 Aug 2026 11:39:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming changes to GitHub Copilot policies and billing</title>
-      <link>https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing</link>
-      <description>To provide a strong, consistent Copilot experience, we’re making three separate, upcoming changes to Copilot policies and billing. Please review the upcoming updates to understand what may impact you. Reopening… The post Upcoming changes to GitHub Copilot policies and billing appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-23382e1c0229d390</guid>
-      <pubDate>Fri, 28 Aug 2026 11:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] OpenAI to reach AGI bar by end-2026</title>
-      <link>https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by</link>
-      <description>It’s Time. We’re in the Endgame now.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-1d5fd45befcaea1b</guid>
-      <pubDate>Fri, 28 Aug 2026 07:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our decision on Cursor following its acquisition by SpaceX</title>
-      <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-      <description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-092c8de02e8b135e</guid>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic was illegally blacklisted by the Trump administration, court rules</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling</link>
-      <description>On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting "red […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-9ec4728e0bc5ea7a</guid>
-      <pubDate>Fri, 28 Aug 2026 03:14:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Supporting Thailand’s next generation of AI startups</title>
-      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
-      <description>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-0b00c80d502cc3ab</guid>
-      <pubDate>Fri, 28 Aug 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
