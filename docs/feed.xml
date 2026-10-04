@@ -5,8 +5,135 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:30:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>October can be a scary month for stocks. Here’s what investors need to watch this year.</title>
+      <link>https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories</link>
+      <description>If stocks see another big swoon this year, investors already know why.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-195f232050f7db86</guid>
+      <pubDate>Sun, 04 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried</title>
+      <link>https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html</link>
+      <description>Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-454c20c9f169cfda</guid>
+      <pubDate>Sun, 04 Oct 2026 12:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit</title>
+      <link>https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-64aa4378c789d5a2</guid>
+      <pubDate>Sun, 04 Oct 2026 12:09:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fed minutes coming this week could give markets important clues about future rate hikes</title>
+      <link>https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories</link>
+      <description>Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7ecaba2454efce22</guid>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot</title>
+      <link>https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html</link>
+      <description>The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-795b3e71def76968</guid>
+      <pubDate>Sun, 04 Oct 2026 11:34:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to know about Brazil's election pitting Lula against Flávio Bolsonaro</title>
+      <link>https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-df8482390474fea6</guid>
+      <pubDate>Sun, 04 Oct 2026 11:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Houthis Claim Attack on Aramco as Yemen Conflict Escalates</title>
+      <link>https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html</link>
+      <description>The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ff6499d606067e76</guid>
+      <pubDate>Sun, 04 Oct 2026 10:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who Were the Pilots on the FlyDubai Flight?</title>
+      <link>https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html</link>
+      <description>The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-3fcb81aa2b5eaa80</guid>
+      <pubDate>Sun, 04 Oct 2026 09:33:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>We're going to need default hard budget caps on pretty much everything</title>
+      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
+      <description>Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and APIs that lets you say "after $X/month, cut this thing off and return errors". These need to be hard limits. Soft caps, "after $X/month, send me a warning email", will not cut it. Coding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money - calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute. Nobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage. An argument against this is that businesses don't want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill. I think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent: Remove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges. The service I most want to see this from is AWS. I've heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I've also heard stories from people who didn't anticipate this and ended up seriously burned. ... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September: When you're ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project's usage reaches its spend limit, your project is paused for that month. See also Create a spend limit in AWS Settings, though that page warns that "We're currently releasing our new experience to a limited number of customers." Here's hoping that hits general availability for existing accounts soon. Google Cloud launched a similar feature in July, called Spend Caps, which lets you "set a monthly financial cap on specific services within a project". Looks like this is becoming a trend! In an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble. Tags: amazon-web-services, ai, coding-agents</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-5a3f1f4a82c5b0a8</guid>
+      <pubDate>Sat, 03 Oct 2026 23:34:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Agent Said It Was Done. The Database Disagreed.</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-89764eae00994ca8</guid>
+      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>September sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2026/Oct/3/newsletter/</link>
+      <description>I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I'm using right now My software releases this month 2026 in LLMs (so far) Here's a copy of the August newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-4956a5acae88d47d</guid>
+      <pubDate>Sat, 03 Oct 2026 22:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon responds to data center backlash, says it no longer uses NDAs</title>
+      <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
+      <description>The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-f8ba7ef564870c95</guid>
+      <pubDate>Sat, 03 Oct 2026 18:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capcom is preparing for a ‘future where we create games together with AI’</title>
+      <link>https://www.theverge.com/games/1004418/capcom-ai-game-development</link>
+      <description>Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: "The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-f1c80105d2f2cb39</guid>
+      <pubDate>Sat, 03 Oct 2026 16:49:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
+      <link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
+      <description>By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-a17db24aed38baa7</guid>
+      <pubDate>Sat, 03 Oct 2026 16:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Splice CEO Kakul Srivastava thinks AI emails are killing conversations</title>
+      <link>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</link>
+      <description>Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's "Money" and "Espresso" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-2b2053e0bc6be5df</guid>
+      <pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An OpenAI safety employee has quit and is sounding the alarm</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</link>
+      <description>David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-91c2390ce603b2e9</guid>
+      <pubDate>Sat, 03 Oct 2026 14:31:56 +0000</pubDate>
+    </item>
     <item>
       <title>I made $500,000 from a stock sale in my IRA. Could this change my retirement?</title>
       <link>https://www.marketwatch.com/story/i-made-500-000-from-a-stock-sale-in-my-ira-could-this-change-my-retirement-6bddcf0d?mod=mw_rss_topstories</link>
@@ -675,134 +802,6 @@
       <category>techcrunch-enterprise</category>
       <guid isPermaLink="false">news-80f86534580d63e6</guid>
       <pubDate>Mon, 28 Sep 2026 16:52:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT to face tougher regulation in the EU</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</link>
-      <description>OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-8b9768eab1b143c4</guid>
-      <pubDate>Mon, 31 Aug 2026 13:27:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Principal Saved 900 Children Before His School Was Washed Away in Nepal</title>
-      <link>https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html</link>
-      <description>Rajendra Dawadi had less than 15 minutes to act on a warning of approaching floodwaters. His swift evacuation plan saved hundreds of lives.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-3516b7e04c5d5607</guid>
-      <pubDate>Mon, 31 Aug 2026 13:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man Arrested in Switzerland After Deadly Shooting at Rave</title>
-      <link>https://www.nytimes.com/2026/08/31/world/europe/switzerland-shooting-rave-suspect-arrest.html</link>
-      <description>The suspect, a 43-year-old Swiss citizen, was taken into custody early on Monday, the police said.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-7e6ac06b77337a7f</guid>
-      <pubDate>Mon, 31 Aug 2026 13:12:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead</title>
-      <link>https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories</link>
-      <description>Dismissed as “not a product guy,” the outgoing CEO proved that supply-chain mastery could take Apple to new heights.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-aec6afa78d128ffc</guid>
-      <pubDate>Mon, 31 Aug 2026 13:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man arrested after Swiss rave shooting that killed woman</title>
-      <link>https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-cd10da34803542c5</guid>
-      <pubDate>Mon, 31 Aug 2026 13:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>America is asking the wrong question about its $40 trillion in debt, this MIT expert warns</title>
-      <link>https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories</link>
-      <description>The federal debt may be sustainable, but rising burdens may still be troublesome to the U.S. economy, says one expert.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-37ae592bc1450c8d</guid>
-      <pubDate>Mon, 31 Aug 2026 13:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Instagram cracks down on AI accounts pretending to be human</title>
-      <link>https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop</link>
-      <description>Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the "AI creator" label to "AI-generated profile" to make it clear when a profile features an AI-generated person that's not a real human being. "We've heard that people don't like seeing a profile […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-8051bcd07a89c5fd</guid>
-      <pubDate>Mon, 31 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meeting notetaker Circleback adds a free tier to attract more customers</title>
-      <link>https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/</link>
-      <description>Circleback is also introducing new pricing plans starting from $14 per month</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-121993fc43fd3c0f</guid>
-      <pubDate>Mon, 31 Aug 2026 12:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon</title>
-      <link>https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>"It was a beautiful day - and then people were screaming," one hiker tells the BBC, as 15 people are missing.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-a2ad7f2294c238ed</guid>
-      <pubDate>Mon, 31 Aug 2026 12:55:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI</title>
-      <link>https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html</link>
-      <description>The insurance broker said the merger will create the premiere U.S. middle-market platform.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-4f59127b8eb9f7f2</guid>
-      <pubDate>Mon, 31 Aug 2026 12:35:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spanish Leader Says 5,000 Migrants Are Still in Ceuta, Weeks After Border Surge</title>
-      <link>https://www.nytimes.com/2026/08/31/world/europe/ceuta-migrants-pedro-sanchez-north-africa.html</link>
-      <description>Their continued presence has roiled the Spanish territory in Africa and heaped pressure on Prime Minister Pedro Sánchez.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-2cc0b3291db9eb52</guid>
-      <pubDate>Mon, 31 Aug 2026 12:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pocket's AI made my game ideas real. Now Meta controls the results.</title>
-      <link>https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/</link>
-      <description>Interactive mobile "gizmos" are easy to make, hard to share outside Meta's platform.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-f0c23ddb69217813</guid>
-      <pubDate>Mon, 31 Aug 2026 10:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>The U.S. is building barriers around drones and robots, but China has scale to get around them</title>
-      <link>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</link>
-      <description>The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f2a0380f36ec9e4e</guid>
-      <pubDate>Mon, 31 Aug 2026 02:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Understanding ChatGPT Work</title>
-      <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
-      <description>OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud. If you install the ChatGPT desktop app - the app that used to be called Codex - you gain access to a thing called ChatGPT Work that can access files and run programs directly on your computer. Let's call that one Work Local. This one feels more like regular Codex re-skinned to be less intimidating to non-software-developers. For the rest of this article I'm going to talk exclusively about Work Cloud. Work is for paid subscribers only Right now, ChatGPT Work (in both flavors) is available only to $20/month and up subscribers. Free users and $8/month Go users do not have access. Work has features that aren't available in Chat The interface for accessing Work is a tab selector, which presents it as an alternative to Chat: The obvious question is when should I use Chat, and when should I use Work? OpenAI's official answer to that question is: Use Chat when you want an answer, explanation, brainstorm, or short draft. Use ChatGPT Work when you want ChatGPT to complete a task with a clear outcome, such as a brief, deck, analysis, recurring update, workflow, or file you can review and use. I find that almost entirely useless, because I've been using regular ChatGPT Chat for all of those task categories for years! The better question then is what features does Work have that are missing from Chat? After extensive experimentation I think I've mostly figured that out: Options to use Luna and Terra in place of Sol A code execution environment with Internet access A headless Chrome browser A persistent filesystem shared between sessions The ability to publish ChatGPT Sites The ability to run sub-agent sessions with Sol, Luna, and Terra Scheduled prompt automations (may be in ChatGPT Chat too) Model selection In Work, you get the option to pick GPT-5.6 Sol, Luna, or Terra, each with Light, Medium, High, Extra High, Max, or Ultra reasoning levels. You can also pick GPT-5.5 at Light, Medium, High, or Extra High. These look to be the same models that are available through the OpenAI API. Chat offers a different selection: 5.6 Instant, Medium, High, Extra High, and Pro (actually Extra High and Pro are only available for $100/month+ subscribers - $20/month subscribers cap out at High). It doesn't explain if those are Luna or Terra or Sol (I'm assuming Sol?). 5.6 Pro appears to be exclusive to Chat, with no equivalent in Work. My current understanding from using Codex is that Ultra is a special mode that more eagerly delegates to sub-agents. I believe ChatGPT Work sessions are billed against your Codex allowance, while ChatGPT Chat Sessions get their own, separate allowance. This may help explain the model availability differences. Code execution with Internet access! As a long-time fan of the Code Interpreter pattern - pioneered by OpenAI in 2023 - this is by far the most exciting feature of ChatGPT Work (Cloud) for me. The code execution environment can now talk to the rest of the internet! ChatGPT Chat can't do this - if you ask it to install additional software packages or interact with websites or APIs that access will be blocked by the container proxy. (Weirdly, back in January it grew the ability to install packages, but that doesn't seem to work any more. I wish they had better changelogs!) Claude's equivalent container has allowed restricted internet access since it launched last September. Claude can install packages from PYPI and NPM and clone repositories from GitHub. But that is about it: the allowlist of domains is very short. ChatGPT Work allows a whole lot more than that. It can be configured with a specific list of allowed domains, but the default appears to be open to all. This makes Work an incredibly useful tool. You can have it clone GitHub repositories, install their dependencies, then use them to interact with the rest of the web! A full, headless Chrome browser Another killer feature of ChatGPT Work is the browser tool. ChatGPT Work can launch a full Chrome instance, load websites, fill out forms, and take screenshots. If a site requires sign in the browser can prompt you to take over and enter both passwords and 2FA codes, without round-tripping those credentials through the model itself. It can even run JavaScript against the DOM of loaded pages. I prompted: Load simonwillison.net in your browser and extract the headings using JavaScript ChatGPT Work fired up a browser instance and ran the code: await tab.playwright.evaluate(() =&gt; { return Array.from(document.querySelectorAll("h1,h2,h3,h4,h5,h6"), heading =&gt; ({ level: heading.tagName.toLowerCase(), text: heading.innerText.trim().replace(/\s+/g, " "), id: heading.id || null })); }); This feels a lot like my shot-scraper javascript tool, only now I can access it on my phone! A persistent, shared filesystem ChatGPT Chat gets a fresh filesystem for each chat session. These cannot be accessed from any other session. In ChatGPT Work each session gets its own scratch folder - named something like /workspace/scratch/e00a0a017944 - but each of those are persisted across sessions, so you can access files from previous chats. I have 171 folders in /workspace/scratch right now! As far as I can tell that /workspace volume is mounted to all Work sessions that are currently running - file edits from one can be instantly seen by the others. They don't seem to share the same process space though, and localhost servers running in one can't be accessed from another. ChatGPT Sites ChatGPT Work has the ability to build and deploy entire websites, using Cloudflare Workers. These can have HTML and JavaScript and can run server-side features too, including stateful features on top of Cloudflare D1 and R2. Here's a simple site I built with this feature: london-pelicans-in-her-piety.simonw.chatgpt.site My prompt was: Figure out all of the places in London with a pelican in her piety, then turn that into a JSON file and build a ChatGPT sites site about them (A pelican in her piety is a fascinating piece of medieval Christian imagery - once you know about them you'll find them all over the place.) These sites default to being private to the user that created them, but you can make them public and (on team plans) share them with other specific individuals. Sub-agents with Sol, Luna, and Terra There's not much to say about this one. ChatGPT Chat can't run sub-agents. ChatGPT Work can. This is very much a power-user feature: if you are running a complex project that can benefit from multiple parallel agents working together, Work can do that. Scheduled prompt automations Another feature that seems to have migrated from regular ChatGPT to ChatGPT Work at some point. You can prompt ChatGPT Work like this: run a search to see if Waymo have announced a launch date for Half Moon Bay every day at 8am This will schedule a prompt to run on that frequency. These prompts can decide that nothing interesting has happened, or they can decide to notify you of some new information. Update: Actually this seems to work in ChatGPT Chat as well. It's still worth noting here though, as it can be used in conjunction with other ChatGPT Work exclusive features. You can set a scheduled task to update a ChatGPT Site on an hourly basis, for example. Is this safe? An open question for me right now is how safe all of this stuff is. My lethal trifecta model warns about the risks inherent in any agent system that combines access to private data with exposure to untrusted content and a way to communicate stolen information back to an attacker. ChatGPT Work combines all three! I'd love to hear more from OpenAI about how they protect ChatGPT Work sessions against prompt injection attacks. I expect their answer is the same auto-review mechanism as Codex. OpenAI could make this a lot less confusing Figuring this all out took way more work than it should have. I think there are two key problems here: OpenAI explain Work in terms of what it's for, not what it actually does OpenAI still insist on hiding their system prompts and tools descriptions If the ChatGPT Work documentation included the exact system prompt and tool descriptions used by the agent I wouldn't have needed to write this post. A list of all the tools Shortly after publishing this article I had an idea. I started a fresh Work session and prompted: Build a site that lists every one of your tools - nearly grouped into categories - and for each one explain what it does. Try to exactly duplicate arguments and tool descriptions where possible. Design aesthetic should be technical docs, minimal flare Here's the site it built, which includes details of 223 registered tools - though 6 of those are from my own personal MCPs served via datasette-mcp. And a whole lot of Skills I noticed that the only browser-related tool in the list was web.run, which has methods for running searches, opening URLs, and clicking links, but didn't look like the full story in regards to headless browser automation. This made me suspicious that something was missing, so I told the ChatGPT Work session that built that tools reference site: Add full copies of every skill to the website (separate pages linked to from the homepage) It turns out ChatGPT Work uses a lot of skills - 44 in fact! The control-browser skill explains how the browser works: Run browser setup code through the Node REPL js tool. In this environment the callable tool id typically appears as mcp__node_repl__js. [...] The ability to interact directly with the browser is exposed through the browser-client runtime via the agent.browsers.* API. Before trying to interact with it, you MUST emit and read the complete documentation returned by await browser.documentation() in one go. So I told Work: Add the full output of await browser.documentation() to the bottom of the /skills/control-browser page And now you can read that on /skills/control-browser as well. A few more interesting Skills: documents for creating .docx files imagegen with tips on creating images with the image_gen tool pdf for both reading and rendering PDFs Spreadsheets for manipulating .xlsx, .xls, .csv, .tsv sites:sites-building for creating ChatGPT Sites openai-docs for answering questions about itself data-analytics:build-dashboard for building data dashboards Tags: ai, openai, generative-ai, chatgpt, llms, code-interpreter, lethal-trifecta, skills, general-agents</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-517370741c36397d</guid>
-      <pubDate>Sun, 30 Aug 2026 23:59:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Caterpillar is bringing to AI deployment what it learned from automating mining</title>
-      <link>https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/</link>
-      <description>Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-d427202242767fe7</guid>
-      <pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order</title>
-      <link>https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html</link>
-      <description>Users in the United States will see the new label, following President Trump’s executive order last week.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-ff77059150c5d23b</guid>
-      <pubDate>Sun, 30 Aug 2026 13:18:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
