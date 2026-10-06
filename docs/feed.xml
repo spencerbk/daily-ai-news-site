@@ -5,8 +5,167 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Fed minutes coming tomorrow could give markets important clues about future rate hikes</title>
+      <link>https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories</link>
+      <description>Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7ecaba2454efce22</guid>
+      <pubDate>Tue, 06 Oct 2026 13:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google is about to remove free access to Gemini Flash and Pro</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only</link>
+      <description>Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-c481fc93e0dd7dc8</guid>
+      <pubDate>Tue, 06 Oct 2026 13:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.</title>
+      <link>https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories</link>
+      <description>The co-portfolio manager at Heartland Advisors urges investors to shut out Wall Street’s hype on AI and look for companies that can use its technology as costs come down.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-08a02317c3e9332f</guid>
+      <pubDate>Tue, 06 Oct 2026 13:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kenya confirms its first Ebola death as outbreak spreads</title>
+      <link>https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-60cdda3b23955484</guid>
+      <pubDate>Tue, 06 Oct 2026 13:10:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nigeria mourns 25 killed as military plane crashes into swamp</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>President Bola Tinubu describes the crash as a "painful moment" for the military and the entire nation.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-09cd3057e27183a3</guid>
+      <pubDate>Tue, 06 Oct 2026 12:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>German Officials Arrest Former Spy Chief on Espionage Charges</title>
+      <link>https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html</link>
+      <description>August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-90a5c75befaadf51</guid>
+      <pubDate>Tue, 06 Oct 2026 12:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI agents tried to hack Wikipedia tools and flooded it with traffic</title>
+      <link>https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/</link>
+      <description>The reports of OpenAI agents harming 3rd party sites keep coming.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-307bfda48464106b</guid>
+      <pubDate>Tue, 06 Oct 2026 12:21:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?</title>
+      <link>https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html</link>
+      <description>The eviction of the woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-cd21ecd228245188</guid>
+      <pubDate>Tue, 06 Oct 2026 12:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ship sinks and crew missing after Black Sea drone attack</title>
+      <link>https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-e8d3bfd1f5b03d76</guid>
+      <pubDate>Tue, 06 Oct 2026 11:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end</title>
+      <link>https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end</link>
+      <description>An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but "lalala" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-9f54e4bc2e92628f</guid>
+      <pubDate>Tue, 06 Oct 2026 10:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand</title>
+      <link>https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html</link>
+      <description>Goldman Sachs says tight refinery capacity could keep diesel prices elevated through 2027, with high margins needed to curb demand and rebuild inventories.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-4a5a8591fd0c3d6c</guid>
+      <pubDate>Tue, 06 Oct 2026 08:47:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-085f7195b66fbb80</guid>
+      <pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Reflection Beam - 501B-A23B American Open Model</title>
+      <link>https://www.latent.space/p/ainews-reflection-beam-501b-a23b</link>
+      <description>A small win for US open source</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-75046b1c8fede7ee</guid>
+      <pubDate>Tue, 06 Oct 2026 06:28:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Felix Rieseberg</title>
+      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
+      <description>The "old" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn't love the disk, battery, and performance cost of running the VM locally. Also, people didn't love that closing your laptop means the work stops. The "new" version of Cowork runs model inference and the VM in the cloud. Each session gets its own sandbox, not sharing state with other sessions. When the VM needs something on the users' device (like a file), the desktop app is responsible for that file access tool call. [...] We think this solves a lot of problems we've heard about (like using Cowork from a phone, keeping work running, or getting all the same power without losing battery to the VM) — Felix Rieseberg, Anthropic, see also this help page Tags: claude-cowork, anthropic, claude, generative-ai, ai, general-agents, llms</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-16140ec435b023df</guid>
+      <pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP for agent-to-agent comms may be the riskiest protocol you've never heard of</title>
+      <link>https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</link>
+      <description>Trust gaps in the new protocol spread malicious prompts from one agent to another.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-aaf1cc502a6b1603</guid>
+      <pubDate>Mon, 05 Oct 2026 22:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI will start watermarking ChatGPT’s text in the EU</title>
+      <link>https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</link>
+      <description>OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-549ccc4aeee79ea2</guid>
+      <pubDate>Mon, 05 Oct 2026 20:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</title>
+      <link>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</link>
+      <description>Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-82cd9e3ab19b0710</guid>
+      <pubDate>Mon, 05 Oct 2026 19:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</title>
+      <link>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/</link>
+      <description>HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-5253c2e75c44c31d</guid>
+      <pubDate>Mon, 05 Oct 2026 16:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ReviewBench: An open benchmark for AI code review</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/</link>
+      <description>We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-4b0c57f28723d193</guid>
+      <pubDate>Mon, 05 Oct 2026 15:59:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our approach to EU text provenance rules</title>
+      <link>https://openai.com/index/eu-text-provenance</link>
+      <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-78ad53815846c15c</guid>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency</title>
       <link>https://www.nytimes.com/2026/10/05/world/americas/balsanaro-lula-brazil-presidency-trump.html</link>
@@ -158,14 +317,6 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-64aa4378c789d5a2</guid>
       <pubDate>Sun, 04 Oct 2026 12:09:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fed minutes coming this week could give markets important clues about future rate hikes</title>
-      <link>https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories</link>
-      <description>Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7ecaba2454efce22</guid>
-      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot</title>
@@ -651,158 +802,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-77e04e2e894acd97</guid>
       <pubDate>Thu, 01 Oct 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash</title>
-      <link>https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-befff2c783f4fc22</guid>
-      <pubDate>Thu, 01 Oct 2026 13:13:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Bond Yields Hit Highest Level Since 2002</title>
-      <link>https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html</link>
-      <description>The factors pushing up yields, including the war in Iran and high government debt levels, are unlikely to dissipate soon.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-c4355374c2c7a020</guid>
-      <pubDate>Thu, 01 Oct 2026 13:12:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Take a Historic Stroll Down Oxford Street, London’s Shopping Artery</title>
-      <link>https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html</link>
-      <description>London is making a stretch of the street, long central to the city’s identity and sense of style, car free.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-d48b94e1e8ea477f</guid>
-      <pubDate>Thu, 01 Oct 2026 13:05:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hearing tech startup Legato launches its AI hearing glasses</title>
-      <link>https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/</link>
-      <description>The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-498d9d05d6fce327</guid>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What happened in failed execution of Christa Pike - and what next?</title>
-      <link>https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-d8a9ee22132440c6</guid>
-      <pubDate>Thu, 01 Oct 2026 12:51:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites</title>
-      <link>https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/</link>
-      <description>Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-de11222dc23d9742</guid>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output</title>
-      <link>https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer</link>
-      <description>... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-d579ab095fb709fa</guid>
-      <pubDate>Thu, 01 Oct 2026 06:45:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Matthew Green</title>
-      <link>https://simonwillison.net/2026/Oct/1/matthew-green/</link>
-      <description>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with independently-deployed personal agents like Muse, and you have exactly the ingredients that a worm needs. — Matthew Green, Is sandboxing sufficient to contain rogue agents? Tags: accidental-cyberattacks, ai-misuse, generative-ai, ai-security-research, sandboxing, ai, llms</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-4fb3caa1bad2e135</guid>
-      <pubDate>Thu, 01 Oct 2026 06:29:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s Grokipedia has a ‘newly refreshed’ design</title>
-      <link>https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai</link>
-      <description>Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a "newly refreshed Grokipedia." Grokipedia's old homepage was pretty much […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-5afad699a57c6742</guid>
-      <pubDate>Thu, 01 Oct 2026 00:23:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'</title>
-      <link>https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html</link>
-      <description>Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-4d886c6bcd361357</guid>
-      <pubDate>Wed, 30 Sep 2026 23:44:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future</title>
-      <link>https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html</link>
-      <description>Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-ba0ad10f1ceb2f93</guid>
-      <pubDate>Wed, 30 Sep 2026 23:09:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google shows it’s not out of the AI race just yet</title>
-      <link>https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories</link>
-      <description>The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-62bb7c99816abb52</guid>
-      <pubDate>Wed, 30 Sep 2026 22:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Updates: Plane to Israel Narrowly Averts Disaster After Pilot Stabbing</title>
-      <link>https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots</link>
-      <description>Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-08411f00fc3864cf</guid>
-      <pubDate>Wed, 30 Sep 2026 22:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week</title>
-      <link>https://www.latent.space/p/devday-2026</link>
-      <description>Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-1a601b09c690596d</guid>
-      <pubDate>Wed, 30 Sep 2026 22:23:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Driver Strikes 4 People Outside a Mall in British Columbia, Killing 2, Police Say</title>
-      <link>https://www.nytimes.com/2026/09/30/world/canada/british-columbia-crash-medical-emergency.html</link>
-      <description>The accident occurred as hundreds of people were gathering nearby for a National Day of Truth and Reconciliation march near Delta, a city south of Vancouver, the authorities said.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-620bbc746ff5e579</guid>
-      <pubDate>Wed, 30 Sep 2026 22:14:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trekkers helicoptered off mountains as more deadly landslides hit Nepal</title>
-      <link>https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-674657b4459afe7d</guid>
-      <pubDate>Wed, 30 Sep 2026 22:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>He Built This City</title>
-      <link>https://simonwillison.net/2026/Sep/30/he-built-this-city/</link>
-      <description>I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model, the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. It exceeded my already high expectations. The exhibition closes on 12th October so you should absolutely make a priority to see it if you get the chance. Tags: museums, new-york</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-562470c22e2896c8</guid>
-      <pubDate>Wed, 30 Sep 2026 21:54:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flydubai passenger describes putting attacker in chokehold after cockpit stabbing</title>
-      <link>https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Other passengers on the Israel-bound flight described the "terrifying" moment the plane dropped.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-ac96a0548362440d</guid>
-      <pubDate>Wed, 30 Sep 2026 21:38:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 15 worst-performing S&amp;P 500 stocks during a dismal September</title>
-      <link>https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories</link>
-      <description>The S&amp;P 500 has gained slightly in September, but three-quarters of its components have declined.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-cdaa8b102ff5ae24</guid>
-      <pubDate>Wed, 30 Sep 2026 21:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
