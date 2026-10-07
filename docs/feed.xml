@@ -5,8 +5,182 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Case of U.S. Marine Accused of Murder in Japan Draws Outcry</title>
+      <link>https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html</link>
+      <description>Prime Minister Sanae Takaichi, a close Trump ally, is under pressure to strengthen oversight of the U.S. military in Japan.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-332186f0f778e226</guid>
+      <pubDate>Wed, 07 Oct 2026 13:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Falcon ASR</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-91ed3eb235f3237f</guid>
+      <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The School Near Paris That Shows Why French Students Are Protesting</title>
+      <link>https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html</link>
+      <description>Angered by poor classroom conditions, students at Paul Éluard High School in a suburb of the capital were among the first to blockade their campus during an ongoing round of unrest.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-160f231d24f9258e</guid>
+      <pubDate>Wed, 07 Oct 2026 13:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inheritances Can Shatter Families. Could a Therapist Help?</title>
+      <link>https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html</link>
+      <description>As the United States faces the greatest wealth transfer in history, some people are turning to therapists to help them pass on their assets in a way that preserves harmony.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-e65592676223d929</guid>
+      <pubDate>Wed, 07 Oct 2026 13:18:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kalshi is coming for ‘Dancing with the Stars’ fans</title>
+      <link>https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories</link>
+      <description>What to know before buying event contracts around your favorite reality shows and entertainers.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-e8aa90fdba8185e1</guid>
+      <pubDate>Wed, 07 Oct 2026 13:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelensky condemns 'vile' large-scale Russian attacks that killed 20</title>
+      <link>https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-5d0d9e1cb9751d49</guid>
+      <pubDate>Wed, 07 Oct 2026 13:02:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump to speak to Putin about plague lab worker's death in Russia</title>
+      <link>https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-3f34a122d1cc96a6</guid>
+      <pubDate>Wed, 07 Oct 2026 12:58:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parental controls aren’t just for kids anymore</title>
+      <link>https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories</link>
+      <description>Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-4c6968db9d0ccdd8</guid>
+      <pubDate>Wed, 07 Oct 2026 12:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-5bdd694c62903534</guid>
+      <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI could upend food delivery</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites</link>
+      <description>DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-8b63f191edc0d5fe</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media</link>
+      <description>Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an "unacceptable risk." ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-f81ac359aaf43f76</guid>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva</title>
+      <link>https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html</link>
+      <description>Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-d4d8ffb6e7eb4f87</guid>
+      <pubDate>Wed, 07 Oct 2026 06:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in &gt;100 years of mathematics</title>
+      <link>https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai</link>
+      <description>Our head hurts.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-ad87805b0366b717</guid>
+      <pubDate>Wed, 07 Oct 2026 04:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Jake Boggan</title>
+      <link>https://simonwillison.net/2026/Oct/7/jake-boggan/</link>
+      <description>I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days that I had actually solved it. But it's supposedly proven here - problem 180. I don't know what to think exactly. I spent thousands of hours on that problem. I really enjoyed it. Hearing that it is solved somehow makes me sad in a far-off way, like hearing an ex-girlfriend died suddenly in a car crash. I don't know, there's probably a lot of people feeling odd emotions tonight. — Jake Boggan, Hacker News comment on openai/math Tags: openai, mathematics, deep-blue, llms, ai, generative-ai</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-544da1e9a61fc2a9</guid>
+      <pubDate>Wed, 07 Oct 2026 04:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI “rogue” agent activities found on Wikimedia projects</title>
+      <link>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</link>
+      <description>OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking: The Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these “rogue” OpenAI agents on Wikimedia platforms. The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic, which are described more below. They found evidence of agents editing sandbox pages, trying to use pieces of infrastructure such as Etherpad to help proxy content from elsewhere, and saw widespread crawling and "hundreds of thousands of data queries" to their Wikidata Query Service. My best guess is that most of this was a similar (or the same) swarm of agents as those that defaced that German wiki while training for research tasks. The Wikipedia sandbox wiki edits appear to have started on May 12th, and the initial test edits to the UseModWiki Sandbox page reported by that incident started on May 11th. Tags: wikimedia, wikipedia, wikis, ai, generative-ai, llms, ai-ethics, accidental-cyberattacks</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-40c4d27cba869495</guid>
+      <pubDate>Wed, 07 Oct 2026 00:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update your IDE to restore agent activity in Copilot usage metrics</title>
+      <link>https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</link>
+      <description>If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to restore agent activity in Copilot usage metrics appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-bb30d565ebf0e633</guid>
+      <pubDate>Tue, 06 Oct 2026 23:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI drops another batch of mathematical breakthroughs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</link>
+      <description>OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-e4feb1bf5e6900f4</guid>
+      <pubDate>Tue, 06 Oct 2026 23:26:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</title>
+      <link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
+      <description>Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-049bf6f5219d688a</guid>
+      <pubDate>Tue, 06 Oct 2026 22:34:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Git infrastructure for agent-scale development</title>
+      <link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
+      <description>We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-caa9437859aeb43f</guid>
+      <pubDate>Tue, 06 Oct 2026 20:57:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI will watermark ChatGPT outputs by default—but only in the EU</title>
+      <link>https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/</link>
+      <description>Like other solutions, it is not especially reliable, and it's easy to circumvent.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-11669444bfa3fd7b</guid>
+      <pubDate>Tue, 06 Oct 2026 20:50:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI decision models could change content moderation</title>
+      <link>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/</link>
+      <description>On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c3d8360c1095ad0a</guid>
+      <pubDate>Tue, 06 Oct 2026 20:35:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The state of the tech industry in 2026</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in</link>
+      <description>A look into what has changed, what’s still the same – and what’s broken – in the tech industry. The full video and the summary of my keynote at LDX3 New York</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-659ba4f151961765</guid>
+      <pubDate>Tue, 06 Oct 2026 16:25:03 +0000</pubDate>
+    </item>
     <item>
       <title>Fed minutes coming tomorrow could give markets important clues about future rate hikes</title>
       <link>https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories</link>
@@ -627,181 +801,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-4464199b0f7b2d64</guid>
       <pubDate>Fri, 02 Oct 2026 12:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>School protests send shivers down French government's spine</title>
-      <link>https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-4d704831eb84b5cd</guid>
-      <pubDate>Fri, 02 Oct 2026 12:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%</title>
-      <link>https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html</link>
-      <description>Banks are fueling a hiring surge for AI engineers who are good at "agent orchestration" — the ability to coordinate teams of specialized agents.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-40bcdb8ee8c9e850</guid>
-      <pubDate>Fri, 02 Oct 2026 12:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI hallucinations are making entitled customers even worse</title>
-      <link>https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents</link>
-      <description>Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. "Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions," says Madison, who asked that her last name be withheld to […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-b3a9a516e91b03e6</guid>
-      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>If a data center is camouflaged in the woods, will anyone hate it?</title>
-      <link>https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry</link>
-      <description>San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive "hyperscale" facilities spanning millions of square feet and housing the physical infrastructure for AI. There are now more […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-f829ccaecea00650</guid>
-      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon writes scary blog warning communities not to block data centers</title>
-      <link>https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning</link>
-      <description>Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-78ffcfd0a288af0c</guid>
-      <pubDate>Fri, 02 Oct 2026 11:52:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?</title>
-      <link>https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-8bc663610baab95f</guid>
-      <pubDate>Fri, 02 Oct 2026 11:52:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Pi 1.0, Pi Durable, and AIE NYC</title>
-      <link>https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc</link>
-      <description>the minimalist harness goes stable... and TypeScript!</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-22b95dcb283e6437</guid>
-      <pubDate>Fri, 02 Oct 2026 06:40:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
-      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-a885ed61f54a415a</guid>
-      <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Academia is for Ambition — Alex Zhang, MIT</title>
-      <link>https://www.latent.space/p/rlm</link>
-      <description>We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-d1b287482ae91f9f</guid>
-      <pubDate>Fri, 02 Oct 2026 00:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president</title>
-      <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
-      <description>President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-17bfcacf3c393321</guid>
-      <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search</title>
-      <link>https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/</link>
-      <description>The court acknowledges AI search comes with consequences, but it's not an antitrust issue.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-de8e231194157ca9</guid>
-      <pubDate>Thu, 01 Oct 2026 20:11:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT can now virtually try on clothes for you</title>
-      <link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
-      <description>OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-280d0a9a74fa163f</guid>
-      <pubDate>Thu, 01 Oct 2026 19:21:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot can now interact with desktop apps with computer use</title>
-      <link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
-      <description>Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf… The post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-819b8b6c47de6884</guid>
-      <pubDate>Thu, 01 Oct 2026 19:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot in VS Code, September 2026 releases</title>
-      <link>https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</link>
-      <description>This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps… The post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-b33dfcad9023c0fa</guid>
-      <pubDate>Thu, 01 Oct 2026 19:09:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>The eternal complement</title>
-      <link>https://openai.com/index/the-eternal-complement</link>
-      <description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-7e67b43cf9d0e609</guid>
-      <pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pulse: Firebase’s global outage &amp; poor response</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage</link>
-      <description>Also: OpenAI’s platform play that has similarities to AWS, more data on companies moving to open models, and more</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-593fe84d411ed3fe</guid>
-      <pubDate>Thu, 01 Oct 2026 16:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic workflows in Copilot CLI and the Copilot app</title>
-      <link>https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</link>
-      <description>Dynamic workflows are now available in Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK. These let you define an orchestration in code to get the reliability and… The post Dynamic workflows in Copilot CLI and the Copilot app appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-90b9985c3923e420</guid>
-      <pubDate>Thu, 01 Oct 2026 16:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Albertsons Companies is reimagining retail from the inside out</title>
-      <link>https://openai.com/index/albertsons-reimagining-retail</link>
-      <description>Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-a80484c2d5849bdb</guid>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>10 technical talks I’m excited about at GitHub Universe 2026</title>
-      <link>https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/</link>
-      <description>From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-a2af7a6c887d4504</guid>
-      <pubDate>Thu, 01 Oct 2026 15:07:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Updates: Investigators Seek Motive in FlyDubai Attack</title>
-      <link>https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots</link>
-      <description>The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-3ccd6301084e6465</guid>
-      <pubDate>Thu, 01 Oct 2026 13:24:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Micron’s big earnings report isn’t lifting the stock</title>
-      <link>https://www.marketwatch.com/story/why-microns-big-earnings-report-isnt-lifting-the-stock-b965af83?mod=mw_rss_topstories</link>
-      <description>Expectations are high, and Micron isn’t topping estimates to the degree that it used to.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7fc48b4eba783cb6</guid>
-      <pubDate>Thu, 01 Oct 2026 13:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?</title>
-      <link>https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories</link>
-      <description>“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-77e04e2e894acd97</guid>
-      <pubDate>Thu, 01 Oct 2026 13:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
