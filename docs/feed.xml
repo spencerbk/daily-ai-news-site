@@ -5,8 +5,207 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:30:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Google releases a new local-first Granola competitor</title>
+      <link>https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/</link>
+      <description>Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-ac9ca90001ece8f8</guid>
+      <pubDate>Thu, 08 Oct 2026 13:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live Updates: Students Rally in France for Second Day of Mass Protests in a Week</title>
+      <link>https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools</link>
+      <description>Just over 150 high schools were closed, and France’s education minister invited three major student groups to meet with him on Thursday afternoon.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-3deef930f6ae6fd9</guid>
+      <pubDate>Thu, 08 Oct 2026 13:24:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s Manus raises over $500M in first funding round since split with Meta</title>
+      <link>https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/</link>
+      <description>Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-80b90aa345babf0e</guid>
+      <pubDate>Thu, 08 Oct 2026 13:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Escalating Assaults on Ukrainian Cities Are Producing an Enormous Toll</title>
+      <link>https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html</link>
+      <description>At least 30 people were killed in a Russian strike on a commuter bus in the country’s east, officials said, a day after an attack on an apartment building far behind the combat zone killed 22.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a97f6033b02a55f6</guid>
+      <pubDate>Thu, 08 Oct 2026 13:17:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students</link>
+      <description>French activists were set to rally across France on Thursday, in another test of whether a nationwide pro</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-2ebf40bbaaa195c6</guid>
+      <pubDate>Thu, 08 Oct 2026 13:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who will benefit more from AI agents when it comes to spending – companies or you?</title>
+      <link>https://www.marketwatch.com/story/who-will-benefit-more-from-ai-agents-when-it-comes-to-spending-companies-or-you-cec597ed?mod=mw_rss_topstories</link>
+      <description>There’s an agent arms race unfolding, supercharging the battle for your wallet</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-53904c9961c6d2bd</guid>
+      <pubDate>Thu, 08 Oct 2026 12:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.</title>
+      <link>https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories</link>
+      <description>Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-b0dbc25383106c52</guid>
+      <pubDate>Thu, 08 Oct 2026 12:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge</title>
+      <link>https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-16c67f2bd64ec614</guid>
+      <pubDate>Thu, 08 Oct 2026 12:43:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italy overhauls electoral system after fiercely contested debate</title>
+      <link>https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-4c64d76fc33d0eaa</guid>
+      <pubDate>Thu, 08 Oct 2026 12:32:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots</title>
+      <link>https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/</link>
+      <description>Full-stack safety solution for physical AI is being used by robotics companies.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-5387f8e8d5e8c2a4</guid>
+      <pubDate>Thu, 08 Oct 2026 11:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>After a yearslong slump, China's real estate market may be set for a turnaround</title>
+      <link>https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html</link>
+      <description>A recovery in China's largest cities real estate markets could come as soon as next year, the S&amp;P ratings agency said.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-bab2845feadc66bc</guid>
+      <pubDate>Thu, 08 Oct 2026 09:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing</title>
+      <link>https://www.latent.space/p/ainews-claude-haiku-55-better-than</link>
+      <description>yay small models</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-d52167838f811731</guid>
+      <pubDate>Thu, 08 Oct 2026 07:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft event debuts new AI-friendly hardware and Windows changes</title>
+      <link>https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/</link>
+      <description>Get ready for more AI in your Windows and more AI on the desktop.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-3a0428350fd02b1e</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Ben Affleck</title>
+      <link>https://simonwillison.net/2026/Oct/7/ben-affleck/</link>
+      <description>I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things like look at what's called a tensor, which is just the numerical translation of a visual image in numbers — like the batch number, the frame number, the red, green, and blue values of each pixel in each frame. And a tensor, you use a convolutional neural network to identify patterns in that that would reveal what's called edge detection or feature extraction, which is just identifying patterns enough to know like this is where the window ledge is, so we can more easily take the green screen image out and replace it with something. — Ben Affleck, Pythonista Tags: machine-learning, python</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-0f47a943c04a6d3c</guid>
+      <pubDate>Wed, 07 Oct 2026 23:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Haiku 5.5</title>
+      <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
+      <description>As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5. The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago, and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI's GPT-6 Luna, released last month. The new Haiku exactly matches the price of GPT-6 Luna - $0.10/$0.50 - up to 100,000 tokens. Beyond 100,000 tokens the price increases 5x to $0.50/$2.50. Luna itself has a price increase at 272,000 tokens but only to $0.20/$0.75. Haiku 5.5 also uses a new, less generous tokenizer. My Claude Token Counter tool shows that the same long prompt uses around 1.25x as many tokens with Haiku 5.5 compared to Haiku 4.5, so there's a hidden price increase there. If your workloads fit in 100,000 tokens, Haiku is the same price as Luna and reports higher benchmark scores. Above 100,000 tokens, Luna looks like a much better deal. The most recent release of llm-anthropic finally fixed it so I don't need to ship a new version of that plugin for every new model. I tested the new model like this: llm install -U llm-anthropic llm anthropic refresh llm -m claude-haiku-5.5 "Generate an SVG of a pelican riding a bicycle" -o thinking_effort low Pelicans Here are pelicans for low, medium, high, xhigh, and max. The new Haiku doesn't let you disable reasoning, and defaults to medium. I got a good bicycle frame for everything beyond low. The low effort pelican cost 0.0936 cents and took 7 seconds.This max effort pelican (with a reasoning trace that starts "This is the classic pelican-on-bicycle SVG test...") took 5 minutes 9 seconds to generate, but still only cost me 3.3826 cents: (Since the reasoning trace exhibits awareness of the benchmark, here's Generate an SVG of an armadillo in fishnet tights jaywalking on Mars (on xhigh), and the same prompt against some other recent models. Background on that.) For comparison, here's the pelican I got a year ago from Haiku 4.5 (for 0.7583 cents - Haiku 4.5 did not support reasoning levels). It sucked at drawing pelicans: And a generous API credit scheme for subscribers In addition to Haiku 5.5, Anthropic announced today that they are halving the price of cache reads for Sonnet 5.5. They've also added API credits to subscription plans: Second, this week, we’ll roll out a new monthly API credit to all Max and Team subscribers for use on the Claude Platform. Max 5x users will get $100 in credits per month, Max 20x users will get $200, and Team subscribers will receive up to $500, pooled across their users. Claiming this is pleasantly easy: navigate to Settings -&gt; Billing and select the API organization that should benefit from the credits every month: The API credits exactly match the cost of the subscription itself. This is really generous - it makes it much easier for subscribers to use the API. Anthropic also let you disable auto-reload for the API, with the consequence that "API requests will stop when your balance runs out" - exactly what you want if you're planning to burn through those API credits without risk of a nasty billing surprise. Note that the monthly credits do not roll over - use them or lose them. OpenAI still allow you to use your Codex subscription for personal API use, which works out as a better deal for heavy API users. This new credit scheme goes at least some way to overcoming that difference. Tags: ai, generative-ai, llms, anthropic, claude, llm-pricing, pelican-riding-a-bicycle, llm-release</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-6dcb3088ac59686b</guid>
+      <pubDate>Wed, 07 Oct 2026 20:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nous Research confirms it hit $1.5B valuation, launches AI agents for business users</title>
+      <link>https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</link>
+      <description>The developer of Hermes Agent raised a $90 million Series B.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-9b80120014fd8883</guid>
+      <pubDate>Wed, 07 Oct 2026 20:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Haiku 5.5 in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot</link>
+      <description>Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early… The post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-86f546df6fb1b33c</guid>
+      <pubDate>Wed, 07 Oct 2026 20:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT&amp;#8217;s &amp;#8216;Intelligent UI&amp;#8217; update fills its responses with pictures, charts, and buttons</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</link>
+      <description>OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-876648c3358ff5ff</guid>
+      <pubDate>Wed, 07 Oct 2026 19:10:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Azure Document Intelligence and Azure Content Understanding: a practical guide</title>
+      <link>https://devblogs.microsoft.com/foundry/choosing-azure-document-intelligence-and-content-understanding/</link>
+      <description>Compare Azure Document Intelligence and Azure Content Understanding across extraction architectures, workload fit, Layout capabilities, deployment options, and practical evaluation criteria. The post Azure Document Intelligence and Azure Content Understanding: a practical guide appeared first on Microsoft Foundry Blog.</description>
+      <category>devblogs-msft-foundry</category>
+      <guid isPermaLink="false">news-fa0a47266cba4025</guid>
+      <pubDate>Wed, 07 Oct 2026 18:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Secret protection must scale with software</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/</link>
+      <description>Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-c13c9140efc78817</guid>
+      <pubDate>Wed, 07 Oct 2026 17:45:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building resilient systems with Sam Newman</title>
+      <link>https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam</link>
+      <description>Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-c2e92180363e5e10</guid>
+      <pubDate>Wed, 07 Oct 2026 17:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multimodal open d1 decision models for the edge</title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-0825a4897dea2e82</guid>
+      <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Purpose-built model for leaked secret detection</title>
+      <link>https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection</link>
+      <description>Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware… The post Purpose-built model for leaked secret detection appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-5260e9d19f4febcc</guid>
+      <pubDate>Wed, 07 Oct 2026 16:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Local sandboxing for GitHub Copilot now generally available</title>
+      <link>https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available</link>
+      <description>Local sandboxing for GitHub Copilot is now generally available in GitHub Copilot CLI, the GitHub Copilot app, and VS Code sessions using Agent Host. Local sandboxes give developers a secure… The post Local sandboxing for GitHub Copilot now generally available appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-87f43b6934de2921</guid>
+      <pubDate>Wed, 07 Oct 2026 15:46:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discover local models in GitHub Copilot CLI</title>
+      <link>https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli</link>
+      <description>GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-cfd130b4e19fc9e9</guid>
+      <pubDate>Wed, 07 Oct 2026 15:46:13 +0000</pubDate>
+    </item>
     <item>
       <title>Case of U.S. Marine Accused of Murder in Japan Draws Outcry</title>
       <link>https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html</link>
@@ -76,6 +275,14 @@
       <category>huggingface-blog</category>
       <guid isPermaLink="false">news-5bdd694c62903534</guid>
       <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Helping teens learn, plan, and shape the future of AI</title>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <description>College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-ad4e14640e358f44</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI could upend food delivery</title>
@@ -594,213 +801,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-2c7e7ab3396a4e16</guid>
       <pubDate>Sat, 03 Oct 2026 13:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election</title>
-      <link>https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html</link>
-      <description>With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-f7812f3ee12af6bc</guid>
-      <pubDate>Sat, 03 Oct 2026 13:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint</title>
-      <link>https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html</link>
-      <description>A mysterious call last Sunday near a military base used by the U.S. set in motion a huge counterterrorism response and days of uncertainty in Britain.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-f570070b805d45f9</guid>
-      <pubDate>Sat, 03 Oct 2026 13:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>American High School Students Are Selling Guns Bound for Cartels</title>
-      <link>https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html</link>
-      <description>Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-f73d17c2b712bfcd</guid>
-      <pubDate>Sat, 03 Oct 2026 13:06:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>The U.S. jobs market just took a turn for the worse. Or did it?</title>
-      <link>https://www.marketwatch.com/story/the-u-s-jobs-market-just-took-a-turn-for-the-worse-or-did-it-c44c371b?mod=mw_rss_topstories</link>
-      <description>The bottom didn’t drop out of the labor market after a poor September U.S. jobs report. But what it did show is hiring is slow and it’s a tough time to find work.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-32a6b4c496f223a5</guid>
-      <pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia hits second major bridge in Ukraine's capital Kyiv</title>
-      <link>https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-5f92289cd5a4f0d3</guid>
-      <pubDate>Sat, 03 Oct 2026 12:59:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views</title>
-      <link>https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</link>
-      <description>It was unclear what background checks had been carried out before he was allowed to fly to Israel.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-cf785d67ecc2bb0a</guid>
-      <pubDate>Sat, 03 Oct 2026 12:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protesters across Spain demand action over housing crisis</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-82e7de9b9f00e56c</guid>
-      <pubDate>Sat, 03 Oct 2026 12:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-cee</link>
-      <description>a quiet day.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-85c4629bdb1183bb</guid>
-      <pubDate>Sat, 03 Oct 2026 08:45:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta wants your next gadget to be Muse-infused</title>
-      <link>https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</link>
-      <description>Meta wants Muse in your TV and your toaster, so it's giving the code away for free.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-83485a4ee257ce39</guid>
-      <pubDate>Sat, 03 Oct 2026 00:45:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple changes full-disk access permissions to curb abuse from AI agents</title>
-      <link>https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/</link>
-      <description>Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-6ee8ae0821d338b7</guid>
-      <pubDate>Fri, 02 Oct 2026 23:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sean Parker is rebuilding Stability AI around music</title>
-      <link>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</link>
-      <description>Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-3cc6542c47eb9be7</guid>
-      <pubDate>Fri, 02 Oct 2026 21:09:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta open sources code to let you make Muse AI gadgets</title>
-      <link>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</link>
-      <description>Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-c0a74765cc53d7bd</guid>
-      <pubDate>Fri, 02 Oct 2026 21:08:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon’s $1B plan to combat data center backlash draws more backlash</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/</link>
-      <description>Amazon praised for ending NDAs but slammed for downplaying data center pollution.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-f10ac2fa6ec29335</guid>
-      <pubDate>Fri, 02 Oct 2026 20:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple will limit Mac disk access as AI agents ‘substantially’ increase risk</title>
-      <link>https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</link>
-      <description>Apple will add new limits for "full disk access" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to "ensure that users who genuinely wish to grant an app this extraordinary level of access can only do […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-e148a12b4219ef6a</guid>
-      <pubDate>Fri, 02 Oct 2026 20:08:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copilot code review: API support and new default effort level</title>
-      <link>https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</link>
-      <description>You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default… The post Copilot code review: API support and new default effort level appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-c50f0986cd4ee1d9</guid>
-      <pubDate>Fri, 02 Oct 2026 19:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Selected models in GitHub Copilot deprecated</title>
-      <link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
-      <description>As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model… The post Selected models in GitHub Copilot deprecated appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-d3c3f6996fb25530</guid>
-      <pubDate>Fri, 02 Oct 2026 18:24:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>A model guide for the GPT-6 family</title>
-      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-      <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-8e206c4d9ed6ea5b</guid>
-      <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-      <link>https://huggingface.co/blog/allenai/astabrief</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-d599f0a282be129f</guid>
-      <pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI is changing developer work. Here are three skills to strengthen.</title>
-      <link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/</link>
-      <description>Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-5afa66c19841766e</guid>
-      <pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience</title>
-      <link>https://www.latent.space/p/airbnb</link>
-      <description>After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how its teams develop products to how it serves guests.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-d81483cb0de80876</guid>
-      <pubDate>Fri, 02 Oct 2026 14:04:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders</title>
-      <link>https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/</link>
-      <description>Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-e527bfa9070eba77</guid>
-      <pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Gas Prices Rose, Sales of Larger Vehicles Slid</title>
-      <link>https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html</link>
-      <description>Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-482c508173d67192</guid>
-      <pubDate>Fri, 02 Oct 2026 13:22:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s Push Into A.I. Has Led to a Problem: Too Much Usage</title>
-      <link>https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html</link>
-      <description>As citizens embrace the technology for entertainment, relationships and even farming advice, the government is stepping up efforts to set limits.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-902e8e14d43a06f7</guid>
-      <pubDate>Fri, 02 Oct 2026 13:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police in India Detain Hundreds Rallying Against ‘Vote Theft’</title>
-      <link>https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html</link>
-      <description>Opposition groups are demanding the resignation of the election chief over the removal of 130 million voters from the rolls. The government denies influencing the exercise.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-464491895a464ddc</guid>
-      <pubDate>Fri, 02 Oct 2026 13:13:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?</title>
-      <link>https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories</link>
-      <description>“I have $152,000 in my IRA and Roth accounts.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-aabef0343d74b9b9</guid>
-      <pubDate>Fri, 02 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Western Digital and Seagate are seeing big stock drops today</title>
-      <link>https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories</link>
-      <description>Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-4464199b0f7b2d64</guid>
-      <pubDate>Fri, 02 Oct 2026 12:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
