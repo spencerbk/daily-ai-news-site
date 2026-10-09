@@ -5,8 +5,184 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter</title>
+      <link>https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories</link>
+      <description>A new report paints OpenAI’s financial picture in a more optimistic light.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7bf0a06fad68f1c2</guid>
+      <pubDate>Fri, 09 Oct 2026 13:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live Updates: Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize</title>
+      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026</link>
+      <description>Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-c2a7b9bf240409cd</guid>
+      <pubDate>Fri, 09 Oct 2026 13:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>In South Africa, Pillay forged a career fighting apartheid.</title>
+      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/in-south-africa-pillay-forged-a-career-fighting-apartheid</link>
+      <description>Navanethem Pillay</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-def375cb9f3efdd1</guid>
+      <pubDate>Fri, 09 Oct 2026 13:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Putin Wages Shadow War, Europe Looks for a Way to Hit Back</title>
+      <link>https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html</link>
+      <description>Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-683225b7ee258f34</guid>
+      <pubDate>Fri, 09 Oct 2026 13:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new feature for my blog, built using my voice</title>
+      <link>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</link>
+      <description>I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner. Codex voice mode I used the ChatGPT desktop app for this, in the Codex tab, using the voice conversation mode, running against a local development environment. Here's what that looks like: I started the session against my local simonwillisonblog checkout by typing: Start dev server and open in browser This gave me a preview of the site that it would be working on, and meant that I could later ask it to show me the new pages so I could visually track its progress. Then I clicked the "Start new voice chat" button - that's not the microphone button, it's the one to the right of it - and set my laptop up in the kitchen so I could talk to it while I cooked. Talking to my computer I had a pretty good idea of what I wanted to build, and it's a simple enough Django feature that I was certain the model (in this case GPT-6 Astra High) would be able to do it. A new model, a migration, some view code, templates, and a couple of import functions to populate the database from external sources. Here's an extract of my voice transcript that was captured by Codex: Um, they do not. Um, this is going to be a new type of content. Um, it's not going to show up... Oh, hold on. Yeah, no- I do not want this to show up in my, um, tag pages and date archive pages and... Actually, no, I think... I don't want it on the tag pages. I don't want it on the, um, blog index page. But I think I do want it to show up on the date-based pages. You know, if you navigate to September the 19th, and I sent a newsletter on that page, I think I want that to show up. So... this is- so I think we probably need a new model. The other thing is that I want them searchable, uh the Substack ones are not searchable, because those are actually just copies of other s- on content on my blog. These monthly ones do contain unique content, and spe- and once they're... published, like once they're made public a month after they've gone out, I want them to show up on my search results. Apparently this was clear enough that the model knew what I wanted to build! You can read the full transcript, disfluencies and all, in this Gist. We went on like this for about half an hour (the time it took to cook dinner). The model would reply and occasionally ask clarifying questions, then get to work modifying the code. What we built We got a surprisingly long way entirely by voice: A new model and migration to represent imported newsletters in Django, plus Django Admin configuration for that Four working imports: The most recent Substack items via RSS Every other Substack item via their undocumented API, which GPT-6 Astra either knew about or found via search All of my published monthly newsletters from my simonw/monthly-newsletter-archive GitHub repository My most recent private sponsors-only newsletter from a private repository The /newsletters/ and /newsletters/2026/ public archive pages Newsletters showing up on day and month archive pages too, but not on tag pages or my homepage Weekly Substack newsletters link to Substack; archived monthly newsletters have their own pages Integration with my site search engine It was almost ready to ship. The catch was the imports: Astra offered to export data from my local copy so I could import that into production, but I wanted it to work like my other import scripts. Since some of the data lived in a private GitHub repository, this would involve creating a new API key, and for that I knew I'd have to sit at the keyboard for a while. Finishing it with a review Once I had finished cooking and judged it mostly feature-complete, I had Codex create a branch and open a pull request. I reviewed the code in the GitHub PR interface. It was nearly what I needed, except it had chosen to use Git in a subprocess for one of the import scripts. I needed one of the imports to pull from a private Git repository, so I figured the API would be a better bet. I switched to typing and had Codex swap that out for an API-based import instead. You can see the changes I made during the review in the extra commits on the PR. I fixed the import mechanism and made a few tweaks to the display of those public pages. It took an additional half hour of typing-based prompting to get to the point where I was happy to deploy it to production by landing the PR. The end result You can see the end result at the new newsletters index page, or view the page for a previous monthly newsletter. The index page shows my most recent Substack weekly newsletters and GitHub sponsors monthly newsletters mixed together in reverse chronological order. Further down the page are links to my by-year archive pages. GPT-6 Astra designed the page, and then tweaked that design based on my vocal feedback from glancing at the local preview across the kitchen. Better for multi-tasking than as a daily driver OpenAI love using voice-driven demos like this one for things like DevDay - and they do work well in that environment. I don't think this is going to be a daily driver for me though. I've written before about how much "work" I get done using ChatGPT voice mode on my phone while walking the dog - mostly research and brainstorming, but occasionally actual development work by having ChatGPT write and test out snippets of code. This feels different. The addition of the visual preview, plus being able to type or paste things in via the keyboard when I need to communicate something that doesn't work vocally, makes this a much more powerful way of interacting with a coding agent. I still switch back to typing once I get down to the details of things though. Being able to paste in examples and error messages, or directly highlight the code or feature that needs changing, remains more efficient than trying to describe it in words. I mainly work from home, which is good because there's no way I'd want to talk to my computer like this in a shared workspace! The killer feature for me is the ability to multi-task. I usually cook with a podcast or TikTok running; now I can actually build stuff instead. Tags: text-to-speech, ai, openai, generative-ai, llms, newsletter, coding-agents, codex, speech-to-text, site-upgrades</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-95fd0fb1a7d9fd74</guid>
+      <pubDate>Fri, 09 Oct 2026 12:54:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firing squad execution to be livestreamed, Pentagon says</title>
+      <link>https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Pete Hegseth says the execution will be public, but a legal expert says the "unprecedented" decision is on "uncertain legal terrain".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-7343e10e8dea17e0</guid>
+      <pubDate>Fri, 09 Oct 2026 12:24:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICE agent shoots man in New York City</title>
+      <link>https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a "criminal illegal alien".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-4bdabecd8e9b6ffd</guid>
+      <pubDate>Fri, 09 Oct 2026 12:18:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?</title>
+      <link>https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories</link>
+      <description>“Both properties will be solely in his name.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2d06b60c94aee1a3</guid>
+      <pubDate>Fri, 09 Oct 2026 12:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading</title>
+      <link>https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html</link>
+      <description>Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-b8d3ba6f2baf68bd</guid>
+      <pubDate>Fri, 09 Oct 2026 12:01:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI doubles down on decision to fire three AI safety researchers</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers</link>
+      <description>OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed "a significant breach of trust." In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating "clear policies on handling sensitive information." It insisted the decision was […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-15717a6b7c9a1b04</guid>
+      <pubDate>Fri, 09 Oct 2026 09:48:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
+      <link>https://openai.com/index/sophos</link>
+      <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-edd58468d564448f</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ttok 1.0</title>
+      <link>https://simonwillison.net/2026/Oct/9/ttok/</link>
+      <description>Release: ttok 1.0 I released ttok 0.4, ran uv tool upgrade ttok, piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead! I figured switching the default was a reasonable excuse to finally ship a 1.0. OpenAI haven't actually confirmed that GPT-6 uses the same tokenizer as the GPT-5 family yet - there's an angry issue about it - but I found this commit by William Liu which reports on an experiment he ran confirming that the tokenizers are likely the same: All seven GPT models (5.5, 5.6 Sol/Terra/Luna, 6 Astra/Sol/Luna) report 44,794 tokens and match each other on every one of the 31 fixtures. GPT-6 introduces no input-count change on this corpus. Tags: projects, ai, openai, generative-ai, llms, tokenization</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-40466bc21512f32b</guid>
+      <pubDate>Fri, 09 Oct 2026 00:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] not much happened today</title>
+      <link>https://www.latent.space/p/ainews-not-much-happened-today-60f</link>
+      <description>a quiet day.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-595120ff24813cee</guid>
+      <pubDate>Thu, 08 Oct 2026 23:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic launches free AI security scans for open-source projects</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</link>
+      <description>Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get "thorough, periodic security scans by our strongest models at no cost." That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-df7e5433800bf1dd</guid>
+      <pubDate>Thu, 08 Oct 2026 21:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
+      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
+      <description>With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-4f0829ed301a7767</guid>
+      <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>California is trying to shut down robot vs. human cage matches</title>
+      <link>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</link>
+      <description>The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-4079389ad67f283a</guid>
+      <pubDate>Thu, 08 Oct 2026 20:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
+      <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
+      <description>Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c9efa01bf0436b80</guid>
+      <pubDate>Thu, 08 Oct 2026 20:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google brings agentic AI to Gemini, starting with businesses</title>
+      <link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
+      <description>Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-47672f48bba99761</guid>
+      <pubDate>Thu, 08 Oct 2026 18:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How one bug bounty researcher chooses the features they investigate</title>
+      <link>https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/</link>
+      <description>As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-e98e25a5c1b75015</guid>
+      <pubDate>Thu, 08 Oct 2026 17:02:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pulse: new trend of building “internal vibe-coding apps” at tech companies</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal</link>
+      <description>Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-b5590cdb97279015</guid>
+      <pubDate>Thu, 08 Oct 2026 16:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk</title>
+      <link>https://www.latent.space/p/periodic</link>
+      <description>A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-dfe3686a93214525</guid>
+      <pubDate>Thu, 08 Oct 2026 16:27:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify is getting more serious about selling enterprise software</title>
+      <link>https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/</link>
+      <description>The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-1e19a85a20e33fcc</guid>
+      <pubDate>Thu, 08 Oct 2026 14:34:33 +0000</pubDate>
+    </item>
     <item>
       <title>Google releases a new local-first Granola competitor</title>
       <link>https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/</link>
@@ -626,181 +802,6 @@
       <category>techcrunch-ai</category>
       <guid isPermaLink="false">news-8219cfaf573df5c9</guid>
       <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.</title>
-      <link>https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories</link>
-      <description>A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-c4794f2e5dc64b26</guid>
-      <pubDate>Mon, 05 Oct 2026 11:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building advertising for the way people use AI</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-3cbec84de8bf6155</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our minds aren’t equipped to handle AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought</link>
-      <description>Norbert Wiener, godfather of cybernetics, once said, "The thought of every age is reflected in its technique." For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain "a biological approximation to a Turing machine." Elon Musk puts it more bluntly, […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-a5a880c6829c652f</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
-      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
-      <description>AI slop seems to be overwhelming bug bounty programs.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-00aaae6618c75196</guid>
-      <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</title>
-      <link>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</link>
-      <description>On Equity, we discussed the Trump administration's attempts to rebrand AI.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-bbc50510cd13d4d1</guid>
-      <pubDate>Sun, 04 Oct 2026 20:08:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
-      <description>New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-cb4cee0e9eb9f5f8</guid>
-      <pubDate>Sun, 04 Oct 2026 16:16:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>October can be a scary month for stocks. Here’s what investors need to watch this year.</title>
-      <link>https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories</link>
-      <description>If stocks see another big swoon this year, investors already know why.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-195f232050f7db86</guid>
-      <pubDate>Sun, 04 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried</title>
-      <link>https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html</link>
-      <description>Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-454c20c9f169cfda</guid>
-      <pubDate>Sun, 04 Oct 2026 12:57:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit</title>
-      <link>https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-64aa4378c789d5a2</guid>
-      <pubDate>Sun, 04 Oct 2026 12:09:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot</title>
-      <link>https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html</link>
-      <description>The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-795b3e71def76968</guid>
-      <pubDate>Sun, 04 Oct 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to know about Brazil's election pitting Lula against Flávio Bolsonaro</title>
-      <link>https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-df8482390474fea6</guid>
-      <pubDate>Sun, 04 Oct 2026 11:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Houthis Claim Attack on Aramco as Yemen Conflict Escalates</title>
-      <link>https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html</link>
-      <description>The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-ff6499d606067e76</guid>
-      <pubDate>Sun, 04 Oct 2026 10:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who Were the Pilots on the FlyDubai Flight?</title>
-      <link>https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html</link>
-      <description>The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-3fcb81aa2b5eaa80</guid>
-      <pubDate>Sun, 04 Oct 2026 09:33:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>We're going to need default hard budget caps on pretty much everything</title>
-      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
-      <description>Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps. I'm talking about the feature of pay-by-usage services and APIs that lets you say "after $X/month, cut this thing off and return errors". These need to be hard limits. Soft caps, "after $X/month, send me a warning email", will not cut it. Coding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money - calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute. Nobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage. An argument against this is that businesses don't want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill. I think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent: Remove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges. The service I most want to see this from is AWS. I've heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I've also heard stories from people who didn't anticipate this and ended up seriously burned. ... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September: When you're ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project's usage reaches its spend limit, your project is paused for that month. See also Create a spend limit in AWS Settings, though that page warns that "We're currently releasing our new experience to a limited number of customers." Here's hoping that hits general availability for existing accounts soon. Google Cloud launched a similar feature in July, called Spend Caps, which lets you "set a monthly financial cap on specific services within a project". Looks like this is becoming a trend! In an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble. Tags: amazon-web-services, ai, coding-agents</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-5a3f1f4a82c5b0a8</guid>
-      <pubDate>Sat, 03 Oct 2026 23:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-89764eae00994ca8</guid>
-      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>September sponsors-only newsletter</title>
-      <link>https://simonwillison.net/2026/Oct/3/newsletter/</link>
-      <description>I just sent the September edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I'm using right now My software releases this month 2026 in LLMs (so far) Here's a copy of the August newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-4956a5acae88d47d</guid>
-      <pubDate>Sat, 03 Oct 2026 22:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon responds to data center backlash, says it no longer uses NDAs</title>
-      <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
-      <description>The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f8ba7ef564870c95</guid>
-      <pubDate>Sat, 03 Oct 2026 18:43:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capcom is preparing for a ‘future where we create games together with AI’</title>
-      <link>https://www.theverge.com/games/1004418/capcom-ai-game-development</link>
-      <description>Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: "The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-f1c80105d2f2cb39</guid>
-      <pubDate>Sat, 03 Oct 2026 16:49:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
-      <link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
-      <description>By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-a17db24aed38baa7</guid>
-      <pubDate>Sat, 03 Oct 2026 16:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Splice CEO Kakul Srivastava thinks AI emails are killing conversations</title>
-      <link>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</link>
-      <description>Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's "Money" and "Espresso" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-2b2053e0bc6be5df</guid>
-      <pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An OpenAI safety employee has quit and is sounding the alarm</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</link>
-      <description>David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-91c2390ce603b2e9</guid>
-      <pubDate>Sat, 03 Oct 2026 14:31:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>I made $500,000 from a stock sale in my IRA. Could this change my retirement?</title>
-      <link>https://www.marketwatch.com/story/i-made-500-000-from-a-stock-sale-in-my-ira-could-this-change-my-retirement-6bddcf0d?mod=mw_rss_topstories</link>
-      <description>Diversification and tax planning go hand-in-hand.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-2c7e7ab3396a4e16</guid>
-      <pubDate>Sat, 03 Oct 2026 13:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
