@@ -5,8 +5,168 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:30:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions</title>
+      <link>https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html</link>
+      <description>Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-42d5f8b80d1f6a68</guid>
+      <pubDate>Sun, 11 Oct 2026 13:23:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi</title>
+      <link>https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html</link>
+      <description>The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-c7dd9a8921a80a39</guid>
+      <pubDate>Sun, 11 Oct 2026 13:03:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>The bull market is turning 4 years old — but yields could crash the party</title>
+      <link>https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories</link>
+      <description>For four years, tech has been the answer to almost every question about this bull market.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-3ee16ec8b2be0015</guid>
+      <pubDate>Sun, 11 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pope Leo Will Have Surgery to Remove Growth on Lung</title>
+      <link>https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html</link>
+      <description>A recent medical examination found a small nodule, he announced, adding that doctors would remove it this week.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-0e3a4442483b0cad</guid>
+      <pubDate>Sun, 11 Oct 2026 12:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pope Leo to have surgery after lump found on lung</title>
+      <link>https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The 71-year-old pontiff said the nodule was identified "at a very early stage".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-0db1cf89e89e0989</guid>
+      <pubDate>Sun, 11 Oct 2026 12:52:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine strikes Russian data centre again despite Trump warning</title>
+      <link>https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-56c1dab03b8ffa22</guid>
+      <pubDate>Sun, 11 Oct 2026 12:50:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?</title>
+      <link>https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories</link>
+      <description>“I presume these are sophisticated investors taking a profit.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7bb634f5f941ee5f</guid>
+      <pubDate>Sun, 11 Oct 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.</title>
+      <link>https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories</link>
+      <description>“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-4e18150c9776172e</guid>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learning to use local AI is exciting, overwhelming, and frustrating</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</link>
+      <description>I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-ea95eacbd85b4f83</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dwarf Fortress uses version control now</title>
+      <link>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</link>
+      <description>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more. That's art. I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013: "I don't use version control -- I didn't like the feeling of having the code get committed into a black box thingy with no immediate upside" March 2016: "I don’t even use version control. If you don’t know what that is then you’re not gonna yell at me. If you even know what version control is you’re gonna be like, ‘You don’t use version control? You don’t use source control? What is wrong with you? How can you even work? I’m just not cut out for it, in a sense. It’s been 15 years, so the reasons have change over time, but that’s my current understanding of it." March 2023: "I've got Discord channels to check and version control stuff to use now, so the process is definitely a little more involved" That March 2023 quote comes from an interview about the release on Steam which made them millionaires. I'm a tiny bit sad that they gave in before they hit that milestone, but what an impressive run. Tags: version-control</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-a786585932c30cce</guid>
+      <pubDate>Sun, 11 Oct 2026 00:52:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Python 3.15.0 added to actions/python-versions</title>
+      <link>https://simonwillison.net/2026/Oct/10/python-actions/</link>
+      <description>Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you can add "3.15" to a GitHub Actions testing matrix to run tests against the new Python 3.15.0 release. Tags: github, python, github-actions, chatgpt</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-ffe9771dd0f2e869</guid>
+      <pubDate>Sat, 10 Oct 2026 23:58:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
+      <description>In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a "set of nested black boxes" whose advice and actions we simply accept or […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-35dc91695d5dee44</guid>
+      <pubDate>Sat, 10 Oct 2026 22:10:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Subscriber Exclusive] NYC Subscriber Meetups!</title>
+      <link>https://www.latent.space/p/nyc2026</link>
+      <description>Tomorrow and Tuesday. If you see this you’re in!</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-fee9bab748db3442</guid>
+      <pubDate>Sat, 10 Oct 2026 22:07:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</title>
+      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
+      <description>In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-d05facb80f7a8876</guid>
+      <pubDate>Sat, 10 Oct 2026 21:47:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple discloses deal to hire team and license tech from personalized podcast startup Huxe</title>
+      <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</link>
+      <description>Is Apple hoping to get into the AI-generated podcast business?</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-9fe15a12a7df7ad0</guid>
+      <pubDate>Sat, 10 Oct 2026 19:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New controls and chat improvements in Copilot for JetBrains</title>
+      <link>https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains</link>
+      <description>This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-1e0e6608c184d024</guid>
+      <pubDate>Sat, 10 Oct 2026 18:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>DistroKid has been quietly taking down songs in response to UMG lawsuit</title>
+      <link>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</link>
+      <description>Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an "AI-slop pipeline." Artists are saying that […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-e77e9ae83492452b</guid>
+      <pubDate>Sat, 10 Oct 2026 18:52:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare acquires Deno to improve its Workers programming model</title>
+      <link>https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/</link>
+      <description>Cloudflare will use this acquisition to improve its Workers programming model and platform.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-df771d277c46056d</guid>
+      <pubDate>Sat, 10 Oct 2026 16:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream</title>
+      <link>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</link>
+      <description>TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-6801da099eadf383</guid>
+      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building AI for Reliable Execution: Lessons From Industrial Robotics</title>
+      <link>https://www.latent.space/p/standard-bots</link>
+      <description>Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-37d5b84c7a91448c</guid>
+      <pubDate>Sat, 10 Oct 2026 14:04:11 +0000</pubDate>
+    </item>
     <item>
       <title>Flu season is already here. Here’s what to know about this year’s flu shots.</title>
       <link>https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories</link>
@@ -642,166 +802,6 @@
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-8b63f191edc0d5fe</guid>
       <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media</link>
-      <description>Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an "unacceptable risk." ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-f81ac359aaf43f76</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva</title>
-      <link>https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html</link>
-      <description>Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-d4d8ffb6e7eb4f87</guid>
-      <pubDate>Wed, 07 Oct 2026 06:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in &gt;100 years of mathematics</title>
-      <link>https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai</link>
-      <description>Our head hurts.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-ad87805b0366b717</guid>
-      <pubDate>Wed, 07 Oct 2026 04:55:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Jake Boggan</title>
-      <link>https://simonwillison.net/2026/Oct/7/jake-boggan/</link>
-      <description>I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days that I had actually solved it. But it's supposedly proven here - problem 180. I don't know what to think exactly. I spent thousands of hours on that problem. I really enjoyed it. Hearing that it is solved somehow makes me sad in a far-off way, like hearing an ex-girlfriend died suddenly in a car crash. I don't know, there's probably a lot of people feeling odd emotions tonight. — Jake Boggan, Hacker News comment on openai/math Tags: openai, mathematics, deep-blue, llms, ai, generative-ai</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-544da1e9a61fc2a9</guid>
-      <pubDate>Wed, 07 Oct 2026 04:47:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI “rogue” agent activities found on Wikimedia projects</title>
-      <link>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</link>
-      <description>OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking: The Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these “rogue” OpenAI agents on Wikimedia platforms. The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic, which are described more below. They found evidence of agents editing sandbox pages, trying to use pieces of infrastructure such as Etherpad to help proxy content from elsewhere, and saw widespread crawling and "hundreds of thousands of data queries" to their Wikidata Query Service. My best guess is that most of this was a similar (or the same) swarm of agents as those that defaced that German wiki while training for research tasks. The Wikipedia sandbox wiki edits appear to have started on May 12th, and the initial test edits to the UseModWiki Sandbox page reported by that incident started on May 11th. Tags: wikimedia, wikipedia, wikis, ai, generative-ai, llms, ai-ethics, accidental-cyberattacks</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-40c4d27cba869495</guid>
-      <pubDate>Wed, 07 Oct 2026 00:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update your IDE to restore agent activity in Copilot usage metrics</title>
-      <link>https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics</link>
-      <description>If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out… The post Update your IDE to restore agent activity in Copilot usage metrics appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-bb30d565ebf0e633</guid>
-      <pubDate>Tue, 06 Oct 2026 23:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI drops another batch of mathematical breakthroughs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</link>
-      <description>OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-e4feb1bf5e6900f4</guid>
-      <pubDate>Tue, 06 Oct 2026 23:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</title>
-      <link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
-      <description>Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-049bf6f5219d688a</guid>
-      <pubDate>Tue, 06 Oct 2026 22:34:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building Git infrastructure for agent-scale development</title>
-      <link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
-      <description>We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-caa9437859aeb43f</guid>
-      <pubDate>Tue, 06 Oct 2026 20:57:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI will watermark ChatGPT outputs by default—but only in the EU</title>
-      <link>https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/</link>
-      <description>Like other solutions, it is not especially reliable, and it's easy to circumvent.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-11669444bfa3fd7b</guid>
-      <pubDate>Tue, 06 Oct 2026 20:50:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>How AI decision models could change content moderation</title>
-      <link>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/</link>
-      <description>On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c3d8360c1095ad0a</guid>
-      <pubDate>Tue, 06 Oct 2026 20:35:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>The state of the tech industry in 2026</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in</link>
-      <description>A look into what has changed, what’s still the same – and what’s broken – in the tech industry. The full video and the summary of my keynote at LDX3 New York</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-659ba4f151961765</guid>
-      <pubDate>Tue, 06 Oct 2026 16:25:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fed minutes coming tomorrow could give markets important clues about future rate hikes</title>
-      <link>https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories</link>
-      <description>Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7ecaba2454efce22</guid>
-      <pubDate>Tue, 06 Oct 2026 13:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google is about to remove free access to Gemini Flash and Pro</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only</link>
-      <description>Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-c481fc93e0dd7dc8</guid>
-      <pubDate>Tue, 06 Oct 2026 13:19:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.</title>
-      <link>https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories</link>
-      <description>The co-portfolio manager at Heartland Advisors urges investors to shut out Wall Street’s hype on AI and look for companies that can use its technology as costs come down.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-08a02317c3e9332f</guid>
-      <pubDate>Tue, 06 Oct 2026 13:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenya confirms its first Ebola death as outbreak spreads</title>
-      <link>https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-60cdda3b23955484</guid>
-      <pubDate>Tue, 06 Oct 2026 13:10:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nigeria mourns 25 killed as military plane crashes into swamp</title>
-      <link>https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>President Bola Tinubu describes the crash as a "painful moment" for the military and the entire nation.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-09cd3057e27183a3</guid>
-      <pubDate>Tue, 06 Oct 2026 12:51:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>German Officials Arrest Former Spy Chief on Espionage Charges</title>
-      <link>https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html</link>
-      <description>August Hanning is accused of helping foreign governments. His arrest shook the German political world and had roots in a steakhouse-heiress kidnapping plot.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-90a5c75befaadf51</guid>
-      <pubDate>Tue, 06 Oct 2026 12:49:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI agents tried to hack Wikipedia tools and flooded it with traffic</title>
-      <link>https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/</link>
-      <description>The reports of OpenAI agents harming 3rd party sites keep coming.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-307bfda48464106b</guid>
-      <pubDate>Tue, 06 Oct 2026 12:21:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?</title>
-      <link>https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html</link>
-      <description>The eviction of the woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-cd21ecd228245188</guid>
-      <pubDate>Tue, 06 Oct 2026 12:08:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
