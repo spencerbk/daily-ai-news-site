@@ -5,8 +5,128 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?</title>
+      <link>https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories</link>
+      <description>“I’m in my 60s, recently retired and living my best life.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-1d7f84b32da55d0f</guid>
+      <pubDate>Mon, 12 Oct 2026 13:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.</title>
+      <link>https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories</link>
+      <description>“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-4e18150c9776172e</guid>
+      <pubDate>Mon, 12 Oct 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This five-star money manager shares three stock picks, including one betting on dying American malls</title>
+      <link>https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories</link>
+      <description>One highly rated fund manager shares some top picks, including two names many U.S. investors will be unfamiliar with.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-39e407616c15ce36</guid>
+      <pubDate>Mon, 12 Oct 2026 13:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs</title>
+      <link>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout</link>
+      <description>Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the "primary AI inference system" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-f35a073890448086</guid>
+      <pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Former Plaud exec raises $26M for AI app that listens to you in the background</title>
+      <link>https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</link>
+      <description>Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-3ea17d5e396158ce</guid>
+      <pubDate>Mon, 12 Oct 2026 12:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon has over 1 million robot workers. What’s next for human employees?</title>
+      <link>https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/</link>
+      <description>The second-largest corporate employer has bet big on robot workers to scale.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-5dfaa1d43f85e664</guid>
+      <pubDate>Mon, 12 Oct 2026 12:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges</title>
+      <link>https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html</link>
+      <description>Le Marché des Enfants Rouges, which opened in 1615 as a vibrant food hall, was a fixture for chefs, cooks and tourists.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-bc0df26272a5c416</guid>
+      <pubDate>Mon, 12 Oct 2026 12:36:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space</title>
+      <link>https://importai.substack.com/p/import-ai-476-creativity-and-rsi</link>
+      <description>Will we give robots the moon?</description>
+      <category>import-ai</category>
+      <guid isPermaLink="false">news-b3d04b5f805f38bf</guid>
+      <pubDate>Mon, 12 Oct 2026 12:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pupil arrested after two teachers shot at French school</title>
+      <link>https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A 14-year-old was detained after the middle-school principal and teacher were injured.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-59f8f65c00296167</guid>
+      <pubDate>Mon, 12 Oct 2026 12:18:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who are the Houthis, and why are they so hard to fight?</title>
+      <link>https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-65326f10d7c139d0</guid>
+      <pubDate>Mon, 12 Oct 2026 12:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia</title>
+      <link>https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html</link>
+      <description>Iran has long backed the Houthis, a Yemeni militia, and it made the offer as Saudi Arabia contends with increasingly deadly attacks from them.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-b1e8bf8aa2cb9d4c</guid>
+      <pubDate>Mon, 12 Oct 2026 11:37:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tom Cruise film Digger forecast to lose $245m at box office</title>
+      <link>https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-e3a5c50da34fa6f9</guid>
+      <pubDate>Mon, 12 Oct 2026 11:29:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will the HomeView be Apple’s first smart home success?</title>
+      <link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</link>
+      <description>Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-2a599db62b35d5c3</guid>
+      <pubDate>Sun, 11 Oct 2026 21:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next</title>
+      <link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</link>
+      <description>Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-e380f02bc291d4d2</guid>
+      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silicon Valley is falling in line with Trump’s attempt to rename AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
+      <description>When President Donald Trump announced his plans to rebrand artificial intelligence as "super intelligence," you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-7ec8afeed3530ddc</guid>
+      <pubDate>Sun, 11 Oct 2026 18:33:56 +0000</pubDate>
+    </item>
     <item>
       <title>Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions</title>
       <link>https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html</link>
@@ -62,14 +182,6 @@
       <category>marketwatch</category>
       <guid isPermaLink="false">news-7bb634f5f941ee5f</guid>
       <pubDate>Sun, 11 Oct 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.</title>
-      <link>https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories</link>
-      <description>“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-4e18150c9776172e</guid>
-      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Learning to use local AI is exciting, overwhelming, and frustrating</title>
@@ -692,116 +804,6 @@
       <category>huggingface-blog</category>
       <guid isPermaLink="false">news-0825a4897dea2e82</guid>
       <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Purpose-built model for leaked secret detection</title>
-      <link>https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection</link>
-      <description>Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware… The post Purpose-built model for leaked secret detection appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-5260e9d19f4febcc</guid>
-      <pubDate>Wed, 07 Oct 2026 16:13:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Local sandboxing for GitHub Copilot now generally available</title>
-      <link>https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available</link>
-      <description>Local sandboxing for GitHub Copilot is now generally available in GitHub Copilot CLI, the GitHub Copilot app, and VS Code sessions using Agent Host. Local sandboxes give developers a secure… The post Local sandboxing for GitHub Copilot now generally available appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-87f43b6934de2921</guid>
-      <pubDate>Wed, 07 Oct 2026 15:46:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Discover local models in GitHub Copilot CLI</title>
-      <link>https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli</link>
-      <description>GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running… The post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-cfd130b4e19fc9e9</guid>
-      <pubDate>Wed, 07 Oct 2026 15:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Case of U.S. Marine Accused of Murder in Japan Draws Outcry</title>
-      <link>https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html</link>
-      <description>Prime Minister Sanae Takaichi, a close Trump ally, is under pressure to strengthen oversight of the U.S. military in Japan.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-332186f0f778e226</guid>
-      <pubDate>Wed, 07 Oct 2026 13:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Falcon ASR</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-91ed3eb235f3237f</guid>
-      <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>The School Near Paris That Shows Why French Students Are Protesting</title>
-      <link>https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html</link>
-      <description>Angered by poor classroom conditions, students at Paul Éluard High School in a suburb of the capital were among the first to blockade their campus during an ongoing round of unrest.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-160f231d24f9258e</guid>
-      <pubDate>Wed, 07 Oct 2026 13:19:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inheritances Can Shatter Families. Could a Therapist Help?</title>
-      <link>https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html</link>
-      <description>As the United States faces the greatest wealth transfer in history, some people are turning to therapists to help them pass on their assets in a way that preserves harmony.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e65592676223d929</guid>
-      <pubDate>Wed, 07 Oct 2026 13:18:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kalshi is coming for ‘Dancing with the Stars’ fans</title>
-      <link>https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories</link>
-      <description>What to know before buying event contracts around your favorite reality shows and entertainers.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-e8aa90fdba8185e1</guid>
-      <pubDate>Wed, 07 Oct 2026 13:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelensky condemns 'vile' large-scale Russian attacks that killed 20</title>
-      <link>https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-5d0d9e1cb9751d49</guid>
-      <pubDate>Wed, 07 Oct 2026 13:02:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump to speak to Putin about plague lab worker's death in Russia</title>
-      <link>https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-3f34a122d1cc96a6</guid>
-      <pubDate>Wed, 07 Oct 2026 12:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parental controls aren’t just for kids anymore</title>
-      <link>https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories</link>
-      <description>Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-4c6968db9d0ccdd8</guid>
-      <pubDate>Wed, 07 Oct 2026 12:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-5bdd694c62903534</guid>
-      <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Helping teens learn, plan, and shape the future of AI</title>
-      <link>https://openai.com/index/teens-learn-and-plan</link>
-      <description>College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-ad4e14640e358f44</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI could upend food delivery</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites</link>
-      <description>DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-8b63f191edc0d5fe</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
