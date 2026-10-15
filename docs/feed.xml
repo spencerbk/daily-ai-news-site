@@ -5,8 +5,199 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:30:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?</title>
+      <link>https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories</link>
+      <description>“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2d63366bf522e153</guid>
+      <pubDate>Thu, 15 Oct 2026 13:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will mortgage rates stay above 7% in 2027? Signs point to yes.</title>
+      <link>https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories</link>
+      <description>Two new forecasts spell bad news for home buyers and sellers</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-8b35c40ae0ebadfc</guid>
+      <pubDate>Thu, 15 Oct 2026 13:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates</title>
+      <link>https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html</link>
+      <description>A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-693557710ca54e1e</guid>
+      <pubDate>Thu, 15 Oct 2026 13:08:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
+      <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
+      <description>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase "told investors" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from "people with knowledge of the matter". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was "about $4.8bn" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on "computing power" Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is worth quoting in full (highlight mine): The start-up has also clamped down on “distillation” — a controversial practice whereby rival AI labs train their models on the outputs of more advanced ones. When rival companies “distil” their models from Anthropic’s models, that involves heavy usage and spending. Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue and that they had cut it back “materially” in the third quarter of the year, said four people with direct knowledge of the matter. Napkin maths says that if distillation was 5% of their Q2 revenue (before they cut it back in Q3) then unnamed "other labs" spent over half a billion dollars distilling Anthropic's models in that quarter! Tags: ai, generative-ai, llms, anthropic</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-6702d1aaf0afce3a</guid>
+      <pubDate>Thu, 15 Oct 2026 13:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html</link>
+      <description>The Vatican bureaucracy has been fine-tuned over hundreds of years to function smoothly even when the pope cannot.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-02bfbd75a0d7df8c</guid>
+      <pubDate>Thu, 15 Oct 2026 13:01:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google launches its &amp;#8216;universal&amp;#8217; online shopping cart ahead of the holidays</title>
+      <link>https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch</link>
+      <description>Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-adaf79e50c2e54f8</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter</title>
+      <link>https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html</link>
+      <description>Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-76b28f30d48a7f58</guid>
+      <pubDate>Thu, 15 Oct 2026 12:45:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>At least 33 pupils and teacher killed after school roof collapses in Pakistan</title>
+      <link>https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-4dfeead038ca6b4d</guid>
+      <pubDate>Thu, 15 Oct 2026 12:28:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume</title>
+      <link>https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-98fb856ff261288c</guid>
+      <pubDate>Thu, 15 Oct 2026 12:03:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon’s always-listening Bee wearable can now help you buy stuff</title>
+      <link>https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs</link>
+      <description>Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-b6af0c3578bc7e52</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon’s Bee launches two new personal AI devices, starting at $75</title>
+      <link>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/</link>
+      <description>Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-a3fa54bbd59382e2</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked</title>
+      <link>https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</link>
+      <description>There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to "Eiliko" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-faf4d5dfcd6c5d73</guid>
+      <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
+      <link>https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</link>
+      <description>Sandboxes are all you need.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-0c6f09c40e01f053</guid>
+      <pubDate>Thu, 15 Oct 2026 10:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apertus 1.5 Release Notes</title>
+      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-e3c36d4422c6129b</guid>
+      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration</title>
+      <link>https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html</link>
+      <description>European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-aeb64afea494ef86</guid>
+      <pubDate>Thu, 15 Oct 2026 09:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Figma announces new features to define how agents work on its platform</title>
+      <link>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</link>
+      <description>Figma is also releasing its code layers feature in open beta.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-134069d44702de28</guid>
+      <pubDate>Thu, 15 Oct 2026 04:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gudea leverages AI to help organizations prevent social media crises before they erupt</title>
+      <link>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/</link>
+      <description>Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-5abc04e05146a5cd</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes</title>
+      <link>https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/</link>
+      <description>Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-d8faa45b2d0c50a3</guid>
+      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents</title>
+      <link>https://www.latent.space/p/crossing-the-threshold</link>
+      <description>At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-5f0e4286e522ac24</guid>
+      <pubDate>Wed, 14 Oct 2026 21:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tree Appreciator</title>
+      <link>https://simonwillison.net/2026/Oct/14/tree-appreciator/</link>
+      <description>Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called "Tree appreciator" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk, I've found that telling Opus 5.5 "make sure it is fun" works uncomfortably well. In this case Claude crunched for 3 hours and 7 minutes before retuning a cosy little spot-the-difference game with music and animation and achievements that's quite compelling to play. Tags: game-design, javascript, ai, generative-ai, llms, claude, vibe-coding, three-js</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-bbc1e25e9e985e45</guid>
+      <pubDate>Wed, 14 Oct 2026 21:23:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Epic says its new vibe-coded Epic Games Launcher is faster than Steam</title>
+      <link>https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/</link>
+      <description>But the new "Preview" app "will have some bugs," Epic warns.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-2af446043d102e54</guid>
+      <pubDate>Wed, 14 Oct 2026 21:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>HydraFusion updates and new Max option</title>
+      <link>https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option</link>
+      <description>HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot… The post HydraFusion updates and new Max option appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-116eea760bcf0c82</guid>
+      <pubDate>Wed, 14 Oct 2026 20:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub availability report: September 2026</title>
+      <link>https://github.blog/news-insights/company-news/github-availability-report-september-2026/</link>
+      <description>In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-86f0f518c7792f01</guid>
+      <pubDate>Wed, 14 Oct 2026 20:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uber’s AI infra, from the inside</title>
+      <link>https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside</link>
+      <description>Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-bc6f7d6d13e5ee6f</guid>
+      <pubDate>Wed, 14 Oct 2026 17:06:56 +0000</pubDate>
+    </item>
     <item>
       <title>Gen Z renters are the only group more likely to feel successful by investing than buying a house</title>
       <link>https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories</link>
@@ -613,197 +804,6 @@
       <category>techcrunch-enterprise</category>
       <guid isPermaLink="false">news-df771d277c46056d</guid>
       <pubDate>Sat, 10 Oct 2026 16:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream</title>
-      <link>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</link>
-      <description>TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-6801da099eadf383</guid>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building AI for Reliable Execution: Lessons From Industrial Robotics</title>
-      <link>https://www.latent.space/p/standard-bots</link>
-      <description>Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-37d5b84c7a91448c</guid>
-      <pubDate>Sat, 10 Oct 2026 14:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flu season is already here. Here’s what to know about this year’s flu shots.</title>
-      <link>https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories</link>
-      <description>This year’s flu season has arrived about seven weeks earlier than in 2025 or 2024.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-a134129752a405c5</guid>
-      <pubDate>Sat, 10 Oct 2026 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.</title>
-      <link>https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories</link>
-      <description>“People in the U.S. need to wake up.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-c4794f2e5dc64b26</guid>
-      <pubDate>Sat, 10 Oct 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?</title>
-      <link>https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories</link>
-      <description>“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-9f86f93e3609e964</guid>
-      <pubDate>Sat, 10 Oct 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI agent makers are promising privacy — will they deliver?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots</link>
-      <description>At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI." OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-0ea9d786e45ed9d7</guid>
-      <pubDate>Sat, 10 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Cockroach' group leaders among hundreds detained in Delhi protest</title>
-      <link>https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-73216079835b51ce</guid>
-      <pubDate>Sat, 10 Oct 2026 12:29:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Headmaster detained after BBC investigation into alleged sexual abuse of students</title>
-      <link>https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-9e1fe3e03aab71dc</guid>
-      <pubDate>Sat, 10 Oct 2026 12:28:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Peace Talks Sputter After Trump and Putin Strike Fuel Deal</title>
-      <link>https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html</link>
-      <description>Hours after President Trump said the United States would buy Russian diesel, the Kremlin said there would be no immediate resumption of discussions to end the war.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-0a1d2419560d9c2b</guid>
-      <pubDate>Sat, 10 Oct 2026 12:13:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian glide bomb attack on Zaporizhzhia kills at least 15 people</title>
-      <link>https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-146f2c9cb8c754a0</guid>
-      <pubDate>Sat, 10 Oct 2026 11:17:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to Know About the Delhi Protests</title>
-      <link>https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html</link>
-      <description>Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-a286cc1202217808</guid>
-      <pubDate>Sat, 10 Oct 2026 11:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch</title>
-      <link>https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b</link>
-      <description>Wow.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-368f80aabb67a0d5</guid>
-      <pubDate>Sat, 10 Oct 2026 06:45:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting The New York Times</title>
-      <link>https://simonwillison.net/2026/Oct/10/the-new-york-times/</link>
-      <description>Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. — The New York Times, Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks, anthropic, generative-ai, ai, llms</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-5528ba1d9cba341e</guid>
-      <pubDate>Sat, 10 Oct 2026 02:04:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind &amp; Sal Candido, Biohub</title>
-      <link>https://www.latent.space/p/biohub-deepmind</link>
-      <description>From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-d2e5912a3db67930</guid>
-      <pubDate>Sat, 10 Oct 2026 00:31:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
-      <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
-      <description>Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-cf5de6151a45fb1f</guid>
-      <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot weekly releases — October 5</title>
-      <link>https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</link>
-      <description>This week’s updates make Copilot easier to use across accounts and environments, with more control over what agents can access and how you manage their work. GitHub Copilot Claude Haiku… The post GitHub Copilot weekly releases — October 5 appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-8e5ec2908b04ba86</guid>
-      <pubDate>Fri, 09 Oct 2026 22:58:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deno is joining Cloudflare</title>
-      <link>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</link>
-      <description>Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to "make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model" (see the Cloudflare blog.) The bad news is that Deno itself will not be maintained by Cloudflare beyond the next year: We will support the Deno runtime for another year with monthly releases containing bug fixes and security updates. After that year we will end our development of the Deno runtime. Deno will remain open source, and we welcome others who want to continue its development. Deno (and Node.js) creator Ryan Dahl explained that decision in a comment on Hacker News: It's a joint decision and I agree with it. I'm most invested in its success and have put the most work into it - and I no longer think it's where I can do the most important work. There are some good ideas in Deno and it's well engineered - but it ultimately is not solving big problems. It has been sucked into the gravity well of node compatibility, which forces it to behave exactly as Node does. Why reimplement Node? It works. Marginal performance or UX or security benefits are not enough. I'm interested in building powerful new abstractions. celld has been working remarkably well, depending only on object storage for coordination and persistence. It is not just a slightly different API to interact with the file system or network - it's an entirely new model for server development. My favorite feature of Deno has long been the permissions system, where you can run a Deno script and specify exactly which files and folders it can read and write to, and which network hosts it can access. Node.js has a similar permissions model these days, added in Node v20.0.0 in April 2023 and declared stable in Node v22.13.0 in January 2025. They don't yet support allow-listing specific network hosts though - networking is either on or off. Via Hacker News Tags: cloudfront, javascript, nodejs, ryan-dahl, sandboxing, deno</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-8506d75553e5b958</guid>
-      <pubDate>Fri, 09 Oct 2026 22:48:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s drones knock out AI data center belonging to "Russia’s Google"</title>
-      <link>https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/</link>
-      <description>One damaged data center has supercomputers used for training Yandex’s AI model.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-5df45c5813134c05</guid>
-      <pubDate>Fri, 09 Oct 2026 22:04:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
-      <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
-      <description>What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-ac2c548222f71119</guid>
-      <pubDate>Fri, 09 Oct 2026 21:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip</link>
-      <description>An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-0ad44f3ce5c4ad25</guid>
-      <pubDate>Fri, 09 Oct 2026 21:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI coding agents generate more code, but not more software</title>
-      <link>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/</link>
-      <description>Study finds coding efficiency gains get "absorbed" by human review "bottleneck."</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-9f4f46039e3dc6c1</guid>
-      <pubDate>Fri, 09 Oct 2026 19:43:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hack the World: Why hackathons are still the best place to learn to build</title>
-      <link>https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/</link>
-      <description>The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-8608b90d585ce159</guid>
-      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Impactful scheduling for GPU clusters</title>
-      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-43ef54e74d276082</guid>
-      <pubDate>Fri, 09 Oct 2026 15:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter</title>
-      <link>https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories</link>
-      <description>A new report paints OpenAI’s financial picture in a more optimistic light.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7bf0a06fad68f1c2</guid>
-      <pubDate>Fri, 09 Oct 2026 13:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
