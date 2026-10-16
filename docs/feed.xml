@@ -5,8 +5,206 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Zelensky says Ukraine has right to defend itself after Trump criticism</title>
+      <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>EU leaders rally around Ukraine's leader after Donald Trump says he is "more difficult to work with than Putin".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-adb9ff1cde83517f</guid>
+      <pubDate>Fri, 16 Oct 2026 13:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patients in chains rescued from suspected illegal rehab centre in South Africa</title>
+      <link>https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Some of the 200 patients were found with "sores all over their bodies" and in overcrowded rooms.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-10203bde3b4cf3ee</guid>
+      <pubDate>Fri, 16 Oct 2026 13:09:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dad fined after son, 2, died in Cyprus hotel fall</title>
+      <link>https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Joshua Foster "lost control" of his son while showing him the view of a water park from a window.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-1639b81967914c53</guid>
+      <pubDate>Fri, 16 Oct 2026 13:01:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Replit’s CEO says the future of work is the ‘self-driving company’</title>
+      <link>https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/</link>
+      <description>Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-fa1478d9672f8f4a</guid>
+      <pubDate>Fri, 16 Oct 2026 12:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.</title>
+      <link>https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html</link>
+      <description>Sanae Takaichi said she has a busier schedule than her male predecessors, a nod to the disproportionate share of household tasks in Japan that fall to women.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a4b043d6f8322939</guid>
+      <pubDate>Fri, 16 Oct 2026 12:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.</title>
+      <link>https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories</link>
+      <description>Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-a97000740ea7e04e</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?</title>
+      <link>https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories</link>
+      <description>“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-8e56c551040885bc</guid>
+      <pubDate>Fri, 16 Oct 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Life Is Like in Kyiv as Russia Tries to Make It Unlivable</title>
+      <link>https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html</link>
+      <description>A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-3bb994558622f2e8</guid>
+      <pubDate>Fri, 16 Oct 2026 11:25:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] Agents disprove Polysemanticity; greatly improve Interpretability &amp; Alignment</title>
+      <link>https://www.latent.space/p/ainews-agents-disprove-polysemanticity</link>
+      <description>Nick Cammarata out of nowhere with some major claims!</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-6def1af444f0bb8a</guid>
+      <pubDate>Fri, 16 Oct 2026 04:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams</title>
+      <link>https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates</link>
+      <description>Multi-repo support in Slack and Microsoft Teams GitHub Copilot in Slack and Microsoft Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating… The post Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-5c6d7a0c4df61ebd</guid>
+      <pubDate>Fri, 16 Oct 2026 02:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s new in Microsoft Foundry | September 2026</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-september-2026/</link>
+      <description>Explore September's models, Routines, Tool Search, Model Router, and Insights through one two-agent workflow that turns public releases into a Foundry developer changelog. The post What’s new in Microsoft Foundry | September 2026 appeared first on Microsoft Foundry Blog.</description>
+      <category>devblogs-msft-foundry</category>
+      <guid isPermaLink="false">news-d17eb662424abba3</guid>
+      <pubDate>Fri, 16 Oct 2026 02:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-ba4e7337aba280a4</guid>
+      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
+      <link>https://huggingface.co/blog/reflection-beam</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-849b423196d125cc</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
+      <link>https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/</link>
+      <description>The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c9c43f1e32a507cc</guid>
+      <pubDate>Thu, 15 Oct 2026 23:44:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>People in China are spending nearly as much of their income as Americans on healthcare</title>
+      <link>https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html</link>
+      <description>Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-8a291639ff44104b</guid>
+      <pubDate>Thu, 15 Oct 2026 23:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT can peek at your Chrome tabs now</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</link>
+      <description>OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-924ca13842a36839</guid>
+      <pubDate>Thu, 15 Oct 2026 22:43:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch</title>
+      <link>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</link>
+      <description>Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-b78fa0f3af3a7b6b</guid>
+      <pubDate>Thu, 15 Oct 2026 22:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chirp Pong</title>
+      <link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
+      <description>Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine than pong Claude Opus 5.5 Extra in Claude Code. Tags: game-design, ai, generative-ai, llms, claude-code</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-08c79764230e6e3c</guid>
+      <pubDate>Thu, 15 Oct 2026 19:47:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The next developer interface is ambient intelligence</title>
+      <link>https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/</link>
+      <description>AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-5b6680e2f8b97a1d</guid>
+      <pubDate>Thu, 15 Oct 2026 19:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
+      <link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
+      <description>We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in mid-November appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-818ecaf77f9354c7</guid>
+      <pubDate>Thu, 15 Oct 2026 19:35:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bringing GPT-Rosalind to academic research labs</title>
+      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+      <description>Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-a72d1e4da6b0e106</guid>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Staying Evergreen: How we automated secure access and repo hygiene in a shared org</title>
+      <link>https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/</link>
+      <description>Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-84007b3bda826b8c</guid>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pulse: OpenAI software engineer accused of spying</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer</link>
+      <description>Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-0e4f8374803f0b7c</guid>
+      <pubDate>Thu, 15 Oct 2026 16:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
+      <description>FTC may fine AI firms on par with companies that delay data breach reports.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-1cc24ddce8a425aa</guid>
+      <pubDate>Thu, 15 Oct 2026 15:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic autofix for code scanning alerts general availability</title>
+      <link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
+      <description>Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-b7ac4657df6fb598</guid>
+      <pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
+    </item>
     <item>
       <title>My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?</title>
       <link>https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories</link>
@@ -604,206 +802,6 @@
       <category>import-ai</category>
       <guid isPermaLink="false">news-b3d04b5f805f38bf</guid>
       <pubDate>Mon, 12 Oct 2026 12:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pupil arrested after two teachers shot at French school</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A 14-year-old was detained after the middle-school principal and teacher were injured.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-59f8f65c00296167</guid>
-      <pubDate>Mon, 12 Oct 2026 12:18:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who are the Houthis, and why are they so hard to fight?</title>
-      <link>https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-65326f10d7c139d0</guid>
-      <pubDate>Mon, 12 Oct 2026 12:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia</title>
-      <link>https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html</link>
-      <description>Iran has long backed the Houthis, a Yemeni militia, and it made the offer as Saudi Arabia contends with increasingly deadly attacks from them.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-b1e8bf8aa2cb9d4c</guid>
-      <pubDate>Mon, 12 Oct 2026 11:37:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tom Cruise film Digger forecast to lose $245m at box office</title>
-      <link>https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-e3a5c50da34fa6f9</guid>
-      <pubDate>Mon, 12 Oct 2026 11:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>datasette-ports 0.4</title>
-      <link>https://simonwillison.net/2026/Oct/12/datasette-ports/</link>
-      <description>Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler. Tags: datasette</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-59e7fc14e8c1a5c7</guid>
-      <pubDate>Mon, 12 Oct 2026 04:57:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will the HomeView be Apple’s first smart home success?</title>
-      <link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</link>
-      <description>Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-2a599db62b35d5c3</guid>
-      <pubDate>Sun, 11 Oct 2026 21:14:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next</title>
-      <link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</link>
-      <description>Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-e380f02bc291d4d2</guid>
-      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Silicon Valley is falling in line with Trump’s attempt to rename AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
-      <description>When President Donald Trump announced his plans to rebrand artificial intelligence as "super intelligence," you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-7ec8afeed3530ddc</guid>
-      <pubDate>Sun, 11 Oct 2026 18:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions</title>
-      <link>https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html</link>
-      <description>Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-42d5f8b80d1f6a68</guid>
-      <pubDate>Sun, 11 Oct 2026 13:23:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi</title>
-      <link>https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html</link>
-      <description>The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-c7dd9a8921a80a39</guid>
-      <pubDate>Sun, 11 Oct 2026 13:03:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>The bull market is turning 4 years old — but yields could crash the party</title>
-      <link>https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories</link>
-      <description>For four years, tech has been the answer to almost every question about this bull market.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-3ee16ec8b2be0015</guid>
-      <pubDate>Sun, 11 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pope Leo Will Have Surgery to Remove Growth on Lung</title>
-      <link>https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html</link>
-      <description>A recent medical examination found a small nodule, he announced, adding that doctors would remove it this week.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-0e3a4442483b0cad</guid>
-      <pubDate>Sun, 11 Oct 2026 12:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pope Leo to have surgery after lump found on lung</title>
-      <link>https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The 71-year-old pontiff said the nodule was identified "at a very early stage".</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-0db1cf89e89e0989</guid>
-      <pubDate>Sun, 11 Oct 2026 12:52:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine strikes Russian data centre again despite Trump warning</title>
-      <link>https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-56c1dab03b8ffa22</guid>
-      <pubDate>Sun, 11 Oct 2026 12:50:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?</title>
-      <link>https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories</link>
-      <description>“I presume these are sophisticated investors taking a profit.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7bb634f5f941ee5f</guid>
-      <pubDate>Sun, 11 Oct 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Learning to use local AI is exciting, overwhelming, and frustrating</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress</link>
-      <description>I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-ea95eacbd85b4f83</guid>
-      <pubDate>Sun, 11 Oct 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dwarf Fortress uses version control now</title>
-      <link>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</link>
-      <description>I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more. That's art. I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013: "I don't use version control -- I didn't like the feeling of having the code get committed into a black box thingy with no immediate upside" March 2016: "I don’t even use version control. If you don’t know what that is then you’re not gonna yell at me. If you even know what version control is you’re gonna be like, ‘You don’t use version control? You don’t use source control? What is wrong with you? How can you even work? I’m just not cut out for it, in a sense. It’s been 15 years, so the reasons have change over time, but that’s my current understanding of it." March 2023: "I've got Discord channels to check and version control stuff to use now, so the process is definitely a little more involved" That March 2023 quote comes from an interview about the release on Steam which made them millionaires. I'm a tiny bit sad that they gave in before they hit that milestone, but what an impressive run. Tags: version-control</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-a786585932c30cce</guid>
-      <pubDate>Sun, 11 Oct 2026 00:52:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python 3.15.0 added to actions/python-versions</title>
-      <link>https://simonwillison.net/2026/Oct/10/python-actions/</link>
-      <description>Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you can add "3.15" to a GitHub Actions testing matrix to run tests against the new Python 3.15.0 release. Tags: github, python, github-actions, chatgpt</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-ffe9771dd0f2e869</guid>
-      <pubDate>Sat, 10 Oct 2026 23:58:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-      <description>In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a "set of nested black boxes" whose advice and actions we simply accept or […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-35dc91695d5dee44</guid>
-      <pubDate>Sat, 10 Oct 2026 22:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Subscriber Exclusive] NYC Subscriber Meetups!</title>
-      <link>https://www.latent.space/p/nyc2026</link>
-      <description>Tomorrow and Tuesday. If you see this you’re in!</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-fee9bab748db3442</guid>
-      <pubDate>Sat, 10 Oct 2026 22:07:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</title>
-      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
-      <description>In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-d05facb80f7a8876</guid>
-      <pubDate>Sat, 10 Oct 2026 21:47:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple discloses deal to hire team and license tech from personalized podcast startup Huxe</title>
-      <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</link>
-      <description>Is Apple hoping to get into the AI-generated podcast business?</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-9fe15a12a7df7ad0</guid>
-      <pubDate>Sat, 10 Oct 2026 19:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New controls and chat improvements in Copilot for JetBrains</title>
-      <link>https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains</link>
-      <description>This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and… The post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-1e0e6608c184d024</guid>
-      <pubDate>Sat, 10 Oct 2026 18:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>DistroKid has been quietly taking down songs in response to UMG lawsuit</title>
-      <link>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</link>
-      <description>Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an "AI-slop pipeline." Artists are saying that […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-e77e9ae83492452b</guid>
-      <pubDate>Sat, 10 Oct 2026 18:52:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare acquires Deno to improve its Workers programming model</title>
-      <link>https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/</link>
-      <description>Cloudflare will use this acquisition to improve its Workers programming model and platform.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-df771d277c46056d</guid>
-      <pubDate>Sat, 10 Oct 2026 16:25:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
