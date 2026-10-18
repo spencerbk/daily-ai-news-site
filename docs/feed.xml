@@ -5,8 +5,120 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 13:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire</title>
+      <link>https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html</link>
+      <description>The defense minister said people were killed and injured at a base in Alberta, but officials did not offer details on the cause.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-e67f39522e81710b</guid>
+      <pubDate>Sun, 18 Oct 2026 13:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>In India, the Scion of a Political Dynasty Tries to Seize His Moment</title>
+      <link>https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html</link>
+      <description>Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-af81d41d58c8bee4</guid>
+      <pubDate>Sun, 18 Oct 2026 13:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs</title>
+      <link>https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories</link>
+      <description>The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-6e4a41f28d2ea7c1</guid>
+      <pubDate>Sun, 18 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Several dead or injured in major fire at Canada military base</title>
+      <link>https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Officials have not given a cause or death toll, citing the "very active and delicate" situation at Canadian Forces Base Wainwright.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-351390f82ca4232b</guid>
+      <pubDate>Sun, 18 Oct 2026 12:41:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>European diplomats attacked by Israeli settlers in West Bank</title>
+      <link>https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-46647e0022809cb1</guid>
+      <pubDate>Sun, 18 Oct 2026 12:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting</title>
+      <link>https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-85126632508d4516</guid>
+      <pubDate>Sun, 18 Oct 2026 12:07:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>There is a silent market rotation inside the S&amp;P 500 that’s warning of more weakness ahead</title>
+      <link>https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories</link>
+      <description>A “triple-top” reversal chart pattern is pointing to a period of underperformance for the S&amp;P 500 — perhaps a long one.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-49e184d32b10cdd0</guid>
+      <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta removes language that raised scraping and AI training concerns</title>
+      <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
+      <description>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-568162b981af2493</guid>
+      <pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inline rendering with document​.currentScript</title>
+      <link>https://simonwillison.net/2026/Oct/17/document-currentscript/</link>
+      <description>Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline &lt;script&gt; element that replaces itself when the page loads: The year is &lt;script&gt; document.currentScript.replaceWith( new Date().getFullYear())&lt;/script&gt; If you define a shortcut function like this: $=(...n)=&gt;document.currentScript.replaceWith(...n) You get a tiny template language: The year is &lt;script&gt;$(new Date().getFullYear())&lt;/script&gt; Tags: javascript</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-69ead926e6899b5e</guid>
+      <pubDate>Sat, 17 Oct 2026 21:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
+      <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
+      <description>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-b769f5e984a396b0</guid>
+      <pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
+      <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+      <description>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-51c1c9a5e48bf763</guid>
+      <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software’s new consolidator gets big vote of confidence from Berkshire</title>
+      <link>https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html</link>
+      <description>Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-61cae8d261bcda56</guid>
+      <pubDate>Sat, 17 Oct 2026 15:11:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta removes language that may have allowed it to scrape news sites</title>
+      <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
+      <description>After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-ac0eba5f39915c21</guid>
+      <pubDate>Sat, 17 Oct 2026 15:04:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>web-edit 0.1a2</title>
+      <link>https://simonwillison.net/2026/Oct/17/web-edit/</link>
+      <description>Release: web-edit 0.1a2 web-edit (previously) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a "copy to clipboard" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017) and I wanted an easy way to copy the resulting logs into a Gist. Tags: projects, pelican-riding-a-bicycle, deepseek</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-d6c06ffc09a8bd33</guid>
+      <pubDate>Sat, 17 Oct 2026 13:16:49 +0000</pubDate>
+    </item>
     <item>
       <title>Why Are There Protests in France?</title>
       <link>https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html</link>
@@ -24,6 +136,14 @@
       <pubDate>Sat, 17 Oct 2026 13:00:51 +0000</pubDate>
     </item>
     <item>
+      <title>Websites are closing their doors to AI agents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+      <description>Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-79619743255e89a1</guid>
+      <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Meet the home buyers totally unfazed by 7% mortgage rates</title>
       <link>https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories</link>
       <description>Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.</description>
@@ -37,14 +157,6 @@
       <description>”I earn $110,000 a year.”</description>
       <category>marketwatch</category>
       <guid isPermaLink="false">news-a8be9d22dcfcf528</guid>
-      <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Websites are closing their doors to AI agents</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-      <description>Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-79619743255e89a1</guid>
       <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,14 +182,6 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-a01117fa064bff30</guid>
       <pubDate>Sat, 17 Oct 2026 12:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bending Spoons wants to revive software castoffs. Berkshire is backing the plan</title>
-      <link>https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html</link>
-      <description>Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-61cae8d261bcda56</guid>
-      <pubDate>Sat, 17 Oct 2026 12:00:01 +0000</pubDate>
     </item>
     <item>
       <title>[AINews] High Taste Testers Ep. 1</title>
@@ -698,110 +802,6 @@
       <category>pragmatic-engineer</category>
       <guid isPermaLink="false">news-837e840d6faec8c2</guid>
       <pubDate>Tue, 13 Oct 2026 16:03:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enterprise managed settings enforcement updates</title>
-      <link>https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates</link>
-      <description>Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version… The post Enterprise managed settings enforcement updates appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-5930bcfe33cee2ec</guid>
-      <pubDate>Tue, 13 Oct 2026 15:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azure Content Understanding Prebuilt Analyzers: packaging domain knowledge for document AI</title>
-      <link>https://devblogs.microsoft.com/foundry/more-than-a-schema-content-understanding-prebuilt-analyzers/</link>
-      <description>Learn how Azure Content Understanding prebuilt analyzers combine domain knowledge with grounding and confidence, and what Advanced Contextualization preview benchmarks show about quality, modeled cost, and latency. The post Azure Content Understanding Prebuilt Analyzers: packaging domain knowledge for document AI appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-8598b1dda548a6db</guid>
-      <pubDate>Tue, 13 Oct 2026 14:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/</link>
-      <description>The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-16952cab26aac923</guid>
-      <pubDate>Tue, 13 Oct 2026 13:28:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hungarian MPs scrap Orbán's anti-LGBTQ measures</title>
-      <link>https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-58e51483f1308c09</guid>
-      <pubDate>Tue, 13 Oct 2026 13:23:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?</title>
-      <link>https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html</link>
-      <description>Rising demand for copper has fueled interest in Bougainville’s Panguna mine, which has been shut for four decades. Yet some fear a rush to reopen risks return to violence.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e2b802aff0f1fc95</guid>
-      <pubDate>Tue, 13 Oct 2026 13:22:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Micron’s stock extends declines as China competition heats up</title>
-      <link>https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories</link>
-      <description>Even Elon Musk says Chinese memory chip makers are catching up.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-be181cb4e7a9c1ce</guid>
-      <pubDate>Tue, 13 Oct 2026 13:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack</title>
-      <link>https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-8669f2494bbb7a3d</guid>
-      <pubDate>Tue, 13 Oct 2026 13:17:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Father’s Mission Is to Show the World ‘What Russia Did to My Family’</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html</link>
-      <description>After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-8a8c12fa640043d3</guid>
-      <pubDate>Tue, 13 Oct 2026 13:17:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking</title>
-      <link>https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html</link>
-      <description>German police said they had determined there was “no danger” after a plane mistakenly transmitted a code suggesting a possible hijacking onboard.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-96dce22393e1ef7a</guid>
-      <pubDate>Tue, 13 Oct 2026 13:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amex introduces a framework to prevent AI agents from making unauthorized purchases</title>
-      <link>https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/</link>
-      <description>American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-aba4e20057c7a474</guid>
-      <pubDate>Tue, 13 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple launches HomeView, its first smart display for the home</title>
-      <link>https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look</link>
-      <description>It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing information at a glance with Apple's […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-fa1d998e852ed881</guid>
-      <pubDate>Tue, 13 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. wealth has shifted to stocks from homes. There are big reasons to worry.</title>
-      <link>https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories</link>
-      <description>The four-year bull market in stocks is riding high because of the AI boom. But it’s also increasing the cost of money.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-fa243dd70cce5555</guid>
-      <pubDate>Tue, 13 Oct 2026 12:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</title>
-      <link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/</link>
-      <description>The startup will sell some of its assets to Disney for $20 million.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-54d9c64a7bcda1b4</guid>
-      <pubDate>Tue, 13 Oct 2026 12:23:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
