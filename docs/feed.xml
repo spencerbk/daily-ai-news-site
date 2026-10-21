@@ -5,8 +5,175 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?</title>
+      <link>https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html</link>
+      <description>Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-9f64e67e90962578</guid>
+      <pubDate>Wed, 21 Oct 2026 13:24:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Starshield Cut Out, Ukrainian Drones Fell From the Skies</title>
+      <link>https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html</link>
+      <description>Ukraine says it still doesn’t know why the military satellite internet service, a sister to Starlink, was abruptly throttled, leaving troops vulnerable to Russian attacks.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-183c1ce5c3aa8f6d</guid>
+      <pubDate>Wed, 21 Oct 2026 13:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal</title>
+      <link>https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html</link>
+      <description>The 10-foot-long dusky shark, nicknamed “Bukangi,” was successfully guided back to the open ocean after a third rescue attempt.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-adcc210b7fe7cd81</guid>
+      <pubDate>Wed, 21 Oct 2026 13:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Mods: Flipping the Harness Inside Out</title>
+      <link>https://www.latent.space/p/claude-mods</link>
+      <description>Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-0fff47054cc39cd5</guid>
+      <pubDate>Wed, 21 Oct 2026 13:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-38715d90bd30f009</guid>
+      <pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</title>
+      <link>https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The 74-year-old former teacher has been released without any "swap" required, Trump says.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-6e840d5ab577def8</guid>
+      <pubDate>Wed, 21 Oct 2026 12:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference</title>
+      <link>https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories</link>
+      <description>The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-160a52a19532dc44</guid>
+      <pubDate>Wed, 21 Oct 2026 12:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why SpaceX’s stock is surging — and lifting the broader AI universe along with it</title>
+      <link>https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories</link>
+      <description>SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-34e2e0bfc58dbe2d</guid>
+      <pubDate>Wed, 21 Oct 2026 12:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI models are coming to Google Cloud</title>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-61f4d0141ff303c0</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Musk says he’s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?</title>
+      <link>https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories</link>
+      <description>SpaceX and Super Micro Computer help revive Wall Street’s flagging enthusiasm, with more key earnings on tap.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-2565cb014ead3a46</guid>
+      <pubDate>Wed, 21 Oct 2026 11:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk confirms he is considering merging Tesla and SpaceX</title>
+      <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Musk says special committees within both companies have been formed to look at a possible mega-merger.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-b17a25d8c48aa5ae</guid>
+      <pubDate>Wed, 21 Oct 2026 08:42:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
+      <link>https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</link>
+      <description>An open source “bomb” drops from China</description>
+      <category>latent-space</category>
+      <guid isPermaLink="false">news-7dadac6a05821def</guid>
+      <pubDate>Wed, 21 Oct 2026 06:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>eMudhra Intermediate CA Compromise</title>
+      <link>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</link>
+      <description>eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0.13.4 and pip 26.2.2 and certifi 2026.10.19 have been released with upgraded certificate lists. Tags: encryption, https, pip, python, security, uv</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-aac036aa8666576a</guid>
+      <pubDate>Tue, 20 Oct 2026 23:50:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</link>
+      <description>On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-6559d9cb2b558fef</guid>
+      <pubDate>Tue, 20 Oct 2026 23:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
+      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
+      <description>The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-d4e57614c374e23f</guid>
+      <pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</title>
+      <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
+      <description>Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-fda7124672794d3f</guid>
+      <pubDate>Tue, 20 Oct 2026 22:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s more personalized Gemini AI is heading to your car</title>
+      <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
+      <description>Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-7f6bb9c0aa5027ea</guid>
+      <pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta drops the word "train" from its commercial TOS after AI backlash</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/</link>
+      <description>Meta changes AI scraping policy but won’t add language respecting robots.txt.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-165cb15531466377</guid>
+      <pubDate>Tue, 20 Oct 2026 20:07:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini's Personal Intelligence is coming to cars</title>
+      <link>https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/</link>
+      <description>It's probably time to audit your Gemini settings.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-f74f11fae08faea7</guid>
+      <pubDate>Tue, 20 Oct 2026 20:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s the ROI of software engineers’ spending on AI?</title>
+      <link>https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers</link>
+      <description>AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies – with some interesting findings</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-536d96aeb1a62728</guid>
+      <pubDate>Tue, 20 Oct 2026 17:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>How 3 Java Champions are using GitHub Copilot for increased productivity</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/</link>
+      <description>Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-d3ec3a595c33fcaf</guid>
+      <pubDate>Tue, 20 Oct 2026 16:05:03 +0000</pubDate>
+    </item>
     <item>
       <title>Yemeni City of Taiz Running Out of Essentials as Houthis Close in</title>
       <link>https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html</link>
@@ -168,7 +335,7 @@
     <item>
       <title>Copilot model policy API for enterprise, orgs, and teams</title>
       <link>https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</link>
-      <description>You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What’s new GET and PATCH endpoints are now… The post Copilot model policy API for enterprise, orgs, and teams appeared first on The GitHub Blog.</description>
+      <description>You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, agent apps, and organizations. What’s new GET and PATCH endpoints are now… The post Copilot model policy API for enterprise, orgs, and teams appeared first on The GitHub Blog.</description>
       <category>github-changelog</category>
       <guid isPermaLink="false">news-9db7d13375bac278</guid>
       <pubDate>Mon, 19 Oct 2026 21:32:18 +0000</pubDate>
@@ -636,172 +803,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-3bb994558622f2e8</guid>
       <pubDate>Fri, 16 Oct 2026 11:25:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] Agents disprove Polysemanticity; greatly improve Interpretability &amp; Alignment</title>
-      <link>https://www.latent.space/p/ainews-agents-disprove-polysemanticity</link>
-      <description>Nick Cammarata out of nowhere with some major claims!</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-6def1af444f0bb8a</guid>
-      <pubDate>Fri, 16 Oct 2026 04:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multi-repository support and other improvements for GitHub in Slack and Teams</title>
-      <link>https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates</link>
-      <description>@GitHub in Slack and Teams now supports working across multiple repositories in a single conversation. Whether you’re creating issues, opening pull requests, or investigating bugs, you can work across repositories… The post Multi-repository support and other improvements for GitHub in Slack and Teams appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-5c6d7a0c4df61ebd</guid>
-      <pubDate>Fri, 16 Oct 2026 02:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s new in Microsoft Foundry | September 2026</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-september-2026/</link>
-      <description>Explore September's models, Routines, Tool Search, Model Router, and Insights through one two-agent workflow that turns public releases into a Foundry developer changelog. The post What’s new in Microsoft Foundry | September 2026 appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-d17eb662424abba3</guid>
-      <pubDate>Fri, 16 Oct 2026 02:04:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-ba4e7337aba280a4</guid>
-      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
-      <link>https://huggingface.co/blog/reflection-beam</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-849b423196d125cc</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
-      <link>https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/</link>
-      <description>The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c9c43f1e32a507cc</guid>
-      <pubDate>Thu, 15 Oct 2026 23:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>People in China are spending nearly as much of their income as Americans on healthcare</title>
-      <link>https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html</link>
-      <description>Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-8a291639ff44104b</guid>
-      <pubDate>Thu, 15 Oct 2026 23:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT can peek at your Chrome tabs now</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</link>
-      <description>OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-924ca13842a36839</guid>
-      <pubDate>Thu, 15 Oct 2026 22:43:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch</title>
-      <link>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</link>
-      <description>Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-b78fa0f3af3a7b6b</guid>
-      <pubDate>Thu, 15 Oct 2026 22:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chirp Pong</title>
-      <link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
-      <description>Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine than pong Claude Opus 5.5 Extra in Claude Code. Tags: game-design, ai, generative-ai, llms, claude-code</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-08c79764230e6e3c</guid>
-      <pubDate>Thu, 15 Oct 2026 19:47:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>The next developer interface is ambient intelligence</title>
-      <link>https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/</link>
-      <description>AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-5b6680e2f8b97a1d</guid>
-      <pubDate>Thu, 15 Oct 2026 19:39:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
-      <link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
-      <description>We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in mid-November appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-818ecaf77f9354c7</guid>
-      <pubDate>Thu, 15 Oct 2026 19:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bringing GPT-Rosalind to academic research labs</title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-      <description>Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-a72d1e4da6b0e106</guid>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Staying Evergreen: How we automated secure access and repo hygiene in a shared org</title>
-      <link>https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/</link>
-      <description>Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-84007b3bda826b8c</guid>
-      <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pulse: OpenAI software engineer accused of spying</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer</link>
-      <description>Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-0e4f8374803f0b7c</guid>
-      <pubDate>Thu, 15 Oct 2026 16:55:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/</link>
-      <description>FTC may fine AI firms on par with companies that delay data breach reports.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-1cc24ddce8a425aa</guid>
-      <pubDate>Thu, 15 Oct 2026 15:43:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agentic autofix for code scanning alerts general availability</title>
-      <link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
-      <description>Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-b7ac4657df6fb598</guid>
-      <pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?</title>
-      <link>https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories</link>
-      <description>“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-2d63366bf522e153</guid>
-      <pubDate>Thu, 15 Oct 2026 13:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will mortgage rates stay above 7% in 2027? Signs point to yes.</title>
-      <link>https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories</link>
-      <description>Two new forecasts spell bad news for home buyers and sellers</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-8b35c40ae0ebadfc</guid>
-      <pubDate>Thu, 15 Oct 2026 13:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates</title>
-      <link>https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html</link>
-      <description>A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-693557710ca54e1e</guid>
-      <pubDate>Thu, 15 Oct 2026 13:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
-      <link>https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/</link>
-      <description>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase "told investors" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from "people with knowledge of the matter". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was "about $4.8bn" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on "computing power" Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is worth quoting in full (highlight mine): The start-up has also clamped down on “distillation” — a controversial practice whereby rival AI labs train their models on the outputs of more advanced ones. When rival companies “distil” their models from Anthropic’s models, that involves heavy usage and spending. Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue and that they had cut it back “materially” in the third quarter of the year, said four people with direct knowledge of the matter. Napkin maths says that if distillation was 5% of their Q2 revenue (before they cut it back in Q3) then unnamed "other labs" spent over half a billion dollars distilling Anthropic's models in that quarter! Tags: ai, generative-ai, llms, anthropic</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-6702d1aaf0afce3a</guid>
-      <pubDate>Thu, 15 Oct 2026 13:04:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
