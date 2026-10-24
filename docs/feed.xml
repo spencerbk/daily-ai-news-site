@@ -5,8 +5,167 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Live Updates: France Deploys Vast Security Force in Bid to Prevent More Riots</title>
+      <link>https://www.nytimes.com/live/2026/10/24/world/france-protests-riots</link>
+      <description>As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend. The interior minister estimated that 35,000 people were out on streets nationwide by midday.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-0018fc7a570d5e89</guid>
+      <pubDate>Sat, 24 Oct 2026 13:24:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speed of Starshield Satellite Network Is Improving, Ukraine Says</title>
+      <link>https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</link>
+      <description>The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-aaae882ab1b18e90</guid>
+      <pubDate>Sat, 24 Oct 2026 13:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kim Jong-un Makes First Visit to China in Over a Year</title>
+      <link>https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html</link>
+      <description>The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-d6ed4170756469a9</guid>
+      <pubDate>Sat, 24 Oct 2026 13:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?</title>
+      <link>https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories</link>
+      <description>“I retired in 2020 and subsequently went through a divorce a few years later.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-beea5e36369748cd</guid>
+      <pubDate>Sat, 24 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?</title>
+      <link>https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories</link>
+      <description>“My late father bought our house for $250,000 in the 1990s.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-8e2b93abe37fdcac</guid>
+      <pubDate>Sat, 24 Oct 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.</title>
+      <link>https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories</link>
+      <description>The first Phase 3 data for a custom cancer vaccine has raised questions about whether the potential new treatment is needed.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-1dadde584896573d</guid>
+      <pubDate>Sat, 24 Oct 2026 12:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine says Starlink connection 'now stable' after network limits</title>
+      <link>https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8b4dc9f3945ddbf1</guid>
+      <pubDate>Sat, 24 Oct 2026 12:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat</title>
+      <link>https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-3c59e84754bad299</guid>
+      <pubDate>Sat, 24 Oct 2026 11:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Usage metrics API adds usage from tools like OpenCode</title>
+      <link>https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</link>
+      <description>The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The post Usage metrics API adds usage from tools like OpenCode appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-ba4d3ab8dded0b33</guid>
+      <pubDate>Fri, 23 Oct 2026 23:42:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
+      <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
+      <description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-b15a6fb9671b3fea</guid>
+      <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</title>
+      <link>https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</link>
+      <description>The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-f782f2bc9618a504</guid>
+      <pubDate>Fri, 23 Oct 2026 21:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quick Study</title>
+      <link>https://simonwillison.net/2026/Oct/23/quick-study-painter/</link>
+      <description>Tool: Quick Study Prompt to Claude Opus 5.5 High: Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection, with no external libraries beyond Google Fonts. Tags: tools</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-ece6c921b830e7e3</guid>
+      <pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turn notifications into code with GitHub Copilot in Teams</title>
+      <link>https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</link>
+      <description>The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group… The post Turn notifications into code with GitHub Copilot in Teams appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-62c869d7dbe25166</guid>
+      <pubDate>Fri, 23 Oct 2026 21:29:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI now trains its frontier AI models with no internet access</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
+      <description>OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-f9113fa394af665d</guid>
+      <pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated Google privacy policy says your Gmail might be used for advertising</title>
+      <link>https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/</link>
+      <description>Turning on Personal Intelligence gives the company more data for ad targeting.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-3e249e7fc631b679</guid>
+      <pubDate>Fri, 23 Oct 2026 20:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Kimi K3.1 Pro</title>
+      <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
+      <description>Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise "Full model weights will be released by Nov 4, 2026". They're also offering a "Highspeed" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks show Kimi as approximately level with Opus 5.5 and GPT-6 Astra - beating them on a few benchmarks, coming close on others. Artificial Analysis scored Kimi at 55 - ahead of Claude Fable 5.1, GPT-6 Astra, and Gemini 4 Argon (all at 53) and behind only Claude Opus 5.5 (58). This is the first time a (soon-to-be) open weight model has scored this highly against the frontier. I tried it out via the Moonshot API using the llm openai endpoint command I added to LLM 0.32 back in August: llm openai endpoint \ https://api.moonshot.ai/v1 \ --key kimi \ -m kimi-k3.1-pro \ "Generate an SVG of a pelican riding a bicycle" \ --responses \ -o reasoning_effort low \ &gt; kimi-k3.1-pro-pelican-low.stdout.txt \ 2&gt; kimi-k3.1-pro-pelican-low.stderr.txt llm openai endpoint can run prompts against any OpenAI-compatible endpoint but doesn't log the results, hence the extra options to save stdout and stderr (the reasoning trace). Here are the pelicans I got for Kimi K3.1 Pro on the three reasoning levels it supports - low, medium, and max. This is max: For comparison, I ran fresh pelicans against Kimi K3 on those three reasoning levels. Via Hacker News Tags: ai, generative-ai, llms, llm, llm-pricing, pelican-riding-a-bicycle, llm-release, ai-in-china, moonshot, kimi</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-2e71264ea893e482</guid>
+      <pubDate>Fri, 23 Oct 2026 19:40:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
+      <description>Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-f490e9c8ed30cee3</guid>
+      <pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</title>
+      <link>https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/</link>
+      <description>Company says foreign-made robotic vehicles are crucial to US chip production.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-e44aee2d4402241c</guid>
+      <pubDate>Fri, 23 Oct 2026 17:18:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+      <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-298c8de07d18f423</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
+      <link>https://huggingface.co/blog/allenai/litpivot</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-d5dfb55b012918e7</guid>
+      <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
+    </item>
     <item>
       <title>Anti-terror police investigate as one person killed in shooting near Paris</title>
       <link>https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,6 +237,14 @@
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-fa80f1a6b4b706ff</guid>
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Securing our frontier model training environment</title>
+      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+      <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-48e2274fdf2ba9fe</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
@@ -633,172 +800,6 @@
       <category>techcrunch-ai</category>
       <guid isPermaLink="false">news-33f72cf8b33fabf0</guid>
       <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HSBC CEO warns the AI boom won’t make every data center a good bet</title>
-      <link>https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html</link>
-      <description>Data center campuses house the servers that power AI and cloud computing.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-8bc86e8c7edb3512</guid>
-      <pubDate>Tue, 20 Oct 2026 10:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet</title>
-      <link>https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/</link>
-      <description>Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-ca656d75d61907bb</guid>
-      <pubDate>Tue, 20 Oct 2026 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-f09</link>
-      <description>Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-fb236cc542ed4478</guid>
-      <pubDate>Tue, 20 Oct 2026 05:21:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
-      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-2596ff929aeef557</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MPS in PyTorch 2.15</title>
-      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-3eb18e5ff7f2a0ef</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>My obituary for programming</title>
-      <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
-      <description>My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn't do it! No, they needed us. They would give us a problem and we would solve it the way we wanted. We set the strategy, we made the timeline, we defined what was and was not possible. If you're a programmer who thrives on building working systems and doesn't care too deeply about the problems solved along the way, LLMs are the gift that keeps on giving. If directly solving those problems was a big part of your enjoyment, the loss is very real. Via lobste.rs Tags: programming, careers, ai, generative-ai, llms, coding-agents, deep-blue</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-af02b0baed077a86</guid>
-      <pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
-      <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
-      <description>Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-0cffae2fd0c5318b</guid>
-      <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>The fossil fuel comeback is here</title>
-      <link>https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report</link>
-      <description>The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-50c115309d98a51f</guid>
-      <pubDate>Mon, 19 Oct 2026 21:48:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copilot model policy API for enterprise, orgs, and teams</title>
-      <link>https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</link>
-      <description>You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, agent apps, and organizations. What’s new GET and PATCH endpoints are now… The post Copilot model policy API for enterprise, orgs, and teams appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-9db7d13375bac278</guid>
-      <pubDate>Mon, 19 Oct 2026 21:32:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot models deprecated on October 19, 2026</title>
-      <link>https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</link>
-      <description>As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These… The post GitHub Copilot models deprecated on October 19, 2026 appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-6101472dca2907cc</guid>
-      <pubDate>Mon, 19 Oct 2026 21:27:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to continue a GitHub Copilot app session in VS Code</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/</link>
-      <description>Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-0f3dfef227c0b853</guid>
-      <pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Micron and other chip stocks spring back to life after bruising selloff</title>
-      <link>https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories</link>
-      <description>It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-62b2a024cbc31ed4</guid>
-      <pubDate>Mon, 19 Oct 2026 13:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France and the U.S. share the same debt trap. Why the U.S. has an escape valve.</title>
-      <link>https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories</link>
-      <description>France and the U.S. have similar debt dynamics.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-ebdc5557f1fc2c3b</guid>
-      <pubDate>Mon, 19 Oct 2026 13:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exiled critic of Rwandan president found beheaded</title>
-      <link>https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-c881f31c2a47005f</guid>
-      <pubDate>Mon, 19 Oct 2026 13:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>For Israelis and Jews in the U.A.E., an Eroding Sense of Security</title>
-      <link>https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html</link>
-      <description>The Emirates’ reputation as a haven was shaken by what the authorities said was a plot last month aimed at crashing a flight from Dubai to Tel Aviv.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-e008fdf29234684c</guid>
-      <pubDate>Mon, 19 Oct 2026 13:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Did Life Arise? Three Turning Points in Early Evolution</title>
-      <link>https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html</link>
-      <description>Where did it start? How did it grow complex? Why did it get big? Three moments in Earth’s early history when evolution suddenly, inexplicably turned up the dial.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-268cc7ae9f831da2</guid>
-      <pubDate>Mon, 19 Oct 2026 12:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>France’s Far Right Seizes the Moment as Rioting Stuns the Country</title>
-      <link>https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html</link>
-      <description>The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-4a901cc29d783b54</guid>
-      <pubDate>Mon, 19 Oct 2026 12:55:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments</title>
-      <link>https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html</link>
-      <description>With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-fc706ef9bb7560aa</guid>
-      <pubDate>Mon, 19 Oct 2026 12:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Import AI 477: In which I tell the IMF the Singularity has begun</title>
-      <link>https://importai.substack.com/p/import-ai-477-in-which-i-tell-the</link>
-      <description>What do you think?</description>
-      <category>import-ai</category>
-      <guid isPermaLink="false">news-dd92228b1f1b75c7</guid>
-      <pubDate>Mon, 19 Oct 2026 12:31:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advancing coding in low‑resource programming languages</title>
-      <link>https://openai.com/index/low-resource-programming-languages</link>
-      <description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-7a364f356aab4946</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats think cracking down on AI could give them an edge</title>
-      <link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
-      <description>Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-9279cf6bb0c3cf64</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
