@@ -5,8 +5,120 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>r/opensource just banned AI, non-English speakers and more</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
+      <description>The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-b366ba776fde8cd4</guid>
+      <pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.</title>
+      <link>https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories</link>
+      <description>The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-bd21414578d8b06e</guid>
+      <pubDate>Sun, 25 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Nonanswers’ aren’t working. This is what investors really need from the Fed.</title>
+      <link>https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories</link>
+      <description>What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-1ea74ab0e2c8b75a</guid>
+      <pubDate>Sun, 25 Oct 2026 12:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks</title>
+      <link>https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</link>
+      <description>The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-68a81b1e4016e6e4</guid>
+      <pubDate>Sun, 25 Oct 2026 12:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Day After Renewed Street Clashes in France, Relief and Anxiety Mix</title>
+      <link>https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html</link>
+      <description>While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-b55e32c9c2e2d41e</guid>
+      <pubDate>Sun, 25 Oct 2026 12:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why economic health no longer dictates stock-market returns</title>
+      <link>https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories</link>
+      <description>There is a wide disconnect between Wall Street and Main Street, and AI could drive them even further apart</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-119400744da8cf63</guid>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s AI search changes upended online publishing</title>
+      <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
+      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-99c99157c7fa1579</guid>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voters in Brazil head to polls as Lula goes up against Bolsonaro's son</title>
+      <link>https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-0ae1205c30952aa1</guid>
+      <pubDate>Sun, 25 Oct 2026 11:54:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Salvador president says bodies found in Haiti are not those of hostages</title>
+      <link>https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Nayib Bukele says bodies delivered to soldiers are "not our men" amid search for Salvadorans abducted last week.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-f5e114da160a784a</guid>
+      <pubDate>Sun, 25 Oct 2026 10:55:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than 1,300 arrested as clashes follow another day of mass protests across France</title>
+      <link>https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-0a5bd0ce690d5e0e</guid>
+      <pubDate>Sun, 25 Oct 2026 10:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blue Planet III is keeping the rough edges in the age of AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
+      <description>BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-0509c80e85fbace7</guid>
+      <pubDate>Sat, 24 Oct 2026 21:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+      <link>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+      <description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-b0af889ad05fbb7f</guid>
+      <pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Block’s new voice model sounds eerily human</title>
+      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
+      <description>Block said that the voice model can run locally on a MacBook M4 Max</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-35d668020c863316</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
+      <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
+      <description>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-110fd09f65f25a52</guid>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Live Updates: France Deploys Vast Security Force in Bid to Prevent More Riots</title>
       <link>https://www.nytimes.com/live/2026/10/24/world/france-protests-riots</link>
@@ -70,6 +182,14 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-3c59e84754bad299</guid>
       <pubDate>Sat, 24 Oct 2026 11:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>battledrones v14: Compass Rose, a four player map</title>
+      <link>https://simonwillison.net/2026/Oct/24/battledrones/</link>
+      <description>Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called "Compass Rose" and modified the WebSockets multiplayer network code to support up to four players for that map, joining via share links or QR codes. The new teams use robots themed in purple and green, joining the existing blue and red designs. You can preview those colors in the updated model browser. Here's a replay link to watch a four way AI battle with the "Goliath Armada" mutator turned on, where each side starts with four giant Goliath mech units. Tags: game-design, projects, claude</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-3812b4d599bb7adb</guid>
+      <pubDate>Sat, 24 Oct 2026 03:59:57 +0000</pubDate>
     </item>
     <item>
       <title>Usage metrics API adds usage from tools like OpenCode</title>
@@ -680,126 +800,6 @@
       <category>arstechnica-ai</category>
       <guid isPermaLink="false">news-165cb15531466377</guid>
       <pubDate>Tue, 20 Oct 2026 20:07:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini's Personal Intelligence is coming to cars</title>
-      <link>https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/</link>
-      <description>It's probably time to audit your Gemini settings.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-f74f11fae08faea7</guid>
-      <pubDate>Tue, 20 Oct 2026 20:00:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s the ROI of software engineers’ spending on AI?</title>
-      <link>https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers</link>
-      <description>AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies – with some interesting findings</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-536d96aeb1a62728</guid>
-      <pubDate>Tue, 20 Oct 2026 17:34:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>How 3 Java Champions are using GitHub Copilot for increased productivity</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/</link>
-      <description>Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-d3ec3a595c33fcaf</guid>
-      <pubDate>Tue, 20 Oct 2026 16:05:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yemeni City of Taiz Running Out of Essentials as Houthis Close in</title>
-      <link>https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html</link>
-      <description>The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it. Officials there warn of an impending humanitarian disaster.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-7d66b331129bf5b4</guid>
-      <pubDate>Tue, 20 Oct 2026 13:24:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the college students trying to reverse an obscure ban on trading onion futures</title>
-      <link>https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories</link>
-      <description>In the U.S., investors can legally trade futures contracts tied to all sorts of commodities, from pork bellies to oil to the computing power needed to power artificial-intelligence models.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-b84a7e4ff1d4780c</guid>
-      <pubDate>Tue, 20 Oct 2026 13:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenya cult leader's children still being starved weeks before trial, son says</title>
-      <link>https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-1b1a1cb36af0e917</guid>
-      <pubDate>Tue, 20 Oct 2026 13:23:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colleges raced to build massive computer-science departments. Now the boom is turning to bust.</title>
-      <link>https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories</link>
-      <description>“Computer science isn’t the ticket to the American dream like people thought it was.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-975fa4d57384cecf</guid>
-      <pubDate>Tue, 20 Oct 2026 13:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voters in Oil-Rich Alberta Reject Leaving Canada</title>
-      <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
-      <description>Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-a87d30039cf0fd4d</guid>
-      <pubDate>Tue, 20 Oct 2026 13:17:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rubio Travels to India for Trade Talks Amid Strained U.S. Relations</title>
-      <link>https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html</link>
-      <description>The secretary of state will meet with Asia’s richest men as Washington continues negotiations over a trade deal with India.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-a021a26c7dd7c3a4</guid>
-      <pubDate>Tue, 20 Oct 2026 13:09:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
-      <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
-      <description>The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-c723746d1e667296</guid>
-      <pubDate>Tue, 20 Oct 2026 13:07:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe Lightroom mobile can now open closed eyes in photos with a simple tap</title>
-      <link>https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</link>
-      <description>Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-af3e08fe45e19629</guid>
-      <pubDate>Tue, 20 Oct 2026 13:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eka is worth $1.45B thanks to a physical AI model that has experts raving</title>
-      <link>https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</link>
-      <description>Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-208dc20e81cfcf4e</guid>
-      <pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspect arrested after historic town hall set alight - French media</title>
-      <link>https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-4b8edebc9776b569</guid>
-      <pubDate>Tue, 20 Oct 2026 12:45:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta Muse exposes users' personal and business secrets when they share conversations</title>
-      <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
-      <description>A single query is all that's required to find thousands of conversations listed by title.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-fb9936745ef93e7f</guid>
-      <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yelp can now call on your behalf to check wait times at a restaurant</title>
-      <link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
-      <description>Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-33f72cf8b33fabf0</guid>
-      <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
