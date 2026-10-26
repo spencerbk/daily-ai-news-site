@@ -5,10 +5,122 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 13:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
     <item>
-      <title>r/opensource just banned AI, non-English speakers and more</title>
+      <title>Can AI help solve the COBOL code crisis?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic</link>
+      <description>What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted "substantial improvements" in its latest AI models' […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-9c0a98fa46a8163e</guid>
+      <pubDate>Mon, 26 Oct 2026 13:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term</title>
+      <link>https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html</link>
+      <description>The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-591c4963646b5f75</guid>
+      <pubDate>Mon, 26 Oct 2026 13:14:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chris Brown Gets Suspended Prison Sentence Over Nightclub Assault</title>
+      <link>https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html</link>
+      <description>The singer, 37, had pleaded guilty after hitting a music producer repeatedly in the head with a bottle in London in 2023.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-76efab9c95200030</guid>
+      <pubDate>Mon, 26 Oct 2026 13:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right</title>
+      <link>https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html</link>
+      <description>President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-4f26ed07adc745da</guid>
+      <pubDate>Mon, 26 Oct 2026 13:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nurse killed in attack while responding to Ebola alert in DR Congo</title>
+      <link>https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-43a04bab186b3c42</guid>
+      <pubDate>Mon, 26 Oct 2026 12:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement</title>
+      <link>https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-81bc7b0e59c46bbf</guid>
+      <pubDate>Mon, 26 Oct 2026 12:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower</title>
+      <link>https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories</link>
+      <description>SpaceX just landed a $40 billion debt deal, but Musk says lenders won’t be so hospitable to less-diversified competitors.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-df98bea0a55a4512</guid>
+      <pubDate>Mon, 26 Oct 2026 12:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means</title>
+      <link>https://importai.substack.com/p/import-ai-478-math-for-alignment</link>
+      <description>What is “night” to a machine?</description>
+      <category>import-ai</category>
+      <guid isPermaLink="false">news-22611d0210bf9c9b</guid>
+      <pubDate>Mon, 26 Oct 2026 12:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’</title>
+      <link>https://www.marketwatch.com/story/a-dot-com-survivor-warns-retail-investors-against-buying-the-tech-dip-youre-taking-a-knife-to-a-gunfight-6c940361?mod=mw_rss_topstories</link>
+      <description>Technology-portfolio mangers are treading carefully with tech these days, retail investors should be just as cautious, says industry veteran Ted Mortonson.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-f7269ce20d0ca0db</guid>
+      <pubDate>Mon, 26 Oct 2026 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering</title>
+      <link>https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories</link>
+      <description>Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-b5fa4296b738c014</guid>
+      <pubDate>Mon, 26 Oct 2026 12:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
+      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
+      <description>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-a6feae291b1a855a</guid>
+      <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
+      <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
+      <description>"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-71334093a413753d</guid>
+      <pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seam Cutter</title>
+      <link>https://simonwillison.net/2026/Oct/25/seam-cutter/</link>
+      <description>Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for example. Tags: tools</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-0c0ce1d91251a58f</guid>
+      <pubDate>Sun, 25 Oct 2026 15:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The hottest AI wearables and gadgets you should know about</title>
+      <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
+      <description>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-4262d71f08be8cda</guid>
+      <pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>r/opensource just banned AI, non-English speakers, and more</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
       <description>The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]</description>
       <category>theverge-ai</category>
@@ -48,19 +160,19 @@
       <pubDate>Sun, 25 Oct 2026 12:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why economic health no longer dictates stock-market returns</title>
-      <link>https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories</link>
-      <description>There is a wide disconnect between Wall Street and Main Street, and AI could drive them even further apart</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-119400744da8cf63</guid>
-      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Google’s AI search changes upended online publishing</title>
       <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
       <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]</description>
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-99c99157c7fa1579</guid>
+      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why economic health no longer dictates stock-market returns</title>
+      <link>https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories</link>
+      <description>There is a wide disconnect between Wall Street and Main Street, and AI could drive them even further apart</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-119400744da8cf63</guid>
       <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -689,117 +801,6 @@
       <category>latent-space</category>
       <guid isPermaLink="false">news-0fff47054cc39cd5</guid>
       <pubDate>Wed, 21 Oct 2026 13:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
-      <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-38715d90bd30f009</guid>
-      <pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</title>
-      <link>https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The 74-year-old former teacher has been released without any "swap" required, Trump says.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-6e840d5ab577def8</guid>
-      <pubDate>Wed, 21 Oct 2026 12:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference</title>
-      <link>https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories</link>
-      <description>The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-160a52a19532dc44</guid>
-      <pubDate>Wed, 21 Oct 2026 12:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why SpaceX’s stock is surging — and lifting the broader AI universe along with it</title>
-      <link>https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories</link>
-      <description>SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-34e2e0bfc58dbe2d</guid>
-      <pubDate>Wed, 21 Oct 2026 12:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI models are coming to Google Cloud</title>
-      <link>https://openai.com/index/openai-models-google-cloud</link>
-      <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-61f4d0141ff303c0</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk says he’s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?</title>
-      <link>https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories</link>
-      <description>SpaceX and Super Micro Computer help revive Wall Street’s flagging enthusiasm, with more key earnings on tap.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-2565cb014ead3a46</guid>
-      <pubDate>Wed, 21 Oct 2026 11:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk confirms he is considering merging Tesla and SpaceX</title>
-      <link>https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Musk says special committees within both companies have been formed to look at a possible mega-merger.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-b17a25d8c48aa5ae</guid>
-      <pubDate>Wed, 21 Oct 2026 08:42:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
-      <link>https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</link>
-      <description>An open source “bomb” drops from China</description>
-      <category>latent-space</category>
-      <guid isPermaLink="false">news-7dadac6a05821def</guid>
-      <pubDate>Wed, 21 Oct 2026 06:54:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>eMudhra Intermediate CA Compromise</title>
-      <link>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</link>
-      <description>eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0.13.4 and pip 26.2.2 and certifi 2026.10.19 have been released with upgraded certificate lists. Tags: encryption, https, pip, python, security, uv</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-aac036aa8666576a</guid>
-      <pubDate>Tue, 20 Oct 2026 23:50:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</link>
-      <description>On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-6559d9cb2b558fef</guid>
-      <pubDate>Tue, 20 Oct 2026 23:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
-      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-      <description>The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-d4e57614c374e23f</guid>
-      <pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</title>
-      <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
-      <description>Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-fda7124672794d3f</guid>
-      <pubDate>Tue, 20 Oct 2026 22:24:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s more personalized Gemini AI is heading to your car</title>
-      <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
-      <description>Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-7f6bb9c0aa5027ea</guid>
-      <pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta drops the word "train" from its commercial TOS after AI backlash</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/</link>
-      <description>Meta changes AI scraping policy but won’t add language respecting robots.txt.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-165cb15531466377</guid>
-      <pubDate>Tue, 20 Oct 2026 20:07:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
