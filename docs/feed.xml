@@ -5,8 +5,175 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat</title>
+      <link>https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories</link>
+      <description>MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-925be486fec19499</guid>
+      <pubDate>Fri, 30 Oct 2026 13:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AMD’s stock slides after Intel earnings reveal two big issues</title>
+      <link>https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories</link>
+      <description>Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-0726b09988cdb831</guid>
+      <pubDate>Fri, 30 Oct 2026 13:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing</title>
+      <link>https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories</link>
+      <description>After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-431ea607bdcb65cb</guid>
+      <pubDate>Fri, 30 Oct 2026 13:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silicon Valley wants you to invest in miracles</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
+      <description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-5ec9437afb139212</guid>
+      <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oldest Recording of Louisiana’s Vanishing Creole Language Is Published</title>
+      <link>https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html</link>
+      <description>The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-647d1ccee6ec36b5</guid>
+      <pubDate>Fri, 30 Oct 2026 13:05:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spain transport minister says he won't resign over high-speed rail disaster</title>
+      <link>https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-2a7e38a5920263ac</guid>
+      <pubDate>Fri, 30 Oct 2026 13:03:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link>
+      <description>After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-5cfbd02556ec4a84</guid>
+      <pubDate>Fri, 30 Oct 2026 13:01:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026</title>
+      <link>https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/</link>
+      <description>5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-5135d63cacdd4300</guid>
+      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can AI data centers be mass-produced like cars? This startup aims to find out</title>
+      <link>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</link>
+      <description>Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-cea73ec16e829377</guid>
+      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky</title>
+      <link>https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html</link>
+      <description>Many of the people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-19744f759fa3ee2f</guid>
+      <pubDate>Fri, 30 Oct 2026 12:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland</title>
+      <link>https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html</link>
+      <description>Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-79c6f637139d4cbf</guid>
+      <pubDate>Fri, 30 Oct 2026 12:50:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swedish academic says he has been barred from UK over event with Palestine Action founder</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-955dfe173dd252f0</guid>
+      <pubDate>Fri, 30 Oct 2026 12:36:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maine’s data center revolt will decide who controls the Senate</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers</link>
+      <description>Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. "I'm terrified," a man shouted. "AI data centers are destroying our climate. They are poisoning our water." Collins brushed off the outburst, tying the man to her Democratic challenger, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-dbfbce585037fb7a</guid>
+      <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS will be a $1T business, Jassy says — but first, it will spend big</title>
+      <link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</link>
+      <description>Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-05367ef1f34c39f8</guid>
+      <pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>API credits benefit for eligible ChatGPT subscriptions</title>
+      <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
+      <description>API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations. I maintain subscriptions with both companies, so this is great news for me! I may even ship some public-facing demos now that the credits are already covered by my existing subscriptions. Tags: ai, openai, generative-ai, llms, anthropic, llm-pricing</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-07b8277675a3d49f</guid>
+      <pubDate>Thu, 29 Oct 2026 22:48:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon reported booming cloud revenue but otherwise missed expectations</title>
+      <link>https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/</link>
+      <description>The biggest ouch of the report was its negative free cash flow of $2.4 billion.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-6ee6cb561b9645d9</guid>
+      <pubDate>Thu, 29 Oct 2026 21:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump declares robot imports a national security threat</title>
+      <link>https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/</link>
+      <description>President orders trade talks on foreign-made factory robots, threatens tariffs.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-2eb0eeefec6e6320</guid>
+      <pubDate>Thu, 29 Oct 2026 19:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a multiplayer game world with autonomous Fable-class models</title>
+      <link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
+      <description>How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle into existence, then a dragon, then ride the dragon to fly around that castle. By Jacob's telling, Spawn is now being developed autonomously by a swarm of Fable-powered agents costing over $3 million in tokens per month ("we spend 30x payroll on AI tokens"). Our agents change the live code directly and ship to production hourly, so they read every error, bug report and metric themselves. About 60% of our work starts from a production error, a Savi bug report (Savi is the AI you build games with in Spawn), something odd in our logs, or a feature request. Savi files bugs herself. When a user hits one, or Savi hits one in the product, she files it. It goes straight to an agent that decides whether it's a real bug to fix, something we won't fix, or intentional design that needs a decision. Usually it becomes a change, delivered to that user within an hour, with a message in the same chat. This is continuous deployment turned up to 11: A loop this tight only works if it never stops, so we treat an hour without a ship as a SEV-0, our most severe kind of incident. Unshipped changes pile up, and every problem already in production lasts longer. The feedback slows down too. An agent can only keep a few hours of work in its head, so shipping faster than that actually helps it stay coherent. [...] We can roll back a broken change in 30 seconds, exactly where it's broken and nowhere else. When a monitor or a log alert fires, it starts or wakes an agent that owns the incident, and we break things on purpose to test that those recovery paths work. My eyebrows raised at least a dozen times reading this. I have trouble imagining this style of development working on software with higher stakes for when something goes wrong, but for a game this appears to be working surprisingly well. Jacob says that Fable 5 (and then 5.1) was the model that made this level of autonomy possible. Opus 5.5 doesn't quite hack it for them, and when they tried GPT-6 Astra to apply fixes from a security review everything stopped working: Every feature had been disabled and marked to be turned on again once the security fixes were done. Astra had gone through our whole product and made the insecure things secure by turning them off. These kinds of extreme experiments are why I'm excited about game development as a substrate for exploring the edges of what today's coding agents can do. Tags: game-design, ai, generative-ai, llms, claude, coding-agents, agentic-engineering, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-672400a4a73efc0d</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>An updated Model Spec for more capable and beneficial AI</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-7bf0065ceb1646f5</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software engineering at Google &amp; CS education with Titus Winters</title>
+      <link>https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and</link>
+      <description>Titus Winters shares lessons from engineering at Google’s scale and explores how AI is reshaping developer productivity and computer science education.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-22a42169ff916c20</guid>
+      <pubDate>Thu, 29 Oct 2026 13:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Granite Switch 4.1.1 — Update models like you update software</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-f3538b6fb36f4f58</guid>
+      <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
+    </item>
     <item>
       <title>How Israel’s Election Could End</title>
       <link>https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html</link>
@@ -78,6 +245,14 @@
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-9cd5509199bff926</guid>
       <pubDate>Thu, 29 Oct 2026 10:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we detect frontier model misalignment</title>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-d28967fce9c692cd</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
@@ -212,6 +387,14 @@
       <description>This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog.</description>
       <category>github-changelog</category>
       <guid isPermaLink="false">news-00c85acf9d22d94f</guid>
+      <pubDate>Wed, 28 Oct 2026 15:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repository plugin defaults and enterprise plugin controls generally available</title>
+      <link>https://github.blog/changelog/2026-10-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available</link>
+      <description>Repository plugin defaults and enterprise-managed plugin controls are now generally available in VS Code, Copilot CLI, and the GitHub Copilot app. Trusted repositories can install and enable default plugins for… The post Repository plugin defaults and enterprise plugin controls generally available appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-eb9069225e782eff</guid>
       <pubDate>Wed, 28 Oct 2026 15:33:00 +0000</pubDate>
     </item>
     <item>
@@ -616,190 +799,6 @@
       <category>techcrunch-enterprise</category>
       <guid isPermaLink="false">news-6724ba58888dbe91</guid>
       <pubDate>Mon, 26 Oct 2026 15:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Working with academic communities to build scientific understanding</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
-      <description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-f16aefe89a6e3f3b</guid>
-      <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can AI help solve the COBOL code crisis?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic</link>
-      <description>What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted "substantial improvements" in its latest AI models' […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-9c0a98fa46a8163e</guid>
-      <pubDate>Mon, 26 Oct 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term</title>
-      <link>https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html</link>
-      <description>The Chinese leader Xi Jinping, who is likely preparing to secure a fourth term in power in 2027, has complained that officials cannot be trusted.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-591c4963646b5f75</guid>
-      <pubDate>Mon, 26 Oct 2026 13:14:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chris Brown Gets Suspended Prison Sentence Over Nightclub Assault</title>
-      <link>https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html</link>
-      <description>The singer, 37, had pleaded guilty after hitting a music producer repeatedly in the head with a bottle in London in 2023.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-76efab9c95200030</guid>
-      <pubDate>Mon, 26 Oct 2026 13:11:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right</title>
-      <link>https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html</link>
-      <description>President Luiz Inácio Lula da Silva triumphed over Flávio Bolsonaro, the eldest son of the right-wing leader he defeated four years ago.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-4f26ed07adc745da</guid>
-      <pubDate>Mon, 26 Oct 2026 13:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nurse killed in attack while responding to Ebola alert in DR Congo</title>
-      <link>https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-43a04bab186b3c42</guid>
-      <pubDate>Mon, 26 Oct 2026 12:57:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement</title>
-      <link>https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-81bc7b0e59c46bbf</guid>
-      <pubDate>Mon, 26 Oct 2026 12:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower</title>
-      <link>https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories</link>
-      <description>SpaceX just landed a $40 billion debt deal, but Musk says lenders won’t be so hospitable to less-diversified competitors.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-df98bea0a55a4512</guid>
-      <pubDate>Mon, 26 Oct 2026 12:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means</title>
-      <link>https://importai.substack.com/p/import-ai-478-math-for-alignment</link>
-      <description>What is “night” to a machine?</description>
-      <category>import-ai</category>
-      <guid isPermaLink="false">news-22611d0210bf9c9b</guid>
-      <pubDate>Mon, 26 Oct 2026 12:31:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’</title>
-      <link>https://www.marketwatch.com/story/a-dot-com-survivor-warns-retail-investors-against-buying-the-tech-dip-youre-taking-a-knife-to-a-gunfight-6c940361?mod=mw_rss_topstories</link>
-      <description>Technology-portfolio mangers are treading carefully with tech these days, retail investors should be just as cautious, says industry veteran Ted Mortonson.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-f7269ce20d0ca0db</guid>
-      <pubDate>Mon, 26 Oct 2026 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering</title>
-      <link>https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories</link>
-      <description>Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-b5fa4296b738c014</guid>
-      <pubDate>Mon, 26 Oct 2026 12:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
-      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
-      <description>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-a6feae291b1a855a</guid>
-      <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
-      <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
-      <description>"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-71334093a413753d</guid>
-      <pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seam Cutter</title>
-      <link>https://simonwillison.net/2026/Oct/25/seam-cutter/</link>
-      <description>Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for example. Tags: tools</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-0c0ce1d91251a58f</guid>
-      <pubDate>Sun, 25 Oct 2026 15:10:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>The hottest AI wearables and gadgets you should know about</title>
-      <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
-      <description>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-4262d71f08be8cda</guid>
-      <pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>r/opensource just banned AI, non-English speakers, and more</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
-      <description>The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-b366ba776fde8cd4</guid>
-      <pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.</title>
-      <link>https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories</link>
-      <description>The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-bd21414578d8b06e</guid>
-      <pubDate>Sun, 25 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Nonanswers’ aren’t working. This is what investors really need from the Fed.</title>
-      <link>https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories</link>
-      <description>What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-1ea74ab0e2c8b75a</guid>
-      <pubDate>Sun, 25 Oct 2026 12:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks</title>
-      <link>https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html</link>
-      <description>The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-68a81b1e4016e6e4</guid>
-      <pubDate>Sun, 25 Oct 2026 12:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Day After Renewed Street Clashes in France, Relief and Anxiety Mix</title>
-      <link>https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html</link>
-      <description>While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-b55e32c9c2e2d41e</guid>
-      <pubDate>Sun, 25 Oct 2026 12:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google’s AI search changes upended online publishing</title>
-      <link>https://www.theverge.com/column/1017983/google-ai-search-online-publishing</link>
-      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-99c99157c7fa1579</guid>
-      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why economic health no longer dictates stock-market returns</title>
-      <link>https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories</link>
-      <description>There is a wide disconnect between Wall Street and Main Street, and AI could drive them even further apart</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-119400744da8cf63</guid>
-      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voters in Brazil head to polls as Lula goes up against Bolsonaro's son</title>
-      <link>https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-0ae1205c30952aa1</guid>
-      <pubDate>Sun, 25 Oct 2026 11:54:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
