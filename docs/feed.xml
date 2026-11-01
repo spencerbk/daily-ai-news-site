@@ -5,8 +5,128 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>India’s Congress Party Holds Mass Protest in New Delhi</title>
+      <link>https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html</link>
+      <description>Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-cd9f25e4ebbd402e</guid>
+      <pubDate>Sun, 01 Nov 2026 14:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>This is the biggest threat to the AI-powered bull market</title>
+      <link>https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories</link>
+      <description>Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-afaec3edbdf711cc</guid>
+      <pubDate>Sun, 01 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crypto firm Binance covers 90% of losses after $6.3bn hack</title>
+      <link>https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-641fcec3e146e5fc</guid>
+      <pubDate>Sun, 01 Nov 2026 13:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>America is doing better than you think. Your algorithm is just hiding it.</title>
+      <link>https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories</link>
+      <description>The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-4056a58c7827846c</guid>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who really wins under Trump’s economy? Coastal liberal elites who hate him.</title>
+      <link>https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories</link>
+      <description>In other words, not the people Republicans likely intended.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-df3114d9f1a639df</guid>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shops looted as German cost-of-living protests turn violent</title>
+      <link>https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-de77300dcc63145a</guid>
+      <pubDate>Sun, 01 Nov 2026 11:57:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netanyahu’s Bid to Stay in Power Will Test His Political Savvy</title>
+      <link>https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html</link>
+      <description>After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-615dc3d6f4b850e9</guid>
+      <pubDate>Sun, 01 Nov 2026 10:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Putin Breaks Down His Isolation, With a Big Assist From Trump</title>
+      <link>https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html</link>
+      <description>Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-b45f277e5a702b71</guid>
+      <pubDate>Sun, 01 Nov 2026 10:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How We Took Over ChatGPT Accounts</title>
+      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
+      <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its own virtual keyboard, which can be triggered in the parent page via postMessage() from the sandboxed iframe. That message receiving code uses innerHTML, so anything that sends a message can add custom HTML to the parent - and there was no mechanism to prevent other sandboxed frames, including HTML preview frames, from calling that method. This meant untrusted code in an iframe could insert HTML, and while innerHTML doesn't directly execute script elements it could be used to inject a new iframe without sandbox restrictions. OpenAI’s CSP rules blocked inline scripts entirely, and only allowed script loading from a handful of domains, but one of those was YouTube - and the YouTube oEmbed endpoint could be used to reflect JavaScript back in a way that executed it. Once the attack had JavaScript execution on ChatGPT, it was trivial to fetch private user data from APIs and exfiltrate it via an image reference. The end result: you could create a ChatGPT share URL which, when visited by another signed-in user, could exfiltrate their private data or take actions on their behalf. OpenAI closed the hole and paid out a $5,000 bug bounty, which I think was a bit cheap for a vulnerability this serious. Via Hacker News Tags: iframes, javascript, sandboxing, security, xss, openai, chatgpt, content-security-policy</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-0def4a2fca6b3a20</guid>
+      <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a9</title>
+      <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
+      <description>Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM, which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra. Tags: datasette, llm, datasette-agent</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-bc9463905bbd6e7a</guid>
+      <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
+      <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
+      <description>Apple's new CEO defended the company's current position in the AI landscape.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-89c6cb6d29717113</guid>
+      <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
+      <link>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</link>
+      <description>On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-cefcb0bd2478e838</guid>
+      <pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
+      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
+      <description>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-bc398a80a0dffe88</guid>
+      <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI reportedly lowers funding target for new round</title>
+      <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
+      <description>OpenAI’s latest funding round doesn't seem to be living up to expectations.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-344dcf79744aa216</guid>
+      <pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>I built an AI Tamagotchi before Meta could</title>
+      <link>https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</link>
+      <description>Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-ed0268fa6e325c7b</guid>
+      <pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google taught the world how to search. Now it faces a revolution it can’t afford to lose.</title>
       <link>https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories</link>
@@ -682,124 +802,6 @@
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-8030d1b5c63548db</guid>
       <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta quietly launched an &amp;#8216;AI pet journal&amp;#8217; app</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world</link>
-      <description>Meta has launched a "tamagotchi-style" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the "16-bit pet care game" is not really a game, but "a daily journal disguised as a pet." Users should talk, not type, with […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-6da995572c9c0a77</guid>
-      <pubDate>Wed, 28 Oct 2026 11:27:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu and Eisenkot face difficult paths to power as neither set to win majority</title>
-      <link>https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-019f471259aabbf5</guid>
-      <pubDate>Wed, 28 Oct 2026 10:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Terk Terkowitz</title>
-      <link>https://simonwillison.net/2026/Oct/28/terk-terkowitz/</link>
-      <description>If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz, An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon, generative-ai, agentic-engineering, ai, llms</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-5d9615019ec259be</guid>
-      <pubDate>Wed, 28 Oct 2026 10:09:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The future of the firm</title>
-      <link>https://openai.com/index/the-future-of-the-firm</link>
-      <description>How AI might enter the org chart—beneath, beside, and between us.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-0dc3cf0b7c98dcde</guid>
-      <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
-      <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-2fc8e689e413caad</guid>
-      <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jio shares surge 21% in market debut after blockbuster India IPO</title>
-      <link>https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/</link>
-      <description>Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-7b956926a420b476</guid>
-      <pubDate>Wed, 28 Oct 2026 05:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-      <link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/</link>
-      <description>Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-0a7119608b55c94e</guid>
-      <pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>"No human at the helm": Delaware plan would let AI agents run entire businesses</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/</link>
-      <description>Owners of AI-run firms would evade liability for "reckless" AI, US Rep. Comer says.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-6849d36ab61f28e0</guid>
-      <pubDate>Tue, 27 Oct 2026 21:50:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot supports server-to-server authentication</title>
-      <link>https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</link>
-      <description>GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on… The post GitHub Copilot supports server-to-server authentication appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-747b76bde702bc0b</guid>
-      <pubDate>Tue, 27 Oct 2026 21:36:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic IPO warns its AI could blackmail people, become sentient, end humanity</title>
-      <link>https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/</link>
-      <description>Seven potential AI nightmares pulled from Anthropic's 93-page "Risk Factor" tome.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-78aca7aaafb2150d</guid>
-      <pubDate>Tue, 27 Oct 2026 21:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Game Boy Color on My Conference Badge</title>
-      <link>https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/</link>
-      <description>Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on your conference badge! A neat feature of the badge is that you can turn it upside down and then use game controller touch buttons that are built into the badge body. Tags: games, github, hardware-hacking, ai, generative-ai, llms, gemini, steve-francia</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-a9c65cb8282253c6</guid>
-      <pubDate>Tue, 27 Oct 2026 19:34:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build specialized multimodal models with LFM3</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-db98bf59a6c7e420</guid>
-      <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI SRE: what is it, how could it change on-call – and does it work?</title>
-      <link>https://newsletter.pragmaticengineer.com/p/ai-sre</link>
-      <description>“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-3bd3315ede2e153c</guid>
-      <pubDate>Tue, 27 Oct 2026 16:19:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can we trust LLMs to judge whether a research idea is novel?</title>
-      <link>https://huggingface.co/blog/allenai/novelty-bench</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-34370e88c88d0cd4</guid>
-      <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mbappé sorry for 'ill-judged' Mao remark after backlash in China</title>
-      <link>https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The France star had referred to the former Chinese leader as a "dictator" during an interview about memes.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-f8a0b434e80f1b8a</guid>
-      <pubDate>Tue, 27 Oct 2026 13:25:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
