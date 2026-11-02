@@ -5,8 +5,136 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 14:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?</title>
+      <link>https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories</link>
+      <description>“About two months after his funeral, my stepmother called and said she wanted the money back.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-bb1f9dbb661803fe</guid>
+      <pubDate>Mon, 02 Nov 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shop freezers in seven European countries hit by suspected cyber-attack</title>
+      <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-2bbdae702ea12751</guid>
+      <pubDate>Mon, 02 Nov 2026 14:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oracle’s stock falls as the company details plan to raise $20 billion</title>
+      <link>https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories</link>
+      <description>Oracle has been borrowing money and issuing stock to help finance its AI cloud growth.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-7abc53aeee3b7010</guid>
+      <pubDate>Mon, 02 Nov 2026 14:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?</title>
+      <link>https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories</link>
+      <description>“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-51f41770a3228daa</guid>
+      <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big</title>
+      <link>https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/</link>
+      <description>TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-f7151c69ed83cd04</guid>
+      <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI is finally merging ChatGPT’s chat and Work tabs</title>
+      <link>https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/</link>
+      <description>OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-869219a7f13345d5</guid>
+      <pubDate>Mon, 02 Nov 2026 13:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal</title>
+      <link>https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html</link>
+      <description>Iranian officials spoke of some progress in negotiating to reopen the strait, a vital oil and gas shipping lane, even as they prepare for all-out war.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-4bc81d8467013242</guid>
+      <pubDate>Mon, 02 Nov 2026 13:44:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The U.S. Census Bureau and “Super Intelligence”</title>
+      <link>https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/</link>
+      <description>I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis, and then to experiment with Claude's new Code Interpreter. I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434, aka the asinine Super Intelligence one. First, the updated chart Every two weeks the U.S. Census Bureau runs a survey called the Business Trends and Outlook Survey (aka BTOS). Each time it goes to 200,000 businesses out of 1.2 million total - the surveyed group (a "panel") cycles such that an individual business only completes the survey every twelve weeks. The latest data is published on alternating Thursdays at 10am. I used the most recent numbers (published October 22, 2026) to create a new version of the AI adoption chart, updated to reflect both the last twelve months and a change that was made to the survey question sent out by the Bureau: For comparison, here's that AI adoption chart from last year (my GPT-5 version): In September 2025 the largest (250+ employees) companies answered "yes" around 12% of the time to the question about whether they used AI in "producing goods or services". Under the new "any business function" wording, by February 2026, those same large companies answered "yes" around 30% of the time, and by October 2026 that had increased to around 40%. The data in the above chart comes from the "Employment size class" XLSX file, available from here. Here's a copy of the file I used. You can view the survey document that is sent out to businesses - here's my snapshot copy of that 346KB PDF. The changing language of the questions As the chart demonstrates, the question asked by the Bureau changed in a material way on November 17th, 2025. Prior to that date, the question they asked was this (emphasis mine): In the last two weeks, did this business use Artificial Intelligence (AI) in producing goods or services? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.) On December 3rd, 2025, the Bureau announced a significant change to that question. Here's the replacement: In the last two weeks, did this business use Artificial Intelligence (AI) in any of its business functions? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.) No more "producing goods or services" - now it's "in any of its business functions"! This means that the answers to the question before and after November 17th are not directly comparable. From October 19, 2026, they ask about Super Intelligence When I went looking for the updated question language in the latest XLSX file, I couldn't find it. I found this instead: In the last two weeks, did this business use Super Intelligence or SI (formerly referred to as Artificial Intelligence or AI) in any of its business functions? (Examples of SI use include: SI-powered data analysis; generative SI for marketing, product design, or coding; virtual SI agents for customer service; SI-powered forecasting or pricing; SI-driven computer vision for quality control, etc.) The BTOS about page explains what happened: Beginning with the October 19, 2026 collection, instrument wording was updated due to Executive Order 14434. The current numbers reflect the old Artificial Intelligence survey wording - the first survey results reflecting the Super Intelligence wording are due for publication on Thursday. Is this going to affect the survey? The obvious open question here is whether this wording change is going to affect the survey results. The businesses answering this survey will have last seen that question twelve weeks ago, when it was still called AI. Hopefully the new language isn't going to confuse them, especially since the survey helpfully spells out "formerly referred to as Artificial Intelligence or AI". I can't help but laugh at the absurdity of "SI-powered data analysis; generative SI for marketing, product design, or coding; virtual SI agents for customer service" though. Tags: census, surveys, ai, generative-ai, llms</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-6bf0704cb5e2b6fd</guid>
+      <pubDate>Mon, 02 Nov 2026 13:31:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deportees Turn to TikTok to Document Life Starting Over</title>
+      <link>https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html</link>
+      <description>On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-6371bd825bd2795b</guid>
+      <pubDate>Mon, 02 Nov 2026 13:19:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked</title>
+      <link>https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-5916ec6e788cd4e2</guid>
+      <pubDate>Mon, 02 Nov 2026 12:44:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryanair says it may freeze workers' pay and raise airfares</title>
+      <link>https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-4652b6ad9bef1936</guid>
+      <pubDate>Mon, 02 Nov 2026 12:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>If in doubt, delete the uv.lock file</title>
+      <link>https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</link>
+      <description>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories. But... sometimes that uv.lock pins a version of a dependency that doesn't yet have a Python 3.15 wheel. An example from earlier today: error: Failed to build `watchfiles==1.1.1` cause: Call to `maturin.build_wheel` failed error: the configured Python interpreter version (3.15) is newer than PyO3's maximum supported version (3.14) Deleting that file and running uv run pytest again usually fixes the problem. Tags: uv, til, python</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-ffb30fef9594cc91</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
+      <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
+      <description>Data centers are deeply unpopular. But what if we called them something else?</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-33c086ca1438f528</guid>
+      <pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Game Off 2026: The theme is SHIFT</title>
+      <link>https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/</link>
+      <description>GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-8efc4c266dc36186</guid>
+      <pubDate>Sun, 01 Nov 2026 21:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
+      <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
+      <description>On Equity, we discuss why tech CEO statements can seem so tone deaf.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-0ae10264665c4816</guid>
+      <pubDate>Sun, 01 Nov 2026 20:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Kyle Kingsbury</title>
+      <link>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</link>
+      <description>More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury, Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury, llms, ai, generative-ai, ai-misuse</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-835fd1406315e6b3</guid>
+      <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
+    </item>
     <item>
       <title>India’s Congress Party Holds Mass Protest in New Delhi</title>
       <link>https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html</link>
@@ -675,133 +803,6 @@
       <category>github-changelog</category>
       <guid isPermaLink="false">news-2304fbe0fd69d295</guid>
       <pubDate>Wed, 28 Oct 2026 15:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot in VS Code, Universe releases</title>
-      <link>https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases</link>
-      <description>This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how… The post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-00c85acf9d22d94f</guid>
-      <pubDate>Wed, 28 Oct 2026 15:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repository plugin defaults and enterprise plugin controls generally available</title>
-      <link>https://github.blog/changelog/2026-10-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available</link>
-      <description>Repository plugin defaults and enterprise-managed plugin controls are now generally available in VS Code, Copilot CLI, and the GitHub Copilot app. Trusted repositories can install and enable default plugins for… The post Repository plugin defaults and enterprise plugin controls generally available appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-eb9069225e782eff</guid>
-      <pubDate>Wed, 28 Oct 2026 15:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generate and edit images directly in Copilot</title>
-      <link>https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot</link>
-      <description>You can now generate and edit images using natural language in GitHub Copilot. When you ask for an image, your selected reasoning model calls a dedicated image-generation tool powered by… The post Generate and edit images directly in Copilot appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-05a87e963785dcee</guid>
-      <pubDate>Wed, 28 Oct 2026 15:30:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot Fusion now supports selection of local models</title>
-      <link>https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models</link>
-      <description>Today we are shipping intelligent routing for local models into experimental preview. GitHub Copilot Fusion can now choose between supported on-device models and cloud models, enabling intelligent local model routing… The post GitHub Copilot Fusion now supports selection of local models appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-fc595589053fff86</guid>
-      <pubDate>Wed, 28 Oct 2026 15:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Agentic Workflows generally available</title>
-      <link>https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available</link>
-      <description>GitHub Agentic Workflows, an open source project from GitHub Next, is now generally available. With agentic workflows, you can automate reasoning-based tasks like issue triage, CI failure analysis, documentation updates,… The post GitHub Agentic Workflows generally available appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-1d4e78b6d168bccd</guid>
-      <pubDate>Wed, 28 Oct 2026 15:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-7ae8eb20550eee76</guid>
-      <pubDate>Wed, 28 Oct 2026 14:58:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want guaranteed income in retirement without an annuity? Try laddering I bonds.</title>
-      <link>https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories</link>
-      <description>The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-b42490324db728da</guid>
-      <pubDate>Wed, 28 Oct 2026 13:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Updates: At Least 30 Killed in Train Crash in Spain, Official Says</title>
-      <link>https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo</link>
-      <description>One high-speed passenger train rear-ended another one near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-f6545332f7a615b2</guid>
-      <pubDate>Wed, 28 Oct 2026 13:26:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset</title>
-      <link>https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html</link>
-      <description>Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-9d37d5c3aa8fc993</guid>
-      <pubDate>Wed, 28 Oct 2026 13:21:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behind Italy’s Protests: Rising Prices and Sinking Hopes</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html</link>
-      <description>Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-c60f1c1e38d313de</guid>
-      <pubDate>Wed, 28 Oct 2026 13:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-      <description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-75e2017ed4c5a2ec</guid>
-      <pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open</title>
-      <link>https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/</link>
-      <description>In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-11933a85bc5f9fa3</guid>
-      <pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>11 bargain-priced stocks of companies that have huge growth potential over the next two years</title>
-      <link>https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories</link>
-      <description>These stocks trade at low price/earnings valuations, and the companies are projected to achieve very high revenue growth rates through 2028.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-c81af77587f4c782</guid>
-      <pubDate>Wed, 28 Oct 2026 12:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results</title>
-      <link>https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories</link>
-      <description>Vertiv’s big sales beat affirms that the AI buildout is accelerating.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-46ea126a56caf60d</guid>
-      <pubDate>Wed, 28 Oct 2026 12:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What we know so far about deadly Spain train crash</title>
-      <link>https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-09bc1ee5375acd32</guid>
-      <pubDate>Wed, 28 Oct 2026 12:14:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voters in Texas agree: They hate data centers</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas</link>
-      <description>Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-8030d1b5c63548db</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
