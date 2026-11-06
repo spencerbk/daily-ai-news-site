@@ -5,8 +5,206 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>How much in Roth conversions can you do in 2027 with the new tax brackets?</title>
+      <link>https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories</link>
+      <description>The math should actually start with “if” — not “how much.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-b04584ab153a6d77</guid>
+      <pubDate>Fri, 06 Nov 2026 14:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say</title>
+      <link>https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html</link>
+      <description>The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-0161e188ff477670</guid>
+      <pubDate>Fri, 06 Nov 2026 14:24:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?</title>
+      <link>https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories</link>
+      <description>“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-51f41770a3228daa</guid>
+      <pubDate>Fri, 06 Nov 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+      <link>https://huggingface.co/blog/allenai/toyblocks</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-be1ba71e55b7f125</guid>
+      <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon will let you text Alexa your shopping list</title>
+      <link>https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders</link>
+      <description>Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-35ab47bbc76cac8b</guid>
+      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder</title>
+      <link>https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</link>
+      <description>Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-401a24439b17b5b1</guid>
+      <pubDate>Fri, 06 Nov 2026 13:53:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nasdaq drops into correction territory — here’s what typically happens next</title>
+      <link>https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html</link>
+      <description>Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-810f7cfcaa930112</guid>
+      <pubDate>Fri, 06 Nov 2026 13:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html</link>
+      <description>Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-ef953d681c3f9ded</guid>
+      <pubDate>Fri, 06 Nov 2026 13:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Underdog shows off a 32MB speech model in new demo</title>
+      <link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/</link>
+      <description>Despite its small size, Underdog's new model can generate both speech and music.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-fbf575ba8ccde9fe</guid>
+      <pubDate>Fri, 06 Nov 2026 13:02:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Physicl raises $10M to make the digital world real enough for robots</title>
+      <link>https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/</link>
+      <description>Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-f3bfec28682f8e7d</guid>
+      <pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kenyan doomsday cult leader given life sentence for murdering 191 people</title>
+      <link>https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Paul Mackenzie ordered his followers to starve their children to death in a forest so they could "meet Jesus".</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-de2d0ff3c8b5eb85</guid>
+      <pubDate>Fri, 06 Nov 2026 12:54:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian extremist group denies sending hoax bomb threats</title>
+      <link>https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-ea37f3e65943f82e</guid>
+      <pubDate>Fri, 06 Nov 2026 12:51:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protesters break into Microsoft data center site in Amsterdam</title>
+      <link>https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam</link>
+      <description>Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-44766e97c42926fe</guid>
+      <pubDate>Fri, 06 Nov 2026 11:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Usage metrics API adds code review details and addressed rate</title>
+      <link>https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate</link>
+      <description>The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-dcf7efe8bcfb40e1</guid>
+      <pubDate>Fri, 06 Nov 2026 00:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Usage metrics API flags telemetry and version gaps</title>
+      <link>https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps</link>
+      <description>The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-b6de41f0f45eb74b</guid>
+      <pubDate>Fri, 06 Nov 2026 00:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
+      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-82196d4ece0a644e</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable</title>
+      <link>https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/</link>
+      <description>Google is technically offering schools more choice but not the choices anyone wants.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-8fdd6a5d2137a408</guid>
+      <pubDate>Thu, 05 Nov 2026 21:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Foundry extension for Azure Developer CLI is generally available</title>
+      <link>https://devblogs.microsoft.com/foundry/microsoft-foundry-azure-developer-cli-ga/</link>
+      <description>Set up, test, evaluate, and deploy hosted agents with the generally available Microsoft Foundry extension for Azure Developer CLI, keeping agent and deployment configuration alongside your code. The post Microsoft Foundry extension for Azure Developer CLI is generally available appeared first on Microsoft Foundry Blog.</description>
+      <category>devblogs-msft-foundry</category>
+      <guid isPermaLink="false">news-9a4fc5949eebd233</guid>
+      <pubDate>Thu, 05 Nov 2026 20:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside GitHub’s new Git storage architecture</title>
+      <link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
+      <description>GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-e8ad3aaf9c4e3939</guid>
+      <pubDate>Thu, 05 Nov 2026 20:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cult.fit builds operational muscle with Codex</title>
+      <link>https://openai.com/index/cultfit-builds-with-codex</link>
+      <description>Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-c88b52d0b21039c7</guid>
+      <pubDate>Thu, 05 Nov 2026 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Paul Ford</title>
+      <link>https://simonwillison.net/2026/Nov/5/paul-ford/</link>
+      <description>The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day. — Paul Ford, The Web Is More Than Enough Tags: browsers, paul-ford, web-development</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-3089c4e12a10528f</guid>
+      <pubDate>Thu, 05 Nov 2026 17:34:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian universities are creating AI-native graduates</title>
+      <link>https://openai.com/index/australian-universities-ai-native-graduates</link>
+      <description>Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-b58fee4edbbb5f7a</guid>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accessibility statements now have a home on GitHub</title>
+      <link>https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/</link>
+      <description>GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-485010988bfcf739</guid>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling Slack and GitHub with Maude Lemaire</title>
+      <link>https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude</link>
+      <description>Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-7fb652c9ef37fd7e</guid>
+      <pubDate>Thu, 05 Nov 2026 15:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
+      <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
+      <description>The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-6dad7a604d398d82</guid>
+      <pubDate>Thu, 05 Nov 2026 15:19:05 +0000</pubDate>
+    </item>
     <item>
       <title>Three things that explain what’s changing with Obamacare in 2027</title>
       <link>https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories</link>
@@ -547,14 +745,6 @@
       <pubDate>Mon, 02 Nov 2026 14:03:00 +0000</pubDate>
     </item>
     <item>
-      <title>‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?</title>
-      <link>https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories</link>
-      <description>“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-51f41770a3228daa</guid>
-      <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big</title>
       <link>https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/</link>
       <description>TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.</description>
@@ -609,198 +799,6 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-4652b6ad9bef1936</guid>
       <pubDate>Mon, 02 Nov 2026 12:22:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>If in doubt, delete the uv.lock file</title>
-      <link>https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</link>
-      <description>I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories. But... sometimes that uv.lock pins a version of a dependency that doesn't yet have a Python 3.15 wheel. An example from earlier today: error: Failed to build `watchfiles==1.1.1` cause: Call to `maturin.build_wheel` failed error: the configured Python interpreter version (3.15) is newer than PyO3's maximum supported version (3.14) Deleting that file and running uv run pytest again usually fixes the problem. Tags: uv, til, python</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-ffb30fef9594cc91</guid>
-      <pubDate>Sun, 01 Nov 2026 23:24:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
-      <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
-      <description>Data centers are deeply unpopular. But what if we called them something else?</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-33c086ca1438f528</guid>
-      <pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Game Off 2026: The theme is SHIFT</title>
-      <link>https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/</link>
-      <description>GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-8efc4c266dc36186</guid>
-      <pubDate>Sun, 01 Nov 2026 21:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
-      <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
-      <description>On Equity, we discuss why tech CEO statements can seem so tone deaf.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-0ae10264665c4816</guid>
-      <pubDate>Sun, 01 Nov 2026 20:57:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Kyle Kingsbury</title>
-      <link>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</link>
-      <description>More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury, Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury, llms, ai, generative-ai, ai-misuse</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-835fd1406315e6b3</guid>
-      <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>India’s Congress Party Holds Mass Protest in New Delhi</title>
-      <link>https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html</link>
-      <description>Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-cd9f25e4ebbd402e</guid>
-      <pubDate>Sun, 01 Nov 2026 14:08:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>This is the biggest threat to the AI-powered bull market</title>
-      <link>https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories</link>
-      <description>Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-afaec3edbdf711cc</guid>
-      <pubDate>Sun, 01 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crypto firm Binance covers 90% of losses after $6.3bn hack</title>
-      <link>https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-641fcec3e146e5fc</guid>
-      <pubDate>Sun, 01 Nov 2026 13:11:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>America is doing better than you think. Your algorithm is just hiding it.</title>
-      <link>https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories</link>
-      <description>The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-4056a58c7827846c</guid>
-      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who really wins under Trump’s economy? Coastal liberal elites who hate him.</title>
-      <link>https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories</link>
-      <description>In other words, not the people Republicans likely intended.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-df3114d9f1a639df</guid>
-      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shops looted as German cost-of-living protests turn violent</title>
-      <link>https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-de77300dcc63145a</guid>
-      <pubDate>Sun, 01 Nov 2026 11:57:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu’s Bid to Stay in Power Will Test His Political Savvy</title>
-      <link>https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html</link>
-      <description>After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-615dc3d6f4b850e9</guid>
-      <pubDate>Sun, 01 Nov 2026 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Putin Breaks Down His Isolation, With a Big Assist From Trump</title>
-      <link>https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html</link>
-      <description>Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-b45f277e5a702b71</guid>
-      <pubDate>Sun, 01 Nov 2026 10:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How We Took Over ChatGPT Accounts</title>
-      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
-      <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its own virtual keyboard, which can be triggered in the parent page via postMessage() from the sandboxed iframe. That message receiving code uses innerHTML, so anything that sends a message can add custom HTML to the parent - and there was no mechanism to prevent other sandboxed frames, including HTML preview frames, from calling that method. This meant untrusted code in an iframe could insert HTML, and while innerHTML doesn't directly execute script elements it could be used to inject a new iframe without sandbox restrictions. OpenAI’s CSP rules blocked inline scripts entirely, and only allowed script loading from a handful of domains, but one of those was YouTube - and the YouTube oEmbed endpoint could be used to reflect JavaScript back in a way that executed it. Once the attack had JavaScript execution on ChatGPT, it was trivial to fetch private user data from APIs and exfiltrate it via an image reference. The end result: you could create a ChatGPT share URL which, when visited by another signed-in user, could exfiltrate their private data or take actions on their behalf. OpenAI closed the hole and paid out a $5,000 bug bounty, which I think was a bit cheap for a vulnerability this serious. Via Hacker News Tags: iframes, javascript, sandboxing, security, xss, openai, chatgpt, content-security-policy</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-0def4a2fca6b3a20</guid>
-      <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a9</title>
-      <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
-      <description>Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM, which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra. Tags: datasette, llm, datasette-agent</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-bc9463905bbd6e7a</guid>
-      <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
-      <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
-      <description>Apple's new CEO defended the company's current position in the AI landscape.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-89c6cb6d29717113</guid>
-      <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
-      <link>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</link>
-      <description>On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-cefcb0bd2478e838</guid>
-      <pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
-      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
-      <description>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-bc398a80a0dffe88</guid>
-      <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI reportedly lowers funding target for new round</title>
-      <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
-      <description>OpenAI’s latest funding round doesn't seem to be living up to expectations.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-344dcf79744aa216</guid>
-      <pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>I built an AI Tamagotchi before Meta could</title>
-      <link>https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</link>
-      <description>Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-ed0268fa6e325c7b</guid>
-      <pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google taught the world how to search. Now it faces a revolution it can’t afford to lose.</title>
-      <link>https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories</link>
-      <description>Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-5bf4cc0bee6c744d</guid>
-      <pubDate>Sat, 31 Oct 2026 13:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-763a99da6625bb99</guid>
-      <pubDate>Sat, 31 Oct 2026 13:12:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The stock market’s front-runners stumbled in October. Here’s where the smart money is moving now.</title>
-      <link>https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories</link>
-      <description>U.S. stocks saw a stronger reversal in fortunes in October, as worries about dwindling free cash flows and rising borrowing costs threw a wrench into the works of the artificial-intelligence trade.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-76b5da26700ea731</guid>
-      <pubDate>Sat, 31 Oct 2026 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>If you really want to help your adult kids and grandkids, give them money while you’re still alive</title>
-      <link>https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories</link>
-      <description>How to manage “giving while living” without endangering your own retirement.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-f834851c6f100577</guid>
-      <pubDate>Sat, 31 Oct 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
