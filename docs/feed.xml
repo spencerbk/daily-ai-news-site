@@ -5,8 +5,184 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline</title>
+      <link>https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html</link>
+      <description>Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-0cd5dc65a670fc8b</guid>
+      <pubDate>Sat, 07 Nov 2026 14:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>This retired professor has reinvented himself — as a Taylor Swift scholar</title>
+      <link>https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories</link>
+      <description>His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-a0f5ba049a3d9340</guid>
+      <pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time</title>
+      <link>https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories</link>
+      <description>The ongoing tech selloff is leading investors to wonder if Anthropic will delay its IPO or list at a discount.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-f77db363b6aec41e</guid>
+      <pubDate>Sat, 07 Nov 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties</title>
+      <link>https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html</link>
+      <description>Preliminary results showed the right-wing bloc slightly ahead but no clear winner after an election that was dominated by economic concerns.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-d9fb5d2e71dc8017</guid>
+      <pubDate>Sat, 07 Nov 2026 13:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian strikes wound nine and damage Ukraine's power network ahead of talks</title>
+      <link>https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-e6afdaa46c60a442</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Israeli Vows to Oust Netanyahu. Here’s How.</title>
+      <link>https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</link>
+      <description>Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-2050cc9f2667ada3</guid>
+      <pubDate>Sat, 07 Nov 2026 12:42:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why a new report on Anthropic automating AI development is alarming researchers</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
+      <description>Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-8879475e62b3793a</guid>
+      <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four things we learned this week about 2028 White House race</title>
+      <link>https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-fe773657f48e94a2</guid>
+      <pubDate>Sat, 07 Nov 2026 12:23:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo</title>
+      <link>https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html</link>
+      <description>At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-1d44e8c13f050953</guid>
+      <pubDate>Sat, 07 Nov 2026 12:06:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crusoe sells troubled Wyoming data center project to Google</title>
+      <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
+      <description>The deal highlights the challenges of developing massive AI data centers.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-36231604b2886429</guid>
+      <pubDate>Sat, 07 Nov 2026 01:40:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copilot code review: API management and review overview updates</title>
+      <link>https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates</link>
+      <description>You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-d28d7745dd0262c5</guid>
+      <pubDate>Sat, 07 Nov 2026 00:27:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
+      <description>OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-6813d62fd92533cd</guid>
+      <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</title>
+      <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
+      <description>OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-314bd089789a0995</guid>
+      <pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copilot impact dashboard adds chat and VS Code agent usage</title>
+      <link>https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage</link>
+      <description>The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post Copilot impact dashboard adds chat and VS Code agent usage appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-df141a94aef9dbc1</guid>
+      <pubDate>Fri, 06 Nov 2026 22:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond code generation: A developer’s guide to agentic engineering</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/</link>
+      <description>Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-5ab88d15c948b2ba</guid>
+      <pubDate>Fri, 06 Nov 2026 22:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot weekly releases — November 2</title>
+      <link>https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2</link>
+      <description>This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly releases — November 2 appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-5175c20e07f32dcb</guid>
+      <pubDate>Fri, 06 Nov 2026 21:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>@GitHub in Slack and Teams is generally available and more</title>
+      <link>https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available</link>
+      <description>Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is generally available and more appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-23359978bbf7fef8</guid>
+      <pubDate>Fri, 06 Nov 2026 20:31:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pragmatic Summit 2027</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027</link>
+      <description>The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-d09844d43af410b4</guid>
+      <pubDate>Fri, 06 Nov 2026 19:39:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/</link>
+      <description>Meta won't force Facebook page owners to allow AI training on linked content.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-95ff043a27dc1284</guid>
+      <pubDate>Fri, 06 Nov 2026 17:43:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Nilay Patel</title>
+      <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
+      <description>The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they're making on these products. Refrigerators holding blood storage in Europe are being hacked. The costs are too high. The benefits are not real. And if you connect that to corruption, you're like, in order to impose these costs on me, these CEOs are in the White House shaking Trump's hand, renaming it to the Gulf of America, paying for this ballroom that we don't want. It's obvious crypto-corruption, and it's still slop. The AI industry will not get out of it until they make better products. Until everyone can see without needing to be convinced, without needing an ad campaign, without any of this stuff that just using these products makes your life better. — Nilay Patel, The Vergecast: Big Tech lost big in the 2026 election Tags: nilay-patel, slop, ai, generative-ai, ai-ethics</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-04ff5155f60621be</guid>
+      <pubDate>Fri, 06 Nov 2026 17:13:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Could potential AI clones of GTA VI force a quicker official port?</title>
+      <link>https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/</link>
+      <description>A former Rockstar tech director thinks the developer is facing new time pressures.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-01aef0d2f976d959</guid>
+      <pubDate>Fri, 06 Nov 2026 16:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
+      <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
+      <description>AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-d275be2a1267c8e7</guid>
+      <pubDate>Fri, 06 Nov 2026 15:54:47 +0000</pubDate>
+    </item>
     <item>
       <title>How much in Roth conversions can you do in 2027 with the new tax brackets?</title>
       <link>https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories</link>
@@ -111,6 +287,14 @@
       <pubDate>Fri, 06 Nov 2026 11:55:19 +0000</pubDate>
     </item>
     <item>
+      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
+      <link>https://openai.com/index/partnering-with-hacktron</link>
+      <description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-bc8f9eac19663ff6</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Usage metrics API adds code review details and addressed rate</title>
       <link>https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate</link>
       <description>The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog.</description>
@@ -131,6 +315,14 @@
       <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
       <category>huggingface-blog</category>
       <guid isPermaLink="false">news-82196d4ece0a644e</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measuring how AI agents handle everyday wet-lab science</title>
+      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+      <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-cfd4354afa14004f</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -608,197 +800,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-8f0f519eb5888862</guid>
       <pubDate>Tue, 03 Nov 2026 12:58:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accelerating engineering for the physical world</title>
-      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
-      <description>Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-26c6032e1d267765</guid>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Cisco defends at machine speed with OpenAI</title>
-      <link>https://openai.com/index/cisco-cyber</link>
-      <description>Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-a2357e701f020223</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heimstaden is changing residential real estate management with AI</title>
-      <link>https://openai.com/index/heimstaden</link>
-      <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-08b710f1e7801fa8</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Watch’s AI features for rewinding and recapping conversations begin beta testing</title>
-      <link>https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/</link>
-      <description>Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-0e5b1d74afc987fe</guid>
-      <pubDate>Tue, 03 Nov 2026 07:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I discovered a sound that leaks your exact location (and it's everywhere) - YouTube</title>
-      <link>https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/</link>
-      <description>I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy, youtube</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-22c23cfe758c1cb6</guid>
-      <pubDate>Tue, 03 Nov 2026 05:32:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>October sponsors-only newsletter</title>
-      <link>https://simonwillison.net/2026/Nov/3/october-newsletter/</link>
-      <description>I sent out the October edition of my sponsors-only monthly newsletter. If you are a sponsor (or start a sponsorship now) you can access it here. This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here, as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-c006e897d48e9930</guid>
-      <pubDate>Tue, 03 Nov 2026 05:28:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses</title>
-      <link>https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/</link>
-      <description>Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-4c7d73c3037dd08e</guid>
-      <pubDate>Tue, 03 Nov 2026 03:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transformers Model Integration Contracts</title>
-      <link>https://huggingface.co/blog/transformers-mic</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-fec0e46ceba430b8</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic clamps down on Claude’s AI video game clones</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</link>
-      <description>Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-e3f3f6c0c50f4c4d</guid>
-      <pubDate>Mon, 02 Nov 2026 18:56:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights</title>
-      <link>https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/</link>
-      <description>Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-95189256059f9398</guid>
-      <pubDate>Mon, 02 Nov 2026 18:32:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude’s new rules against game cloning won’t stop the AI copying boom</title>
-      <link>https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/</link>
-      <description>The tsunami of imitators is way bigger than any one model maker can stem.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-778dbacaaeb9af89</guid>
-      <pubDate>Mon, 02 Nov 2026 18:05:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rewarding defenders with bigger bug bounties</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-6fd6ad7938fa5bc5</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In one of the largest deals in tech history, Marvell buys Lumentum for $115B</title>
-      <link>https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/</link>
-      <description>Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-654d300021e80f6e</guid>
-      <pubDate>Mon, 02 Nov 2026 17:54:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4</title>
-      <link>https://importai.substack.com/p/import-ai-479-spacewar-low-latency</link>
-      <description>What do LLMs think about vision models?</description>
-      <category>import-ai</category>
-      <guid isPermaLink="false">news-9091e4453210d34c</guid>
-      <pubDate>Mon, 02 Nov 2026 14:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?</title>
-      <link>https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories</link>
-      <description>“About two months after his funeral, my stepmother called and said she wanted the money back.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-bb1f9dbb661803fe</guid>
-      <pubDate>Mon, 02 Nov 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shop freezers in seven European countries hit by suspected cyber-attack</title>
-      <link>https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-2bbdae702ea12751</guid>
-      <pubDate>Mon, 02 Nov 2026 14:11:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oracle’s stock falls as the company details plan to raise $20 billion</title>
-      <link>https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories</link>
-      <description>Oracle has been borrowing money and issuing stock to help finance its AI cloud growth.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-7abc53aeee3b7010</guid>
-      <pubDate>Mon, 02 Nov 2026 14:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big</title>
-      <link>https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/</link>
-      <description>TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f7151c69ed83cd04</guid>
-      <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI is finally merging ChatGPT’s chat and Work tabs</title>
-      <link>https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/</link>
-      <description>OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-869219a7f13345d5</guid>
-      <pubDate>Mon, 02 Nov 2026 13:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal</title>
-      <link>https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html</link>
-      <description>Iranian officials spoke of some progress in negotiating to reopen the strait, a vital oil and gas shipping lane, even as they prepare for all-out war.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-4bc81d8467013242</guid>
-      <pubDate>Mon, 02 Nov 2026 13:44:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The U.S. Census Bureau and “Super Intelligence”</title>
-      <link>https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/</link>
-      <description>I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis, and then to experiment with Claude's new Code Interpreter. I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434, aka the asinine Super Intelligence one. First, the updated chart Every two weeks the U.S. Census Bureau runs a survey called the Business Trends and Outlook Survey (aka BTOS). Each time it goes to 200,000 businesses out of 1.2 million total - the surveyed group (a "panel") cycles such that an individual business only completes the survey every twelve weeks. The latest data is published on alternating Thursdays at 10am. I used the most recent numbers (published October 22, 2026) to create a new version of the AI adoption chart, updated to reflect both the last twelve months and a change that was made to the survey question sent out by the Bureau: For comparison, here's that AI adoption chart from last year (my GPT-5 version): In September 2025 the largest (250+ employees) companies answered "yes" around 12% of the time to the question about whether they used AI in "producing goods or services". Under the new "any business function" wording, by February 2026, those same large companies answered "yes" around 30% of the time, and by October 2026 that had increased to around 40%. The data in the above chart comes from the "Employment size class" XLSX file, available from here. Here's a copy of the file I used. You can view the survey document that is sent out to businesses - here's my snapshot copy of that 346KB PDF. The changing language of the questions As the chart demonstrates, the question asked by the Bureau changed in a material way on November 17th, 2025. Prior to that date, the question they asked was this (emphasis mine): In the last two weeks, did this business use Artificial Intelligence (AI) in producing goods or services? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.) On December 3rd, 2025, the Bureau announced a significant change to that question. Here's the replacement: In the last two weeks, did this business use Artificial Intelligence (AI) in any of its business functions? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.) No more "producing goods or services" - now it's "in any of its business functions"! This means that the answers to the question before and after November 17th are not directly comparable. From October 19, 2026, they ask about Super Intelligence When I went looking for the updated question language in the latest XLSX file, I couldn't find it. I found this instead: In the last two weeks, did this business use Super Intelligence or SI (formerly referred to as Artificial Intelligence or AI) in any of its business functions? (Examples of SI use include: SI-powered data analysis; generative SI for marketing, product design, or coding; virtual SI agents for customer service; SI-powered forecasting or pricing; SI-driven computer vision for quality control, etc.) The BTOS about page explains what happened: Beginning with the October 19, 2026 collection, instrument wording was updated due to Executive Order 14434. The current numbers reflect the old Artificial Intelligence survey wording - the first survey results reflecting the Super Intelligence wording are due for publication on Thursday. Is this going to affect the survey? The obvious open question here is whether this wording change is going to affect the survey results. The businesses answering this survey will have last seen that question twelve weeks ago, when it was still called AI. Hopefully the new language isn't going to confuse them, especially since the survey helpfully spells out "formerly referred to as Artificial Intelligence or AI". I can't help but laugh at the absurdity of "SI-powered data analysis; generative SI for marketing, product design, or coding; virtual SI agents for customer service" though. Tags: census, surveys, ai, generative-ai, llms</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-6bf0704cb5e2b6fd</guid>
-      <pubDate>Mon, 02 Nov 2026 13:31:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deportees Turn to TikTok to Document Life Starting Over</title>
-      <link>https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html</link>
-      <description>On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-6371bd825bd2795b</guid>
-      <pubDate>Mon, 02 Nov 2026 13:19:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked</title>
-      <link>https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-5916ec6e788cd4e2</guid>
-      <pubDate>Mon, 02 Nov 2026 12:44:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryanair says it may freeze workers' pay and raise airfares</title>
-      <link>https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-4652b6ad9bef1936</guid>
-      <pubDate>Mon, 02 Nov 2026 12:22:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
