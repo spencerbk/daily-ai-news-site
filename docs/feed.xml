@@ -5,8 +5,175 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest</title>
+      <link>https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html</link>
+      <description>Najib Razak, who was brought down in the multibillion-dollar 1MDB scandal, was released from prison to serve the rest of his sentence in his mansion.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-782e8bc93af9d98b</guid>
+      <pubDate>Tue, 10 Nov 2026 14:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel’s New Parliament Gathers With No Government in Sight</title>
+      <link>https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html</link>
+      <description>Dozens of first-time lawmakers are heading to the Knesset, where the opposition, led by Gadi Eisenkot, has a majority and is expected to begin pulling some levers of power.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-c29e6ec6bfa6658b</guid>
+      <pubDate>Tue, 10 Nov 2026 14:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Man Who Helped the C.I.A. Secretly Operate in Mexico</title>
+      <link>https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html</link>
+      <description>President Claudia Sheinbaum drew a firm line barring U.S. forces from operating on Mexican soil. But in a northern border state, one local partner quietly helped the agency build a foothold.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-9170d99b3c5c9671</guid>
+      <pubDate>Tue, 10 Nov 2026 14:15:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’</title>
+      <link>https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories</link>
+      <description>The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-0fcece49c628e4ab</guid>
+      <pubDate>Tue, 10 Nov 2026 14:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic targets $1.4 trillion IPO</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion</link>
+      <description>Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wall Street Journal's sources, Anthropic is "aiming for its shares to start trading Thursday or Friday next […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-0cd5e191c405cf88</guid>
+      <pubDate>Tue, 10 Nov 2026 14:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly</title>
+      <link>https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/</link>
+      <description>Adobe is taking on Figma with a new prototype builder tool in Firefly.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-d10ce5761f29e021</guid>
+      <pubDate>Tue, 10 Nov 2026 14:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic heads for $1.3 trillion valuation in major stock market listing</title>
+      <link>https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The AI company behind the Claude chatbot will offer its shares at between $70 and $78.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-adf593f41910254a</guid>
+      <pubDate>Tue, 10 Nov 2026 14:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion</title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</link>
+      <description>The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-6f3953006a306e0b</guid>
+      <pubDate>Tue, 10 Nov 2026 14:01:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify’s AI DJ gets new voices, personalities, and an option for less chatter</title>
+      <link>https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/</link>
+      <description>Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-c8072ec28f747b94</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photoshop, Lightroom, and Premiere are making it easier to remove things</title>
+      <link>https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates</link>
+      <description>Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-015cb2c6872b425f</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran rejects French claims it was behind supermarket fridge hacking</title>
+      <link>https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-87181a6313bc0c54</guid>
+      <pubDate>Tue, 10 Nov 2026 13:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fed’s Waller puts half-point rate hike into the mix for December</title>
+      <link>https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories</link>
+      <description>U.S. central bank official had put a half-point discussion into the mix ahead of Labor Department data, which came in as hot as he feared.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-bea7dd25499e54aa</guid>
+      <pubDate>Tue, 10 Nov 2026 13:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polymarket says annualized revenue has topped $1.8 billion</title>
+      <link>https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html</link>
+      <description>Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-d095bcb8c92dab56</guid>
+      <pubDate>Tue, 10 Nov 2026 13:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s fiber-optic drones get squeezed by AI data center demand</title>
+      <link>https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/</link>
+      <description>Ukraine competes with Russia and data centers for China’s optical fiber supply.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-ffd1be60b8ac1c68</guid>
+      <pubDate>Tue, 10 Nov 2026 12:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Helping caregivers use AI in everyday life</title>
+      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-46ecb159c1535b09</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closing the AI guidance gap in education</title>
+      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+      <description>New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-01a8528fa117926a</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
+      <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
+      <description>Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output. Today's other big model release, Claude Fable 5.2, is 80x that price at $8/$40. The pricing is a little less straightforward as prompts get longer, though. Luna, Ember, and Haiku all support up to a million input tokens, but they also all have a threshold after which the price goes up. Taking that threshold into account Ember is priced between the two others: Model Prompt size Input ($/M) Cached input Output GPT-6 Luna ≤272k $0.10 $0.01 $0.50 &gt;272k $0.20 $0.02 $0.75 Muse Ember 1.0 ≤200k $0.10 $0.004 $0.50 &gt;200k $0.30 $0.012 $1.50 Claude Haiku 5.5 ≤100k $0.10 $0.01 $0.50 &gt;100k $0.50 $0.05 $2.50 But comparing price-per-token doesn't really make sense these days, when reasoning tokens mean that different models might use dramatically different numbers of tokens to solve the same problem. For that, one measure that's useful is the Artificial Analysis. And even more useful than that is their Intelligence Index vs. Cost per Task chart, which shows the following for those three models: The Muse Ember models sit right on that Pareto line - the line at which you can only improve one dimension by giving up another. Meta call this out in their announcement: It also sits on the efficiency frontier of the full Artificial Analysis leaderboard: no model scores higher for less per task. (That grey dot on the Pareto line in the middle of the green area is GPT-6.1 Terra (low) - clearly I should be paying more attention to the Terra family!) Muse Ember has six reasoning levels - minimal, low, medium, high, xhigh, and max - so I rendered six pelicans riding bicycles. The "high" reasoning level failed to return a full SVG, and the other SVGs were surprising in that the reasoning level didn't cleanly map to the visual quality of the response. Here's the "max" one, but the others are worth a look too: The Ember pelicans are comparable in quality to those I got from Muse Wonder, which is 40x the price of Muse Ember. Tags: ai, generative-ai, llms, meta, llm-pricing, llm-release, artificial-analysis, muse</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-fabe838d73f55c38</guid>
+      <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Prompting Claude Fable 5.2</title>
+      <link>https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</link>
+      <description>Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want the model to improve the structure as it works, say that the code is its own: This codebase is yours: what it's for and how it's built are your call, and you'll keep building on it. In Anthropic’s testing on small coding tasks, the model merged repeated code in about half of the tries with this sentence, and in under a tenth of the tries without it. — Prompting Claude Fable 5.2, Anthropic documentation Tags: prompt-engineering, anthropic, generative-ai, ai, llms, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-c8bf0b8e918f2da7</guid>
+      <pubDate>Tue, 10 Nov 2026 05:34:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny</title>
+      <link>https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/</link>
+      <description>Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-20ff528b54959b19</guid>
+      <pubDate>Mon, 09 Nov 2026 18:09:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</link>
+      <description>Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-773234e7b2aca6b3</guid>
+      <pubDate>Mon, 09 Nov 2026 16:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-057e22ab69c04fb1</guid>
+      <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
+    </item>
     <item>
       <title>As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform</title>
       <link>https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories</link>
@@ -635,172 +802,6 @@
       <category>github-blog</category>
       <guid isPermaLink="false">news-485010988bfcf739</guid>
       <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scaling Slack and GitHub with Maude Lemaire</title>
-      <link>https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude</link>
-      <description>Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands.</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-7fb652c9ef37fd7e</guid>
-      <pubDate>Thu, 05 Nov 2026 15:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
-      <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
-      <description>The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-6dad7a604d398d82</guid>
-      <pubDate>Thu, 05 Nov 2026 15:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three things that explain what’s changing with Obamacare in 2027</title>
-      <link>https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories</link>
-      <description>Affordable Care Act premiums are increasing again, and these plans have new rules.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-c2939acf711ce3fa</guid>
-      <pubDate>Thu, 05 Nov 2026 14:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bring Agentic Coding On-Device with Foundry Local</title>
-      <link>https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/</link>
-      <description>Foundry Local brings agentic coding directly to developer hardware. The post Bring Agentic Coding On-Device with Foundry Local appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-f4483e1a93ddf7bc</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?</title>
-      <link>https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories</link>
-      <description>“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-26998135a717f7b3</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Box taps Nvidia’s Nemotron for new agent-first content retrieval system</title>
-      <link>https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/</link>
-      <description>The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-d51f62aa0d3ca8ee</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to Know About the Bomb Threats Disrupting Flights in Europe</title>
-      <link>https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html</link>
-      <description>Several planes that were targeted on Thursday landed safely, officials said, after similar threats earlier this week. The apparent hoaxes have added to airspace anxiety in the region.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-9a7c7f38f77c242d</guid>
-      <pubDate>Thu, 05 Nov 2026 13:56:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Frieda, Hair-Care Mogul Who Soothed Women’s Curls, Has Died</title>
-      <link>https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html</link>
-      <description>He was a celebrity stylist to rock stars and royalty whose blockbuster product, Frizz Ease, changed his fortunes (and women’s hair) forever. He was 75.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-39a03888497e1d4a</guid>
-      <pubDate>Thu, 05 Nov 2026 13:54:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea</title>
-      <link>https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html</link>
-      <description>A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-bf4b4f060e14d1f5</guid>
-      <pubDate>Thu, 05 Nov 2026 13:54:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years</title>
-      <link>https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-79e2afd271239c11</guid>
-      <pubDate>Thu, 05 Nov 2026 13:51:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>France holds new strikes and protests as unions demand immediate answers</title>
-      <link>https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Five of France's unions join a wave of strikes and protests in a national day of action.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-ba26403f95e15c7c</guid>
-      <pubDate>Thu, 05 Nov 2026 13:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>A YC startup is putting $1M behind five unsolved materials science problems for AI</title>
-      <link>https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/</link>
-      <description>Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-b06af2d45cd2abb5</guid>
-      <pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What the Democratic midterms sweep changes for U.S.-China relations</title>
-      <link>https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html</link>
-      <description>Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-b603a54a22ae1351</guid>
-      <pubDate>Thu, 05 Nov 2026 12:57:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market</title>
-      <link>https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/</link>
-      <description>US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-f050bc895e36e285</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s new in Microsoft Foundry | October 2026</title>
-      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-october-2026/</link>
-      <description>Plan your Microsoft Ignite November 17-20 viewing, then explore October's Copilot harness preview, GA browser automation and hosted-agent resilience, Decisions API, and SDK updates with chapter-linked Handoff demos. The post What’s new in Microsoft Foundry | October 2026 appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-9d00ca179180ed23</guid>
-      <pubDate>Thu, 05 Nov 2026 11:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Tech’s big AI buildout will not end until someone stops it</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3</link>
-      <description>After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-b8c0e66ba85503fb</guid>
-      <pubDate>Thu, 05 Nov 2026 10:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Setting a new standard for responsible AI infrastructure</title>
-      <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
-      <description>OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-f93567576105c713</guid>
-      <pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
-      <link>https://huggingface.co/blog/phonon-tts</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-89209ab642b10e25</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot is now available in Xcode’s coding assistant</title>
-      <link>https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant</link>
-      <description>You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with… The post GitHub Copilot is now available in Xcode’s coding assistant appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-a05548ef29e13631</guid>
-      <pubDate>Wed, 04 Nov 2026 19:10:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
-      <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-5afc49da7bd40515</guid>
-      <pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a10</title>
-      <link>https://simonwillison.net/2026/Nov/4/datasette-llm/</link>
-      <description>Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette, llm</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-f121b002be2ba369</guid>
-      <pubDate>Wed, 04 Nov 2026 15:26:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
