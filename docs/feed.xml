@@ -5,8 +5,191 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Gilbert + Tobin rethinks the business of law with AI</title>
+      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
+      <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-f28f90d2895a812c</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes</title>
+      <link>https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html</link>
+      <description>The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-33a677852d378a79</guid>
+      <pubDate>Wed, 11 Nov 2026 14:24:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>My friend hates her job but shuts down when I give her advice. How can I help her?</title>
+      <link>https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories</link>
+      <description>It’s counterintuitive, but the worst thing you could do is give your friend advice, says one career coach.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-1b62a224519ce02a</guid>
+      <pubDate>Wed, 11 Nov 2026 14:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forget happy hour. ‘Money parties’ are having a moment.</title>
+      <link>https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories</link>
+      <description>There’s evidence showing that talking about finances with your friends can help you save money.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-422bed9b635d1dc6</guid>
+      <pubDate>Wed, 11 Nov 2026 14:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google DeepMind just mathematically verified key parts of Signal</title>
+      <link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</link>
+      <description>The four-week project hints that AI could make formal verification far more practical.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-ef892408bebc346b</guid>
+      <pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spain sees widespread disruption in first general strike for 14 years</title>
+      <link>https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-23565797d1ba8e8e</guid>
+      <pubDate>Wed, 11 Nov 2026 14:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
+      <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
+      <description>Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-450a9863af999dab</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'</title>
+      <link>https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Mada Masr editor-in-chief Lina Attalah is being tried on the charge of "publishing false news" and potentially faces imprisonment.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-ff8b6bdaf492f344</guid>
+      <pubDate>Wed, 11 Nov 2026 13:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Four grizzly bears killed in Canada after fatal attack on mother and daughter</title>
+      <link>https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-c7c5ecc656163395</guid>
+      <pubDate>Wed, 11 Nov 2026 13:24:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance</title>
+      <link>https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html</link>
+      <description>Pope Leo spent nearly two decades in Peru, rising to bishop and becoming a citizen. But many Peruvians have turned away from Catholicism, seeking a more expressive and direct connection to God.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-c0fe67bb3e44c938</guid>
+      <pubDate>Wed, 11 Nov 2026 10:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France</title>
+      <link>https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html</link>
+      <description>The Orléans Fine Arts Museum is on a quest to recover hundreds of works stolen during World War II — and the director wants your help.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-2dddc640659945cd</guid>
+      <pubDate>Wed, 11 Nov 2026 10:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Plus for veterans and servicemembers</title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-80b38ea7da372c49</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia’s crisis has corporate governance experts reaching for the popcorn</title>
+      <link>https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</link>
+      <description>The governance experts we talked to say nobody has seen anything like what's unfolding right now.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-a390f90d4604de89</guid>
+      <pubDate>Wed, 11 Nov 2026 07:30:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://huggingface.co/blog/qvac/botpsy</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-b22522d14a17f95f</guid>
+      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub App support for Enterprise Copilot seat management</title>
+      <link>https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</link>
+      <description>Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-871ae47d300c9e08</guid>
+      <pubDate>Wed, 11 Nov 2026 00:10:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</title>
+      <link>https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/</link>
+      <description>Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-cd1dc6d6e6bd42c3</guid>
+      <pubDate>Tue, 10 Nov 2026 22:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
+      <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
+      <description>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-bd2a6830d8cf7795</guid>
+      <pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>llm-gemini 0.36</title>
+      <link>https://simonwillison.net/2026/Nov/10/llm-gemini/</link>
+      <description>Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for "a subset of cyber defenders", but today it's available to everyone else. This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high: Gemini pelicans have all been great for a while now, so I also tested it out using Google's Antigravity IDE with a prompt I first tried with Claude Fable 5.2 yesterday: Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data Here's the HTML result (I had to prompt "build that into a standalone HTML file" to get a version with no external dependencies). I then screen-captured that as a video: Update: Huh, just saw this on YouTube (and tweeted by Sundar Pichai): Using Google Antigravity’s /swarm feature, Carbon built an open-world 3D game where you explore Google’s Mountain View campus as a pelican riding a GBike — coordinating subagents to model 3D assets in Blender from Omni and Nano Banana references, build the browser game in Three.js with WebGL shaders, and pair procedural Web Audio sound effects with Lyria music. Here's the playable version in AI Studio. Tags: llm-release, gemini, llm, google, generative-ai, ai, llms, pelican-riding-a-bicycle</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-c1fbfe2e3fcb7bc5</guid>
+      <pubDate>Tue, 10 Nov 2026 20:09:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</link>
+      <description>Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-0fe8b882dbb9b0ec</guid>
+      <pubDate>Tue, 10 Nov 2026 19:26:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>The US is winning the AI race. Jensen Huang could have blown it</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
+      <description>As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-34a6071342ff5a88</guid>
+      <pubDate>Tue, 10 Nov 2026 19:04:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Git security vulnerabilities announced</title>
+      <link>https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/</link>
+      <description>Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-7bd6d5785093a8de</guid>
+      <pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>C++ language server now auto-configures MSBuild builds</title>
+      <link>https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds</link>
+      <description>The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a… The post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-685df558780e7f38</guid>
+      <pubDate>Tue, 10 Nov 2026 17:04:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software correctness &amp; supply chain security, with Sean Allen</title>
+      <link>https://newsletter.pragmaticengineer.com/p/software-correctness</link>
+      <description>A deep conversation on the biggest challenges of developing with AI – while trying not to mention the phrase “AI” once. Why? To dig up the fundamentals that are as important as ever</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-583511bb3ad1ffcc</guid>
+      <pubDate>Tue, 10 Nov 2026 15:00:21 +0000</pubDate>
+    </item>
     <item>
       <title>Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest</title>
       <link>https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html</link>
@@ -620,188 +803,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-0161e188ff477670</guid>
       <pubDate>Fri, 06 Nov 2026 14:24:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?</title>
-      <link>https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories</link>
-      <description>“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-51f41770a3228daa</guid>
-      <pubDate>Fri, 06 Nov 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
-      <link>https://huggingface.co/blog/allenai/toyblocks</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-be1ba71e55b7f125</guid>
-      <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazon will let you text Alexa your shopping list</title>
-      <link>https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders</link>
-      <description>Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-35ab47bbc76cac8b</guid>
-      <pubDate>Fri, 06 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder</title>
-      <link>https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html</link>
-      <description>Paul Nthenge Mackenzie forced followers to starve themselves to meet Jesus and told parents to make sure their children fasted in the sun and died first.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-401a24439b17b5b1</guid>
-      <pubDate>Fri, 06 Nov 2026 13:53:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nasdaq drops into correction territory — here’s what typically happens next</title>
-      <link>https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html</link>
-      <description>Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-810f7cfcaa930112</guid>
-      <pubDate>Fri, 06 Nov 2026 13:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated</title>
-      <link>https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html</link>
-      <description>Bomb threats have disrupted dozens of flights in Europe over the past week. At airports in Rome, Madrid and Warsaw, travelers were more frustrated than fearful.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-ef953d681c3f9ded</guid>
-      <pubDate>Fri, 06 Nov 2026 13:11:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Underdog shows off a 32MB speech model in new demo</title>
-      <link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/</link>
-      <description>Despite its small size, Underdog's new model can generate both speech and music.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-fbf575ba8ccde9fe</guid>
-      <pubDate>Fri, 06 Nov 2026 13:02:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Physicl raises $10M to make the digital world real enough for robots</title>
-      <link>https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/</link>
-      <description>Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f3bfec28682f8e7d</guid>
-      <pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenyan doomsday cult leader given life sentence for murdering 191 people</title>
-      <link>https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Paul Mackenzie ordered his followers to starve their children to death in a forest so they could "meet Jesus".</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-de2d0ff3c8b5eb85</guid>
-      <pubDate>Fri, 06 Nov 2026 12:54:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian extremist group denies sending hoax bomb threats</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-ea37f3e65943f82e</guid>
-      <pubDate>Fri, 06 Nov 2026 12:51:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protesters break into Microsoft data center site in Amsterdam</title>
-      <link>https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam</link>
-      <description>Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-44766e97c42926fe</guid>
-      <pubDate>Fri, 06 Nov 2026 11:55:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
-      <link>https://openai.com/index/partnering-with-hacktron</link>
-      <description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-bc8f9eac19663ff6</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Usage metrics API adds code review details and addressed rate</title>
-      <link>https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate</link>
-      <description>The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-dcf7efe8bcfb40e1</guid>
-      <pubDate>Fri, 06 Nov 2026 00:19:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Usage metrics API flags telemetry and version gaps</title>
-      <link>https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps</link>
-      <description>The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-b6de41f0f45eb74b</guid>
-      <pubDate>Fri, 06 Nov 2026 00:08:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Measuring how AI agents handle everyday wet-lab science</title>
-      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-      <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-cfd4354afa14004f</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-82196d4ece0a644e</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable</title>
-      <link>https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/</link>
-      <description>Google is technically offering schools more choice but not the choices anyone wants.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-8fdd6a5d2137a408</guid>
-      <pubDate>Thu, 05 Nov 2026 21:40:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Foundry extension for Azure Developer CLI is generally available</title>
-      <link>https://devblogs.microsoft.com/foundry/microsoft-foundry-azure-developer-cli-ga/</link>
-      <description>Set up, test, evaluate, and deploy hosted agents with the generally available Microsoft Foundry extension for Azure Developer CLI, keeping agent and deployment configuration alongside your code. The post Microsoft Foundry extension for Azure Developer CLI is generally available appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-9a4fc5949eebd233</guid>
-      <pubDate>Thu, 05 Nov 2026 20:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside GitHub’s new Git storage architecture</title>
-      <link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
-      <description>GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-e8ad3aaf9c4e3939</guid>
-      <pubDate>Thu, 05 Nov 2026 20:23:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cult.fit builds operational muscle with Codex</title>
-      <link>https://openai.com/index/cultfit-builds-with-codex</link>
-      <description>Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-c88b52d0b21039c7</guid>
-      <pubDate>Thu, 05 Nov 2026 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Paul Ford</title>
-      <link>https://simonwillison.net/2026/Nov/5/paul-ford/</link>
-      <description>The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day. — Paul Ford, The Web Is More Than Enough Tags: browsers, paul-ford, web-development</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-3089c4e12a10528f</guid>
-      <pubDate>Thu, 05 Nov 2026 17:34:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian universities are creating AI-native graduates</title>
-      <link>https://openai.com/index/australian-universities-ai-native-graduates</link>
-      <description>Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-b58fee4edbbb5f7a</guid>
-      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accessibility statements now have a home on GitHub</title>
-      <link>https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/</link>
-      <description>GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-485010988bfcf739</guid>
-      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
