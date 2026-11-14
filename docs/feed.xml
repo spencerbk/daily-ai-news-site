@@ -5,8 +5,182 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:30:11 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop</title>
+      <link>https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories</link>
+      <description>Homeland Security Secretary Markwayne Mullin says “zero evidence” of cyberattack, while high jet-fuel costs mean fewer flights available to travelers seeking to rebook.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-0cc207e01dc594c1</guid>
+      <pubDate>Sat, 14 Nov 2026 14:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asian love ballads test Eurovision’s winning song formula.</title>
+      <link>https://www.nytimes.com/live/2026/11/14/world/asia-eurovision/eurovision-asia-love-songs</link>
+      <description>While pulsating electro-pop tends to win in Europe, the inaugural Eurovision Song Contest in Asia will mostly feature torch songs accompanied by traditional instruments.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-d0128037dd642104</guid>
+      <pubDate>Sat, 14 Nov 2026 14:24:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>What we know about the ground stop and what to do if you're affected</title>
+      <link>https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>US officials say the disruption was caused by old equipment overloading and not a cyber-attack.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-fb9303c76708ab02</guid>
+      <pubDate>Sat, 14 Nov 2026 14:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Second catch attempt for SpaceX Starship rocket</title>
+      <link>https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-713a48e07b7f204f</guid>
+      <pubDate>Sat, 14 Nov 2026 14:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s the most tax-efficient way to donate to charity?</title>
+      <link>https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories</link>
+      <description>How to make your donations beneficial for both you and the recipient</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-b40cb0c1c8f3dd4f</guid>
+      <pubDate>Sat, 14 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says</title>
+      <link>https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html</link>
+      <description>President Volodymyr Zelensky said the system, which Ukraine uses to guide drones, was being throttled over Russian-occupied territory. SpaceX, its developer, has denied the claim.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-7e0a5aa3d5033536</guid>
+      <pubDate>Sat, 14 Nov 2026 13:57:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geopolitics Looms Over Eurovision, but Not Its Asian Edition</title>
+      <link>https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html</link>
+      <description>So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-928fbf601b61da78</guid>
+      <pubDate>Sat, 14 Nov 2026 13:17:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home</title>
+      <link>https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html</link>
+      <description>Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-e4dfe4f27195beec</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang and the decline of the visionary showman founder CEO</title>
+      <link>https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</link>
+      <description>On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-567fa298898a17ca</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon has a plan to index the world’s online shopping data</title>
+      <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
+      <description>Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the "World Product Graph," is meant to make it less likely that shoppers leave Amazon to do their […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-04367a7d0b10c58a</guid>
+      <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-cluster-map 0.19</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</link>
+      <description>Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&amp;E, also demonstrating Datasette's recently redesigned facets: Tags: datasette, geospatial, openstreetmap</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-a41cf41c3f013527</guid>
+      <pubDate>Fri, 13 Nov 2026 23:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
+      <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
+      <description>Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-ec577d4c46a6d8ce</guid>
+      <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-leaflet 0.3</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</link>
+      <description>Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header. Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-origin, passing the host but not the full path to the page. Tags: leaflet, datasette, openstreetmap</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-2ff8c47f48f01f5c</guid>
+      <pubDate>Fri, 13 Nov 2026 22:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
+      <link>https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</link>
+      <description>Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-c479f2841d4a388a</guid>
+      <pubDate>Fri, 13 Nov 2026 21:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upcoming deprecation of selected GitHub Copilot models in December</title>
+      <link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
+      <description>We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-bc1ca702be31bb59</guid>
+      <pubDate>Fri, 13 Nov 2026 20:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI agent startup LangChain hits $3B valuation</title>
+      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
+      <description>LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-645e798427f902eb</guid>
+      <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Enterprise Server support in the GitHub Copilot app</title>
+      <link>https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</link>
+      <description>You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This… The post GitHub Enterprise Server support in the GitHub Copilot app appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-18a36c2817e7236e</guid>
+      <pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 4 Hydrogen in GitHub Copilot</title>
+      <link>https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot</link>
+      <description>Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction… The post Gemini 4 Hydrogen in GitHub Copilot appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-e8c3c469932b5ab7</guid>
+      <pubDate>Fri, 13 Nov 2026 18:23:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-2427bacb74a96b4b</guid>
+      <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI board member worries an AI "takeover" of society could be months away</title>
+      <link>https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/</link>
+      <description>Researcher traces a path from AI reward hacking to potential human extinction.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-743e8b03b2d96bb7</guid>
+      <pubDate>Fri, 13 Nov 2026 17:25:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>XYBench: Helping with the problem behind the question</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-8400bdfe1e2afd49</guid>
+      <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Wallet</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-5bf4951adbe9698d</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft Outlook outage stretches into a second day: What to know</title>
       <link>https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories</link>
@@ -101,6 +275,14 @@
       <category>theverge-ai</category>
       <guid isPermaLink="false">news-71dad9da95c2fbfe</guid>
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
+      <link>https://openai.com/business/customer-stories/shield</link>
+      <description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-d1318183fe172893</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How the Jensen Huang affair changes the outlook for U.S.-China relations</title>
@@ -618,188 +800,6 @@
       <category>cnbc-finance</category>
       <guid isPermaLink="false">news-d095bcb8c92dab56</guid>
       <pubDate>Tue, 10 Nov 2026 13:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine’s fiber-optic drones get squeezed by AI data center demand</title>
-      <link>https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/</link>
-      <description>Ukraine competes with Russia and data centers for China’s optical fiber supply.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-ffd1be60b8ac1c68</guid>
-      <pubDate>Tue, 10 Nov 2026 12:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Helping caregivers use AI in everyday life</title>
-      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
-      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-46ecb159c1535b09</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Closing the AI guidance gap in education</title>
-      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
-      <description>New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-01a8528fa117926a</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
-      <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
-      <description>Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output. Today's other big model release, Claude Fable 5.2, is 80x that price at $8/$40. The pricing is a little less straightforward as prompts get longer, though. Luna, Ember, and Haiku all support up to a million input tokens, but they also all have a threshold after which the price goes up. Taking that threshold into account Ember is priced between the two others: Model Prompt size Input ($/M) Cached input Output GPT-6 Luna ≤272k $0.10 $0.01 $0.50 &gt;272k $0.20 $0.02 $0.75 Muse Ember 1.0 ≤200k $0.10 $0.004 $0.50 &gt;200k $0.30 $0.012 $1.50 Claude Haiku 5.5 ≤100k $0.10 $0.01 $0.50 &gt;100k $0.50 $0.05 $2.50 But comparing price-per-token doesn't really make sense these days, when reasoning tokens mean that different models might use dramatically different numbers of tokens to solve the same problem. For that, one measure that's useful is the Artificial Analysis. And even more useful than that is their Intelligence Index vs. Cost per Task chart, which shows the following for those three models: The Muse Ember models sit right on that Pareto line - the line at which you can only improve one dimension by giving up another. Meta call this out in their announcement: It also sits on the efficiency frontier of the full Artificial Analysis leaderboard: no model scores higher for less per task. (That grey dot on the Pareto line in the middle of the green area is GPT-6.1 Terra (low) - clearly I should be paying more attention to the Terra family!) Muse Ember has six reasoning levels - minimal, low, medium, high, xhigh, and max - so I rendered six pelicans riding bicycles. The "high" reasoning level failed to return a full SVG, and the other SVGs were surprising in that the reasoning level didn't cleanly map to the visual quality of the response. Here's the "max" one, but the others are worth a look too: The Ember pelicans are comparable in quality to those I got from Muse Wonder, which is 40x the price of Muse Ember. Tags: ai, generative-ai, llms, meta, llm-pricing, llm-release, artificial-analysis, muse</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-fabe838d73f55c38</guid>
-      <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Prompting Claude Fable 5.2</title>
-      <link>https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</link>
-      <description>Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want the model to improve the structure as it works, say that the code is its own: This codebase is yours: what it's for and how it's built are your call, and you'll keep building on it. In Anthropic’s testing on small coding tasks, the model merged repeated code in about half of the tries with this sentence, and in under a tenth of the tries without it. — Prompting Claude Fable 5.2, Anthropic documentation Tags: prompt-engineering, anthropic, generative-ai, ai, llms, claude-mythos-fable</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-c8bf0b8e918f2da7</guid>
-      <pubDate>Tue, 10 Nov 2026 05:34:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny</title>
-      <link>https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/</link>
-      <description>Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.</description>
-      <category>techcrunch-enterprise</category>
-      <guid isPermaLink="false">news-20ff528b54959b19</guid>
-      <pubDate>Mon, 09 Nov 2026 18:09:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Fable 5.2 in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</link>
-      <description>Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable… The post Claude Fable 5.2 in GitHub Copilot appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-773234e7b2aca6b3</guid>
-      <pubDate>Mon, 09 Nov 2026 16:46:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-057e22ab69c04fb1</guid>
-      <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform</title>
-      <link>https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories</link>
-      <description>Precisely because it has long been hamstrung by rigid labor markets and overregulation, European stocks may paradoxically be bigger beneficiaries of the AI revolution in terms of enhanced productivity and cost-cutting than its U.S. counterparts</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-0028e353798833b0</guid>
-      <pubDate>Mon, 09 Nov 2026 14:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?</title>
-      <link>https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories</link>
-      <description>“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-f2483a4f533c1a6f</guid>
-      <pubDate>Mon, 09 Nov 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal</title>
-      <link>https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories</link>
-      <description>The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-5cf6a17605f19746</guid>
-      <pubDate>Mon, 09 Nov 2026 14:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html</link>
-      <description>At least nine people were dead after shootings in Krakow and another town. The suspected gunman died in the hospital and his motive remains unclear.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-48b7a29b11051d48</guid>
-      <pubDate>Mon, 09 Nov 2026 14:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automattic debuts a platform to deploy vibe coding apps amid a changing internet</title>
-      <link>https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/</link>
-      <description>Automattic aims to compete with likes of Lovable with Spacefast</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-95c3c02be004506d</guid>
-      <pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thirteen migrants die after boat sinks off Crete</title>
-      <link>https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-e2d0dd2e983a2748</guid>
-      <pubDate>Mon, 09 Nov 2026 13:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bipartisan Support for Israel Erodes as Both Sides Push for New Limits</title>
-      <link>https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html</link>
-      <description>Vice President JD Vance is among Republicans calling for change. Many Democratic lawmakers have been driving a campaign to restrict military aid to Israel.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-574156d00a0199ae</guid>
-      <pubDate>Mon, 09 Nov 2026 13:48:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence</title>
-      <link>https://importai.substack.com/p/import-ai-480-self-sustaining-space</link>
-      <description>When do you think we'll have robots on the moon?</description>
-      <category>import-ai</category>
-      <guid isPermaLink="false">news-eed50b97e7877e59</guid>
-      <pubDate>Mon, 09 Nov 2026 13:31:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Peace Talks Resume This Week in Abu Dhabi</title>
-      <link>https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html</link>
-      <description>U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-bd43b206d36c0fff</guid>
-      <pubDate>Mon, 09 Nov 2026 13:19:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>What we know so far about Jensen Huang's affair with suspected Chinese spy</title>
-      <link>https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The billionaire tech executive finds himself mired in a personal and national security scandal.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-2965feb8b5ecf244</guid>
-      <pubDate>Mon, 09 Nov 2026 13:10:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
-      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-7b1451fc786c34f9</guid>
-      <pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”</title>
-      <link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</link>
-      <description>Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-fdfdfd60876dfdbc</guid>
-      <pubDate>Mon, 09 Nov 2026 05:26:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Web Is More Than Enough, by Paul Ford</title>
-      <link>https://simonwillison.net/2026/Nov/9/hn-50421091/</link>
-      <description>My comment on The Web Is More Than Enough, by Paul Ford — Hacker News.OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it had built it, and got this: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (98KB) They aren't identical - you can see what Claude said about that in the transcript (I don't fully understand why it differed): https://claude.ai/share/e56d163e-2793-4677-aa11-191d5058b414 But yeah, it turns out Claude Opus 5.5 is perfectly capable of 3D modeling in Vanilla JS + WebGL without Three.js. In eyeballing the code I find the Three.js slightly easier to understand myself, but I rarely look at the code for these 3D projects so that isn't a particularly big deal. Tags: hacker-news, javascript, ai, generative-ai, llms, claude, three-js</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-5b851a3023343d96</guid>
-      <pubDate>Mon, 09 Nov 2026 04:32:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hide your slop PR descriptions behind &lt;details&gt;&lt;summary&gt;</title>
-      <link>https://simonwillison.net/2026/Nov/9/details-summary/</link>
-      <description>Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is that they are too good. An agent-written PR description is accurate and comprehensive. It describes the problem, the detailed solution, and the steps taken to verify it. That's a lot of information to absorb. It's not necessarily slop, but it reads like slop! It's very easy to spot an AI-written PR, and as with other forms of AI writing my instant reaction is best summarized as "I'm not reading all of that". It doesn't matter how accurate or useful the information is, I'm instantly put off by the thought that it will take me longer to read than it took the driving author to write... even when that driving author is me! I want human editorial judgement. I want someone to have thought just long enough about the PR to give me a human-approved introduction that helps me understand, at a high level, what the PR is for and whether it deserves more of my attention. I think I've found a low-effort way to do this that feels right. Hide most of it in a details/summary The HTML &lt;details&gt;&lt;summary&gt; elements render as a collapsed heading (the summary) that can be expanded to view the larger piece of text. The code looks like this: &lt;details&gt; &lt;summary&gt;Claude Opus 5.5&lt;/summary&gt; &lt;h2&gt;The hook&lt;/h2&gt; Plugins implement &lt;code&gt;register_agent_reference_types(datasette)&lt;/code&gt;... &lt;/details&gt; When rendered, it looks like this: Crucially, &lt;details&gt;&lt;summary&gt; is supported in GitHub Markdown. You can drop those tags directly into an issue comment or PR description and GitHub will hide the details and display just the summary plus an expansion arrow. I've started using this for my AI-generated pull requests. The opening paragraph of my PRs will be carefully selected to act as a high-level explanation of what's going on - the shortest text a human can read that will help get them up to speed. I'll sometimes throw in a screenshot as well, since images are often the best way to quickly illustrate a new feature. The full agent-written essay then follows in a &lt;details&gt;&lt;summary&gt;. I use the model name and often the effort level as that summary, to make it abundantly clear what is going on - "Claude Opus 5.5 Medium" for example. My PRs don't feel nearly as sloppy now! The information is all still there, but a reader can glance at it and get the top, human-curated information without their eyes glazing over at multiple paragraphs of agent-written details. I don't always write the introduction myself - sometimes the agent has given me what I need already, hidden away in the avalanche of other text. My promise to the reader is that the short opener will represent my human judgement as to what is definitely worth their time. Here are some recent examples where I've used this pattern, including the opener I used: datasette PR #3052: Redesign row page as a vertical list of fields - "The row page showed its single row as a one-row table. For wide tables, like a 46-column GitHub repos table, that scrolled far off to the right and left most of the page blank." (then a screenshot) datasette PR #3043: Pagination bar showing which rows are on the current page - "Table pages that span more than one page now make it obvious where you are, and offer navigation at the top of the page as well as the bottom." (plus screenshot) datasette PR #3042: Load edit-tools.js on demand via a small loader - "edit-tools.js (~220KB) was loaded on every table, row and database page, even for users who couldn't edit anything. Now only load it for users who can edit when they first interact with an edit feature (including mouse over an edit link)." datasette-agent PR #51: register_agent_reference_types plugin hook - "Lets plugins add their own kinds of item to the # tagging in the chat composer using a new register_agent_reference_types(datasette) plugin hook." - pictured above. llm PR #1838: Add llm openai endpoint add/list/remove/path commands - "Adds commands for managing the records in extra-openai-models.yaml, so OpenAI-compatible endpoints can be saved from the command line instead of by hand-editing YAML." - then copied --help output. The mnemonic I used to have trouble remembering the order of the tags - is it &lt;details&gt;&lt;summary&gt; or &lt;summary&gt;&lt;details&gt;? Here are two tricks that helped me. First, and most obviously, the &lt;summary&gt; is clearly the bit where you summarize the details. That's the tag for your line of text that can be clicked to expand - the &lt;details&gt; element must then wrap everything else. An even better trick is to always refer to these two tags as "details-summary". "details-summary" is two syllables followed by three syllables. That rolls off the tongue more smoothly than the three-two punch of "summary-details". Say "details-summary" out loud just a few times and you'll never forget the order of the tags again. (I still wish GitHub would add a button to their Markdown editor for this - partly to save me painstakingly typing it on my mobile keyboard, and partly to help spread the word to more GitHub users that this feature exists.) Tags: github, html, markdown, ai, datasette, generative-ai, llms, ai-assisted-programming, llm, coding-agents</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-a92667754bb129c0</guid>
-      <pubDate>Mon, 09 Nov 2026 04:25:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s the full text of Jensen Huang’s memo to Nvidia</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</link>
-      <description>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-67abd93f196f854c</guid>
-      <pubDate>Sun, 08 Nov 2026 22:54:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
