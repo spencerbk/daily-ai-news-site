@@ -5,8 +5,168 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial</title>
+      <link>https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html</link>
+      <description>The defendants were accused of colluding with Iran. Rights groups said the case raised concerns about religious persecution in Bahrain, which is ruled by a Sunni monarchy.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-5a7b33aa3db4f779</guid>
+      <pubDate>Mon, 16 Nov 2026 14:17:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?</title>
+      <link>https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories</link>
+      <description>“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-e6c49131f66b07bb</guid>
+      <pubDate>Mon, 16 Nov 2026 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>International Students Are Turning Away From U.S. Universities</title>
+      <link>https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html</link>
+      <description>For a second year, Trump administration policies appear to be scaring away international students, disrupting the finances of the American colleges that depend on them.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-5e393ac2048030fe</guid>
+      <pubDate>Mon, 16 Nov 2026 14:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years</title>
+      <link>https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories</link>
+      <description>Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-d842a4d076ed40e2</guid>
+      <pubDate>Mon, 16 Nov 2026 14:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang allies build a "war room" to get him back at Nvidia</title>
+      <link>https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/</link>
+      <description>Huang is weighing a return just days after resigning amid a deepening scandal.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-c0787d91eb5d8df5</guid>
+      <pubDate>Mon, 16 Nov 2026 14:06:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development</title>
+      <link>https://importai.substack.com/p/import-ai-481-ai-sub-contractors</link>
+      <description>Plus: CucumberVision!</description>
+      <category>import-ai</category>
+      <guid isPermaLink="false">news-862f2dd49595bba2</guid>
+      <pubDate>Mon, 16 Nov 2026 14:01:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Audible is trying to make it easier to find audiobooks you’ll actually like</title>
+      <link>https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability</link>
+      <description>Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-29a19e1aacc64ded</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Maps can now create trip itineraries for you</title>
+      <link>https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning</link>
+      <description>Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-dd02c35afc864bbe</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gérard Depardieu drops appeal against sexual assault conviction</title>
+      <link>https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-b63f5a0f50be384d</guid>
+      <pubDate>Mon, 16 Nov 2026 13:40:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Software engineering after code becomes cheap with Satya Nadella</title>
+      <link>https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes</link>
+      <description>Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-bb1032f7c48658c1</guid>
+      <pubDate>Mon, 16 Nov 2026 13:33:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star</title>
+      <link>https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html</link>
+      <description>Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-a16d484f9535a510</guid>
+      <pubDate>Mon, 16 Nov 2026 13:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Nvidia scandal isn’t slowing down</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down</link>
+      <description>For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are "the bedrock upon which advanced AI technology in the US is being built." Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-2b2bb87b4857660b</guid>
+      <pubDate>Mon, 16 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five EU countries expected to announce migrant deportation centre in Rwanda</title>
+      <link>https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a "return hub" for failed asylum seekers.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8d5a143784b680b3</guid>
+      <pubDate>Mon, 16 Nov 2026 12:54:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM</title>
+      <link>https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/</link>
+      <description>Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.</description>
+      <category>techcrunch-enterprise</category>
+      <guid isPermaLink="false">news-8cd345b9ca86f67c</guid>
+      <pubDate>Mon, 16 Nov 2026 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker</title>
+      <link>https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html</link>
+      <description>Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-be0f439fc3d0da04</guid>
+      <pubDate>Mon, 16 Nov 2026 12:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
+      <link>https://openai.com/index/lvmh-media-division-partnership</link>
+      <description>LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-91e58e2ea930c2fa</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple launches new app to study how people use AI for health</title>
+      <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
+      <description>Apple's new app for a study will answer everyday medical questions</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-77828770ffb5c4ae</guid>
+      <pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The King’s Trust and OpenAI launch £1m partnership</title>
+      <link>https://openai.com/index/the-kings-trust-and-openai</link>
+      <description>The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-e3915f7e4cf071c4</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-maplibre 0.1a0</title>
+      <link>https://simonwillison.net/2026/Nov/15/datasette-maplibre/</link>
+      <description>Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub.) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and openfreemap and combines the features of those other two plugins - but be creative and think outside the box for other useful features the plugin might have "Be creative and think outside the box" resulted in a few neat ideas - my favorite is that it displays SVG previews of GeoJSON shapes, then loads a WebGL preview only when they scroll into view. I also had Claude build a comprehensive demo which works in the latest Datasette Lite, so you can visit this link to load the plugin and a demo database in your browser via Pyodide and WebAssembly. I like this demo page showing both GeoJSON shapes and lat/lon points on the same map: Tags: visualization, generative-ai, datasette-lite, claude-mythos-fable, ai, llms, geospatial, openstreetmap, datasette</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-128a04bf78b6cc3a</guid>
+      <pubDate>Sun, 15 Nov 2026 23:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette 1.0a43</title>
+      <link>https://simonwillison.net/2026/Nov/15/datasette/</link>
+      <description>Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone, which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response.stream() method. There are a couple of security fixes, one of which I deemed deserving of a GitHub advisory: private stored queries could be exposed, granting access to the title and SQL of the query (but not allowing that query to be executed). There are dozens of smaller improvements. The row page JSON representation finally has a design suitable for 1.0. A new &lt;datasette-copy-button&gt; Web Component provides copy-schema in various places. JSON in columns on the row page can be pretty-printed. There's a new DatasetteModal.confirm() JavaScript utility method. Plus dozens of bug fixes, including contributions by Zihan Dai, Peter Olkhovets, Ilya Khalafi, and Ankita Advitot. The feature I'm most excited about is a pretty tiny one: I've added CSS multi-page view transitions to Datasette! Here's the commit - key CSS is as follows: /* Enable cross-document view transitions, for anyone without prefers-reduced-motion */ @media (prefers-reduced-motion: no-preference) { @view-transition { navigation: auto; } } /* .facet-results should morph from old position to new */ html:active-view-transition .content &gt; .facet-results { view-transition-name: facet-results; } /* So should a .table-wrapper, provided it contains .rows-and-columns */ html:active-view-transition .table-wrapper:has(&gt; table.rows-and-columns) { view-transition-name: rows-table; } With that in place, navigations within Datasette - still staunchly a multi-page application - feel more like an SPA. This works on Safari and Chrome at the moment and I believe supports for Firefox is due to land in Firefox 162 on December 8th 2026 (seeing as they are no longer feature-flagged in Firefox Nightly.) Tags: security, datasette, css, browsers, annotated-release-notes, firefox, javascript, safari, chrome</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-67eb98ac1cd8e0ee</guid>
+      <pubDate>Sun, 15 Nov 2026 23:20:27 +0000</pubDate>
+    </item>
     <item>
       <title>Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?</title>
       <link>https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories</link>
@@ -641,165 +801,6 @@
       <category>techcrunch-enterprise</category>
       <guid isPermaLink="false">news-7d4c517a6890da29</guid>
       <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes</title>
-      <link>https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html</link>
-      <description>The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-33a677852d378a79</guid>
-      <pubDate>Wed, 11 Nov 2026 14:24:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>My friend hates her job but shuts down when I give her advice. How can I help her?</title>
-      <link>https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories</link>
-      <description>It’s counterintuitive, but the worst thing you could do is give your friend advice, says one career coach.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-1b62a224519ce02a</guid>
-      <pubDate>Wed, 11 Nov 2026 14:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forget happy hour. ‘Money parties’ are having a moment.</title>
-      <link>https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories</link>
-      <description>There’s evidence showing that talking about finances with your friends can help you save money.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-422bed9b635d1dc6</guid>
-      <pubDate>Wed, 11 Nov 2026 14:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind just mathematically verified key parts of Signal</title>
-      <link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</link>
-      <description>The four-week project hints that AI could make formal verification far more practical.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-ef892408bebc346b</guid>
-      <pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spain sees widespread disruption in first general strike for 14 years</title>
-      <link>https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-23565797d1ba8e8e</guid>
-      <pubDate>Wed, 11 Nov 2026 14:06:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
-      <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
-      <description>Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-450a9863af999dab</guid>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'</title>
-      <link>https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Mada Masr editor-in-chief Lina Attalah is being tried on the charge of "publishing false news" and potentially faces imprisonment.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-ff8b6bdaf492f344</guid>
-      <pubDate>Wed, 11 Nov 2026 13:25:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Four grizzly bears killed in Canada after fatal attack on mother and daughter</title>
-      <link>https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-c7c5ecc656163395</guid>
-      <pubDate>Wed, 11 Nov 2026 13:24:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance</title>
-      <link>https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html</link>
-      <description>Pope Leo spent nearly two decades in Peru, rising to bishop and becoming a citizen. But many Peruvians have turned away from Catholicism, seeking a more expressive and direct connection to God.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-c0fe67bb3e44c938</guid>
-      <pubDate>Wed, 11 Nov 2026 10:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France</title>
-      <link>https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html</link>
-      <description>The Orléans Fine Arts Museum is on a quest to recover hundreds of works stolen during World War II — and the director wants your help.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-2dddc640659945cd</guid>
-      <pubDate>Wed, 11 Nov 2026 10:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Plus for veterans and servicemembers</title>
-      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-80b38ea7da372c49</guid>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia’s crisis has corporate governance experts reaching for the popcorn</title>
-      <link>https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</link>
-      <description>The governance experts we talked to say nobody has seen anything like what's unfolding right now.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-a390f90d4604de89</guid>
-      <pubDate>Wed, 11 Nov 2026 07:30:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-      <link>https://huggingface.co/blog/qvac/botpsy</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-b22522d14a17f95f</guid>
-      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub App support for Enterprise Copilot seat management</title>
-      <link>https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management</link>
-      <description>Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-871ae47d300c9e08</guid>
-      <pubDate>Wed, 11 Nov 2026 00:10:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</title>
-      <link>https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/</link>
-      <description>Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-cd1dc6d6e6bd42c3</guid>
-      <pubDate>Tue, 10 Nov 2026 22:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
-      <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
-      <description>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-bd2a6830d8cf7795</guid>
-      <pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>llm-gemini 0.36</title>
-      <link>https://simonwillison.net/2026/Nov/10/llm-gemini/</link>
-      <description>Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for "a subset of cyber defenders", but today it's available to everyone else. This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high: Gemini pelicans have all been great for a while now, so I also tested it out using Google's Antigravity IDE with a prompt I first tried with Claude Fable 5.2 yesterday: Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data Here's the HTML result (I had to prompt "build that into a standalone HTML file" to get a version with no external dependencies). I then screen-captured that as a video: Update: Huh, just saw this on YouTube (and tweeted by Sundar Pichai): Using Google Antigravity’s /swarm feature, Carbon built an open-world 3D game where you explore Google’s Mountain View campus as a pelican riding a GBike — coordinating subagents to model 3D assets in Blender from Omni and Nano Banana references, build the browser game in Three.js with WebGL shaders, and pair procedural Web Audio sound effects with Lyria music. Here's the playable version in AI Studio. Tags: llm-release, gemini, llm, google, generative-ai, ai, llms, pelican-riding-a-bicycle</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-c1fbfe2e3fcb7bc5</guid>
-      <pubDate>Tue, 10 Nov 2026 20:09:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon in GitHub Copilot</title>
-      <link>https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot</link>
-      <description>Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog.</description>
-      <category>github-changelog</category>
-      <guid isPermaLink="false">news-0fe8b882dbb9b0ec</guid>
-      <pubDate>Tue, 10 Nov 2026 19:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>The US is winning the AI race. Jensen Huang could have blown it</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy</link>
-      <description>As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-34a6071342ff5a88</guid>
-      <pubDate>Tue, 10 Nov 2026 19:04:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Git security vulnerabilities announced</title>
-      <link>https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/</link>
-      <description>Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-7bd6d5785093a8de</guid>
-      <pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
