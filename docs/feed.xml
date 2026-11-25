@@ -5,8 +5,166 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 14:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:30:06 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips</title>
+      <link>https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html</link>
+      <description>Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-dd9641ab20f437b0</guid>
+      <pubDate>Wed, 25 Nov 2026 14:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon</title>
+      <link>https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories</link>
+      <description>A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-8391905f2bb8f870</guid>
+      <pubDate>Wed, 25 Nov 2026 14:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest</title>
+      <link>https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories</link>
+      <description>Medicare Advantage is starting to lose its all-in-one benefit.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-fc0a8887bb2caf1b</guid>
+      <pubDate>Wed, 25 Nov 2026 14:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon is reportedly in talks to end Muse AI shopping block</title>
+      <link>https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</link>
+      <description>Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-e1845ee0b548d25f</guid>
+      <pubDate>Wed, 25 Nov 2026 14:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon and Meta reportedly in talks to lift blockade on AI agent Muse</title>
+      <link>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</link>
+      <description>Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-61cb6e1f95ec64ca</guid>
+      <pubDate>Wed, 25 Nov 2026 14:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>How an Iranian Ally Gained the Upper Hand in Yemen’s War</title>
+      <link>https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html</link>
+      <description>The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-5e34a7a9f855842a</guid>
+      <pubDate>Wed, 25 Nov 2026 13:59:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War</title>
+      <link>https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html</link>
+      <description>The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-bb3a04fba478d172</guid>
+      <pubDate>Wed, 25 Nov 2026 13:40:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defending Aden, Yemen’s Holdout Against the Houthis</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html</link>
+      <description>The war in Iran has reignited Yemen’s decade-old civil war. Saudi-backed troops are scrambling to defend against advancing Houthi fighters as the wounded are taken to the port city of Aden, the government’s provisional capital.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-dd60faf78501922a</guid>
+      <pubDate>Wed, 25 Nov 2026 13:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Has vibe coding made open source the new normal for synths?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware</link>
+      <description>The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-929f2b2360df7688</guid>
+      <pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The questions Jensen Huang and Nvidia will still have to answer about Megaspeed</title>
+      <link>https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/</link>
+      <description>Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-958b4d502f59f32f</guid>
+      <pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kilmar Ábrego García arrives in Spain, ending Trump deportation battle</title>
+      <link>https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-e7960cb79109a0ea</guid>
+      <pubDate>Wed, 25 Nov 2026 12:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veteran Nigerian Nollywood actor Pete Edochie dies aged 79</title>
+      <link>https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-b20ea6580614c93e</guid>
+      <pubDate>Wed, 25 Nov 2026 12:24:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI may soon change what it means to be a theoretical physicist</title>
+      <link>https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/</link>
+      <description>Frontier AI is already solving problems that once took top physicists a full day.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-e97fae54855e27b5</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>An Indic Voice Agent with CUGA</title>
+      <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-d0a3a7f662b58965</guid>
+      <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three LLM inflection points in twelve months</title>
+      <link>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</link>
+      <description>I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today, November 24th 2026, is the one year anniversary of the release of Claude Opus 4.5. With hindsight, this was a consequential model. In the Opus 4.5 announcement, Anthropic said: Testers noted that Claude Opus 4.5 handles ambiguity and reasons about tradeoffs without hand-holding. They told us that, when pointed at a complex, multi-system bug, Opus 4.5 figures out the fix. They said that tasks that were near-impossible for Sonnet 4.5 just a few weeks ago are now within reach. This held up. Claude Code was 9 months old at that point, having been introduced alongside Claude 3.7 Sonnet on February 24th, 2025. Opus 4.5 was the first model I had used with Claude Code where the default result was generally the right thing. I hadn't been using Claude Code as a daily driver because it didn't feel reliable enough - I had to correct it often enough that it didn't feel like a clear accelerant. The new Opus changed that. For most of the coding problems I faced on a daily basis, Opus would get them right. It was clearly faster than working through the problems myself. Also in November, OpenAI released GPT-5.1 Instant, GPT-5.1 Thinking, GPT-5.1-Codex, and GPT-5.1-Codex-Max. These had a similar effect on their Codex coding agent: it became reliably useful for many of my coding tasks. The timing was convenient, because the December holidays were upon us. A lot of people, myself included, spent December tinkering with these new tools to see what they could do. By January we were ready to use them for our actual work. Fable class models in June/July We got our first hint of Claude Fable in April, when Anthropic announced Claude Mythos and said that it was too dangerous to release, due to its improved cybersecurity capabilities. Mythos was a model that could not just find security vulnerabilities, it could also figure out how to exploit them. In June we got to see how good that model was for ourselves, with the release of Claude Fable 5 - a defanged Mythos, that would solve most problems but would actively block you from using it for security work. After three glorious days... the US government took it away from us. Fable 5 was placed under export controls that effectively banned the model. We wouldn't get it back until July 1st. For me, Fable was an inflection point because it introduced us to what I now think of as Fable class models. My definition of these: In June I wrote about how Claude Fable is relentlessly proactive, after I asked it to help fix a display glitch in Safari and it spun up its own pyobjc-framework-Quartz screenshot mechanism and a CORS-enabled localhost logging server to help resolve the bug. A more recent example of the power of Fable class models is my mysterious beep finder from a couple of weeks ago. I gave Opus 5.5 and then Fable 5.2 access to five WebAudio microphones in a room full of boxes and it was able to triangulate the source of an infuriating mysterious beep to within about 40cm. Give it a goal, give it the right tools, and watch it cook. I'd currently class Claude Fable 5, 5.1, 5.2 and Claude Opus 5.5 as Fable class (I think of Opus 5.5 as "cheap Fable"). GPT-6 Astra got there for me too, and I think the new Gemini 4 Neon may count as well. These now represent the baseline for what I expect from a frontier model. 3D modeling and game development in September/October Something interesting happened with frontier LLMs over just the past four months: they got really good at 3D modeling. Set them up with Blender or ask them to write Three.js code and they'll produce credible models of almost anything you ask for. I first noticed this with Claude Fable 5, but it really kicked into gear with Opus 5.5, GPT-5.6 Sol, GPT-6 Astra, and most recently the Gemini 4 family. Here's Gemini 4 Neon's attempt at "Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data", for example. 3D spatial awareness is crucial if you want to use vision LLMs for robotics. I don't know if 3D modeling capabilities are a side-effect of the labs focusing on that or vice-versa. Back in August I experimented with having Fable 5 build me a raccoon heist game. It had 3D graphics, looked like a game, and played really poorly. GPT-5.6 Sol Ultra did a much better job but the game itself was still pretty dull after the first 90 seconds of play. I was somewhat relieved that designing a game that was fun appeared to remain a uniquely human pursuit. I even used that in a talk in September to reassure people that us humans still had a role to play! Then, I tried telling Claude Opus 5.5 "This game isn't fun enough yet. Make it a LOT more fun." And it worked. My Command &amp; Conquer-style RTS went from boring to deeply entertaining overnight, after Opus spent 12 hours playtesting new features and rebalancing the gameplay. Opus 5.5 was the first model I'd used that appeared to understand fun. I've since worked on several little game projects where prompts like "Think hard about how to make sure it is both fun and beautiful" produced results that kept me engaged for significant amounts of time. Opus 5.5 came out on September 22nd, 2026. I've been to two different conferences since then where people showed me game projects they'd been working on that really did feel like proper, worthwhile games. The indie games scene has descended into a full-blown culture war over AI-assisted programming. A lot of people are calling GTA VI the last pre-generative AI blockbuster. It feels like another inflection point to me. Is Fable 5.2 an inflection point too? I'm still trying to decide if Fable 5.2 represents a new inflection point, or just another incremental improvement. I'm getting so much done with that model right now! It seems to have taste that almost exactly matches my own. I have been burning through all sorts of gnarly problems that I've been thinking about (or procrastinating on) for several years now. The release notes for Datasette 1.0a42, 1.0a43, and 1.0a44 - plus LLM 0.37, 0.37.1, 0.37.2, 0.37.3, and 0.38 - all in the last three weeks, represent a flood of fixes, features and improvements. If this does represent an inflection point, the key feature seems to be that if you can imagine and then clearly describe a piece of software, Fable can build it. That's a wild thing to say, but it matches my experience over the past few weeks. Software development has transformed beyond recognition in the last year. I don't think I'll ever go back to typing most of my code by hand. Tags: game-design, my-talks, ai, generative-ai, llms, annotated-talks, coding-agents, claude-code, codex, claude-mythos-fable</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-8caf92805426b7bd</guid>
+      <pubDate>Tue, 24 Nov 2026 23:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)</title>
+      <link>https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge</link>
+      <description>How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-e1da163523969220</guid>
+      <pubDate>Tue, 24 Nov 2026 19:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT 6.2 Astra Solves a Historical Mystery</title>
+      <link>https://simonwillison.net/2026/Nov/24/astra-historical-mystery/</link>
+      <description>GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library. It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. To do so, it discovered a little known source in a paper archive, predicted that it would prove its hypothesis if examined and, in the end, it did. Not only that, but this new source turns out to be a major find on its own that will be of significant interest to both Canadian and fur trade historians. Here's the digitized sketchbook. Astra found a diary reference reference to a visit by the vicomte de Chabot dated five days before a date mentioned in the sketchbook at a nearby river, and suggested that Chabot's journal of his travels (only available by order from Cleveland State University) might confirm that the sketchbook was his work. Are historians due for a round of Deep Blue? Mark thinks it will be mild: But if the experience of mathematics is any guide, we can also anticipate that sometime next spring or summer we’ll face a sort of crisis of confidence as we struggle to understand how to respond to agentic systems that can do things human historians cannot. To be fair, that crisis will almost certainly be less profound for us than it is for math. The problem in mathematics, of course, is that solving hard math problems was the whole game. Historians, on the other hand, constantly reinterpret the past in light of an evolving present; we don’t chase a single universal truth. We also (in the ideal at least) write books and articles that are closer to works of philosophy and literature than they are to scientific tracts. Humanity is thus something of a requirement for the production of historical literature. Tags: history, ai, generative-ai, llms, ai-assisted-search, deep-blue, gpt-6-astra</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-c808d58c8ec473e8</guid>
+      <pubDate>Tue, 24 Nov 2026 16:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+      <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-16565a3f5dc091b0</guid>
+      <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s new in Microsoft Foundry | Ignite 2026</title>
+      <link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-ignite-2026/</link>
+      <description>Microsoft Foundry Ignite 2026 updates for agents, developer tools, models, training, enterprise context, and governance, with continuous improvement. The post What’s new in Microsoft Foundry | Ignite 2026 appeared first on Microsoft Foundry Blog.</description>
+      <category>devblogs-msft-foundry</category>
+      <guid isPermaLink="false">news-138f6789a511774a</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>These are the gifts developers will actually want</title>
+      <link>https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/</link>
+      <description>The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-cd3c9a93a00e4f15</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The newest addition to the S&amp;P 500 is a maker of viral ice-cream machines</title>
       <link>https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories</link>
@@ -54,6 +212,14 @@
       <category>cnbc-finance</category>
       <guid isPermaLink="false">news-5b5a2db04132ebbb</guid>
       <pubDate>Tue, 24 Nov 2026 13:33:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
+      <description>GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.</description>
+      <category>openai-news</category>
+      <guid isPermaLink="false">news-3c6728c1bfd19879</guid>
+      <pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian governor detained in rare criminal case against regional leader</title>
@@ -636,172 +802,6 @@
       <category>bbc-world</category>
       <guid isPermaLink="false">news-77ce998683fd2d0b</guid>
       <pubDate>Fri, 20 Nov 2026 13:28:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal is blocking Gemini and Siri AI from reading your screen</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</link>
-      <description>Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are "undermining Signal's ability to independently guarantee privacy," Signal president […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-779ccf54081cfd88</guid>
-      <pubDate>Fri, 20 Nov 2026 12:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Combatting adversarial distillation</title>
-      <link>https://openai.com/index/combatting-adversarial-distillation</link>
-      <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-3ea993db7e3c60d1</guid>
-      <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Token fraud is here and it’s BAD (YouTube)</title>
-      <link>https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</link>
-      <description>Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD, an AI platform that helps product managers "turn an idea into a spec". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises on top of the ChatPRD agent. I am funding a international Roblox and Fortnite map studio. They run a loop of free trials and promo codes and then tunnel to my agent and use it to build Roblox and Fortnite maps. Apparently one of the common prompts Claire saw running through her agent involved SVGs of pelicans riding bicycles! Presumably the token scammers are using that to help sniff the underlying models - different model families have a definite signature, and I've used it like this in the past to try and guess the identity of stealth preview models on platforms like OpenRouter. Claire is winding down her free trials entirely, which sadly looks like the right decision in the face of this abuse. Tags: youtube, ai, generative-ai, llms, pelican-riding-a-bicycle, ai-misuse</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-f32d5bea8abf85e8</guid>
-      <pubDate>Fri, 20 Nov 2026 02:49:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple may be developing its own AI agent that runs your Mac</title>
-      <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
-      <description>The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-8f4728ffc5b95bfc</guid>
-      <pubDate>Fri, 20 Nov 2026 00:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO</title>
-      <link>https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/</link>
-      <description>At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-f1dd0bea0b97e4ab</guid>
-      <pubDate>Fri, 20 Nov 2026 00:43:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-      <link>https://huggingface.co/blog/inkling2mini</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-80d31a6dee298bbd</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
-      <link>https://openai.com/business/customer-stories/hebbia</link>
-      <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-d15c45643214b444</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
-      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-211fbe8009a45ecd</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 19 Released</title>
-      <link>https://simonwillison.net/2026/Nov/19/postgresql-19/</link>
-      <description>PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds "read-your-writes" consistency with the new WAIT FOR LSN command. A session on a standby can use WAIT FOR LSN to wait until the standby has replayed the write-ahead log (WAL) up to a specific log sequence number (LSN) before running a query, so the application can read data it just wrote on the primary. In practice, that looks like this: UPDATE movie SET genre = 'Dramatic' WHERE genre = 'Drama'; SELECT pg_current_wal_insert_lsn(); That returns a value like 0/0306EE20. Store that somewhere (a signed cookie would work) such that on a subsequent request your application can do: WAIT FOR LSN '0/0306EE20' WITH (TIMEOUT '0.1s'); SELECT * FROM movie WHERE genre = 'Drama'; The timeout is optional - if you provide one you'll get an error if the replica you are talking to doesn't catch up within the specified time. I first encountered this pattern in Wikipedia, which has a hand-rolled version of this built against MySQL replication: In addition to this, MediaWiki attempts to ensure that the user sees events occurring on the wiki in chronological order. A few seconds of lag can be tolerated, as long as the user sees a consistent picture from subsequent requests. This is done by saving the primary binlog position in the session, and then at the start of each request, waiting for the replica to catch up to that position before doing any reads from it. Here's the relevant MediaWiki code, which these days uses MySQL's WAIT_FOR_EXECUTED_GTID_SET() function and falls back to SOURCE_POS_WAIT(). Via Lobste.rs Tags: mysql, postgresql, replication, scaling, wikipedia, ai-security-research</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-7339d690dfb602dd</guid>
-      <pubDate>Thu, 19 Nov 2026 20:43:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Traumatized teens sue school, cops after Doritos bag triggers AI gun alert</title>
-      <link>https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/</link>
-      <description>Lawsuit: Over 99% of school system’s AI gun alerts were false positives.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-a18d40e53c3a1f38</guid>
-      <pubDate>Thu, 19 Nov 2026 20:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pulse: Is Amazon’s writing culture collapsing because of AI?</title>
-      <link>https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture</link>
-      <description>Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more</description>
-      <category>pragmatic-engineer</category>
-      <guid isPermaLink="false">news-04da227b0cee83ba</guid>
-      <pubDate>Thu, 19 Nov 2026 17:08:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>The best things in open source are built together</title>
-      <link>https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/</link>
-      <description>Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog.</description>
-      <category>github-blog</category>
-      <guid isPermaLink="false">news-1359fddbf69495ca</guid>
-      <pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure</link>
-      <description>Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-0b3a38ae0a194f39</guid>
-      <pubDate>Thu, 19 Nov 2026 14:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live Updates: Trump, Xi and Putin Seek to Project Power at Their First Summit</title>
-      <link>https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec</link>
-      <description>The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-c0f9ebc4783c4912</guid>
-      <pubDate>Thu, 19 Nov 2026 14:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely</title>
-      <link>https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html</link>
-      <description>After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-c2ae049e891f923c</guid>
-      <pubDate>Thu, 19 Nov 2026 14:23:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>My wife pays thousands for her family to visit us in New York. How can I ask her to choose between them and me?</title>
-      <link>https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories</link>
-      <description>“Hotel rooms can cost as much as $400 per night.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-fb0127a77dd48f99</guid>
-      <pubDate>Thu, 19 Nov 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?</title>
-      <link>https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html</link>
-      <description>An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-718115905acf3641</guid>
-      <pubDate>Thu, 19 Nov 2026 14:13:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google turns to a volcano and rock-melting technology in a wild new bid to power AI</title>
-      <link>https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories</link>
-      <description>Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-97c8e40bb54eeed1</guid>
-      <pubDate>Thu, 19 Nov 2026 14:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Superhuman pushes its Go assistant everywhere</title>
-      <link>https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/</link>
-      <description>Superhuman is making Go its central agent and making it available in Docs and Mail</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-1501adb883e7f84c</guid>
-      <pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Venezuela signs military deal with US less than a year after Maduro's removal</title>
-      <link>https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-b16facea9bde3be0</guid>
-      <pubDate>Thu, 19 Nov 2026 13:31:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge</title>
-      <link>https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-8944b9bf2f7dff44</guid>
-      <pubDate>Thu, 19 Nov 2026 13:07:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
