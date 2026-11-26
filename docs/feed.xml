@@ -5,8 +5,181 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:30:08 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation</title>
+      <link>https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html</link>
+      <description>The actress Charlotte Arnould has accused the French movie star of raping her in 2018. He has denied any wrongdoing in the case.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-40a8f5ac42986b6d</guid>
+      <pubDate>Thu, 26 Nov 2026 14:17:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia</title>
+      <link>https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html</link>
+      <description>Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-47226d8669ce0930</guid>
+      <pubDate>Thu, 26 Nov 2026 14:01:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one</title>
+      <link>https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The possible environmental damage is still being assessed by Spain's sea rescue service.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-f12611ab34368234</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain</title>
+      <link>https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html</link>
+      <description>Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-6bfa42338fda83f2</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia and the whole AI trade aren’t out of the woods — not by a long shot</title>
+      <link>https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories</link>
+      <description>The ‘Bank of AI’ faces a host of troubles ahead.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-16076667d9c24d3c</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.</title>
+      <link>https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories</link>
+      <description>A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-438eb04604498a57</guid>
+      <pubDate>Thu, 26 Nov 2026 13:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semiconductor chips are the new oil. Here's why</title>
+      <link>https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html</link>
+      <description>Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-37c53964f6b585bb</guid>
+      <pubDate>Thu, 26 Nov 2026 13:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Miami runway incident disrupts flights on Thanksgiving eve</title>
+      <link>https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A FedEx aircraft overran a runway, prompting disruption on one of the busiest travel days of the year.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-94d2e60bc99c64ce</guid>
+      <pubDate>Thu, 26 Nov 2026 13:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-02a088434703556c</guid>
+      <pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
+      <link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
+      <description>A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off "the private chat histories of more than 21 million U.S. accounts - […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-c0f2de19f05669ce</guid>
+      <pubDate>Thu, 26 Nov 2026 09:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>sqlite3_rsync: Database Remote-Copy Tool For SQLite</title>
+      <link>https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</link>
+      <description>sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as "experimental" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025. It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the backup API or VACUUM INTO. In both cases you need enough disk space to create a duplicate copy of your database, so if you're on a small instance and you already use more than half of the available disk you are plain out of luck. sqlite3_rsync can copy a snapshot of your database over an SSH connection to another machine, without first needing to create a full local copy! It's also good for synchronizing an existing copy of a database without re-transmitting the entire thing over the network. It works in a similar way to regular rsync: The core idea behind the protocol is that the replica sends cryptographic hashes for pages or groups of pages over to the origin side. The origin sends back page content that differs, or requests finer-grain hashes if a multi-page hash does not match. If the origin and replica start out being vastly different, the total network bandwidth can exceed the size of the entire database, due to the overhead of exchanging hashes, but the excess bandwidth is not great - a few percent at most. Update: Hah! Turns out I wrote about this application of sqlite_rsync back in October 2024 when the tool was first released. Tags: backups, sqlite</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-9a5f91905dabf645</guid>
+      <pubDate>Thu, 26 Nov 2026 06:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+      <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-d3aa48daa62df585</guid>
+      <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
+      <link>https://huggingface.co/blog/training-swarms</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-c01600d4160315a4</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Scott Aaronson</title>
+      <link>https://simonwillison.net/2026/Nov/25/scott-aaronson/</link>
+      <description>It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoretic universe, and the whole universe of mathematical truth beyond it, has now improved. — Scott Aaronson Tags: mathematics, llms, ai, generative-ai</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-2c33c3cedb6545ec</guid>
+      <pubDate>Wed, 25 Nov 2026 23:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
+      <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
+      <description>The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-707319c903aa5aba</guid>
+      <pubDate>Wed, 25 Nov 2026 22:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copilot code review billing will default to the organization</title>
+      <link>https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization</link>
+      <description>If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep… The post Copilot code review billing will default to the organization appeared first on The GitHub Blog.</description>
+      <category>github-changelog</category>
+      <guid isPermaLink="false">news-c0d40e212e2d5948</guid>
+      <pubDate>Wed, 25 Nov 2026 22:18:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
+      <link>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</link>
+      <description>Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-ceecf9e348f1c1f1</guid>
+      <pubDate>Wed, 25 Nov 2026 21:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
+      <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
+      <description>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-dc85126b0ac71765</guid>
+      <pubDate>Wed, 25 Nov 2026 20:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Anthropic builds software in 2026 with Katelyn Lesse</title>
+      <link>https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in</link>
+      <description>Katelyn Lesse explains how Anthropic rewrote Claude’s API in Rust and how AI agents are changing engineering at the company.</description>
+      <category>pragmatic-engineer</category>
+      <guid isPermaLink="false">news-8bc07deb0c8ad96d</guid>
+      <pubDate>Wed, 25 Nov 2026 17:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ars Live recap: Don’t expect military attacks on data centers to stop</title>
+      <link>https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/</link>
+      <description>Militaries have many reasons to target data centers and the cloud in wartime.</description>
+      <category>arstechnica-ai</category>
+      <guid isPermaLink="false">news-148a75b422c2ea8b</guid>
+      <pubDate>Wed, 25 Nov 2026 16:47:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Art of play in the age of AI</title>
+      <link>https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/</link>
+      <description>Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-c510c0910746e452</guid>
+      <pubDate>Wed, 25 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to choose the next safe step in application modernization</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/</link>
+      <description>Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog.</description>
+      <category>github-blog</category>
+      <guid isPermaLink="false">news-60ccd11aa2a7b265</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips</title>
       <link>https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html</link>
@@ -626,182 +799,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-ca1952e7b9795a91</guid>
       <pubDate>Sat, 21 Nov 2026 14:09:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html</link>
-      <description>The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-33032e6acdc2fb75</guid>
-      <pubDate>Sat, 21 Nov 2026 14:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
-      <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
-      <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-e74727ec8af70116</guid>
-      <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting</title>
-      <link>https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-88af422b08668902</guid>
-      <pubDate>Sat, 21 Nov 2026 13:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper</title>
-      <link>https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-55c3376cce8560b9</guid>
-      <pubDate>Sat, 21 Nov 2026 10:26:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>How China is using summits to expand its global influence</title>
-      <link>https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html</link>
-      <description>Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-e0907b24b566797a</guid>
-      <pubDate>Sat, 21 Nov 2026 06:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google rolls out new search homepage with AI chat history and no search button</title>
-      <link>https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/</link>
-      <description>Google search is making it even easier to access AI tools on the search page.</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-5a49fd4a2d776cb4</guid>
-      <pubDate>Fri, 20 Nov 2026 21:58:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers</title>
-      <link>https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/</link>
-      <description>Meta is “re-evaluating” 2030 sustainability goals. Will others follow?</description>
-      <category>arstechnica-ai</category>
-      <guid isPermaLink="false">news-c4b0222f29f2f6ae</guid>
-      <pubDate>Fri, 20 Nov 2026 21:47:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
-      <link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
-      <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-340614cb1d4599fc</guid>
-      <pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too</title>
-      <link>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</link>
-      <description>Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-d6bff5841b5a64e7</guid>
-      <pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Ravi Vakil</title>
-      <link>https://simonwillison.net/2026/Nov/20/ravi-vakil/</link>
-      <description>Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil, Hurried Announcement: Alessandro Masullo GRH Tags: mathematics</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-6a73fdd651f90d83</guid>
-      <pubDate>Fri, 20 Nov 2026 19:21:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quoting Levent Alpöge</title>
-      <link>https://simonwillison.net/2026/Nov/20/levent-alpoge/</link>
-      <description>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater. [...] Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line. No, Claude flew, and danced, and sparkled near that finish line. — Levent Alpöge, alpo.ge/remark.pdf Tags: anthropic, claude, generative-ai, mathematics, ai, llms, levent-alpoge</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-9e188d65b5accd0c</guid>
-      <pubDate>Fri, 20 Nov 2026 16:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serve open models in production with Foundry Managed Compute</title>
-      <link>https://devblogs.microsoft.com/foundry/managed-compute-ga/</link>
-      <description>Managed Compute serves open models on dedicated GPUs in Microsoft Foundry, with Global and US or EU Data Zone deployments. The post Serve open models in production with Foundry Managed Compute appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-e52310c47411d05e</guid>
-      <pubDate>Fri, 20 Nov 2026 15:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Britain Announces Brexit Reset Deal at E.U. Summit: What to Know</title>
-      <link>https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html</link>
-      <description>Prime Minister Andy Burnham and European leaders announced a deal to remove some barriers introduced by Brexit, a decade after Britain left the European Union.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-2692dbb17486b197</guid>
-      <pubDate>Fri, 20 Nov 2026 14:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right</title>
-      <link>https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html</link>
-      <description>Protests across Europe are the latest example of global youth anger that has driven demonstrations and election upsets.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-dac362452d12feef</guid>
-      <pubDate>Fri, 20 Nov 2026 14:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company</title>
-      <link>https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html</link>
-      <description>The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-465dafd479ebc2f7</guid>
-      <pubDate>Fri, 20 Nov 2026 14:16:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>GameStop has transformed from a meme stock into a ‘real company,’ analysts say</title>
-      <link>https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories</link>
-      <description>Roaring Kitty’s return had minimal impact on GameStop’s stock, which has started to gain more sophisticated appeal for its “new and improved story.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-e9f4ff030ee476ad</guid>
-      <pubDate>Fri, 20 Nov 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The week everything fell apart</title>
-      <link>https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</link>
-      <description>There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-299291fdd5181a56</guid>
-      <pubDate>Fri, 20 Nov 2026 14:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>These little-known investments could be among the best bargains in a crash</title>
-      <link>https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories</link>
-      <description>If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-459286d9475e27f1</guid>
-      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Six AI-powered gadgets that could make your home office smarter</title>
-      <link>https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/</link>
-      <description>From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-7d8981ef54762173</guid>
-      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-acf404f6e9c14298</guid>
-      <pubDate>Fri, 20 Nov 2026 13:52:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia</title>
-      <link>https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html</link>
-      <description>Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.</description>
-      <category>cnbc-finance</category>
-      <guid isPermaLink="false">news-a2435921bf2526fb</guid>
-      <pubDate>Fri, 20 Nov 2026 13:29:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>White House removes cyber-security chief after series of tech outages</title>
-      <link>https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-77ce998683fd2d0b</guid>
-      <pubDate>Fri, 20 Nov 2026 13:28:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
