@@ -5,8 +5,111 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>How much more are richest Americans spending on the holidays compared to everyone else?</title>
+      <link>https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories</link>
+      <description>Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-15160fa00a4accc3</guid>
+      <pubDate>Fri, 27 Nov 2026 14:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android’s DIY widgets are a bit of vibe-coding fun</title>
+      <link>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</link>
+      <description>Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]</description>
+      <category>theverge-ai</category>
+      <guid isPermaLink="false">news-24644713102c0e39</guid>
+      <pubDate>Fri, 27 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?</title>
+      <link>https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories</link>
+      <description>Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-c6bccc7201403dec</guid>
+      <pubDate>Fri, 27 Nov 2026 13:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rare turtles found inside baggage at Amsterdam airport</title>
+      <link>https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The endangered reptiles were bound with duct tape to prevent them moving, officials say.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-b751f41a1b2553aa</guid>
+      <pubDate>Fri, 27 Nov 2026 13:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Puma Shen, Critic of China, Could be the Next Mayor of Taipei</title>
+      <link>https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html</link>
+      <description>Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-fdaef6f906fe7aba</guid>
+      <pubDate>Fri, 27 Nov 2026 13:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals</title>
+      <link>https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html</link>
+      <description>The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.</description>
+      <category>cnbc-finance</category>
+      <guid isPermaLink="false">news-41209e3c7e9981ac</guid>
+      <pubDate>Fri, 27 Nov 2026 13:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'</title>
+      <link>https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-8fbeea27b0d43b99</guid>
+      <pubDate>Fri, 27 Nov 2026 11:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder</title>
+      <link>https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-462e342b1c08307e</guid>
+      <pubDate>Fri, 27 Nov 2026 11:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail</title>
+      <link>https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html</link>
+      <description>The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen a test of whether the country’s independent press can survive.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-5e9ab4e9fef31ead</guid>
+      <pubDate>Fri, 27 Nov 2026 10:02:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+      <link>https://huggingface.co/blog/video-trainium3</link>
+      <category>huggingface-blog</category>
+      <guid isPermaLink="false">news-2d7f8b4f8454af31</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-94305b427e5aac0a</guid>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
+      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+      <description>On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.</description>
+      <category>techcrunch-ai</category>
+      <guid isPermaLink="false">news-e5c5d8632474a2a0</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quoting Jack Despain Zhou</title>
+      <link>https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</link>
+      <description>Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude. — Jack Despain Zhou, Spitting in the Face of Glaude Tags: ai-misuse, claude, generative-ai, ai, llms</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-316e60a88e0f2ae8</guid>
+      <pubDate>Thu, 26 Nov 2026 15:09:31 +0000</pubDate>
+    </item>
     <item>
       <title>Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation</title>
       <link>https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html</link>
@@ -93,6 +196,14 @@
       <category>simonwillison</category>
       <guid isPermaLink="false">news-9a5f91905dabf645</guid>
       <pubDate>Thu, 26 Nov 2026 06:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://simonwillison.net/2026/Nov/26/hn-50651685/</link>
+      <description>My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News.I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that. He did spend a bunch of time trying to find the best possible natural lighting for the shots he wanted. The photo at the top of https://www.nytimes.com/2026/02/02/technology/moltbook-ai-so... is my laptop, taken in my garden, after hunting around for the best spot that didn't have too much glare on the screen. You can see how dirty my screen is, too! Photography for a newspaper is photo journalism, and they take it seriously. (Thankfully I did not have a visible stain on my shirt.) Tags: photography, new-york-times, hacker-news, journalism</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-7822140280bf2636</guid>
+      <pubDate>Thu, 26 Nov 2026 05:08:46 +0000</pubDate>
     </item>
     <item>
       <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
@@ -687,118 +798,6 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-cc275525a80e6915</guid>
       <pubDate>Sun, 22 Nov 2026 12:32:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.</title>
-      <link>https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories</link>
-      <description>Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-5846632e2117e382</guid>
-      <pubDate>Sun, 22 Nov 2026 12:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada’s Boreal Forest Is Reshaped by Logging and Climate Change</title>
-      <link>https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html</link>
-      <description>Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-1cf4c847a4f021d3</guid>
-      <pubDate>Sun, 22 Nov 2026 12:29:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia-bound ship still on fire after attack in Gulf of Finland</title>
-      <link>https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-86c4e817690b99be</guid>
-      <pubDate>Sun, 22 Nov 2026 11:25:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>My husband is happily retired at 64 and thinks I should keep working. Is he being fair?</title>
-      <link>https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories</link>
-      <description>“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-0371485c3a1065a7</guid>
-      <pubDate>Sun, 22 Nov 2026 01:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity and Intelligence</title>
-      <link>https://openai.com/index/perplexity-and-intelligence</link>
-      <description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</description>
-      <category>openai-news</category>
-      <guid isPermaLink="false">news-de5cd1a6d51dc917</guid>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muru</title>
-      <link>https://simonwillison.net/2026/Nov/21/muru/</link>
-      <description>Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture, he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process. Here's everything he's published so far, all in the last three weeks: 2026-11-04 — Twenty years of mod_wsgi, and what comes next 2026-11-05 — A first look at Muru 2026-11-07 — Muru: looking inside the workers 2026-11-08 — Muru: how it fits together 2026-11-09 — Muru: import once, fork many 2026-11-10 — Muru: HTTPS in development 2026-11-11 — Muru: WSGI and ASGI together 2026-11-11 — AI as a lifestyle choice 2026-11-12 — Muru: releases, not restarts 2026-11-13 — Muru: canaries without a service mesh 2026-11-14 — Muru: a better tenant in a container 2026-11-15 — Muru: working with Kubernetes, not around it 2026-11-16 — Muru: scaling from what the workers report 2026-11-17 — Muru: scaling to zero 2026-11-18 — Muru: overlays on a schedule 2026-11-19 — Muru: noticing and responding 2026-11-20 — Muru: a toolbar on every page 2026-11-21 — Muru: tracing in the toolbar 2026-11-22 — Muru: when lazy imports help That post about AI as a lifestyle choice is particularly worth a read: The AI may be doing a lot of the work on the surface, but deciding what isn't good enough yet is still down to me, and twenty years of getting things wrong with mod_wsgi turns out to be useful for that. I am prepared to put in the hard work to keep polishing Muru until it is something I would trust, and something you would too. Tags: graham-dumpleton, modwsgi, python, wsgi, ai, rust, asgi, generative-ai, llms, ai-assisted-programming</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-0ceef4b235ec12c3</guid>
-      <pubDate>Sat, 21 Nov 2026 23:56:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
-      <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
-      <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-8d54d4add32f2fcc</guid>
-      <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>A tale of two Nvidias</title>
-      <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
-      <description>We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-127326b87b53e7a9</guid>
-      <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The UN fails to agree on rules regulating ‘killer robots’</title>
-      <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
-      <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-234da3fc18675af9</guid>
-      <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hosted agents in your own virtual network: five checks when the Agents page times out</title>
-      <link>https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/</link>
-      <description>The five questions teams ask most when they run hosted agents in their own virtual network: which subnet is the agent subnet, why listing agents times out, why a TLS-inspecting firewall still breaks after you add your CA, how peered VNets and DNS fit, and why a subnet stays in use after you delete an account. The post Hosted agents in your own virtual network: five checks when the Agents page times out appeared first on Microsoft Foundry Blog.</description>
-      <category>devblogs-msft-foundry</category>
-      <guid isPermaLink="false">news-090f13394b0c7801</guid>
-      <pubDate>Sat, 21 Nov 2026 18:12:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here are the top AI agents that can live in your text messages</title>
-      <link>https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-01945f6a907c7618</guid>
-      <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Butler School in the Netherlands Offers Entry Into a Gilded World</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html</link>
-      <description>An academy in the Netherlands offers an eight-week, $14,000 program for entry into a gilded world of service. What’s the appeal?</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-5b94f22d511b105c</guid>
-      <pubDate>Sat, 21 Nov 2026 14:17:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>How a brutal week for stocks almost wiped out their gains for the entire year</title>
-      <link>https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories</link>
-      <description>Investors are now more focused on protecting their portfolios than looking for bargains</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-c58d8da5fef8a4d3</guid>
-      <pubDate>Sat, 21 Nov 2026 14:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Catherine, Princess of Wales, Documents Life With Cancer in BBC Film</title>
-      <link>https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html</link>
-      <description>“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-ca1952e7b9795a91</guid>
-      <pubDate>Sat, 21 Nov 2026 14:09:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
