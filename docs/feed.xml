@@ -5,8 +5,80 @@
     <link>https://spencerbk.github.io/daily-ai-news-site/feed.xml</link>
     <description>Daily News Digest feed</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:30:07 +0000</lastBuildDate>
     <generator>news-digest/0.1.0</generator>
+    <item>
+      <title>What’s the most tax-efficient way to donate to charity?</title>
+      <link>https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories</link>
+      <description>How to make your donations beneficial for both you and the recipient</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-b40cb0c1c8f3dd4f</guid>
+      <pubDate>Sat, 28 Nov 2026 14:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says</title>
+      <link>https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html</link>
+      <description>The aid group condemned the attack on a medical facility. Israel said it had conducted a targeted strike that killed two security guards it said were Hamas operatives.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-b0fc2a2f83a536d6</guid>
+      <pubDate>Sat, 28 Nov 2026 14:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Afghanistan explosion kills 10 students and injures more than 100, official says</title>
+      <link>https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-a7161e8354243ff4</guid>
+      <pubDate>Sat, 28 Nov 2026 14:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?</title>
+      <link>https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories</link>
+      <description>“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-60114b342daed946</guid>
+      <pubDate>Sat, 28 Nov 2026 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Argentina's bid to stop Falklands oil drilling rejected</title>
+      <link>https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-7f3a66d555c5cb5b</guid>
+      <pubDate>Sat, 28 Nov 2026 13:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?</title>
+      <link>https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories</link>
+      <description>Doing nothing and maintaining an even temperament is often the work of gods.</description>
+      <category>marketwatch</category>
+      <guid isPermaLink="false">news-3b1d5c3b8f8f272b</guid>
+      <pubDate>Sat, 28 Nov 2026 13:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond</title>
+      <link>https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html</link>
+      <description>A campaign aimed at depriving Moscow’s war machine of fuel, weapons and money has been criticized by the Trump administration.</description>
+      <category>nyt-world</category>
+      <guid isPermaLink="false">news-c9c12734116be40e</guid>
+      <pubDate>Sat, 28 Nov 2026 13:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI counter-sues Apple over alleged theft of trade secrets</title>
+      <link>https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.</description>
+      <category>bbc-world</category>
+      <guid isPermaLink="false">news-83723fd30aef772f</guid>
+      <pubDate>Sat, 28 Nov 2026 11:35:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-charts 0.4a0</title>
+      <link>https://simonwillison.net/2026/Nov/27/datasette-charts/</link>
+      <description>Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart plugins a whole lot more ergonomic. I've also added a website for the plugin, at charts.datasette.io. The new website includes a tutorial for plugin authors, and a gallery showing all of the core charts and annotations, each one linking to an interactive demo on Datasette Lite. Tags: datasette-charts, datasette, visualization, datasette-lite</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-c91c032e523155a5</guid>
+      <pubDate>Fri, 27 Nov 2026 23:57:17 +0000</pubDate>
+    </item>
     <item>
       <title>How much more are richest Americans spending on the holidays compared to everyone else?</title>
       <link>https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories</link>
@@ -78,6 +150,14 @@
       <category>nyt-world</category>
       <guid isPermaLink="false">news-5e9ab4e9fef31ead</guid>
       <pubDate>Fri, 27 Nov 2026 10:02:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>datasette-mcp 0.4</title>
+      <link>https://simonwillison.net/2026/Nov/27/datasette-mcp/</link>
+      <description>Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44. Tags: model-context-protocol, datasette</description>
+      <category>simonwillison</category>
+      <guid isPermaLink="false">news-6481e9f2df718d99</guid>
+      <pubDate>Fri, 27 Nov 2026 00:26:17 +0000</pubDate>
     </item>
     <item>
       <title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
@@ -466,14 +546,6 @@
       <pubDate>Tue, 24 Nov 2026 14:24:07 +0000</pubDate>
     </item>
     <item>
-      <title>My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?</title>
-      <link>https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories</link>
-      <description>“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-60114b342daed946</guid>
-      <pubDate>Tue, 24 Nov 2026 14:17:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Murder Charge Reinstated for French Police Officer in Teen’s Shooting</title>
       <link>https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html</link>
       <description>The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.</description>
@@ -727,77 +799,6 @@
       <category>cnbc-finance</category>
       <guid isPermaLink="false">news-88c202caa782d636</guid>
       <pubDate>Mon, 23 Nov 2026 06:06:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
-      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
-      <description>Three significant backers share what gave them conviction to bet billions on Anthropic.</description>
-      <category>techcrunch-ai</category>
-      <guid isPermaLink="false">news-04504f1c4726c38b</guid>
-      <pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to build and maintain an agentic evaluation</title>
-      <link>https://huggingface.co/blog/agentic-evals</link>
-      <category>huggingface-blog</category>
-      <guid isPermaLink="false">news-6fd4c32fe34a4cba</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We haven’t seen the last of the major tech outages</title>
-      <link>https://www.theverge.com/tech/1039851/major-tech-outages</link>
-      <description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: "The American people should be […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-e7090200216ed533</guid>
-      <pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Select Styling Specimens</title>
-      <link>https://simonwillison.net/2026/Nov/22/select-styling/</link>
-      <description>Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance: none; color: #1f2933; padding: 0.5em 2.25em 0.5em 0.75em; border: 1px solid #c4cbd3; border-radius: 6px; background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23667085' stroke-width='1.5'/%3E%3C/svg%3E") no-repeat right 0.75em center / 0.75em; } Here's what that looks like in the three browsers: Tags: tools, css, html</description>
-      <category>simonwillison</category>
-      <guid isPermaLink="false">news-9b4a55165bbd72c3</guid>
-      <pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three killed and dozens missing after fire at Indonesian factory</title>
-      <link>https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>At least three people were killed and many more feared dead after a fire at a confectionary factory.</description>
-      <category>bbc-world</category>
-      <guid isPermaLink="false">news-87321b68fdefb686</guid>
-      <pubDate>Sun, 22 Nov 2026 14:05:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels</title>
-      <link>https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</link>
-      <description>European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-2d7d190b4c02be5b</guid>
-      <pubDate>Sun, 22 Nov 2026 14:02:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.</title>
-      <link>https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories</link>
-      <description>Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead</description>
-      <category>marketwatch</category>
-      <guid isPermaLink="false">news-d6d28b06e4a5d6c6</guid>
-      <pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The vibe-coding revolution is coming to all the gadgets</title>
-      <link>https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</link>
-      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]</description>
-      <category>theverge-ai</category>
-      <guid isPermaLink="false">news-0f50037c76f25ff3</guid>
-      <pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy</title>
-      <link>https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html</link>
-      <description>American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.</description>
-      <category>nyt-world</category>
-      <guid isPermaLink="false">news-cc275525a80e6915</guid>
-      <pubDate>Sun, 22 Nov 2026 12:32:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
